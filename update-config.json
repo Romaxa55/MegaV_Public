@@ -1,7 +1,67 @@
 {
     "config_version": "1.0",
-    "last_updated": "2025-01-26T18:00:00Z",
+    "last_updated": "2025-01-26T20:30:00Z",
     "updates": [
+        {
+            "version": "2.1.2",
+            "build_number": "2025072620",
+            "release_date": "2025-01-26T20:30:00Z",
+            "is_prerelease": false,
+            "is_critical": false,
+            "rollout_percentage": 100,
+            "min_app_version": "2.0.0",
+            "max_app_version": null,
+            "target_regions": [
+                "all"
+            ],
+            "exclude_regions": [],
+            "release_notes": {
+                "en": "## 🎨 Split Tunneling UI Enhancements - v2.1.2\n\n### ✨ Improved User Experience\n• **Adaptive Font Scaling** - Perfect text size on all devices, even with accessibility settings\n• **Redesigned Action Buttons** - Clear 'VPN ON' and 'VPN OFF' labels instead of confusing text\n• **Smart Popular Badges** - Repositioned to top-right corner with proper text wrapping\n• **Compact Interface** - Smaller switches and icons for modern, clean look\n• **Better Text Handling** - Auto-ellipsis for long app names and descriptions\n\n### 🔧 Technical Improvements\n• **Matrix-Based Sizing** - All elements now follow adaptive layout standards\n• **System Font Scaling Fix** - LimitedScaleWrapper prevents UI breaking with large fonts\n• **Optimized Statistics Display** - Multi-language support with automatic text wrapping\n• **Cleaner Interface** - Removed unclear cache button, kept intuitive refresh only\n• **Professional Layout** - Consistent spacing and proportions across all screen sizes\n\n### 🌍 Better Accessibility\n• Works perfectly with large system fonts\n• Improved contrast and readability\n• Touch targets optimized for all users\n• Multi-language text wrapping support\n\n**Enhanced Split Tunneling experience with professional UI! 🚀**",
+                "ru": "## 🎨 Улучшения интерфейса Split Tunneling - v2.1.2\n\n### ✨ Улучшенный пользовательский опыт\n• **Адаптивное масштабирование шрифтов** - Идеальный размер текста на всех устройствах, даже с настройками доступности\n• **Переработанные кнопки действий** - Чёткие подписи 'VPN ON' и 'VPN OFF' вместо путающего текста\n• **Умные бейджи популярности** - Перемещены в правый верхний угол с правильным переносом текста\n• **Компактный интерфейс** - Меньшие переключатели и иконки для современного, чистого вида\n• **Лучшая обработка текста** - Автоматическое многоточие для длинных названий и описаний\n\n### 🔧 Технические улучшения\n• **Размеры на основе матрицы** - Все элементы теперь следуют стандартам адаптивной вёрстки\n• **Исправление системного масштабирования** - LimitedScaleWrapper предотвращает поломку UI с крупными шрифтами\n• **Оптимизированное отображение статистики** - Поддержка многоязычности с автоматическим переносом текста\n• **Чистый интерфейс** - Убрана непонятная кнопка кеша, оставлено только интуитивное обновление\n• **Профессиональная вёрстка** - Единообразные отступы и пропорции на всех размерах экрана\n\n### 🌍 Лучшая доступность\n• Идеально работает с крупными системными шрифтами\n• Улучшенный контраст и читаемость\n• Области касания оптимизированы для всех пользователей\n• Поддержка переноса многоязычного текста\n\n**Улучшенный опыт Split Tunneling с профессиональным UI! 🚀**"
+            },
+            "platforms": {
+                "android": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.2/MegaV_VPN_2.1.2_Android.apk",
+                            "install_instructions": {
+                                "en": "Download APK file and allow installation from unknown sources in your device settings.",
+                                "ru": "Скачайте APK файл и разрешите установку из неизвестных источников в настройках устройства."
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Update will be available through Google Play Store.",
+                                "ru": "Обновление будет доступно через Google Play Маркет."
+                            }
+                        }
+                    }
+                },
+                "macos": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.2/MegaV_VPN_2.1.2_macOS_AutoInstaller.dmg",
+                            "install_instructions": {
+                                "en": "Download DMG file with auto-installer. Follow the installation wizard instructions.",
+                                "ru": "Скачайте DMG файл с автоустановщиком. Следуйте инструкциям мастера установки."
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Update will be available through Mac App Store.",
+                                "ru": "Обновление будет доступно через Mac App Store."
+                            }
+                        }
+                    }
+                }
+            }
+        },
         {
             "version": "2.1.1",
             "build_number": "2025072617",
