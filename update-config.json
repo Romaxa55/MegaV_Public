@@ -4,8 +4,7 @@
   "app_info": {
     "name": "MegaV VPN",
     "package_id": "com.megav.vpn",
-    "public_repo": "Romaxa55/MegaV_Public",
-    "private_repo": "Romaxa55/MegaV"
+    "repo": "Romaxa55/MegaV_Public"
   },
   "updates": [],
   "global_settings": {
