@@ -5,7 +5,7 @@
       "build_number": "211",
       "release_date": "2024-12-19T12:00:00Z",
       "is_prerelease": false,
-      "is_critical": true,
+      "is_critical": false,
       "release_notes": {
         "en": "## What's New in v2.1.1\n\n• Critical security fixes\n• Fixed connection drops\n• Improved app stability\n• Performance optimizations\n• Updated encryption protocols",
         "ru": "## Что нового в версии 2.1.1\n\n• Критические исправления безопасности\n• Исправлены обрывы соединения\n• Улучшена стабильность приложения\n• Оптимизация производительности\n• Обновленные протоколы шифрования"
