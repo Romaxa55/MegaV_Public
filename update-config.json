@@ -1,11 +1,4 @@
 {
-  "version": "2.1.1",
-  "last_updated": "2024-12-19T12:00:00Z",
-  "app_info": {
-    "name": "MegaV VPN",
-    "package_id": "com.megav.vpn",
-    "repo": "Romaxa55/MegaV_Public"
-  },
   "updates": [
     {
       "version": "2.1.1",
@@ -13,19 +6,12 @@
       "release_date": "2024-12-19T12:00:00Z",
       "is_prerelease": false,
       "is_critical": true,
-      "min_supported_version": "1.0.0",
       "release_notes": {
         "en": "## What's New in v2.1.1\n\n• Critical security fixes\n• Fixed connection drops\n• Improved app stability\n• Performance optimizations\n• Updated encryption protocols",
         "ru": "## Что нового в версии 2.1.1\n\n• Критические исправления безопасности\n• Исправлены обрывы соединения\n• Улучшена стабильность приложения\n• Оптимизация производительности\n• Обновленные протоколы шифрования"
       },
       "platforms": {
         "android": {
-          "supported_versions": ["API 21+"],
-          "file_size_mb": 25,
-          "checksum": {
-            "type": "sha256",
-            "value": ""
-          },
           "update_types": {
             "direct": {
               "enabled": true,
@@ -38,7 +24,6 @@
             "store": {
               "enabled": false,
               "store_url": "",
-              "store_name": "Google Play",
               "install_instructions": {
                 "en": "Update will be available through Google Play Store.",
                 "ru": "Обновление будет доступно через Google Play Маркет."
@@ -47,12 +32,6 @@
           }
         },
         "macos": {
-          "supported_versions": ["macOS 10.15+"],
-          "file_size_mb": 45,
-          "checksum": {
-            "type": "sha256",
-            "value": ""
-          },
           "update_types": {
             "direct": {
               "enabled": true,
@@ -65,7 +44,6 @@
             "store": {
               "enabled": false,
               "store_url": "",
-              "store_name": "Mac App Store",
               "install_instructions": {
                 "en": "Update will be available through Mac App Store.",
                 "ru": "Обновление будет доступно через Mac App Store."
@@ -73,51 +51,7 @@
             }
           }
         }
-      },
-      "rollout": {
-        "enabled": true,
-        "percentage": 100,
-        "target_groups": ["all"],
-        "exclude_groups": []
-      },
-      "requirements": {
-        "force_update": false,
-        "blocking_versions": [],
-        "network_required": true,
-        "storage_required_mb": 100
       }
     }
-  ],
-  "global_settings": {
-    "check_interval_hours": 6,
-    "retry_failed_checks": true,
-    "max_retry_attempts": 3,
-    "fallback_endpoints": [
-      "https://api.github.com/repos/Romaxa55/MegaV_Public/contents/update-config.json",
-      "https://raw.githubusercontent.com/Romaxa55/MegaV_Public/main/update-config.json"
-    ],
-    "supported_platforms": ["android", "macos"],
-    "minimum_supported_versions": {
-      "android": "1.0.0",
-      "macos": "1.0.0"
-    }
-  },
-  "feature_flags": {
-    "enable_auto_updates": true,
-    "enable_beta_updates": false,
-    "enable_background_downloads": false,
-    "enable_update_notifications": true,
-    "enable_version_skipping": true,
-    "enable_rollback_protection": true
-  },
-  "maintenance": {
-    "is_active": false,
-    "message": {
-      "en": "Maintenance in progress. Updates temporarily unavailable.",
-      "ru": "Проводится техническое обслуживание. Обновления временно недоступны."
-    },
-    "start_time": null,
-    "end_time": null,
-    "affected_versions": []
-  }
+  ]
 } 
