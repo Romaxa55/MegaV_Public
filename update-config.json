@@ -12,7 +12,7 @@
       "build_number": "210",
       "release_date": "2024-12-19T12:00:00Z",
       "is_prerelease": false,
-      "is_critical": false,
+      "is_critical": true,
       "min_supported_version": "1.0.0",
       "release_notes": {
         "en": "## What's New in v2.1.0\n\n• Improved connection stability and speed\n• Enhanced security protocols\n• Bug fixes and performance optimizations\n• Updated user interface\n• Better server selection algorithm",
