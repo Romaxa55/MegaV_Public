@@ -1,12 +1,93 @@
 {
-  "version": "1.0.0",
-  "last_updated": "2024-01-26T05:00:00Z",
+  "version": "2.1.0",
+  "last_updated": "2024-12-19T12:00:00Z",
   "app_info": {
     "name": "MegaV VPN",
     "package_id": "com.megav.vpn",
     "repo": "Romaxa55/MegaV_Public"
   },
-  "updates": [],
+  "updates": [
+    {
+      "version": "2.1.0",
+      "build_number": "210",
+      "release_date": "2024-12-19T12:00:00Z",
+      "is_prerelease": false,
+      "is_critical": false,
+      "min_supported_version": "1.0.0",
+      "release_notes": {
+        "en": "## What's New in v2.1.0\n\n• Improved connection stability and speed\n• Enhanced security protocols\n• Bug fixes and performance optimizations\n• Updated user interface\n• Better server selection algorithm",
+        "ru": "## Что нового в версии 2.1.0\n\n• Улучшена стабильность и скорость соединения\n• Усилены протоколы безопасности\n• Исправлены ошибки и оптимизирована производительность\n• Обновлен пользовательский интерфейс\n• Улучшен алгоритм выбора сервера"
+      },
+      "platforms": {
+        "android": {
+          "supported_versions": ["API 21+"],
+          "file_size_mb": 25,
+          "checksum": {
+            "type": "sha256",
+            "value": ""
+          },
+          "update_types": {
+            "direct": {
+              "enabled": true,
+              "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.0/MegaV_VPN_2.1.0_Android.apk",
+              "install_instructions": {
+                "en": "Download APK file and allow installation from unknown sources in your device settings.",
+                "ru": "Скачайте APK файл и разрешите установку из неизвестных источников в настройках устройства."
+              }
+            },
+            "store": {
+              "enabled": false,
+              "store_url": "",
+              "store_name": "Google Play",
+              "install_instructions": {
+                "en": "Update will be available through Google Play Store.",
+                "ru": "Обновление будет доступно через Google Play Маркет."
+              }
+            }
+          }
+        },
+        "macos": {
+          "supported_versions": ["macOS 10.15+"],
+          "file_size_mb": 45,
+          "checksum": {
+            "type": "sha256",
+            "value": ""
+          },
+          "update_types": {
+            "direct": {
+              "enabled": true,
+              "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.0/MegaV_VPN_2.1.0_macOS_AutoInstaller.dmg",
+              "install_instructions": {
+                "en": "Download DMG file with auto-installer. Follow the installation wizard instructions.",
+                "ru": "Скачайте DMG файл с автоустановщиком. Следуйте инструкциям мастера установки."
+              }
+            },
+            "store": {
+              "enabled": false,
+              "store_url": "",
+              "store_name": "Mac App Store",
+              "install_instructions": {
+                "en": "Update will be available through Mac App Store.",
+                "ru": "Обновление будет доступно через Mac App Store."
+              }
+            }
+          }
+        }
+      },
+      "rollout": {
+        "enabled": true,
+        "percentage": 100,
+        "target_groups": ["all"],
+        "exclude_groups": []
+      },
+      "requirements": {
+        "force_update": false,
+        "blocking_versions": [],
+        "network_required": true,
+        "storage_required_mb": 100
+      }
+    }
+  ],
   "global_settings": {
     "check_interval_hours": 6,
     "retry_failed_checks": true,
