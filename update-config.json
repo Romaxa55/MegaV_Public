@@ -1,4 +1,6 @@
 {
+  "config_version": "1.0",
+  "last_updated": "2024-12-19T15:30:00Z",
   "updates": [
     {
       "version": "2.1.1",
@@ -6,6 +8,11 @@
       "release_date": "2024-12-19T12:00:00Z",
       "is_prerelease": false,
       "is_critical": false,
+      "rollout_percentage": 100,
+      "min_app_version": "2.0.0",
+      "max_app_version": null,
+      "target_regions": ["all"],
+      "exclude_regions": [],
       "release_notes": {
         "en": "## What's New in v2.1.1\n\n• Critical security fixes\n• Fixed connection drops\n• Improved app stability\n• Performance optimizations\n• Updated encryption protocols",
         "ru": "## Что нового в версии 2.1.1\n\n• Критические исправления безопасности\n• Исправлены обрывы соединения\n• Улучшена стабильность приложения\n• Оптимизация производительности\n• Обновленные протоколы шифрования"
@@ -53,5 +60,10 @@
         }
       }
     }
-  ]
+  ],
+  "fallback_config": {
+    "enabled": true,
+    "emergency_disable_updates": false,
+    "force_version_check": false
+  }
 } 
