@@ -1,21 +1,79 @@
 {
   "config_version": "1.0",
-  "last_updated": "2024-12-19T15:30:00Z",
+  "last_updated": "2024-12-19T16:00:00Z",
   "updates": [
     {
       "version": "2.1.1",
-      "build_number": "211",
-      "release_date": "2024-12-19T12:00:00Z",
-      "is_prerelease": false,
+      "build_number": "11",
+      "release_date": "2024-07-26T16:00:00Z",
+      "is_prerelease": true,
       "is_critical": false,
-      "rollout_percentage": 100,
+      "rollout_percentage": 10,
       "min_app_version": "2.0.0",
       "max_app_version": null,
       "target_regions": ["all"],
       "exclude_regions": [],
       "release_notes": {
-        "en": "## What's New in v2.1.1\n\n• Critical security fixes\n• Fixed connection drops\n• Improved app stability\n• Performance optimizations\n• Updated encryption protocols",
-        "ru": "## Что нового в версии 2.1.1\n\n• Критические исправления безопасности\n• Исправлены обрывы соединения\n• Улучшена стабильность приложения\n• Оптимизация производительности\n• Обновленные протоколы шифрования"
+        "en": "## What's New in v2.1.1\n\n• Beautiful download progress indicator\n• Improved update notifications\n• Better error handling\n• Performance improvements\n• Bug fixes and optimizations",
+        "ru": "## Что нового в версии 2.1.1\n\n• Красивый индикатор прогресса загрузки\n• Улучшенные уведомления об обновлениях\n• Лучшая обработка ошибок\n• Улучшения производительности\n• Исправления ошибок и оптимизации"
+      },
+      "platforms": {
+        "android": {
+          "update_types": {
+            "direct": {
+              "enabled": true,
+              "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.1/MegaV_VPN_2.1.1_Android.apk",
+              "install_instructions": {
+                "en": "Download APK file and allow installation from unknown sources in your device settings.",
+                "ru": "Скачайте APK файл и разрешите установку из неизвестных источников в настройках устройства."
+              }
+            },
+            "store": {
+              "enabled": false,
+              "store_url": "",
+              "install_instructions": {
+                "en": "Update will be available through Google Play Store.",
+                "ru": "Обновление будет доступно через Google Play Маркет."
+              }
+            }
+          }
+        },
+        "macos": {
+          "update_types": {
+            "direct": {
+              "enabled": true,
+              "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.1/MegaV_VPN_2.1.1_macOS_AutoInstaller.dmg",
+              "install_instructions": {
+                "en": "Download DMG file with auto-installer. Follow the installation wizard instructions.",
+                "ru": "Скачайте DMG файл с автоустановщиком. Следуйте инструкциям мастера установки."
+              }
+            },
+            "store": {
+              "enabled": false,
+              "store_url": "",
+              "install_instructions": {
+                "en": "Update will be available through Mac App Store.",
+                "ru": "Обновление будет доступно через Mac App Store."
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "version": "2.1.0",
+      "build_number": "11",
+      "release_date": "2024-12-19T12:00:00Z",
+      "is_prerelease": false,
+      "is_critical": false,
+      "rollout_percentage": 0,
+      "min_app_version": "2.1.0",
+      "max_app_version": null,
+      "target_regions": ["all"],
+      "exclude_regions": [],
+      "release_notes": {
+        "en": "## What's New in v2.1.1 BETA\n\n• Critical security fixes\n• Fixed connection drops\n• Improved app stability\n• Performance optimizations\n• Updated encryption protocols\n\n**This is a beta version for testing purposes.**",
+        "ru": "## Что нового в версии 2.1.1 БЕТА\n\n• Критические исправления безопасности\n• Исправлены обрывы соединения\n• Улучшена стабильность приложения\n• Оптимизация производительности\n• Обновленные протоколы шифрования\n\n**Это бета-версия для тестирования.**"
       },
       "platforms": {
         "android": {
