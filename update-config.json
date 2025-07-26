@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2024-01-26T05:00:00Z",
+  "app_info": {
+    "name": "MegaV VPN",
+    "package_id": "com.megav.vpn",
+    "public_repo": "Romaxa55/MegaV_Public",
+    "private_repo": "Romaxa55/MegaV"
+  },
+  "updates": [],
+  "global_settings": {
+    "check_interval_hours": 6,
+    "retry_failed_checks": true,
+    "max_retry_attempts": 3,
+    "fallback_endpoints": [
+      "https://api.github.com/repos/Romaxa55/MegaV_Public/contents/update-config.json",
+      "https://raw.githubusercontent.com/Romaxa55/MegaV_Public/main/update-config.json"
+    ],
+    "supported_platforms": ["android", "macos"],
+    "minimum_supported_versions": {
+      "android": "1.0.0",
+      "macos": "1.0.0"
+    }
+  },
+  "feature_flags": {
+    "enable_auto_updates": true,
+    "enable_beta_updates": false,
+    "enable_background_downloads": false,
+    "enable_update_notifications": true,
+    "enable_version_skipping": true,
+    "enable_rollback_protection": true
+  },
+  "maintenance": {
+    "is_active": false,
+    "message": {
+      "en": "Maintenance in progress. Updates temporarily unavailable.",
+      "ru": "Проводится техническое обслуживание. Обновления временно недоступны."
+    },
+    "start_time": null,
+    "end_time": null,
+    "affected_versions": []
+  }
+} 
