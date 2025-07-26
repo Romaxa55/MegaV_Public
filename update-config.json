@@ -31,11 +31,11 @@
                             }
                         },
                         "store": {
-                            "enabled": false,
-                            "store_url": "",
+                            "enabled": true,
+                            "store_url": "https://play.google.com/store/apps/details?id=com.megav.vpn",
                             "install_instructions": {
-                                "en": "Update will be available through Google Play Store.",
-                                "ru": "Обновление будет доступно через Google Play Маркет."
+                                "en": "Update will be available through Google Play Store. Tap the button to open the store page.",
+                                "ru": "Обновление будет доступно через Google Play Маркет. Нажмите кнопку, чтобы открыть страницу в магазине."
                             }
                         }
                     }
@@ -51,11 +51,11 @@
                             }
                         },
                         "store": {
-                            "enabled": false,
-                            "store_url": "",
+                            "enabled": true,
+                            "store_url": "https://apps.apple.com/app/megav-vpn/id1234567890",
                             "install_instructions": {
-                                "en": "Update will be available through Mac App Store.",
-                                "ru": "Обновление будет доступно через Mac App Store."
+                                "en": "Update will be available through Mac App Store. Tap the button to open the store page.",
+                                "ru": "Обновление будет доступно через Mac App Store. Нажмите кнопку, чтобы открыть страницу в магазине."
                             }
                         }
                     }
