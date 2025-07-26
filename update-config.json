@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "last_updated": "2024-12-19T12:00:00Z",
   "app_info": {
     "name": "MegaV VPN",
@@ -8,15 +8,15 @@
   },
   "updates": [
     {
-      "version": "2.1.0",
-      "build_number": "210",
+      "version": "2.1.1",
+      "build_number": "211",
       "release_date": "2024-12-19T12:00:00Z",
       "is_prerelease": false,
       "is_critical": true,
       "min_supported_version": "1.0.0",
       "release_notes": {
-        "en": "## What's New in v2.1.0\n\n• Improved connection stability and speed\n• Enhanced security protocols\n• Bug fixes and performance optimizations\n• Updated user interface\n• Better server selection algorithm",
-        "ru": "## Что нового в версии 2.1.0\n\n• Улучшена стабильность и скорость соединения\n• Усилены протоколы безопасности\n• Исправлены ошибки и оптимизирована производительность\n• Обновлен пользовательский интерфейс\n• Улучшен алгоритм выбора сервера"
+        "en": "## What's New in v2.1.1\n\n• Critical security fixes\n• Fixed connection drops\n• Improved app stability\n• Performance optimizations\n• Updated encryption protocols",
+        "ru": "## Что нового в версии 2.1.1\n\n• Критические исправления безопасности\n• Исправлены обрывы соединения\n• Улучшена стабильность приложения\n• Оптимизация производительности\n• Обновленные протоколы шифрования"
       },
       "platforms": {
         "android": {
@@ -29,7 +29,7 @@
           "update_types": {
             "direct": {
               "enabled": true,
-              "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.0/MegaV_VPN_2.1.0_Android.apk",
+              "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.1/MegaV_VPN_2.1.1_Android.apk",
               "install_instructions": {
                 "en": "Download APK file and allow installation from unknown sources in your device settings.",
                 "ru": "Скачайте APK файл и разрешите установку из неизвестных источников в настройках устройства."
@@ -56,7 +56,7 @@
           "update_types": {
             "direct": {
               "enabled": true,
-              "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.0/MegaV_VPN_2.1.0_macOS_AutoInstaller.dmg",
+              "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.1/MegaV_VPN_2.1.1_macOS_AutoInstaller.dmg",
               "install_instructions": {
                 "en": "Download DMG file with auto-installer. Follow the installation wizard instructions.",
                 "ru": "Скачайте DMG файл с автоустановщиком. Следуйте инструкциям мастера установки."
