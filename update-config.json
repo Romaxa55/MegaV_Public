@@ -23,7 +23,7 @@
                 "android": {
                     "update_types": {
                         "direct": {
-                            "enabled": true,
+                            "enabled": false,
                             "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.3/MegaV_VPN_2.1.3_Android.apk",
                             "install_instructions": {
                                 "en": "Download APK file and allow installation from unknown sources in your device settings.",
@@ -31,7 +31,7 @@
                             }
                         },
                         "store": {
-                            "enabled": true,
+                            "enabled": false,
                             "store_url": "https://play.google.com/store/apps/details?id=com.megav.vpn",
                             "install_instructions": {
                                 "en": "Update will be available through Google Play Store. Tap the button to open the store page.",
@@ -43,7 +43,7 @@
                 "macos": {
                     "update_types": {
                         "direct": {
-                            "enabled": true,
+                            "enabled": false,
                             "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.3/MegaV_VPN_2.1.3_macOS_AutoInstaller.dmg",
                             "install_instructions": {
                                 "en": "Download DMG file with auto-installer. Follow the installation wizard instructions.",
@@ -51,7 +51,7 @@
                             }
                         },
                         "store": {
-                            "enabled": true,
+                            "enabled": false,
                             "store_url": "https://apps.apple.com/app/megav-vpn/id1234567890",
                             "install_instructions": {
                                 "en": "Update will be available through Mac App Store. Tap the button to open the store page.",
