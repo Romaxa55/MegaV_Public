@@ -43,7 +43,7 @@
                 "macos": {
                     "update_types": {
                         "direct": {
-                            "enabled": true,
+                            "enabled": false,
                             "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.5/MegaV_VPN_2.1.5_macOS_AutoInstaller.dmg",
                             "install_instructions": {
                                 "en": "Download DMG file with auto-installer. Follow the installation wizard instructions.",
