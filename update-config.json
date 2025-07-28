@@ -1,7 +1,67 @@
 {
     "config_version": "1.0",
-    "last_updated": "2025-01-26T23:00:00Z",
+    "last_updated": "2025-01-29T5:16:00Z",
     "updates": [
+        {
+            "version": "2.1.5",
+            "build_number": "07290521",
+            "release_date": "2025-01-29T05:16:00Z",
+            "is_prerelease": false,
+            "is_critical": false,
+            "rollout_percentage": 100,
+            "min_app_version": "2.0.0",
+            "max_app_version": null,
+            "target_regions": [
+                "all"
+            ],
+            "exclude_regions": [],
+            "release_notes": {
+                "en": "## 🚀 Performance Optimization Update - v2.1.5\n\n### 🔄 Smart Connect Improvements\n• **Optimized Server Selection** - Faster and more reliable server connection process\n• **Parallel Server Testing** - Multiple servers checked simultaneously for better speed\n• **Enhanced Error Recovery** - Better handling of connection failures and retries\n• **Improved IP Detection** - More reliable country and server status detection\n\n### 🔧 Technical Optimizations\n• **Multi-Server Configuration** - Support for testing multiple servers in parallel\n• **Enhanced V2Ray Integration** - Better handling of V2Ray configuration and status\n• **Improved TLS Handling** - More reliable TLS connections with proper SNI support\n• **Memory Usage Optimization** - Reduced memory footprint during server operations\n\n### 🌟 User Experience Enhancements\n• **Faster Connection Times** - Reduced delay when switching between servers\n• **Better Status Feedback** - More accurate connection status information\n• **Improved Stability** - More reliable overall VPN operation\n• **Resource Efficiency** - Lower CPU and memory usage\n\n**Faster, more stable VPN with optimized performance! 🚀**",
+                "ru": "## 🚀 Обновление оптимизации производительности - v2.1.5\n\n### 🔄 Улучшения Smart Connect\n• **Оптимизированный выбор сервера** - Более быстрый и надёжный процесс подключения к серверу\n• **Параллельное тестирование серверов** - Одновременная проверка нескольких серверов для лучшей скорости\n• **Улучшенное восстановление после ошибок** - Лучшая обработка сбоев подключения и повторных попыток\n• **Улучшенное определение IP** - Более надёжное определение страны и статуса сервера\n\n### 🔧 Технические оптимизации\n• **Мульти-серверная конфигурация** - Поддержка параллельного тестирования нескольких серверов\n• **Улучшенная интеграция V2Ray** - Лучшая обработка конфигурации и статуса V2Ray\n• **Улучшенная обработка TLS** - Более надёжные TLS соединения с правильной поддержкой SNI\n• **Оптимизация использования памяти** - Уменьшенное потребление памяти при работе с серверами\n\n### 🌟 Улучшения пользовательского опыта\n• **Более быстрое подключение** - Уменьшенная задержка при переключении между серверами\n• **Лучшая обратная связь** - Более точная информация о статусе подключения\n• **Улучшенная стабильность** - Более надёжная работа VPN в целом\n• **Эффективное использование ресурсов** - Меньшее использование CPU и памяти\n\n**Более быстрый и стабильный VPN с оптимизированной производительностью! 🚀**"
+            },
+            "platforms": {
+                "android": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.5/MegaV_VPN_2.1.5_Android.apk",
+                            "install_instructions": {
+                                "en": "Download APK file and allow installation from unknown sources in your device settings. Uninstall the previous version completely before installing.",
+                                "ru": "Скачайте APK файл и разрешите установку из неизвестных источников в настройках устройства. Полностью удалите предыдущую версию перед установкой."
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Update will be available through Google Play Store. Tap the button to open the store page.",
+                                "ru": "Обновление будет доступно через Google Play Маркет. Нажмите кнопку, чтобы открыть страницу в магазине."
+                            }
+                        }
+                    }
+                },
+                "macos": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.5/MegaV_VPN_2.1.5_macOS_AutoInstaller.dmg",
+                            "install_instructions": {
+                                "en": "Download DMG file with auto-installer. Follow the installation wizard instructions.",
+                                "ru": "Скачайте DMG файл с автоустановщиком. Следуйте инструкциям мастера установки."
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Update will be available through Mac App Store.",
+                                "ru": "Обновление будет доступно через Mac App Store."
+                            }
+                        }
+                    }
+                }
+            }
+        },
         {
             "version": "2.1.4",
             "build_number": "07281738",
@@ -23,7 +83,7 @@
                 "android": {
                     "update_types": {
                         "direct": {
-                            "enabled": true,
+                            "enabled": false,
                             "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.4/MegaV_VPN_2.1.4_Android.apk",
                             "install_instructions": {
                                 "en": "Download APK file and allow installation from unknown sources in your device settings. Uninstall the previous version completely before installing.",
@@ -83,7 +143,7 @@
                 "android": {
                     "update_types": {
                         "direct": {
-                            "enabled": true,
+                            "enabled": false,
                             "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.3/MegaV_VPN_2.1.3_Android.apk",
                             "install_instructions": {
                                 "en": "Download APK file and allow installation from unknown sources in your device settings.",
@@ -103,7 +163,7 @@
                 "macos": {
                     "update_types": {
                         "direct": {
-                            "enabled": true,
+                            "enabled": false,
                             "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.3/MegaV_VPN_2.1.3_macOS_AutoInstaller.dmg",
                             "install_instructions": {
                                 "en": "Download DMG file with auto-installer. Follow the installation wizard instructions.",
@@ -143,7 +203,7 @@
                 "android": {
                     "update_types": {
                         "direct": {
-                            "enabled": true,
+                            "enabled": false,
                             "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.2/MegaV_VPN_2.1.2_Android.apk",
                             "install_instructions": {
                                 "en": "Download APK file and allow installation from unknown sources in your device settings.",
@@ -151,7 +211,7 @@
                             }
                         },
                         "store": {
-                            "enabled": true,
+                            "enabled": false,
                             "store_url": "https://play.google.com/store/apps/details?id=com.megav.vpn",
                             "install_instructions": {
                                 "en": "Update will be available through Google Play Store. Tap the button to open the store page.",
@@ -163,7 +223,7 @@
                 "macos": {
                     "update_types": {
                         "direct": {
-                            "enabled": true,
+                            "enabled": false,
                             "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.2/MegaV_VPN_2.1.2_macOS_AutoInstaller.dmg",
                             "install_instructions": {
                                 "en": "Download DMG file with auto-installer. Follow the installation wizard instructions.",
@@ -171,7 +231,7 @@
                             }
                         },
                         "store": {
-                            "enabled": true,
+                            "enabled": false,
                             "store_url": "https://apps.apple.com/app/megav-vpn/id1234567890",
                             "install_instructions": {
                                 "en": "Update will be available through Mac App Store. Tap the button to open the store page.",
@@ -203,7 +263,7 @@
                 "android": {
                     "update_types": {
                         "direct": {
-                            "enabled": true,
+                            "enabled": false,
                             "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.1/MegaV_VPN_2.1.1_Android.apk",
                             "install_instructions": {
                                 "en": "Download APK file and allow installation from unknown sources in your device settings.",
@@ -223,7 +283,7 @@
                 "macos": {
                     "update_types": {
                         "direct": {
-                            "enabled": true,
+                            "enabled": false,
                             "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.1/MegaV_VPN_2.1.1_macOS_AutoInstaller.dmg",
                             "install_instructions": {
                                 "en": "Download DMG file with auto-installer. Follow the installation wizard instructions.",
