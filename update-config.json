@@ -1,7 +1,47 @@
 {
-    "config_version": "1.0",
-    "last_updated": "2025-01-29T5:16:00Z",
+    "config_version": "1.1",
+    "last_updated": "2025-01-30T19:57:00Z",
     "updates": [
+        {
+            "version": "2.1.6",
+            "build_number": "08011957",
+            "release_date": "2025-01-30T19:57:00Z",
+            "is_prerelease": false,
+            "is_critical": false,
+            "rollout_percentage": 100,
+            "min_app_version": "2.0.0",
+            "max_app_version": null,
+            "target_regions": [
+                "all"
+            ],
+            "exclude_regions": [],
+            "release_notes": {
+                "en": "## 🔗 Dynamic Share Links Update - v2.1.6\n\n### 🚀 Enhanced Share Functionality\n• **Dynamic Version Links** - Share URLs now automatically include current app version\n• **Smart Link Generation** - Links format: `https://github.com/Romaxa55/MegaV_Public/releases/download/v{version}/MegaV_VPN_{version}_Android.apk`\n• **Anti-Spam Protection** - Prevents multiple rapid taps on share button\n• **Fallback Support** - Graceful fallback to latest release if version detection fails\n\n### 🔧 Technical Improvements\n• **Package Info Integration** - Uses `PackageInfo.fromPlatform()` for accurate versioning\n• **Share Service Enhancement** - All share methods now use dynamic URLs\n• **Button Protection** - Share operations are blocked during execution to prevent spam\n• **Error Handling** - Better error management with detailed logging\n\n### 📱 User Experience\n• **Accurate Downloads** - Users always get the exact version they're sharing from\n• **No More Confusion** - Share links point to specific releases, not generic latest\n• **Smooth Operation** - No duplicate share dialogs from accidental double-taps\n• **Reliable Sharing** - Consistent behavior across all share functions\n\n**Smart sharing with version-specific download links! 🔗✨**",
+                "ru": "## 🔗 Обновление динамических ссылок для шэринга - v2.1.6\n\n### 🚀 Улучшенная функция шэринга\n• **Динамические ссылки версий** - Ссылки для шэринга теперь автоматически включают текущую версию приложения\n• **Умная генерация ссылок** - Формат ссылок: `https://github.com/Romaxa55/MegaV_Public/releases/download/v{version}/MegaV_VPN_{version}_Android.apk`\n• **Защита от спама** - Предотвращение множественных быстрых нажатий на кнопку поделиться\n• **Поддержка fallback** - Плавный откат к последнему релизу при сбое определения версии\n\n### 🔧 Технические улучшения\n• **Интеграция Package Info** - Использует `PackageInfo.fromPlatform()` для точного определения версии\n• **Улучшение Share Service** - Все методы шэринга теперь используют динамические URL\n• **Защита кнопок** - Операции шэринга блокируются во время выполнения для предотвращения спама\n• **Обработка ошибок** - Лучшее управление ошибками с подробным логированием\n\n### 📱 Пользовательский опыт\n• **Точные загрузки** - Пользователи всегда получают именно ту версию, которой поделились\n• **Никакой путаницы** - Ссылки ведут к конкретным релизам, а не к общему latest\n• **Плавная работа** - Никаких дублирующих диалогов шэринга от случайных двойных нажатий\n• **Надежный шэринг** - Последовательное поведение во всех функциях шэринга\n\n**Умный шэринг с ссылками на конкретные версии! 🔗✨**"
+            },
+            "platforms": {
+                "android": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.6/MegaV_VPN_2.1.6_Android.apk",
+                            "install_instructions": {
+                                "en": "Download APK file and allow installation from unknown sources in your device settings. The app will automatically update to include dynamic share links.",
+                                "ru": "Скачайте APK файл и разрешите установку из неизвестных источников в настройках устройства. Приложение автоматически обновится с динамическими ссылками для шэринга."
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Update will be available through Google Play Store. Tap the button to open the store page.",
+                                "ru": "Обновление будет доступно через Google Play Маркет. Нажмите кнопку, чтобы открыть страницу в магазине."
+                            }
+                        }
+                    }
+                }
+            }
+        },
         {
             "version": "2.1.5",
             "build_number": "07290521",
