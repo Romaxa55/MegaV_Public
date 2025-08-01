@@ -1,7 +1,47 @@
 {
     "config_version": "1.1",
-    "last_updated": "2025-01-30T19:57:00Z",
+    "last_updated": "2025-01-30T21:00:00Z",
     "updates": [
+        {
+            "version": "2.1.7",
+            "build_number": "08012100",
+            "release_date": "2025-01-30T21:00:00Z",
+            "is_prerelease": false,
+            "is_critical": false,
+            "rollout_percentage": 100,
+            "min_app_version": "2.0.0",
+            "max_app_version": null,
+            "target_regions": [
+                "all"
+            ],
+            "exclude_regions": [],
+            "release_notes": {
+                "en": "## ⚡🚫 Fast Browser Revolution - v2.1.7\n\n### 🚀 Ultimate Performance Optimization\n• **FastWebView Implementation** - Switched from heavy AdBlocker to lightning-fast WebView\n• **Instant Loading** - Removed all lazy loading delays and indicators\n• **Native User Agents** - Restored original Chrome 120 and Safari 17 user agents\n• **Zero Delays** - Eliminated 300ms loading delays for instant display\n\n### 🎯 Smart Ad Filtering\n• **Intelligent Popup Blocking** - window.open() completely disabled\n• **Selective Domain Filtering** - Blocks only aggressive ad networks (popads, propellerads)\n• **Content-Safe Filtering** - Preserves news content while blocking banners\n• **JavaScript Ad Removal** - Smart CSS selector-based ad hiding\n• **Russian Ad Networks** - Targeted filtering for mgid, marketgid, recreativ\n\n### ⚡ Speed Improvements\n• **AdBlocker Disabled by Default** - Users can enable if needed\n• **Reduced Filter Count** - From 5 heavy filters to 2 lightweight ones\n• **Instant Navigation** - Fixed URL changes and link transitions\n• **No Loading Screens** - Direct WebView display without waiting\n\n### 🛠️ Technical Enhancements\n• **Memory Optimization** - Lower RAM usage with simplified WebView\n• **CPU Efficiency** - Reduced processing overhead\n• **Battery Savings** - Less background processing\n• **Responsive UI** - Eliminated blocking operations\n\n### 📱 User Experience\n• **Faster Page Loading** - Dramatically improved load times\n• **Smooth Navigation** - Seamless back/forward/refresh operations\n• **Clean Interface** - No intrusive loading indicators\n• **Smart Protection** - Popup blocking without content interference\n\n**Lightning-fast browsing with intelligent ad protection! ⚡🚫**",
+                "ru": "## ⚡🚫 Революция быстрого браузера - v2.1.7\n\n### 🚀 Максимальная оптимизация производительности\n• **Внедрение FastWebView** - Переход с тяжелого AdBlocker на молниеносный WebView\n• **Мгновенная загрузка** - Убраны все задержки lazy loading и индикаторы\n• **Нативные User Agent'ы** - Восстановлены оригинальные Chrome 120 и Safari 17\n• **Никаких задержек** - Устранены 300мс задержки загрузки для мгновенного отображения\n\n### 🎯 Умная фильтрация рекламы\n• **Интеллектуальная блокировка попапов** - window.open() полностью отключен\n• **Селективная фильтрация доменов** - Блокирует только агрессивные рекламные сети\n• **Безопасная для контента фильтрация** - Сохраняет новости, блокируя баннеры\n• **JavaScript удаление рекламы** - Умное скрытие по CSS селекторам\n• **Российские рекламные сети** - Целевая фильтрация mgid, marketgid, recreativ\n\n### ⚡ Улучшения скорости\n• **AdBlocker отключен по умолчанию** - Пользователи могут включить при необходимости\n• **Уменьшено количество фильтров** - С 5 тяжелых до 2 легких\n• **Мгновенная навигация** - Исправлены переходы по ссылкам и смена URL\n• **Без экранов загрузки** - Прямое отображение WebView без ожидания\n\n### 🛠️ Технические улучшения\n• **Оптимизация памяти** - Меньшее использование RAM с упрощенным WebView\n• **Эффективность CPU** - Снижена нагрузка на процессор\n• **Экономия батареи** - Меньше фоновой обработки\n• **Отзывчивый UI** - Устранены блокирующие операции\n\n### 📱 Пользовательский опыт\n• **Быстрая загрузка страниц** - Кардинально улучшено время загрузки\n• **Плавная навигация** - Бесшовные операции назад/вперед/обновить\n• **Чистый интерфейс** - Никаких навязчивых индикаторов загрузки\n• **Умная защита** - Блокировка попапов без вмешательства в контент\n\n**Молниеносный серфинг с интеллектуальной защитой от рекламы! ⚡🚫**"
+            },
+            "platforms": {
+                "android": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v2.1.7/MegaV_VPN_2.1.7_Android.apk",
+                            "install_instructions": {
+                                "en": "Download APK file and allow installation from unknown sources in your device settings. Experience lightning-fast browsing with the new FastWebView engine.",
+                                "ru": "Скачайте APK файл и разрешите установку из неизвестных источников в настройках устройства. Испытайте молниеносный серфинг с новым движком FastWebView."
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Update will be available through Google Play Store. Tap the button to open the store page.",
+                                "ru": "Обновление будет доступно через Google Play Маркет. Нажмите кнопку, чтобы открыть страницу в магазине."
+                            }
+                        }
+                    }
+                }
+            }
+        },
         {
             "version": "2.1.6",
             "build_number": "08011957",
