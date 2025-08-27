@@ -103,7 +103,3 @@ For questions, support, or legal inquiries regarding these Terms of Service, ple
 ---
 
 **Source Attribution:** Content aggregated from iptv-org/iptv (Unlicense - Public Domain)
-
-**MegaV VPN** - Secure, Private, Fast
-
-*Last updated: January 2025*
