@@ -1,67 +1,7 @@
 {
-    "config_version": "1.2",
-    "last_updated": "2025-02-08T22:00:00Z",
+    "config_version": "1.1",
+    "last_updated": "2025-02-08T20:00:00Z",
     "updates": [
-        {
-            "version": "3.0.0",
-            "build_number": "08271334",
-            "release_date": "2025-02-08T22:00:00Z",
-            "is_prerelease": true,
-            "is_critical": false,
-            "rollout_percentage": 50,
-            "min_app_version": "2.0.0",
-            "max_app_version": null,
-            "target_regions": [
-                "all"
-            ],
-            "exclude_regions": [],
-            "release_notes": {
-                "en": "## 🚀 MegaV 3.0.0 - Complete Redesign Revolution\n\n### 🎨 **EVERYTHING IS NEW**\n• **Complete UI/UX Overhaul** - Brand new design from ground up\n• **Modern Architecture** - Entirely rewritten codebase with latest technologies\n• **Enhanced Performance** - Faster, smoother, more responsive experience\n• **New Features** - Revolutionary functionality you've never seen before\n\n### ⚠️ **IMPORTANT NOTES**\n• **Not a Bug Fix** - This is a complete application rewrite\n• **Beta Release** - Early access version, some issues may be present\n• **Optional Update** - Your current version continues to work perfectly\n• **Fresh Start** - Everything has been rebuilt with modern standards\n\n### 📱 **Availability**\n• **macOS**: Direct download available now\n• **Android APK**: Direct download available now\n• **App Stores**: Coming soon (not yet available in official stores)\n\n### 🔧 **What to Expect**\n• **Learning Curve** - New interface may feel different at first\n• **Improved Stability** - Better error handling and crash prevention\n• **Future-Ready** - Built for upcoming features and improvements\n• **Community Feedback** - Help us perfect the new experience\n\n**Ready for the future of VPN? Try 3.0.0 today! 🚀✨**\n\n*Recommendation: Early adopters and tech enthusiasts welcome to test. Stable users can wait for official release.*",
-                "ru": "## 🚀 MegaV 3.0.0 - Революция полного редизайна\n\n### 🎨 **ВСЁ НОВОЕ**\n• **Полная переработка UI/UX** - Совершенно новый дизайн с нуля\n• **Современная архитектура** - Полностью переписанная кодовая база с новейшими технологиями\n• **Улучшенная производительность** - Быстрее, плавнее, отзывчивее\n• **Новые функции** - Революционный функционал, которого вы никогда не видели\n\n### ⚠️ **ВАЖНЫЕ ЗАМЕЧАНИЯ**\n• **Не багфиксы** - Это полная переработка приложения\n• **Бета-релиз** - Версия раннего доступа, могут быть проблемы\n• **Необязательное обновление** - Ваша текущая версия продолжает отлично работать\n• **Свежий старт** - Всё переписано с современными стандартами\n\n### 📱 **Доступность**\n• **macOS**: Прямая загрузка уже доступна\n• **Android APK**: Прямая загрузка уже доступна\n• **Магазины приложений**: Скоро (пока недоступно в официальных магазинах)\n\n### 🔧 **Чего ожидать**\n• **Кривая обучения** - Новый интерфейс поначалу может показаться непривычным\n• **Улучшенная стабильность** - Лучшая обработка ошибок и предотвращение крашей\n• **Готовность к будущему** - Создано для предстоящих функций и улучшений\n• **Обратная связь сообщества** - Помогите нам довести новый опыт до совершенства\n\n**Готовы к будущему VPN? Попробуйте 3.0.0 сегодня! 🚀✨**\n\n*Рекомендация: Ранние пользователи и технические энтузиасты приглашаются к тестированию. Стабильные пользователи могут дождаться официального релиза.*"
-            },
-            "platforms": {
-                "android": {
-                    "update_types": {
-                        "direct": {
-                            "enabled": true,
-                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.0.0/MegaV_VPN_3.0.0_Android.apk",
-                            "install_instructions": {
-                                "en": "Download APK file and allow installation from unknown sources in your device settings. Experience the complete redesign revolution!",
-                                "ru": "Скачайте APK файл и разрешите установку из неизвестных источников в настройках устройства. Испытайте революцию полного редизайна!"
-                            }
-                        },
-                        "store": {
-                            "enabled": false,
-                            "store_url": "",
-                            "install_instructions": {
-                                "en": "Store version coming soon. Use direct download for early access.",
-                                "ru": "Версия для магазина скоро. Используйте прямую загрузку для раннего доступа."
-                            }
-                        }
-                    }
-                },
-                "macos": {
-                    "update_types": {
-                        "direct": {
-                            "enabled": true,
-                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.0.0/MegaV_VPN_3.0.0_macOS.dmg",
-                            "install_instructions": {
-                                "en": "Download DMG file and follow installation instructions. Welcome to the future of VPN!",
-                                "ru": "Скачайте DMG файл и следуйте инструкциям установки. Добро пожаловать в будущее VPN!"
-                            }
-                        },
-                        "store": {
-                            "enabled": false,
-                            "store_url": "",
-                            "install_instructions": {
-                                "en": "Mac App Store version coming soon.",
-                                "ru": "Версия для Mac App Store скоро."
-                            }
-                        }
-                    }
-                }
-            }
-        },
         {
             "version": "2.1.10",
             "build_number": "08190020",
