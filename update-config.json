@@ -1,13 +1,76 @@
 {
-    "config_version": "1.3",
-    "last_updated": "2025-02-09T04:22:00Z",
+    "config_version": "1.4",
+    "last_updated": "2025-02-09T05:05:00Z",
     "updates": [
+        {
+            "version": "3.0.5",
+            "build_number": "09050501",
+            "release_date": "2025-02-09T05:05:00Z",
+            "is_prerelease": false,
+            "is_critical": true,
+            "is_mandatory": true,
+            "force_update": true,
+            "rollout_percentage": 100,
+            "min_app_version": "2.0.0",
+            "max_app_version": null,
+            "target_regions": [
+                "all"
+            ],
+            "exclude_regions": [],
+            "release_notes": {
+                "en": "## 🚀 MegaV 3.0.5 - Enhanced Stability & Performance\n\n### 🛡️ **CRITICAL STABILITY IMPROVEMENTS**\n• **Enhanced Connection Reliability** - Improved server connection stability and timeout handling\n• **Optimized Network Performance** - Better bandwidth utilization and reduced latency\n• **Advanced Error Recovery** - Smarter reconnection logic and failover mechanisms\n• **Memory Optimization** - Reduced memory footprint and improved app responsiveness\n\n### 🔧 **TECHNICAL ENHANCEMENTS**\n• **Improved Protocol Handling** - Better V2Ray and WireGuard protocol management\n• **Enhanced Security** - Strengthened encryption and security protocols\n• **Network Stack Optimization** - Faster connection establishment and data transfer\n• **Background Service Improvements** - More reliable background operation\n\n### 🎯 **USER EXPERIENCE**\n• **Faster App Launch** - Significantly reduced startup time\n• **Smoother UI Interactions** - Enhanced responsiveness and animations\n• **Better Battery Life** - Optimized power consumption\n• **Improved Notifications** - Clearer status updates and alerts\n\n**Mandatory update with critical stability and performance improvements! 🎯🔧**\n\n*Essential update for optimal VPN performance and reliability.*",
+                "ru": "## 🚀 MegaV 3.0.5 - Улучшенная стабильность и производительность\n\n### 🛡️ **КРИТИЧЕСКИЕ УЛУЧШЕНИЯ СТАБИЛЬНОСТИ**\n• **Улучшенная надежность подключений** - Повышена стабильность серверных подключений и обработка таймаутов\n• **Оптимизированная производительность сети** - Лучшее использование пропускной способности и снижение задержек\n• **Продвинутое восстановление после ошибок** - Умная логика переподключения и механизмы переключения\n• **Оптимизация памяти** - Уменьшенное потребление памяти и улучшенная отзывчивость приложения\n\n### 🔧 **ТЕХНИЧЕСКИЕ УЛУЧШЕНИЯ**\n• **Улучшенная обработка протоколов** - Лучшее управление протоколами V2Ray и WireGuard\n• **Усиленная безопасность** - Укрепленное шифрование и протоколы безопасности\n• **Оптимизация сетевого стека** - Быстрое установление соединений и передача данных\n• **Улучшения фонового сервиса** - Более надежная работа в фоновом режиме\n\n### 🎯 **ПОЛЬЗОВАТЕЛЬСКИЙ ОПЫТ**\n• **Быстрый запуск приложения** - Значительно сокращено время загрузки\n• **Плавные UI взаимодействия** - Улучшенная отзывчивость и анимации\n• **Лучшее время работы батареи** - Оптимизированное энергопотребление\n• **Улучшенные уведомления** - Более четкие обновления статуса и оповещения\n\n**Обязательное обновление с критическими улучшениями стабильности и производительности! 🎯🔧**\n\n*Важное обновление для оптимальной производительности и надежности VPN.*"
+            },
+            "platforms": {
+                "android": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.0.5/MegaV_VPN_3.0.5_Android.apk",
+                            "install_instructions": {
+                                "en": "Download APK file and allow installation from unknown sources in your device settings. Critical stability and performance improvements included!",
+                                "ru": "Скачайте APK файл и разрешите установку из неизвестных источников в настройках устройства. Включены критические улучшения стабильности и производительности!"
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.0.5/MegaV-Store-3.0.5.aab",
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Store version will be available soon. Use direct download for immediate access to critical improvements.",
+                                "ru": "Версия для магазина будет доступна скоро. Используйте прямую загрузку для немедленного доступа к критическим улучшениям."
+                            }
+                        }
+                    }
+                },
+                "macos": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.0.5/MegaV_VPN_3.0.5_macOS.dmg",
+                            "install_instructions": {
+                                "en": "Download DMG file and follow installation instructions. Critical stability and performance improvements included!",
+                                "ru": "Скачайте DMG файл и следуйте инструкциям установки. Включены критические улучшения стабильности и производительности!"
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Mac App Store version coming soon.",
+                                "ru": "Версия для Mac App Store скоро."
+                            }
+                        }
+                    }
+                }
+            }
+        },
         {
             "version": "3.0.4",
             "build_number": "09042222",
             "release_date": "2025-02-09T04:22:00Z",
             "is_prerelease": false,
-            "is_critical": true,
+            "is_critical": false,
             "rollout_percentage": 100,
             "min_app_version": "2.0.0",
             "max_app_version": null,
@@ -187,6 +250,8 @@
     "fallback_config": {
         "enabled": true,
         "emergency_disable_updates": false,
-        "force_version_check": false
+        "force_version_check": true,
+        "mandatory_update_version": "3.0.5",
+        "mandatory_update_build": "09050501"
     }
 }
