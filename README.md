@@ -196,7 +196,7 @@
 ### 🌐 **Социальные сети | Social Media**
 - 📱 **Telegram:** [@MegaVPN_Official](https://t.me/MegaVPN_Official)
 - 🐦 **Twitter:** [@MegaVPN](https://twitter.com/MegaVPN)
-- 📘 **Facebook:** [MegaV VPN](https://facebook.com/MegaVVPN)
+- 📘 **Facebook:** [MegaV VPN](https://www.facebook.com/profile.php?id=61581490672784)
 
 ---
 
