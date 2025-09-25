@@ -1,10 +1,31 @@
-# 🔒 MegaV VPN - Лучший Бесплатный VPN 2025 | Best Free VPN 2025
+# 🔒 MegaV VPN - Secure & Fast VPN
+
+<div align="center">
+
+![MegaV VPN Feature Graphic](feature_graphic.jpg)
 
 [![MegaV VPN](https://img.shields.io/badge/MegaV-VPN-blue?style=for-the-badge&logo=shield&logoColor=white)](https://megav.app)
 [![Download](https://img.shields.io/badge/Download-Free-green?style=for-the-badge&logo=download&logoColor=white)](https://megav.store)
 [![Rating](https://img.shields.io/badge/Rating-4.8★-gold?style=for-the-badge&logo=star&logoColor=white)](https://megav.app)
 
-**🌍 Русский | English | Deutsch | Tiếng Việt**
+**🌍 15 Languages Supported | 15 Поддерживаемых Языков**
+
+</div>
+
+## 📱 Screenshots | Скриншоты
+
+<div align="center">
+
+### Mobile App | Мобильное приложение
+<img src="screenshots/fixed_Screenshot_1758823477.jpg" width="200" alt="MegaV VPN Mobile - Connection Screen">
+<img src="screenshots/fixed_Screenshot_1758823490.jpg" width="200" alt="MegaV VPN Mobile - Server Selection">
+<img src="screenshots/fixed_Screenshot_1758823516.jpg" width="200" alt="MegaV VPN Mobile - Settings">
+<img src="screenshots/fixed_Screenshot_1758823645.jpg" width="200" alt="MegaV VPN Mobile - Features">
+
+### TV Dashboard | ТВ Панель
+<img src="screenshots/Screenshot_1758824580.jpg" width="600" alt="MegaV TV Dashboard - Entertainment Hub">
+
+</div>
 
 ---
 
@@ -140,12 +161,25 @@
 
 ## 🌍 **Поддерживаемые Языки | Supported Languages**
 
-- 🇷🇺 **Русский** - Полная локализация
-- 🇺🇸 **English** - Full localization  
-- 🇩🇪 **Deutsch** - Vollständige Lokalisierung
-- 🇻🇳 **Tiếng Việt** - Bản địa hóa đầy đủ
-- 🇨🇳 **中文** - 完整本地化
-- 🇪🇸 **Español** - Localización completa
+**15 языков с полной локализацией | 15 languages with full localization:**
+
+- 🇸🇦 **العربية** (Arabic) - كامل التعريب
+- 🇩🇪 **Deutsch** (German) - Vollständige Lokalisierung
+- 🇺🇸 **English** - Full localization (Base language)
+- 🇪🇸 **Español** (Spanish) - Localización completa
+- 🇫🇷 **Français** (French) - Localisation complète
+- 🇮🇹 **Italiano** (Italian) - Localizzazione completa
+- 🇯🇵 **日本語** (Japanese) - 完全なローカライゼーション
+- 🇰🇷 **한국어** (Korean) - 완전한 현지화
+- 🇵🇱 **Polski** (Polish) - Pełna lokalizacja
+- 🇵🇹 **Português** (Portuguese) - Localização completa
+- 🇷🇺 **Русский** (Russian) - Полная локализация
+- 🇹🇭 **ไทย** (Thai) - การแปลที่สมบูรณ์
+- 🇺🇦 **Українська** (Ukrainian) - Повна локалізація
+- 🇻🇳 **Tiếng Việt** (Vietnamese) - Bản địa hóa đầy đủ
+- 🇨🇳 **中文** (Chinese) - 完整本地化
+
+**Автоматическое определение языка системы | Automatic system language detection**
 
 ---
 
@@ -245,8 +279,8 @@
 
 <div align="center">
 
-**🔒 MegaV VPN - Безопасно • Приватно • Быстро**  
-**🔒 MegaV VPN - Secure • Private • Fast**
+**🔒 MegaV VPN - Secure & Fast VPN**  
+**🔒 MegaV VPN - Безопасный и Быстрый VPN**
 
 *Ваша конфиденциальность - наш приоритет | Your Privacy, Our Priority*
 
