@@ -33,14 +33,14 @@
 
 ### 📱 **Официальные Сайты | Official Websites**
 
-| **Основные сайты | Main Sites** | **VPN-специфичные | VPN-Specific** |
+| **Основные сайты | Main Sites** | **Описание | Description** |
 |---|---|
-| 🌐 [**megav.app**](https://megav.app) - Главный сайт | 🔐 [**megav-vpn.app**](https://megav-vpn.app) |
-| 🛒 [**megav.store**](https://megav.store) - Загрузки | 💻 [**megav-vpn.com**](https://megav-vpn.com) |
-| 🌍 [**megav.online**](https://megav.online) | 🌐 [**megav-vpn.online**](https://megav-vpn.online) |
-| 📱 [**megav.site**](https://megav.site) | 📱 [**megav-vpn.site**](https://megav-vpn.site) |
-| ⭐ [**megav.top**](https://megav.top) | ⭐ [**megav-vpn.top**](https://megav-vpn.top) |
-| 🌐 [**megav.website**](https://megav.website) | |
+| 🌐 [**megav.app**](https://megav.app) | Главный сайт и загрузки \| Main site & downloads |
+| 🛒 [**megav.app/ru**](https://megav.app/ru) | Русская версия \| Russian version |
+| 📱 [**megav.app/#download**](https://megav.app/#download) | Прямые загрузки \| Direct downloads |
+
+**🎯 Все загрузки доступны на официальном сайте | All downloads available on official website:**  
+**👉 [megav.app](https://megav.app/ru#download)**
 
 ---
 
@@ -132,17 +132,20 @@
 ## 📱 **Скачать MegaV VPN | Download MegaV VPN**
 
 ### 🤖 **Android**
-- 📱 [**Google Play Store**](https://play.google.com/store/apps/details?id=com.megav.vpn)
-- 📺 [**Android TV**](https://megav.store/tv) - Специальная TV версия
-- 📦 [**APK Direct**](https://megav.store/apk) - Прямая загрузка
+- 📱 [**Google Play Store**](https://megav.app/ru#download) - Официальная загрузка
+- 📺 [**Android TV**](https://megav.app/ru#download) - Специальная TV версия
+- 📦 [**APK Direct**](https://megav.app/ru#download) - Прямая загрузка
 
 ### 🍎 **iOS** *(Скоро | Coming Soon)*
-- 📱 App Store - В разработке | In Development
+- 📱 [**App Store**](https://megav.app/ru#download) - В разработке | In Development
 
 ### 💻 **Desktop**
-- 🪟 **Windows** - [Скачать | Download](https://megav.store/windows)
-- 🍎 **macOS** - [Скачать | Download](https://megav.store/macos)
-- 🐧 **Linux** - [Скачать | Download](https://megav.store/linux)
+- 🪟 [**Windows**](https://megav.app/ru#download) - Скачать | Download
+- 🍎 [**macOS**](https://megav.app/ru#download) - Скачать | Download
+- 🐧 [**Linux**](https://megav.app/ru#download) - Скачать | Download
+
+### 🌐 **Все платформы | All Platforms**
+**👉 [Скачать с официального сайта | Download from Official Site](https://megav.app/ru#download)**
 
 ---
 
@@ -284,6 +287,6 @@
 
 *Ваша конфиденциальность - наш приоритет | Your Privacy, Our Priority*
 
-[![Download Now](https://img.shields.io/badge/Скачать%20Сейчас-Download%20Now-success?style=for-the-badge&logo=download)](https://megav.store)
+[![Download Now](https://img.shields.io/badge/Скачать%20Сейчас-Download%20Now-success?style=for-the-badge&logo=download)](https://megav.app/ru#download)
 
 </div>
