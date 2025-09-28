@@ -1,7 +1,70 @@
 {
     "config_version": "1.4",
-    "last_updated": "2025-02-09T05:05:00Z",
+    "last_updated": "2025-09-28T12:00:00Z",
     "updates": [
+        {
+            "version": "3.0.6",
+            "build_number": "09280601",
+            "release_date": "2025-09-28T12:00:00Z",
+            "is_prerelease": false,
+            "is_critical": true,
+            "is_mandatory": true,
+            "force_update": true,
+            "rollout_percentage": 100,
+            "min_app_version": "2.0.0",
+            "max_app_version": null,
+            "target_regions": [
+                "all"
+            ],
+            "exclude_regions": [],
+            "release_notes": {
+                "en": "## 🚀 MegaV 3.0.6 - Revolutionary Encryption & Russia Support\n\n### 🔐 **NEW ENCRYPTION ALGORITHMS**\n• **Advanced Encryption Standards** - Implemented cutting-edge encryption algorithms for maximum security\n• **Enhanced Protocol Support** - New cryptographic protocols for better protection\n• **Quantum-Resistant Encryption** - Future-proof encryption methods to protect against advanced threats\n• **Optimized Performance** - Faster encryption/decryption without compromising security\n\n### 🇷🇺 **RUSSIA SUPPORT RESTORED**\n• **Full Russia Compatibility** - Complete support for users in Russian Federation\n• **Optimized Russian Servers** - Dedicated infrastructure for optimal performance\n• **Local Compliance** - Fully compliant with local regulations while maintaining privacy\n• **Enhanced Connectivity** - Improved connection stability and speed for Russian users\n\n### 🛡️ **CRITICAL SECURITY IMPROVEMENTS**\n• **Bug Fixes** - Resolved all known security vulnerabilities\n• **Connection Stability** - Enhanced reliability and failover mechanisms\n• **Performance Optimization** - Faster connections and improved battery life\n• **Privacy Protection** - Strengthened user data protection and anonymity\n\n### ⚠️ **MANDATORY UPDATE NOTICE**\n**IMPORTANT: All versions released before September 30, 2025 will stop working after this date. Update immediately to continue using MegaV VPN!**\n\n**Critical update with new encryption and Russia support! Update required! 🔐🇷🇺**\n\n*Essential update for continued service and enhanced security.*",
+                "ru": "## 🚀 MegaV 3.0.6 - Революционное шифрование и поддержка России\n\n### 🔐 **НОВЫЕ АЛГОРИТМЫ ШИФРОВАНИЯ**\n• **Продвинутые стандарты шифрования** - Внедрены передовые алгоритмы шифрования для максимальной безопасности\n• **Улучшенная поддержка протоколов** - Новые криптографические протоколы для лучшей защиты\n• **Квантово-устойчивое шифрование** - Перспективные методы шифрования для защиты от продвинутых угроз\n• **Оптимизированная производительность** - Быстрое шифрование/дешифрование без ущерба для безопасности\n\n### 🇷🇺 **ВОССТАНОВЛЕНА ПОДДЕРЖКА РОССИИ**\n• **Полная совместимость с Россией** - Полная поддержка пользователей в Российской Федерации\n• **Оптимизированные российские серверы** - Выделенная инфраструктура для оптимальной производительности\n• **Локальное соответствие** - Полное соответствие местным регламентам с сохранением приватности\n• **Улучшенная связь** - Повышенная стабильность соединения и скорость для российских пользователей\n\n### 🛡️ **КРИТИЧЕСКИЕ УЛУЧШЕНИЯ БЕЗОПАСНОСТИ**\n• **Исправления багов** - Устранены все известные уязвимости безопасности\n• **Стабильность соединения** - Улучшенная надежность и механизмы переключения\n• **Оптимизация производительности** - Быстрые соединения и улучшенное время работы батареи\n• **Защита приватности** - Усиленная защита пользовательских данных и анонимности\n\n### ⚠️ **УВЕДОМЛЕНИЕ ОБ ОБЯЗАТЕЛЬНОМ ОБНОВЛЕНИИ**\n**ВАЖНО: Все версии, выпущенные до 30 сентября 2025 года, перестанут работать после этой даты. Обновитесь немедленно, чтобы продолжить использование MegaV VPN!**\n\n**Критическое обновление с новым шифрованием и поддержкой России! Обновление обязательно! 🔐🇷🇺**\n\n*Важное обновление для продолжения сервиса и повышенной безопасности.*"
+            },
+            "platforms": {
+                "android": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.0.6/MegaV_VPN_3.0.6_Android.apk",
+                            "install_instructions": {
+                                "en": "Download APK file and allow installation from unknown sources in your device settings. New encryption algorithms and Russia support included! MANDATORY UPDATE - old versions stop working September 30!",
+                                "ru": "Скачайте APK файл и разрешите установку из неизвестных источников в настройках устройства. Включены новые алгоритмы шифрования и поддержка России! ОБЯЗАТЕЛЬНОЕ ОБНОВЛЕНИЕ - старые версии перестанут работать 30 сентября!"
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.0.6/MegaV-Store-3.0.6.aab",
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Store version will be available soon. Use direct download for immediate access to new encryption and Russia support.",
+                                "ru": "Версия для магазина будет доступна скоро. Используйте прямую загрузку для немедленного доступа к новому шифрованию и поддержке России."
+                            }
+                        }
+                    }
+                },
+                "macos": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.0.6/MegaV_VPN_3.0.6_macOS.dmg",
+                            "install_instructions": {
+                                "en": "Download DMG file and follow installation instructions. New encryption algorithms and Russia support included! MANDATORY UPDATE - old versions stop working September 30!",
+                                "ru": "Скачайте DMG файл и следуйте инструкциям установки. Включены новые алгоритмы шифрования и поддержка России! ОБЯЗАТЕЛЬНОЕ ОБНОВЛЕНИЕ - старые версии перестанут работать 30 сентября!"
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Mac App Store version coming soon.",
+                                "ru": "Версия для Mac App Store скоро."
+                            }
+                        }
+                    }
+                }
+            }
+        },
         {
             "version": "3.0.5",
             "build_number": "09050501",
@@ -251,7 +314,7 @@
         "enabled": true,
         "emergency_disable_updates": false,
         "force_version_check": true,
-        "mandatory_update_version": "3.0.5",
-        "mandatory_update_build": "09050501"
+        "mandatory_update_version": "3.0.6",
+        "mandatory_update_build": "09280601"
     }
 }
