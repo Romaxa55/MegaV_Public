@@ -1,7 +1,70 @@
 {
     "config_version": "1.4",
-    "last_updated": "2025-09-28T12:00:00Z",
+    "last_updated": "2025-09-29T12:00:00Z",
     "updates": [
+        {
+            "version": "3.0.7",
+            "build_number": "09290701",
+            "release_date": "2025-09-29T12:00:00Z",
+            "is_prerelease": false,
+            "is_critical": false,
+            "is_mandatory": false,
+            "force_update": false,
+            "rollout_percentage": 100,
+            "min_app_version": "2.0.0",
+            "max_app_version": null,
+            "target_regions": [
+                "all"
+            ],
+            "exclude_regions": [],
+            "release_notes": {
+                "en": "## 🚀 MegaV 3.0.7 - IPTV Improvements & Bug Fixes\n\n### 📺 **IPTV ENHANCEMENTS**\n• **Fixed IPTV Player Issues** - Resolved playback problems and improved streaming stability\n• **Enhanced Channel Loading** - Faster channel switching and better playlist parsing\n• **Improved Stream Quality** - Better video quality detection and adaptive streaming\n• **Fixed Audio Sync** - Resolved audio synchronization issues in IPTV streams\n• **Better Error Handling** - Improved error messages and recovery for failed streams\n\n### 🔧 **TECHNICAL IMPROVEMENTS**\n• **Optimized Media Engine** - Better performance and reduced memory usage\n• **Enhanced Network Handling** - Improved connection stability for streaming\n• **Fixed Buffer Management** - Reduced buffering and smoother playback\n• **Updated Dependencies** - Latest media libraries for better compatibility\n\n### 🎯 **USER EXPERIENCE**\n• **Smoother IPTV Navigation** - Faster channel browsing and selection\n• **Better Playback Controls** - Improved player interface and responsiveness\n• **Enhanced Stability** - Fewer crashes during IPTV usage\n• **Improved Performance** - Better overall app performance during streaming\n\n**Optional update with IPTV improvements and stability fixes! 📺🔧**\n\n*Recommended for users experiencing IPTV playback issues.*",
+                "ru": "## 🚀 MegaV 3.0.7 - Улучшения IPTV и исправления багов\n\n### 📺 **УЛУЧШЕНИЯ IPTV**\n• **Исправлены проблемы IPTV плеера** - Устранены проблемы воспроизведения и улучшена стабильность стриминга\n• **Улучшена загрузка каналов** - Быстрое переключение каналов и лучший парсинг плейлистов\n• **Улучшено качество потока** - Лучшее определение качества видео и адаптивный стриминг\n• **Исправлена синхронизация звука** - Устранены проблемы синхронизации аудио в IPTV потоках\n• **Лучшая обработка ошибок** - Улучшенные сообщения об ошибках и восстановление после сбоев потоков\n\n### 🔧 **ТЕХНИЧЕСКИЕ УЛУЧШЕНИЯ**\n• **Оптимизированный медиа движок** - Лучшая производительность и сниженное потребление памяти\n• **Улучшенная обработка сети** - Повышенная стабильность соединения для стриминга\n• **Исправлено управление буфером** - Уменьшена буферизация и более плавное воспроизведение\n• **Обновленные зависимости** - Новейшие медиа библиотеки для лучшей совместимости\n\n### 🎯 **ПОЛЬЗОВАТЕЛЬСКИЙ ОПЫТ**\n• **Плавная навигация IPTV** - Быстрый просмотр и выбор каналов\n• **Лучшие элементы управления воспроизведением** - Улучшенный интерфейс плеера и отзывчивость\n• **Повышенная стабильность** - Меньше крашей во время использования IPTV\n• **Улучшенная производительность** - Лучшая общая производительность приложения во время стриминга\n\n**Опциональное обновление с улучшениями IPTV и исправлениями стабильности! 📺🔧**\n\n*Рекомендуется для пользователей, испытывающих проблемы с воспроизведением IPTV.*"
+            },
+            "platforms": {
+                "android": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.0.7/MegaV_VPN_3.0.7_Android.apk",
+                            "install_instructions": {
+                                "en": "Download APK file and allow installation from unknown sources in your device settings. IPTV improvements and stability fixes included!",
+                                "ru": "Скачайте APK файл и разрешите установку из неизвестных источников в настройках устройства. Включены улучшения IPTV и исправления стабильности!"
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.0.7/MegaV-Store-3.0.7.aab",
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Store version will be available soon. Use direct download for immediate access to IPTV improvements.",
+                                "ru": "Версия для магазина будет доступна скоро. Используйте прямую загрузку для немедленного доступа к улучшениям IPTV."
+                            }
+                        }
+                    }
+                },
+                "macos": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.0.7/MegaV_VPN_3.0.7_macOS.dmg",
+                            "install_instructions": {
+                                "en": "Download DMG file and follow installation instructions. IPTV improvements and stability fixes included!",
+                                "ru": "Скачайте DMG файл и следуйте инструкциям установки. Включены улучшения IPTV и исправления стабильности!"
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Mac App Store version coming soon.",
+                                "ru": "Версия для Mac App Store скоро."
+                            }
+                        }
+                    }
+                }
+            }
+        },
         {
             "version": "3.0.6",
             "build_number": "09280601",
