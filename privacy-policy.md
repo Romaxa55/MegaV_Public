@@ -17,6 +17,22 @@ Before you start using our VPN service, please read and understand our Privacy P
 - Connection logs are not retained beyond technical requirements.
 - We do not track or monitor user content consumption.
 
+## 📻 Radio Content Sources
+
+- Our radio feature provides access to publicly available, free radio streams sourced from **Radio-Browser.info** (https://www.radio-browser.info/) - a free, community-driven, open-source radio station directory.
+- All radio stations are sourced exclusively from the Radio-Browser.info public API, which aggregates publicly accessible radio streams submitted by the community.
+- We do not host, own, or control any radio content - we merely aggregate publicly available streams from the Radio-Browser.info API.
+- Radio content is provided "as-is" from third-party public sources without any modifications.
+- All radio stream URLs are publicly accessible and freely distributed by the stations themselves through the Radio-Browser.info platform.
+- Users are responsible for their own compliance with local broadcasting laws when accessing radio content.
+- We respect copyright and will promptly remove any streams upon valid takedown requests.
+
+### Radio Data Handling:
+- No personal listening data is collected or stored
+- Stream URLs are obtained from the public Radio-Browser.info API and are not proprietary
+- No monetization of radio content
+- No tracking of listening habits or preferences beyond local device settings
+
 ## 🔒 Data Security
 
 - All data transmission is encrypted using industry-standard protocols.
