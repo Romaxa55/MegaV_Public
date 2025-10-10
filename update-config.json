@@ -1,7 +1,70 @@
 {
     "config_version": "1.4",
-    "last_updated": "2025-09-29T12:00:00Z",
+    "last_updated": "2025-10-10T12:00:00Z",
     "updates": [
+        {
+            "version": "3.1.0",
+            "build_number": "10110610",
+            "release_date": "2025-10-10T12:00:00Z",
+            "is_prerelease": false,
+            "is_critical": false,
+            "is_mandatory": false,
+            "force_update": false,
+            "rollout_percentage": 100,
+            "min_app_version": "2.0.0",
+            "max_app_version": null,
+            "target_regions": [
+                "all"
+            ],
+            "exclude_regions": [],
+            "release_notes": {
+                "en": "## 🚀 MegaV 3.1.0 - Public Radio & Server Expansion\n\n### 🎵 **NEW PUBLIC RADIO**\n• **Public Radio Feature** - Access thousands of public radio stations worldwide\n• **Beautiful Animations** - Stunning visualizations and smooth UI transitions\n• **Enhanced Player** - Improved streaming quality and controls\n• **Global Coverage** - Radio stations from all over the world\n\n### 🌐 **MASSIVE SERVER EXPANSION**\n• **+5000 New Servers** - Dramatically expanded server network\n• **Better Coverage** - Improved availability in all regions\n• **Enhanced Performance** - Faster connections with new infrastructure\n• **More Locations** - Access to servers in more countries\n\n### 🔧 **BUG FIXES & IMPROVEMENTS**\n• **Stability Improvements** - Fixed various crashes and connection issues\n• **UI Refinements** - Polished interface and better responsiveness\n• **Performance Optimization** - Smoother app experience overall\n• **Bug Fixes** - Resolved minor issues reported by users\n\n**Optional update with exciting new features! 🎵🌐**\n\n*Recommended for users who want public radio and access to more servers.*",
+                "ru": "## 🚀 MegaV 3.1.0 - Публичное радио и расширение серверов\n\n### 🎵 **НОВОЕ ПУБЛИЧНОЕ РАДИО**\n• **Функция публичного радио** - Доступ к тысячам публичных радиостанций по всему миру\n• **Красивые анимации** - Потрясающие визуализации и плавные переходы UI\n• **Улучшенный плеер** - Улучшенное качество стриминга и управление\n• **Глобальное покрытие** - Радиостанции со всего мира\n\n### 🌐 **МАСШТАБНОЕ РАСШИРЕНИЕ СЕРВЕРОВ**\n• **+5000 новых серверов** - Значительно расширенная серверная сеть\n• **Лучшее покрытие** - Улучшенная доступность во всех регионах\n• **Повышенная производительность** - Быстрые подключения с новой инфраструктурой\n• **Больше локаций** - Доступ к серверам в большем количестве стран\n\n### 🔧 **ИСПРАВЛЕНИЯ БАГОВ И УЛУЧШЕНИЯ**\n• **Улучшения стабильности** - Исправлены различные крашы и проблемы подключения\n• **Улучшения UI** - Отполированный интерфейс и лучшая отзывчивость\n• **Оптимизация производительности** - В целом более плавная работа приложения\n• **Исправления багов** - Устранены мелкие проблемы, о которых сообщали пользователи\n\n**Опциональное обновление с захватывающими новыми функциями! 🎵🌐**\n\n*Рекомендуется пользователям, которым нужно публичное радио и доступ к большему количеству серверов.*"
+            },
+            "platforms": {
+                "android": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.1.0/MegaV_VPN_3.1.0_Android.apk",
+                            "install_instructions": {
+                                "en": "Download APK file and allow installation from unknown sources in your device settings. Public radio and 5000+ new servers included!",
+                                "ru": "Скачайте APK файл и разрешите установку из неизвестных источников в настройках устройства. Включены публичное радио и 5000+ новых серверов!"
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.1.0/MegaV-Store-3.1.0.aab",
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Store version will be available soon. Use direct download for immediate access to new features.",
+                                "ru": "Версия для магазина будет доступна скоро. Используйте прямую загрузку для немедленного доступа к новым функциям."
+                            }
+                        }
+                    }
+                },
+                "macos": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.1.0/MegaV_VPN_3.1.0_macOS_Universal.dmg",
+                            "install_instructions": {
+                                "en": "Download DMG file and follow installation instructions. Public radio and 5000+ new servers included!",
+                                "ru": "Скачайте DMG файл и следуйте инструкциям установки. Включены публичное радио и 5000+ новых серверов!"
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "",
+                            "install_instructions": {
+                                "en": "Mac App Store version coming soon.",
+                                "ru": "Версия для Mac App Store скоро."
+                            }
+                        }
+                    }
+                }
+            }
+        },
         {
             "version": "3.0.7",
             "build_number": "09290701",
