@@ -25,7 +25,7 @@
                 "android": {
                     "update_types": {
                         "direct": {
-                            "enabled": false,
+                            "enabled": true,
                             "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.1.0/MegaV_VPN_3.1.0_Android.apk",
                             "install_instructions": {
                                 "en": "Download APK file and allow installation from unknown sources in your device settings. Public radio and 5000+ new servers included!",
