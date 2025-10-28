@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![MegaV VPN Иконка](screenshots/app_icon.png)
+<img src="screenshots/app_icon.png" width="150" alt="MegaV VPN Иконка">
 
 [![MegaV VPN](https://img.shields.io/badge/MegaV-VPN-blue?style=for-the-badge&logo=shield&logoColor=white)](https://megav.app)
 [![Скачать](https://img.shields.io/badge/Скачать-Бесплатно-green?style=for-the-badge&logo=download&logoColor=white)](https://megav.app/ru#download)
