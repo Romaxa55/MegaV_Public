@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="screenshots/app_icon.png" width="150" alt="MegaV VPN App Icon">
+<img src="screenshots/app_icon.png" width="150" alt="MegaV VPN App Icon" style="border-radius: 22%;">
 
 [![MegaV VPN](https://img.shields.io/badge/MegaV-VPN-blue?style=for-the-badge&logo=shield&logoColor=white)](https://megav.app)
 [![Download](https://img.shields.io/badge/Download-Free-green?style=for-the-badge&logo=download&logoColor=white)](https://megav.app/#download)
@@ -21,20 +21,20 @@
 <div align="center">
 
 ### iPhone App
-<img src="screenshots/iphone_1.png" width="200" alt="MegaV VPN - Stay private, stay fast">
-<img src="screenshots/iphone_2.png" width="200" alt="MegaV VPN - Connection Screen">
-<img src="screenshots/iphone_3.png" width="200" alt="MegaV VPN - Server Selection">
-<img src="screenshots/iphone_4.png" width="200" alt="MegaV VPN - Settings">
-<img src="screenshots/iphone_5.png" width="200" alt="MegaV VPN - Features">
-<img src="screenshots/iphone_6.png" width="200" alt="MegaV VPN - Advanced Options">
+<img src="screenshots/iphone_1.png" width="140" alt="MegaV VPN - Stay private, stay fast">
+<img src="screenshots/iphone_2.png" width="140" alt="MegaV VPN - Connection Screen">
+<img src="screenshots/iphone_3.png" width="140" alt="MegaV VPN - Server Selection">
+<img src="screenshots/iphone_4.png" width="140" alt="MegaV VPN - Settings">
+<img src="screenshots/iphone_5.png" width="140" alt="MegaV VPN - Features">
+<img src="screenshots/iphone_6.png" width="140" alt="MegaV VPN - Advanced Options">
 
 ### iPad App
-<img src="screenshots/ipad_1.png" width="300" alt="MegaV VPN iPad - Stay private, stay fast">
-<img src="screenshots/ipad_2.png" width="300" alt="MegaV VPN iPad - Connection Screen">
-<img src="screenshots/ipad_3.png" width="300" alt="MegaV VPN iPad - Server Selection">
-<img src="screenshots/ipad_4.png" width="300" alt="MegaV VPN iPad - Settings">
-<img src="screenshots/ipad_5.png" width="300" alt="MegaV VPN iPad - Features">
-<img src="screenshots/ipad_6.png" width="300" alt="MegaV VPN iPad - Advanced Options">
+<img src="screenshots/ipad_1.png" width="140" alt="MegaV VPN iPad - Stay private, stay fast">
+<img src="screenshots/ipad_2.png" width="140" alt="MegaV VPN iPad - Connection Screen">
+<img src="screenshots/ipad_3.png" width="140" alt="MegaV VPN iPad - Server Selection">
+<img src="screenshots/ipad_4.png" width="140" alt="MegaV VPN iPad - Settings">
+<img src="screenshots/ipad_5.png" width="140" alt="MegaV VPN iPad - Features">
+<img src="screenshots/ipad_6.png" width="140" alt="MegaV VPN iPad - Advanced Options">
 
 </div>
 

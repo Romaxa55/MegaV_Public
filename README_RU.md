@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="screenshots/app_icon.png" width="150" alt="MegaV VPN Иконка">
+<img src="screenshots/app_icon.png" width="150" alt="MegaV VPN Иконка" style="border-radius: 22%;">
 
 [![MegaV VPN](https://img.shields.io/badge/MegaV-VPN-blue?style=for-the-badge&logo=shield&logoColor=white)](https://megav.app)
 [![Скачать](https://img.shields.io/badge/Скачать-Бесплатно-green?style=for-the-badge&logo=download&logoColor=white)](https://megav.app/ru#download)
@@ -21,20 +21,20 @@
 <div align="center">
 
 ### Приложение для iPhone
-<img src="screenshots/iphone_1.png" width="200" alt="MegaV VPN - Оставайтесь приватными, оставайтесь быстрыми">
-<img src="screenshots/iphone_2.png" width="200" alt="MegaV VPN - Экран подключения">
-<img src="screenshots/iphone_3.png" width="200" alt="MegaV VPN - Выбор сервера">
-<img src="screenshots/iphone_4.png" width="200" alt="MegaV VPN - Настройки">
-<img src="screenshots/iphone_5.png" width="200" alt="MegaV VPN - Функции">
-<img src="screenshots/iphone_6.png" width="200" alt="MegaV VPN - Расширенные опции">
+<img src="screenshots/iphone_1.png" width="140" alt="MegaV VPN - Оставайтесь приватными, оставайтесь быстрыми">
+<img src="screenshots/iphone_2.png" width="140" alt="MegaV VPN - Экран подключения">
+<img src="screenshots/iphone_3.png" width="140" alt="MegaV VPN - Выбор сервера">
+<img src="screenshots/iphone_4.png" width="140" alt="MegaV VPN - Настройки">
+<img src="screenshots/iphone_5.png" width="140" alt="MegaV VPN - Функции">
+<img src="screenshots/iphone_6.png" width="140" alt="MegaV VPN - Расширенные опции">
 
 ### Приложение для iPad
-<img src="screenshots/ipad_1.png" width="300" alt="MegaV VPN iPad - Оставайтесь приватными, оставайтесь быстрыми">
-<img src="screenshots/ipad_2.png" width="300" alt="MegaV VPN iPad - Экран подключения">
-<img src="screenshots/ipad_3.png" width="300" alt="MegaV VPN iPad - Выбор сервера">
-<img src="screenshots/ipad_4.png" width="300" alt="MegaV VPN iPad - Настройки">
-<img src="screenshots/ipad_5.png" width="300" alt="MegaV VPN iPad - Функции">
-<img src="screenshots/ipad_6.png" width="300" alt="MegaV VPN iPad - Расширенные опции">
+<img src="screenshots/ipad_1.png" width="140" alt="MegaV VPN iPad - Оставайтесь приватными, оставайтесь быстрыми">
+<img src="screenshots/ipad_2.png" width="140" alt="MegaV VPN iPad - Экран подключения">
+<img src="screenshots/ipad_3.png" width="140" alt="MegaV VPN iPad - Выбор сервера">
+<img src="screenshots/ipad_4.png" width="140" alt="MegaV VPN iPad - Настройки">
+<img src="screenshots/ipad_5.png" width="140" alt="MegaV VPN iPad - Функции">
+<img src="screenshots/ipad_6.png" width="140" alt="MegaV VPN iPad - Расширенные опции">
 
 ### ТВ Панель
 <img src="screenshots/Screenshot_1758824580.jpg" width="600" alt="MegaV TV Панель - Развлекательный центр">
