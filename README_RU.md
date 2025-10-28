@@ -45,15 +45,25 @@
 
 ## 🚀 Скачать MegaV VPN Бесплатно
 
-**[📱 Скачать с официального сайта](https://megav.app/ru#download)**
+### 🌐 Официальные Сайты
 
-### Официальные Сайты
+Все наши домены ведут к одному безопасному сервису:
 
-| Сайт | Описание |
+| Домен | Статус |
 |---|---|
-| 🌐 [**megav.app**](https://megav.app) | Главный сайт и загрузки |
-| 🛒 [**megav.app/ru**](https://megav.app/ru) | Русская версия |
-| 📱 [**megav.app/#download**](https://megav.app/#download) | Прямые загрузки |
+| 🌐 [**megav.app**](https://megav.app) | ✅ Основной сайт |
+| 🌐 [**megav.store**](https://megav.store) | ✅ Активен |
+| 🌐 [**megav-vpn.com**](https://megav-vpn.com) | ✅ Активен |
+| 🌐 [**megav-vpn.app**](https://megav-vpn.app) | ✅ Активен |
+| 🌐 [**megav.online**](https://megav.online) | ✅ Активен |
+| 🌐 [**megav-vpn.online**](https://megav-vpn.online) | ✅ Активен |
+| 🌐 [**megav-vpn.site**](https://megav-vpn.site) | ✅ Активен |
+| 🌐 [**megav.site**](https://megav.site) | ✅ Активен |
+| 🌐 [**megav-vpn.top**](https://megav-vpn.top) | ✅ Активен |
+| 🌐 [**megav.top**](https://megav.top) | ✅ Активен |
+| 🌐 [**megav.website**](https://megav.website) | ✅ Активен |
+
+**[📱 Скачать Сейчас](https://megav.app/ru#download)**
 
 ### Платформы
 - 🤖 **Android** - Google Play Store, APK напрямую

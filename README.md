@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="screenshots/app_icon.png" width="150" alt="MegaV VPN App Icon" style="border-radius: 22%;">
+<img src="screenshots/app_icon.png" width="60" alt="MegaV VPN App Icon" style="border-radius: 22%;">
 
 [![MegaV VPN](https://img.shields.io/badge/MegaV-VPN-blue?style=for-the-badge&logo=shield&logoColor=white)](https://megav.app)
 [![Download](https://img.shields.io/badge/Download-Free-green?style=for-the-badge&logo=download&logoColor=white)](https://megav.app/#download)
@@ -42,7 +42,25 @@
 
 ## 🚀 Download MegaV VPN
 
-**[📱 Download from Official Website](https://megav.app/#download)**
+### 🌐 Official Websites
+
+All our domains lead to the same secure service:
+
+| Domain | Status |
+|---|---|
+| 🌐 [**megav.app**](https://megav.app) | ✅ Main Site |
+| 🌐 [**megav.store**](https://megav.store) | ✅ Active |
+| 🌐 [**megav-vpn.com**](https://megav-vpn.com) | ✅ Active |
+| 🌐 [**megav-vpn.app**](https://megav-vpn.app) | ✅ Active |
+| 🌐 [**megav.online**](https://megav.online) | ✅ Active |
+| 🌐 [**megav-vpn.online**](https://megav-vpn.online) | ✅ Active |
+| 🌐 [**megav-vpn.site**](https://megav-vpn.site) | ✅ Active |
+| 🌐 [**megav.site**](https://megav.site) | ✅ Active |
+| 🌐 [**megav-vpn.top**](https://megav-vpn.top) | ✅ Active |
+| 🌐 [**megav.top**](https://megav.top) | ✅ Active |
+| 🌐 [**megav.website**](https://megav.website) | ✅ Active |
+
+**[📱 Download Now](https://megav.app/#download)**
 
 ### Platforms
 - 🤖 **Android** - Google Play Store, APK Direct
