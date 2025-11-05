@@ -43,6 +43,18 @@
                         }
                     }
                 },
+                "ios": {
+                    "update_types": {
+                        "store": {
+                            "enabled": true,
+                            "store_url": "https://apps.apple.com/app/id6754278334",
+                            "install_instructions": {
+                                "en": "Download from App Store for the latest version with bug fixes and improvements.",
+                                "ru": "Скачайте из App Store последнюю версию с исправлениями ошибок и улучшениями."
+                            }
+                        }
+                    }
+                },
                 "macos": {
                     "update_types": {
                         "direct": {
