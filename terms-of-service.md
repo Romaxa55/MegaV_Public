@@ -1,105 +1,70 @@
 # MegaV VPN Terms of Service
 
-**Legal Information and User Agreement**
+## 1. Terms of Use
+By using MegaV VPN, you agree to these terms. You must comply with all laws. You're responsible for your use of the service. We can modify or terminate the service at any time. Terms may be updated - continued use means you accept changes.
 
----
+## 2. User Responsibility
+You're responsible for: following local laws, respecting copyrights, keeping your account secure, not sharing credentials, and using the service legally. VPN usage may be restricted in some countries - check your local laws.
 
-## 📋 Terms of Use
+## 3. Prohibited and Restricted Use
+Don't use our Services for illegal activities: spam, fraud, hacking, DDoS attacks, piracy, or any criminal activity. Don't use for military purposes or weapons development. Don't exploit children or violate intellectual property rights. We reserve the right to suspend or terminate accounts that violate these rules.
 
-By using this VPN application, you agree to the following terms:
+## 4. License Terms
+We grant you a limited license to download and use our Software on your device. The Software is licensed, not sold. You don't own the Software. We retain all rights to the Services and Software.
 
-1. **Purpose**: This application is provided for educational and research purposes only.
-2. **Legal Compliance**: You must comply with all applicable laws and regulations in your jurisdiction.
-3. **User Responsibility**: You are solely responsible for your use of the application and any content accessed through it.
-4. **Service Modification**: We reserve the right to modify, suspend, or terminate the service at any time.
-5. **Terms Updates**: These terms may be updated without notice. Continued use constitutes acceptance of new terms.
+## 5. Your User Account
+To use our Services, you must create an Account with accurate information. You're responsible for all activities under your Account. Keep your password confidential and don't share it. Notify us immediately of any unauthorized access. Accounts are non-transferable.
 
-## 📺 Content Disclaimer
+## 6. Subscription and Auto-Renewal
+All paid Services are provided on a Subscription basis. Your Subscription will automatically renew at the end of each period unless you cancel it before the renewal date. If you don't cancel, your payment method will be charged automatically.
 
-**IMPORTANT CONTENT DISCLAIMER:**
+## 7. Prices and Payments
+Prices may be shown exclusive of taxes. We calculate taxes based on your country and show the total price before charging. You agree to pay for all Services you purchase. We may suspend Services if payment is not received on time.
 
-### IPTV and Radio Content:
-- The application aggregates publicly available IPTV and radio streams from various sources.
-- We do not host, store, or distribute any copyrighted content.
-- All IPTV streams are sourced from the public domain project "iptv-org/iptv" (Unlicense).
-- Radio stations are public broadcasting services available for streaming.
+## 8. Cancellation and Refund Policy
+You can cancel your Subscription at any time. Canceled Subscriptions won't be refunded for the unused period. If you're not satisfied, you can request a refund within 30 days of your initial purchase (Money Back Guarantee). Renewed Subscriptions cannot be refunded unless required by law.
 
-### Third-Party Content:
-- We are not responsible for the availability, accuracy, or legality of third-party content.
-- Content providers are solely responsible for their streams and any copyright claims.
-- Users access content at their own risk and responsibility.
+## 9. Suspension and Termination
+We may suspend or terminate your Account if: payment fails, you violate prohibited use rules, you break laws, or if required by law. We'll usually notify you first, except in serious cases where immediate action is needed.
 
-### Copyright Notice:
-- If you believe any content infringes your copyright, please contact the original stream provider.
-- We will promptly respond to valid takedown requests regarding our aggregation service.
+## 10. Disclaimer of Warranties
+The Services are provided 'AS IS' without warranties. We don't guarantee the Services will be error-free, uninterrupted, or secure. We may modify, suspend, or terminate Services at any time. You use the Services at your own risk.
 
-## 👤 User Responsibilities
+## 11. Limitation of Liability
+We provide the service 'AS IS' without warranties. We're not liable for content you access, legal consequences, or any damages. Content providers are responsible for their content. Our liability is limited to what you paid us in the last 12 months.
 
-### Content Usage:
-- You are solely responsible for ensuring your use of IPTV and radio content complies with local laws.
-- You must respect intellectual property rights and copyright laws.
-- You agree not to use the service for any illegal or unauthorized purposes.
+## 12. Indemnification
+You agree to indemnify and hold us harmless from any claims, damages, losses, or expenses arising from your use of the Services, violation of these Terms, or breach of any laws. This includes legal fees and costs.
 
-### Account Security:
-- You are responsible for maintaining the security of your device and connection.
-- You must not share your access credentials with unauthorized parties.
-- You agree to report any security vulnerabilities or misuse.
+## 13. Intellectual Property
+All trademarks, logos, and content are our property or licensed to us. You may not use our trademarks, logos, or content without permission. The Software and Services are protected by copyright and other intellectual property laws.
 
-### Legal Compliance:
-- You must comply with all applicable laws in your jurisdiction.
-- You understand that VPN usage may be restricted in certain countries.
-- You agree to use the service only in accordance with applicable laws and regulations.
+## 14. Third-Party Services
+Our Services may include links to third-party websites or services. We're not responsible for third-party content, privacy practices, or terms. Use third-party services at your own risk. Review their terms and privacy policies before using.
 
-## ⚖️ Limitation of Liability
+## 15. Governing Law and Disputes
+These Terms are governed by applicable law. Before filing a claim, try to resolve disputes informally by contacting us. If unresolved, disputes will be resolved through appropriate legal channels. Some jurisdictions may provide additional consumer rights.
 
-### Service Availability:
-- We provide the service "as is" without warranties of any kind.
-- We do not guarantee continuous, uninterrupted, or error-free service.
-- We are not liable for any interruptions or loss of service.
+## 16. Class Action Waiver
+You and we agree that any disputes will be resolved individually, not as part of a class action or representative proceeding. Unless both parties agree, no court or arbitrator can consolidate multiple claims or preside over a class proceeding.
 
-### Content Liability:
-- We are not responsible for third-party content accessed through the application.
-- We disclaim all liability for copyright infringement claims related to user content consumption.
-- Users assume all risks associated with content access and usage.
+## 17. Force Majeure
+We're not liable for delays or failures caused by circumstances beyond our control: natural disasters, wars, cyber attacks, government actions, internet outages, third-party failures, or other unforeseeable events. In such cases, we may suspend Services without liability.
 
-### Legal Disclaimers:
-- We are not liable for any direct, indirect, incidental, or consequential damages.
-- Our liability is limited to the maximum extent permitted by law.
-- We do not provide legal advice regarding content usage or copyright compliance.
+## 18. Severability
+If any part of these Terms is found invalid or unenforceable, that part will be limited or removed to the minimum extent necessary. The rest of the Terms will remain in full effect and enforceable.
 
-### Indemnification:
-- You agree to indemnify and hold us harmless from any claims arising from your use of the service.
-- You are solely responsible for any legal consequences of your content consumption.
+## 19. Assignment
+You cannot transfer or assign these Terms or your rights without our written consent. We can transfer, assign, or delegate our rights and obligations to third parties, including in cases of merger, acquisition, or sale of assets. We'll notify you of material changes.
 
-## 🔞 Age Requirement
+## 20. Export Laws
+Our Services may be subject to export control laws. You warrant that you're not located in an embargoed country or on any prohibited parties list. You agree to comply with all applicable export and re-export control laws and regulations.
 
-By using this application, you confirm that:
-- You must be 18+ to use this service.
-- All content is sourced from legitimate public domains and broadcasting services.
-- We reserve the right to modify these terms at any time.
+## 21. Changes to Terms
+We may update these Terms from time to time. We'll notify you of material changes via email or through the app. Continued use after changes means you accept the new Terms. If you don't agree, you can cancel your Subscription.
 
-## 📞 Contact Information
+## 22. Miscellaneous
+These Terms constitute the entire agreement between you and us. No oral promises or representations outside these Terms are binding. If we don't enforce a right, it doesn't waive that right. Headings are for convenience only. English version prevails over translations.
 
-For questions, support, or legal inquiries regarding these Terms of Service, please contact us:
-
-**Email:** info@megav.store
-
-### Legal Department:
-- Terms of Service questions and clarifications
-- Legal compliance inquiries
-- Dispute resolution and complaints
-- Service-related legal matters
-
-### Business Hours:
-- We aim to respond to all inquiries within 48 hours
-- Legal matters are prioritized and handled promptly
-- Emergency support available for critical issues
-
-### Jurisdiction:
-- These terms are governed by applicable laws
-- Disputes resolved through appropriate legal channels
-- User rights protected under consumer protection laws
-
----
-
-**Source Attribution:** Content aggregated from iptv-org/iptv (Unlicense - Public Domain)
+## 23. Contact Us
+If you have questions about these Terms, contact us at support@megav.app. For billing issues, account problems, or technical support, visit our support page or email us directly. We'll respond as soon as possible.

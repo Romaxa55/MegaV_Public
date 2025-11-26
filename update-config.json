@@ -1,40 +1,40 @@
 {
-    "config_version": "1.4",
-    "last_updated": "2025-10-21T12:00:00Z",
+    "config_version": "1.5",
+    "last_updated": "2025-11-25T12:00:00Z",
     "updates": [
         {
-            "version": "3.1.1",
-            "build_number": "10110611",
-            "release_date": "2025-10-21T12:00:00Z",
+            "version": "3.2.1",
+            "build_number": "11250838",
+            "release_date": "2025-11-25T12:00:00Z",
             "is_prerelease": false,
             "is_critical": false,
             "is_mandatory": false,
             "force_update": false,
             "rollout_percentage": 100,
-            "min_app_version": "2.0.0",
+            "min_app_version": "3.0.0",
             "max_app_version": null,
             "target_regions": [
                 "all"
             ],
             "exclude_regions": [],
             "release_notes": {
-                "en": "## 🐛 MegaV 3.1.1 - Bug Fixes\n\n### 🔧 **BUG FIXES & IMPROVEMENTS**\n• **Stability Improvements** - Fixed connection issues\n• **Performance Optimization** - Improved app responsiveness\n• **Bug Fixes** - Resolved minor issues reported by users\n\n*Recommended update for all users.*",
-                "ru": "## 🐛 MegaV 3.1.1 - Исправления ошибок\n\n### 🔧 **ИСПРАВЛЕНИЯ БАГОВ И УЛУЧШЕНИЯ**\n• **Улучшения стабильности** - Исправлены проблемы подключения\n• **Оптимизация производительности** - Улучшена отзывчивость приложения\n• **Исправления багов** - Устранены мелкие проблемы, о которых сообщали пользователи\n\n*Рекомендуемое обновление для всех пользователей.*"
+                "en": "## 🚀 MegaV 3.2.1 - New Features & Improvements\n\n### ✨ **NEW FEATURES**\n• **iOS App Store Support** - Automatic update notifications for App Store version\n• **Enhanced Update System** - Better platform detection and update management\n• **Improved Stability** - Various bug fixes and performance improvements\n\n*Recommended update for all users.*",
+                "ru": "## 🚀 MegaV 3.2.1 - Новые функции и улучшения\n\n### ✨ **НОВЫЕ ФУНКЦИИ**\n• **Поддержка iOS App Store** - Автоматические уведомления об обновлениях для версии из App Store\n• **Улучшенная система обновлений** - Лучшее определение платформы и управление обновлениями\n• **Улучшенная стабильность** - Различные исправления ошибок и улучшения производительности\n\n*Рекомендуемое обновление для всех пользователей.*"
             },
             "platforms": {
                 "android": {
                     "update_types": {
                         "direct": {
-                            "enabled": true,
-                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.1.1/MegaV_VPN_3.1.1_Android.apk",
+                            "enabled": false,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.2.1/MegaV_VPN_3.2.1_Android.apk",
                             "install_instructions": {
-                                "en": "Download and install the latest version with bug fixes and improvements.",
-                                "ru": "Скачайте и установите последнюю версию с исправлениями ошибок и улучшениями."
+                                "en": "Download and install the latest version with new features and improvements.",
+                                "ru": "Скачайте и установите последнюю версию с новыми функциями и улучшениями."
                             }
                         },
                         "store": {
                             "enabled": false,
-                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.1.1/MegaV-Store-3.1.1.aab",
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.2.1/MegaV-Store-3.2.1.aab",
                             "store_url": "",
                             "install_instructions": {
                                 "en": "Store version will be available soon. Use direct download for immediate access to new features.",
@@ -46,7 +46,7 @@
                 "ios": {
                     "update_types": {
                         "store": {
-                            "enabled": true,
+                            "enabled": false,
                             "store_url": "https://apps.apple.com/app/id6754278334",
                             "install_instructions": {
                                 "en": "Download from App Store for the latest version with bug fixes and improvements.",
@@ -58,11 +58,11 @@
                 "macos": {
                     "update_types": {
                         "direct": {
-                            "enabled": true,
-                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.1.1/MegaV_VPN_3.1.1_macOS_Universal.dmg",
+                            "enabled": false,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.2.1/MegaV_VPN_3.2.1_macOS_Universal.dmg",
                             "install_instructions": {
-                                "en": "Download DMG file and follow installation instructions with bug fixes.",
-                                "ru": "Скачайте DMG файл и следуйте инструкциям установки с исправлениями ошибок."
+                                "en": "Download DMG file and follow installation instructions with new features.",
+                                "ru": "Скачайте DMG файл и следуйте инструкциям установки с новыми функциями."
                             }
                         },
                         "store": {
@@ -74,9 +74,39 @@
                             }
                         }
                     }
+                },
+                "windows": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": false,
+                            "architectures": {
+                                "x64": {
+                                    "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.1.2/MegaV_VPN_3.1.2_Windows_x64_Setup.exe",
+                                    "install_instructions": {
+                                        "en": "Download and run the installer. Administrator privileges required for VPN driver installation.",
+                                        "ru": "Скачайте и запустите установщик. Требуются права администратора для установки VPN драйвера."
+                                    }
+                                },
+                                "arm64": {
+                                    "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.1.2/MegaV_VPN_3.1.2_Windows_ARM64_Setup.exe",
+                                    "install_instructions": {
+                                        "en": "Download and run the ARM64 installer. Administrator privileges required for VPN driver installation.",
+                                        "ru": "Скачайте и запустите установщик для ARM64. Требуются права администратора для установки VPN драйвера."
+                                    }
+                                }
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "ms-windows-store://pdp/?productid=",
+                            "install_instructions": {
+                                "en": "Microsoft Store version coming soon.",
+                                "ru": "Версия для Microsoft Store скоро."
+                            }
+                        }
+                    }
                 }
             }
         }
     ]
-       
 }

@@ -1,115 +1,163 @@
 # MegaV VPN Privacy Policy
 
-**Your privacy matters to us**
+1. Introduction
+MegaV VPN is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our VPN service. By using MegaV VPN, you agree to the collection and use of information in accordance with this policy.
 
----
+2. Information We Collect
 
-**Welcome to MegaV VPN**
+2.1. Account Information:
+• Email address (for account creation and authentication)
+• Subscription status and payment information (processed securely through Apphud)
+• Account preferences and settings
 
-Before you start using our VPN service, please read and understand our Privacy Policy. This policy explains how we collect, use, and protect your personal information.
+2.2. Technical Data:
+• Device information (device type, operating system, app version)
+• Connection timestamps (for troubleshooting, retained maximum 24 hours)
+• Performance metrics (connection speed, server load)
+• Error logs and crash reports (with your consent)
 
----
+2.3. What We Do NOT Collect:
+• Your browsing history or online activity
+• DNS queries or IP addresses you visit
+• Content of your communications
+• Personal files or data stored on your device
 
-## 📊 Data Collection and Usage
+3. How We Use Your Information
 
-- We collect minimal technical data necessary for application functionality.
-- No personal information is stored or transmitted to third parties.
-- Connection logs are not retained beyond technical requirements.
-- We do not track or monitor user content consumption.
+We use collected information to:
+• Provide and maintain VPN service functionality
+• Process payments and manage subscriptions
+• Improve service performance and reliability
+• Troubleshoot technical issues
+• Send important service notifications
+• Comply with legal obligations
 
-## 📻 Radio Content Sources
+4. Third-Party Services
 
-- Our radio feature provides access to publicly available, free radio streams sourced from **Radio-Browser.info** (https://www.radio-browser.info/) - a free, community-driven, open-source radio station directory.
-- All radio stations are sourced exclusively from the Radio-Browser.info public API, which aggregates publicly accessible radio streams submitted by the community.
-- We do not host, own, or control any radio content - we merely aggregate publicly available streams from the Radio-Browser.info API.
-- Radio content is provided "as-is" from third-party public sources without any modifications.
-- All radio stream URLs are publicly accessible and freely distributed by the stations themselves through the Radio-Browser.info platform.
-- Users are responsible for their own compliance with local broadcasting laws when accessing radio content.
-- We respect copyright and will promptly remove any streams upon valid takedown requests.
+Essential Services (required for app functionality):
+• Firebase Authentication - secure user login and account management
+• Apphud - subscription and payment processing
+• VPN connection management - temporary logs for service operation
 
-### Radio Data Handling:
-- No personal listening data is collected or stored
-- Stream URLs are obtained from the public Radio-Browser.info API and are not proprietary
-- No monetization of radio content
-- No tracking of listening habits or preferences beyond local device settings
+Optional Services (with your consent):
+• Firebase Analytics - anonymous app usage statistics
+• AppsFlyer - marketing attribution and campaign analysis
+• Sentry - crash reports and error logging
 
-## 🔒 Data Security
+You can manage your consent for optional services in Settings → Privacy preferences.
 
-- All data transmission is encrypted using industry-standard protocols.
-- We implement appropriate security measures to protect user data.
-- No user data is sold or shared with third parties.
+5. Data Sharing and Disclosure
 
-## 🍪 Cookies and Tracking
+We do NOT:
+• Sell your personal data to third parties
+• Share your browsing activity or connection logs
+• Provide data to government agencies without legal requirement
+• Use your data for advertising purposes
 
-- We do not use cookies or tracking technologies.
-- Anonymous usage statistics may be collected for service improvement.
+We may disclose information only when:
+• Required by law or legal process
+• Necessary to protect our rights or prevent fraud
+• With your explicit consent
 
-## ⚙️ Data Processing Activities
+6. No-Logs Policy
 
-- VPN connection establishment and maintenance
-- Network routing and traffic management
-- Service performance monitoring
-- Error logging and troubleshooting
-- User authentication and authorization
+MegaV VPN operates under a strict no-logs policy:
+• We do NOT log your browsing activity, online behavior, or visited websites
+• We do NOT log your IP address, connection timestamps, or session information
+• We do NOT log DNS queries or any data transmitted through VPN connections
+• We do NOT monitor, collect, or store any information about your online activities
+• We cannot provide information we do not possess
 
-### Legal Basis for Processing:
-- Contract performance for VPN services
-- Legitimate interests for security and service improvement
-- Consent for optional features (analytics, crash reporting)
+Temporary Technical Data:
+• Connection logs retained maximum 24 hours for troubleshooting only
+• No association with user accounts or personal identifiers
+• Automatically deleted after 24 hours
+• Used solely for technical support and service improvement
 
-### Data Retention:
-- Technical logs: 24 hours maximum
-- Connection metadata: Not stored
-- User preferences: Until account deletion
+7. Independent Security Audits
 
-## 💾 Data Storage & Security
+To ensure transparency and verify our no-logs policy:
+• We conduct regular independent security audits
+• Third-party security firms review our infrastructure
+• Audit reports available upon request
+• We are committed to maintaining the highest security standards
 
-- All data is stored using industry-standard encryption
-- No logs of user activity or browsing history
-- Connection timestamps are not retained
-- User preferences stored locally on device
-- No third-party data sharing or selling
+8. Data Security
 
-### Data Location:
-- Servers located in privacy-friendly jurisdictions
-- No data stored in countries with mass surveillance laws
-- User data never leaves secure infrastructure
+• All data transmission encrypted using industry-standard protocols (AES-256)
+• Secure authentication and authorization systems
+• Regular security audits and updates
+• No logging of VPN traffic or browsing activity
+• Data stored in privacy-friendly jurisdictions
+• RAM-only servers (where applicable) for enhanced security
+• Automatic data deletion when servers restart
 
-### Data Minimization:
-- Only essential data collected for service operation
-- Regular data purging and cleanup procedures
-- No profiling or behavioral tracking
+9. Your Privacy Rights
 
-## 🇪🇺 GDPR Rights
+You have the right to:
+• Access your personal data
+• Correct inaccurate information
+• Delete your account and data
+• Export your data (data portability)
+• Withdraw consent for optional services
+• Object to data processing
 
-> Under GDPR, EU residents have rights to access, rectify, erase, and port their personal data. We collect minimal data necessary for functionality only. Contact us to exercise your rights.
+To exercise these rights, contact us at support@megav.store
 
-### Your Rights Include:
-- **Right to Access:** Request information about your personal data
-- **Right to Rectification:** Correct inaccurate personal data
-- **Right to Erasure:** Request deletion of your personal data
-- **Right to Data Portability:** Receive your data in a structured format
+10. Data Retention
 
-## 📞 Contact Information
+• Account data: Retained until account deletion
+• Technical logs: Maximum 24 hours
+• Connection metadata: Not stored
+• Analytics data: Aggregated and anonymized
 
-For any questions, concerns, or requests regarding your privacy and data protection rights, please contact us:
+11. Radio Content
 
-**Email:** info@megav.store
+• Radio streams provided by Radio-Browser.info public API
+• We do not host, own, or control any radio content
+• No personal listening data collected or stored
+• Stream URLs are publicly accessible
 
-### Data Protection Officer:
-- Process GDPR requests (access, rectification, erasure, portability)
-- Handle privacy-related inquiries and complaints
-- Provide information about data processing activities
+12. Law Enforcement Requests
 
-We are committed to responding to your inquiries within 30 days as required by applicable privacy laws.
+Transparency and Cooperation:
+• We comply with valid legal requests from law enforcement
+• Due to our no-logs policy, we cannot provide user activity data we do not possess
+• We will notify users of any data requests (when legally permitted)
+• We challenge overly broad or unconstitutional requests
+• All requests are reviewed by legal counsel
 
-### Legal Compliance:
-- GDPR compliance for EU residents
-- Privacy law compliance for all jurisdictions
-- Transparent data processing practices
+What We Can Provide:
+• Account information (email, subscription status)
+• Technical logs (if available, maximum 24 hours)
+• Payment information (processed by third-party providers)
 
----
+What We Cannot Provide:
+• Browsing history or online activity
+• IP addresses visited
+• Connection timestamps (beyond 24 hours)
+• DNS queries or website visits
+• Content of communications
 
-**MegaV VPN** - Secure, Private, Fast
+13. Jurisdiction and Legal Framework
 
-*Last updated: January 2025*
+• MegaV VPN operates under privacy-friendly jurisdiction
+• We are subject to laws that protect user privacy
+• No mandatory data retention laws apply to our operations
+• We structure our operations to maximize user privacy protection
+• Data stored in jurisdictions with strong privacy laws
+
+14. Changes to This Policy
+
+We may update this Privacy Policy periodically. Material changes will be notified through:
+• In-app notifications
+• Email to registered users
+• Updated version number in the app
+
+Continued use of the service after changes constitutes acceptance.
+
+15. Contact Information
+
+For privacy-related inquiries: support@megav.store
+
+Last updated: 2025
