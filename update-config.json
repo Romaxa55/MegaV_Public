@@ -67,10 +67,10 @@
                         },
                         "store": {
                             "enabled": false,
-                            "store_url": "",
+                            "store_url": "https://apps.apple.com/app/id6754278334",
                             "install_instructions": {
-                                "en": "Mac App Store version coming soon.",
-                                "ru": "Версия для Mac App Store скоро."
+                                "en": "Update available in the Mac App Store.",
+                                "ru": "Обновление доступно в Mac App Store."
                             }
                         }
                     }
