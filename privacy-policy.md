@@ -160,4 +160,4 @@ Continued use of the service after changes constitutes acceptance.
 
 For privacy-related inquiries: support@megav.store
 
-Last updated: 2025
+Last updated: November 2025
