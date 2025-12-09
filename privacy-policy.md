@@ -36,7 +36,6 @@ We use collected information to:
 
 Essential Services (required for app functionality):
 • Apphud - subscription and payment processing
-• Firebase Remote Config - remote application configuration management (interface settings, feature toggles, onboarding flows, subscription screens). This service is essential for app operation and allows us to update app behavior and appearance without requiring app store updates.
 • VPN connection management - temporary logs for service operation
 
 Optional Services (with your consent):
