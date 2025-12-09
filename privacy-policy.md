@@ -35,12 +35,12 @@ We use collected information to:
 4. Third-Party Services
 
 Essential Services (required for app functionality):
-• Firebase Authentication - secure user login and account management
 • Apphud - subscription and payment processing
+• Firebase Remote Config - remote application configuration management (interface settings, feature toggles, onboarding flows, subscription screens). This service is essential for app operation and allows us to update app behavior and appearance without requiring app store updates.
 • VPN connection management - temporary logs for service operation
 
 Optional Services (with your consent):
-• Firebase Analytics - anonymous app usage statistics
+• Firebase Analytics - anonymous app usage statistics and user behavior tracking. This service helps us understand how users interact with the app to improve user experience. All data is aggregated and anonymized, with no personal identification.
 • AppsFlyer - marketing attribution and campaign analysis
 • Sentry - crash reports and error logging
 
@@ -160,4 +160,4 @@ Continued use of the service after changes constitutes acceptance.
 
 For privacy-related inquiries: support@megav.store
 
-Last updated: November 2025
+Last updated: December 2025
