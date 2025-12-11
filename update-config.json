@@ -12,7 +12,7 @@
             "force_update": false,
             "rollout_percentage": 100,
             "min_app_version": "3.0.0",
-            "max_app_version": null,
+            "max_app_version": "3.2.1",
             "target_regions": [
                 "all"
             ],
