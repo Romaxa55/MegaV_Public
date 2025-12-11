@@ -3,7 +3,7 @@
     "last_updated": "2025-01-27T12:00:00Z",
     "updates": [
         {
-            "version": "3.2.2",
+            "version": "3.2.1",
             "build_number": "11250838",
             "release_date": "2025-01-27T12:00:00Z",
             "is_prerelease": false,
@@ -18,15 +18,15 @@
             ],
             "exclude_regions": [],
             "release_notes": {
-                "en": "## 🚀 MegaV 3.2.2 - Bug Fixes & Design Update\n\n### 🐛 **BUG FIXES**\n• Various bug fixes and error corrections\n• Improved stability and performance\n\n### 🎨 **DESIGN**\n• New design interface\n\n*Recommended update for all users.*",
-                "ru": "## 🚀 MegaV 3.2.2 - Исправления ошибок и новый дизайн\n\n### 🐛 **ИСПРАВЛЕНИЯ**\n• Различные исправления ошибок и багов\n• Улучшенная стабильность и производительность\n\n### 🎨 **ДИЗАЙН**\n• Новый дизайн интерфейса\n\n*Рекомендуемое обновление для всех пользователей.*"
+                "en": "## 🚀 MegaV 3.2.1 - Bug Fixes & Design Update\n\n### 🐛 **BUG FIXES**\n• Various bug fixes and error corrections\n• Improved stability and performance\n\n### 🎨 **DESIGN**\n• New design interface\n\n*Recommended update for all users.*",
+                "ru": "## 🚀 MegaV 3.2.1 - Исправления ошибок и новый дизайн\n\n### 🐛 **ИСПРАВЛЕНИЯ**\n• Различные исправления ошибок и багов\n• Улучшенная стабильность и производительность\n\n### 🎨 **ДИЗАЙН**\n• Новый дизайн интерфейса\n\n*Рекомендуемое обновление для всех пользователей.*"
             },
             "platforms": {
                 "android": {
                     "update_types": {
                         "direct": {
                             "enabled": false,
-                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.2.2/MegaV_VPN_3.2.2_Android.apk",
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.2.1/MegaV_VPN_3.2.1_Android.apk",
                             "install_instructions": {
                                 "en": "Download and install the latest version with bug fixes and new design.",
                                 "ru": "Скачайте и установите последнюю версию с исправлениями ошибок и новым дизайном."
