@@ -1,11 +1,11 @@
 {
     "config_version": "1.5",
-    "last_updated": "2025-11-25T12:00:00Z",
+    "last_updated": "2025-01-27T12:00:00Z",
     "updates": [
         {
-            "version": "3.2.1",
+            "version": "3.2.3",
             "build_number": "11250838",
-            "release_date": "2025-11-25T12:00:00Z",
+            "release_date": "2025-01-27T12:00:00Z",
             "is_prerelease": false,
             "is_critical": false,
             "is_mandatory": false,
@@ -18,27 +18,27 @@
             ],
             "exclude_regions": [],
             "release_notes": {
-                "en": "## 🚀 MegaV 3.2.1 - New Features & Improvements\n\n### ✨ **NEW FEATURES**\n• **iOS App Store Support** - Automatic update notifications for App Store version\n• **Enhanced Update System** - Better platform detection and update management\n• **Improved Stability** - Various bug fixes and performance improvements\n\n*Recommended update for all users.*",
-                "ru": "## 🚀 MegaV 3.2.1 - Новые функции и улучшения\n\n### ✨ **НОВЫЕ ФУНКЦИИ**\n• **Поддержка iOS App Store** - Автоматические уведомления об обновлениях для версии из App Store\n• **Улучшенная система обновлений** - Лучшее определение платформы и управление обновлениями\n• **Улучшенная стабильность** - Различные исправления ошибок и улучшения производительности\n\n*Рекомендуемое обновление для всех пользователей.*"
+                "en": "## 🚀 MegaV 3.2.3 - Bug Fixes & Design Update\n\n### 🐛 **BUG FIXES**\n• Various bug fixes and error corrections\n• Improved stability and performance\n\n### 🎨 **DESIGN**\n• New design interface\n\n*Recommended update for all users.*",
+                "ru": "## 🚀 MegaV 3.2.3 - Исправления ошибок и новый дизайн\n\n### 🐛 **ИСПРАВЛЕНИЯ**\n• Различные исправления ошибок и багов\n• Улучшенная стабильность и производительность\n\n### 🎨 **ДИЗАЙН**\n• Новый дизайн интерфейса\n\n*Рекомендуемое обновление для всех пользователей.*"
             },
             "platforms": {
                 "android": {
                     "update_types": {
                         "direct": {
                             "enabled": false,
-                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.2.1/MegaV_VPN_3.2.1_Android.apk",
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.2.3/MegaV_VPN_3.2.3_Android.apk",
                             "install_instructions": {
-                                "en": "Download and install the latest version with new features and improvements.",
-                                "ru": "Скачайте и установите последнюю версию с новыми функциями и улучшениями."
+                                "en": "Download and install the latest version with bug fixes and new design.",
+                                "ru": "Скачайте и установите последнюю версию с исправлениями ошибок и новым дизайном."
                             }
                         },
                         "store": {
                             "enabled": false,
-                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.2.1/MegaV-Store-3.2.1.aab",
-                            "store_url": "",
+                            "download_url": "https://play.google.com/store/apps/details?id=com.megav.secure",
+                            "store_url": "https://play.google.com/store/apps/details?id=com.megav.secure",
                             "install_instructions": {
-                                "en": "Store version will be available soon. Use direct download for immediate access to new features.",
-                                "ru": "Версия для магазина будет доступна скоро. Используйте прямую загрузку для немедленного доступа к новым функциям."
+                                "en": "Update available in Google Play Store with bug fixes and new design.",
+                                "ru": "Обновление доступно в Google Play Store с исправлениями ошибок и новым дизайном."
                             }
                         }
                     }
