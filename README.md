@@ -14,27 +14,29 @@ Available in 15 languages | [Русская версия](README_RU.md)
 
 ## Screenshots
 
+<details>
+<summary>iPhone</summary>
 <div align="center">
-
-**iPhone**
-
 <img src="screenshots/iphone_1.png" width="140" alt="MegaV VPN - Home">
 <img src="screenshots/iphone_2.png" width="140" alt="MegaV VPN - Connection">
 <img src="screenshots/iphone_3.png" width="140" alt="MegaV VPN - Servers">
 <img src="screenshots/iphone_4.png" width="140" alt="MegaV VPN - Settings">
 <img src="screenshots/iphone_5.png" width="140" alt="MegaV VPN - Features">
 <img src="screenshots/iphone_6.png" width="140" alt="MegaV VPN - Options">
+</div>
+</details>
 
-**iPad**
-
+<details>
+<summary>iPad</summary>
+<div align="center">
 <img src="screenshots/ipad_1.png" width="140" alt="MegaV VPN iPad - Home">
 <img src="screenshots/ipad_2.png" width="140" alt="MegaV VPN iPad - Connection">
 <img src="screenshots/ipad_3.png" width="140" alt="MegaV VPN iPad - Servers">
 <img src="screenshots/ipad_4.png" width="140" alt="MegaV VPN iPad - Settings">
 <img src="screenshots/ipad_5.png" width="140" alt="MegaV VPN iPad - Features">
 <img src="screenshots/ipad_6.png" width="140" alt="MegaV VPN iPad - Options">
-
 </div>
+</details>
 
 ---
 
