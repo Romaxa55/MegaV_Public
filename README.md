@@ -1,176 +1,96 @@
-# 🔒 MegaV VPN - Secure & Fast VPN
+# MegaV VPN — Secure & Private
 
 <div align="center">
 
-<img src="screenshots/app_icon.png" width="60" alt="MegaV VPN App Icon" style="border-radius: 22%;">
+<img src="screenshots/app_icon.png" width="60" alt="MegaV VPN" style="border-radius: 22%;">
 
 [![MegaV VPN](https://img.shields.io/badge/MegaV-VPN-blue?style=for-the-badge&logo=shield&logoColor=white)](https://megav.app)
-[![Download](https://img.shields.io/badge/Download-Free-green?style=for-the-badge&logo=download&logoColor=white)](https://megav.app/#download)
-[![Rating](https://img.shields.io/badge/Rating-4.8★-gold?style=for-the-badge&logo=star&logoColor=white)](https://megav.app)
 
-**🌍 Available in 15 Languages**
-
-**[🇷🇺 Русская версия / Russian Version](README_RU.md)**
+Available in 15 languages | [Русская версия](README_RU.md)
 
 </div>
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 <div align="center">
 
-### iPhone App
-<img src="screenshots/iphone_1.png" width="140" alt="MegaV VPN - Stay private, stay fast">
-<img src="screenshots/iphone_2.png" width="140" alt="MegaV VPN - Connection Screen">
-<img src="screenshots/iphone_3.png" width="140" alt="MegaV VPN - Server Selection">
+**iPhone**
+
+<img src="screenshots/iphone_1.png" width="140" alt="MegaV VPN - Home">
+<img src="screenshots/iphone_2.png" width="140" alt="MegaV VPN - Connection">
+<img src="screenshots/iphone_3.png" width="140" alt="MegaV VPN - Servers">
 <img src="screenshots/iphone_4.png" width="140" alt="MegaV VPN - Settings">
 <img src="screenshots/iphone_5.png" width="140" alt="MegaV VPN - Features">
-<img src="screenshots/iphone_6.png" width="140" alt="MegaV VPN - Advanced Options">
+<img src="screenshots/iphone_6.png" width="140" alt="MegaV VPN - Options">
 
-### iPad App
-<img src="screenshots/ipad_1.png" width="140" alt="MegaV VPN iPad - Stay private, stay fast">
-<img src="screenshots/ipad_2.png" width="140" alt="MegaV VPN iPad - Connection Screen">
-<img src="screenshots/ipad_3.png" width="140" alt="MegaV VPN iPad - Server Selection">
+**iPad**
+
+<img src="screenshots/ipad_1.png" width="140" alt="MegaV VPN iPad - Home">
+<img src="screenshots/ipad_2.png" width="140" alt="MegaV VPN iPad - Connection">
+<img src="screenshots/ipad_3.png" width="140" alt="MegaV VPN iPad - Servers">
 <img src="screenshots/ipad_4.png" width="140" alt="MegaV VPN iPad - Settings">
 <img src="screenshots/ipad_5.png" width="140" alt="MegaV VPN iPad - Features">
-<img src="screenshots/ipad_6.png" width="140" alt="MegaV VPN iPad - Advanced Options">
+<img src="screenshots/ipad_6.png" width="140" alt="MegaV VPN iPad - Options">
 
 </div>
 
 ---
 
-## 🚀 Download MegaV VPN
+## Download
 
-### 🌐 Official Websites
-
-All our domains lead to the same secure service:
-
-| Domain | Status |
+| Platform | Where to get |
 |---|---|
-| 🌐 [**megav.app**](https://megav.app) | ✅ Main Site |
-| 🌐 [**megav.store**](https://megav.store) | ✅ Active |
-| 🌐 [**megav-vpn.com**](https://megav-vpn.com) | ✅ Active |
-| 🌐 [**megav-vpn.app**](https://megav-vpn.app) | ✅ Active |
-| 🌐 [**megav.online**](https://megav.online) | ✅ Active |
-| 🌐 [**megav-vpn.online**](https://megav-vpn.online) | ✅ Active |
-| 🌐 [**megav-vpn.site**](https://megav-vpn.site) | ✅ Active |
-| 🌐 [**megav.site**](https://megav.site) | ✅ Active |
-| 🌐 [**megav-vpn.top**](https://megav-vpn.top) | ✅ Active |
-| 🌐 [**megav.top**](https://megav.top) | ✅ Active |
-| 🌐 [**megav.website**](https://megav.website) | ✅ Active |
-
-**[📱 Download Now](https://megav.app/#download)**
-
-### Platforms
-- 🤖 **Android** - Google Play Store, APK Direct
-- 🍎 **iOS** - Coming Soon
-- 📺 **Android TV** - Special TV version
-- 💻 **Windows, macOS, Linux** - Desktop versions
+| Android | [Google Play](https://play.google.com/store/apps/details?id=com.megav.secure) / [APK](https://megav.app/#download) |
+| iOS | [App Store](https://apps.apple.com/app/id6754278334) |
+| macOS | [App Store](https://apps.apple.com/app/id6754278334) |
+| Windows | [Download](https://megav.app/#download) |
 
 ---
 
-## ✨ Key Features
+## Features
 
-- 🛡️ **Military-Grade Encryption** - AES-256 data protection
-- 🚀 **Lightning-Fast Servers** - No speed limitations
-- 🌍 **Global Network** - 500+ servers in 50+ countries
-- 📺 **IPTV & Radio** - Access to public broadcasting
-- 🚫 **Ad Blocker** - Built-in ad blocking protection
-- 🔧 **Split Tunneling** - Choose which apps use VPN
-- 📊 **Zero Logs Policy** - Complete privacy protection
-- 🇪🇺 **GDPR Compliant** - European data protection
-- 💰 **100% Free** - No hidden fees
-- 📱 **All Platforms** - Android, iOS, Windows, macOS, Linux
+- **End-to-end encryption** — protect your data on any network
+- **No-logs policy** — we don't collect or store your traffic data
+- **Multi-platform** — one account on Android, iOS, macOS, and Windows
+- **Ad blocker** — built-in protection from trackers and ads
+- **Split tunneling** — choose which apps use VPN
+- **Kill switch** — automatic connection protection
+- **15 languages** — full localization
+- **6 themes** — dynamic theme system
 
 ---
 
-## 📊 Statistics
+## Supported Languages
 
-| Metric | Value |
-|---|---|
-| ⭐ User Rating | **4.8/5** ⭐⭐⭐⭐⭐ |
-| 👥 Active Users | **15,847+** |
-| 🌍 Countries | **50+** |
-| 🚀 Average Speed | **100+ Mbps** |
-| 🔒 Uptime | **99.9%** |
+Arabic, German, English, Spanish, French, Italian, Japanese, Korean, Polish, Portuguese, Russian, Thai, Ukrainian, Vietnamese, Chinese
 
 ---
 
-## 🔧 Technical Specifications
+## Legal
 
-### Security
-- **Encryption:** AES-256-GCM
-- **Protocols:** WireGuard, OpenVPN, IKEv2
-- **DNS Protection:** Secure DNS servers
-- **Kill Switch:** Automatic connection protection
-- **Leak Protection:** IPv6, DNS, WebRTC leak prevention
-
-### Network
-- **Servers:** 500+ in 50+ countries
-- **Bandwidth:** Unlimited
-- **Simultaneous Connections:** Up to 5 devices
+- [Privacy Policy](privacy-policy.md)
+- [Terms of Service](terms-of-service.md)
+- [GDPR Compliance](gdpr-compliance.md)
+- [License](LICENSE)
 
 ---
 
-## 🌍 Supported Languages
+## Support
 
-**15 languages with full localization:**
-
-🇸🇦 Arabic | 🇩🇪 German | 🇺🇸 English | 🇪🇸 Spanish | 🇫🇷 French | 🇮🇹 Italian | 🇯🇵 Japanese | 🇰🇷 Korean | 🇵🇱 Polish | 🇵🇹 Portuguese | 🇷🇺 Russian | 🇹🇭 Thai | 🇺🇦 Ukrainian | 🇻🇳 Vietnamese | 🇨🇳 Chinese
-
----
-
-## 📋 Legal Information
-
-- 🔐 [**Privacy Policy**](privacy-policy.md)
-- 📜 [**Terms of Service**](terms-of-service.md)
-- 🇪🇺 [**GDPR Compliance**](gdpr-compliance.md)
-- ⚖️ [**License**](LICENSE)
+- **Email:** support@megav.store
+- **Telegram:** [@MegaVSupport](https://t.me/MegaVSupport)
+- **Telegram Channel:** [@MegaVPN_Official](https://t.me/MegaVPN_Official)
 
 ---
 
-## 📞 Support & Contacts
-
-### Technical Support
-- 📧 **Email:** support@megav.store
-- 💬 **Telegram:** [@MegaVSupport](https://t.me/MegaVSupport)
-- 🌐 **Support Site:** [help.megav.app](https://help.megav.app)
-
-### Social Media
-- 📱 **Telegram:** [@MegaVPN_Official](https://t.me/MegaVPN_Official)
-- 🐦 **Twitter:** [@MegaVPN](https://twitter.com/MegaVPN)
-- 📘 **Facebook:** [MegaV VPN](https://www.facebook.com/profile.php?id=61581490672784)
-
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stars](https://img.shields.io/github/stars/Romaxa55/MegaV_Public?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/Romaxa55/MegaV_Public?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/Romaxa55/MegaV_Public)
-![GitHub License](https://img.shields.io/github/license/Romaxa55/MegaV_Public)
-
----
-
-## ⚠️ Important Notice
-
-This is a **public repository** containing documentation and configuration files only. **Source code is NOT available** in this repository. All content is provided for transparency and legal compliance.
-
----
-
-## 📅 Last Updated
-
-**January 2025**
-
----
+This is a public repository containing documentation, legal documents, and configuration files. Source code is not published here.
 
 <div align="center">
 
-**🔒 MegaV VPN - Secure & Fast VPN**
+*Your privacy, our priority*
 
-*Your Privacy, Our Priority*
-
-[![Download Now](https://img.shields.io/badge/Download%20Now-success?style=for-the-badge&logo=download)](https://megav.app/#download)
+[![Website](https://img.shields.io/badge/megav.app-website-blue?style=for-the-badge)](https://megav.app)
 
 </div>
