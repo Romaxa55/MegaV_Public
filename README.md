@@ -1,6 +1,6 @@
 <!-- banner image -->
 <p align="center">
-  <img src="https://megav.app/images/blog/split-vpn-vs-megav.webp" alt="MegaV VPN — VLESS Reality VPN with News & Radio" width="800" />
+  <img src="screenshots/banner.jpg" alt="MegaV VPN — VLESS Reality VPN with News & Radio" width="900" />
 </p>
 
 <h1 align="center">MegaV VPN</h1>
