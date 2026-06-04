@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <a href="https://megav.app">Website</a> •
+  <a href="https://megav.app?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en">Website</a> •
   <a href="https://t.me/MegaV_VPN">Telegram @MegaV_VPN</a> •
   <a href="https://habr.com/ru/articles/862698/">Habr Article (199K views)</a> •
   <a href="https://github.com/romaxa55/world_ip_tv">Free IPTV Playlists</a>
@@ -46,15 +46,15 @@
     <img src="https://img.shields.io/badge/⬇️%20App%20Store-Get%20MegaV%20VPN-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="56" alt="Download MegaV VPN on the App Store" />
   </a>
   &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.megav.secure">
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_en">
     <img src="https://img.shields.io/badge/⬇️%20Google%20Play-Get%20MegaV%20VPN-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="56" alt="Get MegaV VPN on Google Play" />
   </a>
   <br/><br/>
-  <a href="https://megav.app/download">
+  <a href="https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en">
     <img src="https://img.shields.io/badge/⬇️%20Android%20APK-Direct%20Download-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="48" alt="Download MegaV VPN APK for Android" />
   </a>
   &nbsp;
-  <a href="https://megav.app/download">
+  <a href="https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en">
     <img src="https://img.shields.io/badge/⬇️%20Windows-Download%20EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" height="48" alt="Download MegaV VPN for Windows" />
   </a>
 </p>
@@ -82,9 +82,9 @@ On top of the tunnel you get a **strict no-logs policy**, a **built-in ad blocke
 <p align="center">
   <a href="https://apps.apple.com/app/id6754278334"><img src="https://img.shields.io/badge/⬇️%20App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="44" alt="Download on the App Store" /></a>
   &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.megav.secure"><img src="https://img.shields.io/badge/⬇️%20Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="44" alt="Get it on Google Play" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_en"><img src="https://img.shields.io/badge/⬇️%20Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="44" alt="Get it on Google Play" /></a>
   &nbsp;
-  <a href="https://megav.app/download"><img src="https://img.shields.io/badge/⬇️%20APK%20%2F%20Windows-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="44" alt="Direct download from megav.app" /></a>
+  <a href="https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en"><img src="https://img.shields.io/badge/⬇️%20APK%20%2F%20Windows-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="44" alt="Direct download from megav.app" /></a>
 </p>
 
 ---
@@ -107,7 +107,7 @@ Grab fresh, working **free V2Ray / VLESS Reality / VMess / Trojan / Shadowsocks*
 - 📋 [**Full list — live server count, country & speed →**](subs/)
 
 > ⚠️ **Heads up:** public free configs rotate and **die within hours**. Tired of re-importing dead links every day?
-> **[⬇️ Install MegaV](https://megav.app/download)** — the app bundles these servers and **auto-configures itself**, so you always have a working connection. **3-day free trial**, no account, no manual setup.
+> **[⬇️ Install MegaV](https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en)** — the app bundles these servers and **auto-configures itself**, so you always have a working connection. **3-day free trial**, no account, no manual setup.
 
 <sub>Configs are community-contributed and provided for privacy &amp; educational use; third-party configs are not owned or hosted by MegaV. Use at your own risk and in line with your local laws.</sub>
 
@@ -142,15 +142,15 @@ Grab fresh, working **free V2Ray / VLESS Reality / VMess / Trojan / Shadowsocks*
     <img src="https://img.shields.io/badge/⬇️%20App%20Store-Get%20MegaV%20VPN-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="56" alt="Download MegaV VPN on the App Store" />
   </a>
   &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.megav.secure">
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_en">
     <img src="https://img.shields.io/badge/⬇️%20Google%20Play-Get%20MegaV%20VPN-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="56" alt="Get MegaV VPN on Google Play" />
   </a>
   <br/><br/>
-  <a href="https://megav.app/download">
+  <a href="https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en">
     <img src="https://img.shields.io/badge/⬇️%20Android%20APK-Direct%20Download-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="48" alt="Download MegaV VPN APK for Android" />
   </a>
   &nbsp;
-  <a href="https://megav.app/download">
+  <a href="https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en">
     <img src="https://img.shields.io/badge/⬇️%20Windows-Download%20EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" height="48" alt="Download MegaV VPN for Windows" />
   </a>
 </p>
@@ -158,9 +158,9 @@ Grab fresh, working **free V2Ray / VLESS Reality / VMess / Trojan / Shadowsocks*
 | Platform | Get it |
 |---|---|
 | **iOS** | [App Store](https://apps.apple.com/app/id6754278334) |
-| **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.megav.secure) · [Direct APK](https://megav.app/download) |
+| **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_en) · [Direct APK](https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en) |
 | **macOS** | [App Store](https://apps.apple.com/app/id6754278334) |
-| **Windows** | [megav.app/download](https://megav.app/download) |
+| **Windows** | [megav.app/download](https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en) |
 
 <p align="center">
   <sub>Every download is free. The app auto-configures its free community servers on first launch — no setup required.</sub>
@@ -272,9 +272,9 @@ MegaV ships with **free community-contributed V2Ray / Xray / VLESS servers** bui
 <p align="center">
   <a href="https://apps.apple.com/app/id6754278334"><img src="https://img.shields.io/badge/⬇️%20App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="44" alt="Download on the App Store" /></a>
   &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.megav.secure"><img src="https://img.shields.io/badge/⬇️%20Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="44" alt="Get it on Google Play" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_en"><img src="https://img.shields.io/badge/⬇️%20Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="44" alt="Get it on Google Play" /></a>
   &nbsp;
-  <a href="https://megav.app/download"><img src="https://img.shields.io/badge/⬇️%20APK%20%2F%20Windows-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="44" alt="Direct download from megav.app" /></a>
+  <a href="https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en"><img src="https://img.shields.io/badge/⬇️%20APK%20%2F%20Windows-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="44" alt="Direct download from megav.app" /></a>
 </p>
 
 ---
@@ -320,7 +320,7 @@ No. MegaV follows a strict no-logs policy and uses RAM-only servers.
 Android, iOS, macOS and Windows.
 
 **Where do I get it?**
-[App Store](https://apps.apple.com/app/id6754278334) · [Google Play](https://play.google.com/store/apps/details?id=com.megav.secure) · [Direct APK & Windows](https://megav.app/download)
+[App Store](https://apps.apple.com/app/id6754278334) · [Google Play](https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_en) · [Direct APK & Windows](https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en)
 
 ---
 
@@ -344,9 +344,9 @@ If MegaV helped you stay private online without the hassle of manual configs —
 <p align="center">
   <a href="https://apps.apple.com/app/id6754278334"><img src="https://img.shields.io/badge/⬇️%20App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="44" alt="Download on the App Store" /></a>
   &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.megav.secure"><img src="https://img.shields.io/badge/⬇️%20Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="44" alt="Get it on Google Play" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_en"><img src="https://img.shields.io/badge/⬇️%20Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="44" alt="Get it on Google Play" /></a>
   &nbsp;
-  <a href="https://megav.app/download"><img src="https://img.shields.io/badge/⬇️%20APK%20%2F%20Windows-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="44" alt="Direct download from megav.app" /></a>
+  <a href="https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en"><img src="https://img.shields.io/badge/⬇️%20APK%20%2F%20Windows-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="44" alt="Direct download from megav.app" /></a>
 </p>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=romaxa55/MegaV_Public&type=Date)](https://star-history.com/#romaxa55/MegaV_Public&Date)
@@ -364,7 +364,7 @@ If MegaV helped you stay private online without the hassle of manual configs —
 
 ## 📬 Contact & Community
 
-- **Website:** [megav.app](https://megav.app)
+- **Website:** [megav.app](https://megav.app?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en)
 - **Telegram:** [@MegaV_VPN](https://t.me/MegaV_VPN)
 - **Email:** support@megav.app
 
@@ -378,10 +378,10 @@ If MegaV helped you stay private online without the hassle of manual configs —
 
 ## License
 
-This project's documentation is released under the **MIT License** © [MegaV](https://megav.app). Community-contributed configs referenced by the app are third-party and not covered by this license.
+This project's documentation is released under the **MIT License** © [MegaV](https://megav.app?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en). Community-contributed configs referenced by the app are third-party and not covered by this license.
 
 ---
 
 <p align="center">
-  Made with ❤️ for online privacy · <a href="https://megav.app">megav.app</a> · <a href="https://t.me/MegaV_VPN">@MegaV_VPN</a> · support@megav.app
+  Made with ❤️ for online privacy · <a href="https://megav.app?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en">megav.app</a> · <a href="https://t.me/MegaV_VPN">@MegaV_VPN</a> · support@megav.app
 </p>

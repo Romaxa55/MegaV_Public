@@ -20,7 +20,7 @@
   <a href="https://github.com/romaxa55/MegaV_Public/stargazers">
     <img src="https://img.shields.io/github/stars/romaxa55/MegaV_Public?style=for-the-badge&color=FFD700&logo=github&label=Stars" alt="GitHub Stars" />
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.megav.secure">
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_zh">
     <img src="https://img.shields.io/badge/Google_Play-下载-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
   </a>
   <a href="https://apps.apple.com/app/id6754278334">
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <a href="https://megav.app">官方网站</a> •
+  <a href="https://megav.app?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_zh">官方网站</a> •
   <a href="https://t.me/MegaV_VPN">Telegram 频道 @MegaV_VPN</a> •
   <a href="https://github.com/romaxa55/world_ip_tv">免费 IPTV 直播源</a>
 </p>
@@ -58,17 +58,17 @@
     <img src="https://img.shields.io/badge/App_Store-在_iPhone_／_iPad_下载-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="56" alt="在 App Store 下载 MegaV VPN" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.megav.secure">
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_zh">
     <img src="https://img.shields.io/badge/Google_Play-安装_安卓版-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="56" alt="在 Google Play 安装 MegaV VPN" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://megav.app/download">
+  <a href="https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_zh">
     <img src="https://img.shields.io/badge/Android_APK-直接下载-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="56" alt="直接下载安卓 APK" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://megav.app/download">
+  <a href="https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_zh">
     <img src="https://img.shields.io/badge/Windows-下载_EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" height="56" alt="下载 Windows 版" />
   </a>
 </p>
@@ -87,7 +87,7 @@
 - 📋 [**完整列表 — 实时节点数、国家与速度 →**](subs/)
 
 > ⚠️ **提示：** 公共免费节点会轮换，**几小时内就会失效**。厌倦了每天重新导入失效链接？
-> **[⬇️ 安装 MegaV](https://megav.app/download)** — 应用内置这些服务器并**自动配置**，始终保持可用连接。**3 天免费试用**，无需账号、无需手动设置。
+> **[⬇️ 安装 MegaV](https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_zh)** — 应用内置这些服务器并**自动配置**，始终保持可用连接。**3 天免费试用**，无需账号、无需手动设置。
 
 <sub>节点由社区贡献，仅供隐私保护与学习研究之用；这些第三方配置并非由 MegaV 拥有、运营或托管。请自行承担使用风险并遵守当地法律。</sub>
 
@@ -115,7 +115,7 @@
     <img src="https://img.shields.io/badge/App_Store-免费下载-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="48" alt="在 App Store 下载 MegaV VPN" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.megav.secure">
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_zh">
     <img src="https://img.shields.io/badge/Google_Play-免费安装-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="48" alt="在 Google Play 安装 MegaV VPN" />
   </a>
 </p>
@@ -126,10 +126,10 @@
 
 | 平台 | 下载方式 |
 |---|---|
-| **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.megav.secure) · [APK 直链](https://megav.app/download) |
+| **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_zh) · [APK 直链](https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_zh) |
 | **iOS** | [App Store](https://apps.apple.com/app/id6754278334) |
 | **macOS** | [App Store](https://apps.apple.com/app/id6754278334) |
-| **Windows** | [megav.app/download](https://megav.app/download) |
+| **Windows** | [megav.app/download](https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_zh) |
 
 > 提供 **3 天免费试用**，内置的免费 V2Ray 社区节点无需注册即可使用。下载后无需任何手动设置——应用自动完成配置。
 
@@ -223,11 +223,11 @@ GFW 会通过主动探测来识别并封锁 VPN 服务器。VLESS Reality 的 TL
     <img src="https://img.shields.io/badge/App_Store-免费下载-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="48" alt="在 App Store 下载 MegaV VPN" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.megav.secure">
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_zh">
     <img src="https://img.shields.io/badge/Google_Play-免费安装-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="48" alt="在 Google Play 安装 MegaV VPN" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://megav.app/download">
+  <a href="https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_zh">
     <img src="https://img.shields.io/badge/APK_／_Windows-megav.app/download-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="48" alt="下载 APK 或 Windows 版" />
   </a>
 </p>
@@ -301,7 +301,7 @@ Android、iOS、macOS、Windows，一个应用全平台可用。
     <img src="https://img.shields.io/badge/App_Store-免费下载_MegaV-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="50" alt="在 App Store 下载 MegaV VPN" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.megav.secure">
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure&referrer=utm_source%3Dgithub%26utm_medium%3Drepo_readme%26utm_campaign%3Dmegav_public_zh">
     <img src="https://img.shields.io/badge/Google_Play-免费安装_MegaV-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="50" alt="在 Google Play 安装 MegaV VPN" />
   </a>
 </p>
@@ -351,7 +351,7 @@ MegaV 已完整翻译为 **13 种语言**，并为阿拉伯语和波斯语提供
 
 ## 联系与社区
 
-- **官方网站：** [megav.app](https://megav.app)
+- **官方网站：** [megav.app](https://megav.app?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_zh)
 - **邮箱：** support@megav.app
 - **Telegram 频道：** [@MegaV_VPN](https://t.me/MegaV_VPN)
 
@@ -366,5 +366,5 @@ MegaV 已完整翻译为 **13 种语言**，并为阿拉伯语和波斯语提供
 ---
 
 <p align="center">
-  用 ❤️ 为注重隐私的用户打造 · <a href="https://megav.app">megav.app</a> · <a href="https://t.me/MegaV_VPN">@MegaV_VPN</a>
+  用 ❤️ 为注重隐私的用户打造 · <a href="https://megav.app?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_zh">megav.app</a> · <a href="https://t.me/MegaV_VPN">@MegaV_VPN</a>
 </p>
