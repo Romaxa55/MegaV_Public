@@ -106,7 +106,7 @@ MegaV یک **پروژه‌ی متن‌باز و حریم‌خصوصی‌محور
 
 - 📦 [**همهٔ پروتکل‌ها (ساب)**](subs/all.txt) · [VLESS](subs/vless.txt) · [VMess](subs/vmess.txt) · [Trojan](subs/trojan.txt) · [Shadowsocks](subs/ss.txt) · [SS-2022](subs/ss2022.txt)
 - 📋 [**فهرست کامل — تعداد زندهٔ سرورها، کشور و سرعت ←**](subs/)
-- 🌍 [**کانفیگ‌ها بر اساس کشور و پروتکل ←**](https://romaxa55.github.io/MegaV_Public/)
+- 🌍 [**کانفیگ‌ها بر اساس کشور و پروتکل ←**](https://romaxa55.github.io/MegaV_Public/fa/)
 
 > ⚠️ **توجه:** کانفیگ‌های رایگانِ عمومی می‌چرخند و **ظرف چند ساعت از کار می‌افتند**. خسته از وارد کردن لینک‌های مرده هر روز؟
 > **[⬇️ MegaV را نصب کنید](https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_fa)** — اپلیکیشن این سرورها را در خود دارد و **به‌صورت خودکار پیکربندی می‌شود**؛ همیشه یک اتصال سالم در دسترس دارید. **۳ روز رایگان**، بدون حساب کاربری و بدون تنظیم دستی.

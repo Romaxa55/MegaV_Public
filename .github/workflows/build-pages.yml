@@ -31,3 +31,5 @@ jobs:
           git add docs
           git commit -m "chore(pages): rebuild $(date -u +%F)" || { echo "no changes"; exit 0; }
           git push
+      - name: Ping IndexNow
+        run: python3 scripts/indexnow_submit.py || true
