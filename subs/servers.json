@@ -1,13 +1,23 @@
 {
-  "updated_at": "2026-06-04T12:00:39Z",
-  "total": 8,
+  "updated_at": "2026-06-04T16:00:34Z",
+  "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
-    "vless": 2,
-    "vmess": 2
+    "vless": 2
   },
   "servers": [
+    {
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 389,
+      "bandwidth_kbs": 471,
+      "url": "vless://197f5e5c-fc15-4db6-8444-50248c2c394d@27.50.48.49:443?encryption=none\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=somersby.pt.cyylr.eu.cc\u0026type=ws#megav.app"
+    },
     {
       "protocol": "vless",
       "country_code": "GB",
@@ -20,50 +30,6 @@
       "url": "vless://9bab5218-ce9f-4991-9887-8b3605a27d5e@104.17.3.81:443?encryption=none\u0026host=graph.instagram.com.cyylr.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=graph.instagram.com.cyylr.eu.cc\u0026type=ws#megav.app"
     },
     {
-      "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 445,
-      "bandwidth_kbs": 440,
-      "url": "vless://adffad16-ed8f-4020-97b5-64d1c4548222@188.114.97.6:443?encryption=none\u0026host=www.genflix.co.id.cyylr.eu.cc\u0026path=%2Fmy-wbv\u0026security=tls\u0026sni=www.genflix.co.id.cyylr.eu.cc\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Brentford",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 519,
-      "bandwidth_kbs": 479,
-      "url": "vmess://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=auto\u0026security=tls\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Brentford",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 745,
-      "bandwidth_kbs": 490,
-      "url": "vmess://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=http%2F1.1\u0026encryption=auto\u0026security=tls\u0026sni=uk5.taskflowhub.org\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 868,
-      "bandwidth_kbs": 463,
-      "url": "trojan://humanity@104.18.7.147:443?insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
-    },
-    {
       "protocol": "trojan",
       "country_code": "FI",
       "flag": "🇫🇮",
@@ -73,6 +39,17 @@
       "response_ms": 1218,
       "bandwidth_kbs": 465,
       "url": "trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?fp=chrome\u0026security=tls\u0026sni=singingrobot.click\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1532,
+      "bandwidth_kbs": 496,
+      "url": "trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?fp=chrome\u0026security=tls\u0026sni=172.238.120.124\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
