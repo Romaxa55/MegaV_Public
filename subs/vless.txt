@@ -1,2 +1,2 @@
 vless://197f5e5c-fc15-4db6-8444-50248c2c394d@27.50.48.49:443?encryption=none&path=%2Fsg-amz&security=tls&sni=somersby.pt.cyylr.eu.cc&type=ws#megav.app
-vless://9bab5218-ce9f-4991-9887-8b3605a27d5e@104.17.3.81:443?encryption=none&host=graph.instagram.com.cyylr.eu.cc&path=%2Fsg-amz&security=tls&sni=graph.instagram.com.cyylr.eu.cc&type=ws#megav.app
+vless://7a422005-fbc1-4e92-b56c-3306ddbcd8c8@104.19.229.21:443?encryption=none&host=graph.instagram.com.cyylr.eu.cc&path=%2Fsg-amz&security=tls&sni=graph.instagram.com.cyylr.eu.cc&type=ws#megav.app
