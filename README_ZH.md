@@ -79,6 +79,20 @@
 
 ---
 
+## 🆓 免费 V2Ray / VLESS / VMess / Trojan / Shadowsocks 节点
+
+获取新鲜可用的**免费 V2Ray / VLESS Reality / VMess / Trojan / Shadowsocks 节点**——社区贡献，持续更新：
+
+- 📦 [**全部协议（订阅）**](subs/all.txt) · [VLESS](subs/vless.txt) · [VMess](subs/vmess.txt) · [Trojan](subs/trojan.txt) · [Shadowsocks](subs/ss.txt) · [SS-2022](subs/ss2022.txt)
+- 📋 [**完整列表 — 实时节点数、国家与速度 →**](subs/)
+
+> ⚠️ **提示：** 公共免费节点会轮换，**几小时内就会失效**。厌倦了每天重新导入失效链接？
+> **[⬇️ 安装 MegaV](https://megav.app/download)** — 应用内置这些服务器并**自动配置**，始终保持可用连接。**3 天免费试用**，无需账号、无需手动设置。
+
+<sub>节点由社区贡献，仅供隐私保护与学习研究之用；这些第三方配置并非由 MegaV 拥有、运营或托管。请自行承担使用风险并遵守当地法律。</sub>
+
+---
+
 ## 主要功能
 
 | 功能 | 说明 |

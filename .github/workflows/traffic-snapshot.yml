@@ -1,0 +1,71 @@
+name: Traffic snapshot
+
+# GitHub keeps only the last 14 days of repo traffic. This snapshots the
+# Traffic API daily into committed JSON + a rolling CSV so SEO/funnel
+# before/after can actually be measured (revenue plan: stop data evaporation).
+#
+# SETUP (one-time): add a repo secret TRAFFIC_PAT = a classic PAT with
+# "repo" scope (the default GITHUB_TOKEN often lacks Traffic API access,
+# which requires push/admin). Settings → Secrets and variables → Actions.
+
+on:
+  schedule:
+    - cron: '17 3 * * *'   # daily at 03:17 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch GitHub Traffic API
+        env:
+          GH_TOKEN: ${{ secrets.TRAFFIC_PAT }}
+        run: |
+          set -e
+          mkdir -p data/traffic
+          R="${GITHUB_REPOSITORY}"
+          gh api "repos/$R/traffic/views"             > data/traffic/views-latest.json     || true
+          gh api "repos/$R/traffic/clones"            > data/traffic/clones-latest.json    || true
+          gh api "repos/$R/traffic/popular/referrers" > data/traffic/referrers-latest.json || true
+          gh api "repos/$R/traffic/popular/paths"     > data/traffic/paths-latest.json     || true
+
+      - name: Append compact daily rows to CSV
+        run: |
+          python3 - <<'PY'
+          import json, os, csv, datetime
+          d = "data/traffic"
+          today = datetime.datetime.utcnow().strftime("%Y-%m-%d")
+          def load(f):
+              p = os.path.join(d, f)
+              try:
+                  return json.load(open(p))
+              except Exception:
+                  return {}
+          views = load("views-latest.json"); clones = load("clones-latest.json")
+          refs  = load("referrers-latest.json"); paths = load("paths-latest.json")
+          summary = os.path.join(d, "daily-summary.csv")
+          new = not os.path.exists(summary)
+          with open(summary, "a", newline="") as fh:
+              wr = csv.writer(fh)
+              if new:
+                  wr.writerow(["date","views_14d","uniques_14d","clones_14d","clone_uniques_14d","top_referrer","top_referrer_uniques"])
+              tr = (refs[0] if isinstance(refs, list) and refs else {})
+              wr.writerow([today,
+                           views.get("count",""), views.get("uniques",""),
+                           clones.get("count",""), clones.get("uniques",""),
+                           tr.get("referrer",""), tr.get("uniques","")])
+          print("appended", today)
+          PY
+
+      - name: Commit snapshot
+        run: |
+          git config user.name  "megav-traffic-bot"
+          git config user.email "bot@megav.app"
+          git add data/traffic
+          git commit -m "chore(traffic): daily snapshot $(date -u +%F)" || { echo "no changes"; exit 0; }
+          git push
