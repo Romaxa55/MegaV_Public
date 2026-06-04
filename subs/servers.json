@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T02:24:59Z",
+  "updated_at": "2026-06-04T04:00:37Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -21,14 +21,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Dreieich",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 468,
-      "bandwidth_kbs": 493,
-      "url": "vless://7a422005-fbc1-4e92-b56c-3306ddbcd8c8@104.19.229.21:443?encryption=none\u0026host=graph.instagram.com.cyylr.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=graph.instagram.com.cyylr.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 463,
+      "bandwidth_kbs": 475,
+      "url": "vless://79863d42-9f1c-4e8e-a65b-1003090871c1@45.147.248.115:443?encryption=none\u0026fp=chrome\u0026host=confighaye.mokhaberatebinzon.workers.dev\u0026path=%2FeyJqdW5rIjoiUHVXcXFjYTJGVGI3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560\u0026security=tls\u0026sni=coNFIghayE.moKhaBeraTebInZON.workErS.deV\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
