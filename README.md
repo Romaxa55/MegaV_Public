@@ -3,10 +3,11 @@
   <img src="screenshots/banner.jpg" alt="MegaV — Free VPN with VLESS Reality, V2Ray, Xray, VMess, Trojan, Shadowsocks & WireGuard configs" width="900" />
 </p>
 
-<h1 align="center">MegaV VPN — Free VPN with VLESS Reality, V2Ray &amp; Xray Configs</h1>
+<h1 align="center">MegaV VPN — Free VPN with VLESS Reality, V2Ray &amp; Xray</h1>
 
 <p align="center">
-  <strong>Free, privacy-first VPN app with built-in community V2Ray / VLESS Reality / VMess / Trojan / Shadowsocks / WireGuard configs — no-logs, ad blocker, kill switch.</strong>
+  <strong>The free, privacy-first VPN app that configures itself.</strong><br/>
+  Built on <strong>VLESS Reality / V2Ray / Xray</strong> with free community servers built in — <strong>just install, open and connect</strong>. No-logs, ad blocker, kill switch. Android · iOS · macOS · Windows.
 </p>
 
 <p align="center">
@@ -21,14 +22,8 @@
   <a href="https://github.com/romaxa55/MegaV_Public/stargazers">
     <img src="https://img.shields.io/github/stars/romaxa55/MegaV_Public?style=for-the-badge&color=FFD700&logo=github&label=Stars" alt="GitHub Stars" />
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.megav.secure">
-    <img src="https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
-  </a>
-  <a href="https://apps.apple.com/app/id6754278334">
-    <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" />
-  </a>
   <img src="https://img.shields.io/badge/Platforms-Android%20%7C%20iOS%20%7C%20macOS%20%7C%20Windows-blueviolet?style=for-the-badge" alt="Platforms" />
-  <a href="https://img.shields.io/github/v/release/romaxa55/MegaV_Public">
+  <a href="https://github.com/romaxa55/MegaV_Public/releases">
     <img src="https://img.shields.io/github/v/release/romaxa55/MegaV_Public?style=for-the-badge&label=Version&color=success" alt="Latest Version" />
   </a>
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License: MIT" />
@@ -45,25 +40,62 @@
   <a href="https://github.com/romaxa55/world_ip_tv">Free IPTV Playlists</a>
 </p>
 
+<!-- ===================== PRIMARY DOWNLOAD CTA ===================== -->
+<p align="center">
+  <a href="https://apps.apple.com/app/id6754278334">
+    <img src="https://img.shields.io/badge/⬇️%20App%20Store-Get%20MegaV%20VPN-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="56" alt="Download MegaV VPN on the App Store" />
+  </a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure">
+    <img src="https://img.shields.io/badge/⬇️%20Google%20Play-Get%20MegaV%20VPN-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="56" alt="Get MegaV VPN on Google Play" />
+  </a>
+  <br/><br/>
+  <a href="https://megav.app/download">
+    <img src="https://img.shields.io/badge/⬇️%20Android%20APK-Direct%20Download-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="48" alt="Download MegaV VPN APK for Android" />
+  </a>
+  &nbsp;
+  <a href="https://megav.app/download">
+    <img src="https://img.shields.io/badge/⬇️%20Windows-Download%20EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" height="48" alt="Download MegaV VPN for Windows" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>🆓 Free to download · No account · No manual setup — the app auto-configures and connects in one tap.</sub>
+</p>
+
 ---
 
 ## What is MegaV?
 
-**MegaV is a free, privacy-first VPN app** for **Android, iOS, macOS and Windows** that supports **VLESS Reality, VMess, Trojan, Shadowsocks and WireGuard**, ships with **free community V2Ray / Xray configs built right into the app**, a **strict no-logs policy**, a **built-in ad blocker**, **split tunneling** and a **kill switch** — plus extras like built-in news, internet radio and free IPTV playlists.
+**MegaV is a free, privacy-first VPN app** for **Android, iOS, macOS and Windows**, built on **VLESS Reality** and the **Xray / V2Ray** core, with support for **VMess, Trojan, Shadowsocks and WireGuard**.
 
-It's an open-source-client, community-driven project for people who care about **online privacy** and want a working **free VPN config** without hunting for dead subscription links. The free V2Ray / Xray servers are **community-contributed**, refreshed regularly, and require **no signup, no account and no payment** — just install, open and connect.
+Unlike raw config tools, MegaV is a **managed, polished VPN client with its own servers**. You don't import anything, edit anything, or hunt for working links — **the app configures itself automatically**. Install it, open it, tap **Connect**, and you're protected.
 
-> **🆓 Tired of importing dead V2Ray configs every day?** MegaV bundles fresh community **VLESS Reality / V2Ray / Xray servers** inside the app — no manual config import, no subscription juggling, no payment.
+- 🆓 **Free community V2Ray / Xray servers** — built into the app, refreshed regularly, no signup
+- ⏱️ **3-day free trial** of premium features — no commitment
+- 🚀 **Paid stable servers** — fast, reliable exits when you want them
+
+On top of the tunnel you get a **strict no-logs policy**, a **built-in ad blocker**, **split tunneling**, a **kill switch**, plus extras like built-in news, internet radio and free IPTV playlists. It's an **open-source client**, community-driven project for people who care about **online privacy**.
+
+> **🆓 Tired of hunting for working VPN configs?** MegaV bundles fresh community **VLESS Reality / V2Ray / Xray servers** inside the app — nothing to import, nothing to configure, no subscription juggling. Just download and connect.
+
+<p align="center">
+  <a href="https://apps.apple.com/app/id6754278334"><img src="https://img.shields.io/badge/⬇️%20App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="44" alt="Download on the App Store" /></a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure"><img src="https://img.shields.io/badge/⬇️%20Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="44" alt="Get it on Google Play" /></a>
+  &nbsp;
+  <a href="https://megav.app/download"><img src="https://img.shields.io/badge/⬇️%20APK%20%2F%20Windows-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="44" alt="Direct download from megav.app" /></a>
+</p>
 
 ---
 
 ## ⚡ Quick Start
 
-1. **[Download the app](#-download)** for Android, iOS, macOS or Windows.
-2. Open MegaV — the built-in **free community V2Ray / VLESS servers** load automatically.
-3. Tap **Connect**. That's it — no account, no config import, no subscription link required.
+1. **[Download MegaV](#-download)** for Android, iOS, macOS or Windows.
+2. Open the app — the built-in **free community V2Ray / VLESS servers** load automatically.
+3. Tap **Connect**. That's it.
 
-Prefer to bring your own config? MegaV also imports **VLESS / VMess / Trojan / Shadowsocks / WireGuard** configs via **QR code, clipboard, or subscription (sub) URL**.
+No account. No config import. No subscription link to track down. The app does the setup for you.
 
 ---
 
@@ -73,8 +105,8 @@ Prefer to bring your own config? MegaV also imports **VLESS / VMess / Trojan / S
 |---|---|
 | 🔐 **VLESS Reality** | Modern privacy protocol — traffic blends in with ordinary HTTPS |
 | 🧩 **Multi-Protocol** | VLESS Reality, VMess, Trojan, Shadowsocks, WireGuard (Xray / V2Ray core) |
-| 🆓 **Free V2Ray / Xray Configs** | Community-contributed free servers built into the app — no signup |
-| 🔗 **Subscription Support** | Import any config via QR code, clipboard, or subscription (sub) link |
+| 🆓 **Free V2Ray / Xray Servers** | Community-contributed free servers built into the app — no signup, no import |
+| ⚙️ **Auto-Configured** | The app sets everything up for you — install and connect in one tap |
 | 🛡️ **AES-256 Encryption** | Strong encryption on every connection |
 | 📵 **Strict No-Logs Policy** | Zero activity logs, RAM-only servers |
 | 🚫 **Built-in Ad Blocker** | Block ads, trackers and malware at the DNS level |
@@ -83,7 +115,7 @@ Prefer to bring your own config? MegaV also imports **VLESS / VMess / Trojan / S
 | 📰 **Built-in News** | Read global news without leaving the app |
 | 📻 **Built-in Radio** | Stream 10,000+ internet radio stations |
 | 📺 **Free IPTV Playlists** | Free live-TV channels via M3U playlists |
-| 🆓 **3-Day Free Trial** | Full premium features, no commitment |
+| ⏱️ **3-Day Free Trial** | Full premium features, no commitment |
 | 🌍 **13+ Languages** | EN, RU, ZH, ES, DE, FR, JA, KO, VI, AR, FA, IT, TR |
 | 🎨 **6 Themes** | Light, dark and four accent colour schemes |
 
@@ -92,29 +124,33 @@ Prefer to bring your own config? MegaV also imports **VLESS / VMess / Trojan / S
 ## 📥 Download
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.megav.secure">
-    <img src="https://img.shields.io/badge/Google_Play-Get_MegaV_VPN-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="50" alt="Get MegaV VPN on Google Play" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://apps.apple.com/app/id6754278334">
-    <img src="https://img.shields.io/badge/App_Store-Get_MegaV_VPN-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="50" alt="Download MegaV VPN on the App Store" />
+    <img src="https://img.shields.io/badge/⬇️%20App%20Store-Get%20MegaV%20VPN-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="56" alt="Download MegaV VPN on the App Store" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://megav.app/download">
-    <img src="https://img.shields.io/badge/APK-Direct_Download-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="50" alt="Download MegaV VPN APK for Android" />
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure">
+    <img src="https://img.shields.io/badge/⬇️%20Google%20Play-Get%20MegaV%20VPN-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="56" alt="Get MegaV VPN on Google Play" />
   </a>
-  &nbsp;&nbsp;
+  <br/><br/>
   <a href="https://megav.app/download">
-    <img src="https://img.shields.io/badge/Windows-Download_EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" height="50" alt="Download MegaV VPN for Windows" />
+    <img src="https://img.shields.io/badge/⬇️%20Android%20APK-Direct%20Download-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="48" alt="Download MegaV VPN APK for Android" />
+  </a>
+  &nbsp;
+  <a href="https://megav.app/download">
+    <img src="https://img.shields.io/badge/⬇️%20Windows-Download%20EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" height="48" alt="Download MegaV VPN for Windows" />
   </a>
 </p>
 
 | Platform | Get it |
 |---|---|
-| **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.megav.secure) · [Direct APK](https://megav.app/download) |
 | **iOS** | [App Store](https://apps.apple.com/app/id6754278334) |
+| **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.megav.secure) · [Direct APK](https://megav.app/download) |
 | **macOS** | [App Store](https://apps.apple.com/app/id6754278334) |
 | **Windows** | [megav.app/download](https://megav.app/download) |
+
+<p align="center">
+  <sub>Every download is free. The app auto-configures its free community servers on first launch — no setup required.</sub>
+</p>
 
 ---
 
@@ -129,6 +165,7 @@ Prefer to bring your own config? MegaV also imports **VLESS / VMess / Trojan / S
 <img src="screenshots/iphone_4.jpg" width="150" alt="MegaV VPN — privacy and no-logs settings" />
 <img src="screenshots/iphone_5.jpg" width="150" alt="MegaV VPN — built-in ad blocker and split tunneling" />
 <img src="screenshots/iphone_6.jpg" width="150" alt="MegaV VPN — protocol options (VLESS, VMess, Trojan, Shadowsocks)" />
+<img src="screenshots/iphone_7.jpg" width="150" alt="MegaV VPN — connection stats and themes" />
 </p>
 </details>
 
@@ -141,6 +178,7 @@ Prefer to bring your own config? MegaV also imports **VLESS / VMess / Trojan / S
 <img src="screenshots/ipad_4.jpg" width="200" alt="MegaV VPN on iPad — settings" />
 <img src="screenshots/ipad_5.jpg" width="200" alt="MegaV VPN on iPad — features" />
 <img src="screenshots/ipad_6.jpg" width="200" alt="MegaV VPN on iPad — options" />
+<img src="screenshots/ipad_7.jpg" width="200" alt="MegaV VPN on iPad — privacy dashboard" />
 </p>
 </details>
 
@@ -159,13 +197,13 @@ Prefer to bring your own config? MegaV also imports **VLESS / VMess / Trojan / S
 
 ## Why MegaV? The Competition Can't Keep Up
 
-Most mainstream VPNs rely on **OpenVPN** or plain **WireGuard** — protocols that are easily fingerprinted by modern **Deep Packet Inspection (DPI)** systems. On restrictive networks they tend to stop working fast. MegaV is built on **VLESS Reality** and the **Xray / V2Ray** core, so connections look like ordinary HTTPS traffic and keep working where generic VPN protocols are throttled or blocked.
+Most mainstream VPNs rely on **OpenVPN** or plain **WireGuard** — protocols that are easily fingerprinted by modern **Deep Packet Inspection (DPI)** systems, so on restrictive networks they tend to stop working fast. MegaV is built on **VLESS Reality** and the **Xray / V2Ray** core, so connections look like ordinary HTTPS traffic and keep working where generic VPN protocols are throttled or blocked. And unlike raw config tools, MegaV manages it all for you — **no manual setup, ever**.
 
 | | MegaV VPN | NordVPN | Surfshark | ProtonVPN |
 |---|:---:|:---:|:---:|:---:|
 | VLESS Reality (anti-DPI) | ✅ | ❌ | ❌ | ❌ |
 | Xray / V2Ray core | ✅ | ❌ | ❌ | ❌ |
-| Free community configs built in | ✅ | ❌ | ❌ | ❌ |
+| Free servers built in (auto-configured) | ✅ | ❌ | ❌ | ❌ |
 | Designed for restrictive networks | ✅ | ⚠️ | ⚠️ | ⚠️ |
 | Built-in Ad Blocker | ✅ | ✅ | ✅ | ✅ |
 | Built-in News & Radio | ✅ | ❌ | ❌ | ❌ |
@@ -179,27 +217,27 @@ Most mainstream VPNs rely on **OpenVPN** or plain **WireGuard** — protocols th
 
 ## Built for Restrictive Networks & Privacy-Conscious Users
 
-MegaV and its community-contributed **VLESS Reality / V2Ray** configs are popular with privacy-focused users on heavily-filtered networks — including those in **Russia, China, Turkey and Iran** — who want their data protected from interception and surveillance. The protocol design makes VPN traffic hard to distinguish from normal HTTPS.
+MegaV's **VLESS Reality / V2Ray** technology is popular with privacy-focused users on heavily-filtered networks — including those in **Russia, China, Turkey and Iran** — who want their data protected from interception and surveillance. The protocol design makes VPN traffic hard to distinguish from normal HTTPS.
 
 ### 🇷🇺 Russia (Россия)
-Many generic VPN protocols are unreliable on Russian networks. **VLESS Reality** configs are popular among privacy-conscious users in Russia because their traffic profile blends in with ordinary HTTPS.
+Many generic VPN protocols are unreliable on Russian networks. **VLESS Reality** is popular among privacy-conscious users in Russia because its traffic profile blends in with ordinary HTTPS.
 
 ### 🇨🇳 China (中国) — The Great Firewall (GFW)
-The GFW uses active probing to detect proxy servers. VLESS Reality's TLS camouflage is designed to respond legitimately to direct HTTPS requests, which is why these configs are popular with privacy-seeking users behind the GFW.
+The GFW uses active probing to detect proxy servers. VLESS Reality's TLS camouflage is designed to respond legitimately to direct HTTPS requests, which is why it's popular with privacy-seeking users behind the GFW.
 
 ### 🇹🇷 Turkey
-During periodic restrictions on social platforms and VPN services, **VLESS Reality** configs remain a community favourite for users who want a private, encrypted connection.
+During periodic restrictions on social platforms and VPN services, **VLESS Reality** remains a community favourite for users who want a private, encrypted connection.
 
 ### 🇮🇷 Iran (ایران)
-**VLESS Reality** configs are popular among privacy-focused users in Iran who want to protect their data. *(Note: due to applicable export and sanctions regulations, Iran-based servers are not distributed through this project — the configs referenced here are community-contributed and not owned, operated or hosted by MegaV.)*
+**VLESS Reality** is popular among privacy-focused users in Iran who want to protect their data. *(Note: due to applicable export and sanctions regulations, Iran-based servers are not distributed through this project — the community configs referenced here are not owned, operated or hosted by MegaV.)*
 
-> 🌍 The geographic terms above describe the **audiences** that use these community configs for privacy. MegaV does not officially provide a circumvention service to any sanctioned region.
+> 🌍 The geographic terms above describe the **audiences** that value private, encrypted connections. MegaV does not officially provide a circumvention service to any sanctioned region.
 
 ---
 
 ## Supported Protocols
 
-MegaV runs on the **Xray / V2Ray** core and supports all major modern proxy protocols. Import any config via **QR code, clipboard, or subscription (sub) URL** — or just use the free community servers already inside the app.
+MegaV runs on the **Xray / V2Ray** core and supports all major modern proxy protocols out of the box. The app picks and configures the right protocol for you automatically — just connect.
 
 | Protocol | DPI-Resistance | Speed | Best For |
 |---|:---:|:---:|---|
@@ -211,11 +249,19 @@ MegaV runs on the **Xray / V2Ray** core and supports all major modern proxy prot
 
 ---
 
-## Free Community V2Ray / Xray Servers & Configs
+## Free Community V2Ray / Xray Servers
 
-MegaV ships with **free community-contributed V2Ray / Xray / VLESS configs** built directly into the app — no registration, no account, no subscription link to track down. Connect and go. You can also bring your own **VLESS / VMess / Trojan / Shadowsocks** config via **subscription (sub) URL**, QR code or clipboard.
+MegaV ships with **free community-contributed V2Ray / Xray / VLESS servers** built directly into the app — no registration, no account, no subscription link to track down, no config to import. The app loads and configures them automatically. Connect and go.
 
 > **ℹ️ Disclaimer:** The free V2Ray / Xray / VLESS servers referenced in this app are **community-contributed** and provided **for privacy and educational use**. These **third-party configs are not owned, operated, or hosted by MegaV**. Use them **at your own risk** and **in compliance with your local laws**.
+
+<p align="center">
+  <a href="https://apps.apple.com/app/id6754278334"><img src="https://img.shields.io/badge/⬇️%20App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="44" alt="Download on the App Store" /></a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure"><img src="https://img.shields.io/badge/⬇️%20Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="44" alt="Get it on Google Play" /></a>
+  &nbsp;
+  <a href="https://megav.app/download"><img src="https://img.shields.io/badge/⬇️%20APK%20%2F%20Windows-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="44" alt="Direct download from megav.app" /></a>
+</p>
 
 ---
 
@@ -244,20 +290,23 @@ MegaV also includes curated **free IPTV M3U playlists** covering 50+ countries �
 **Is MegaV free?**
 Yes. The app is free to download and includes free community V2Ray / Xray / VLESS servers. There's also a 3-day free trial of premium features and an optional subscription via the App Store / Google Play.
 
+**Do I need to set anything up?**
+No. The app auto-configures on first launch — there's no config to import and nothing to edit. Just install, open and tap Connect.
+
 **Do I need to create an account or sign up?**
-No. There's no signup, no account and no email required to use the free community servers — just install and connect.
+No. There's no signup, no account and no email required to use the free community servers.
 
 **Which protocols does MegaV support?**
-VLESS Reality, VMess, Trojan, Shadowsocks and WireGuard, running on the Xray / V2Ray core.
-
-**Can I import my own config or subscription link?**
-Yes. You can import any VLESS / VMess / Trojan / Shadowsocks config via QR code, clipboard, or subscription (sub) URL.
+VLESS Reality, VMess, Trojan, Shadowsocks and WireGuard, running on the Xray / V2Ray core. MegaV selects and configures them for you automatically.
 
 **Does MegaV keep logs?**
 No. MegaV follows a strict no-logs policy and uses RAM-only servers.
 
 **Which platforms are supported?**
 Android, iOS, macOS and Windows.
+
+**Where do I get it?**
+[App Store](https://apps.apple.com/app/id6754278334) · [Google Play](https://play.google.com/store/apps/details?id=com.megav.secure) · [Direct APK & Windows](https://megav.app/download)
 
 ---
 
@@ -270,12 +319,20 @@ Android, iOS, macOS and Windows.
 
 ## ⭐ Give Us a Star
 
-If MegaV helped you stay private online or find a working **free V2Ray / VLESS config** without the hassle — please **leave a star**. It keeps this community project alive and free.
+If MegaV helped you stay private online without the hassle of manual configs — please **leave a star**. It keeps this community project alive and free. Then [grab the app](#-download) and connect in one tap.
 
 <p align="center">
   <a href="https://github.com/romaxa55/MegaV_Public/stargazers">
     <img src="https://img.shields.io/github/stars/romaxa55/MegaV_Public?style=for-the-badge&color=FFD700&logo=github&label=Star%20MegaV" alt="Star MegaV on GitHub" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/app/id6754278334"><img src="https://img.shields.io/badge/⬇️%20App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" height="44" alt="Download on the App Store" /></a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.megav.secure"><img src="https://img.shields.io/badge/⬇️%20Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" height="44" alt="Get it on Google Play" /></a>
+  &nbsp;
+  <a href="https://megav.app/download"><img src="https://img.shields.io/badge/⬇️%20APK%20%2F%20Windows-FF6B35?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" height="44" alt="Direct download from megav.app" /></a>
 </p>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=romaxa55/MegaV_Public&type=Date)](https://star-history.com/#romaxa55/MegaV_Public&Date)
