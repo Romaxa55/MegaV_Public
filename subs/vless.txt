@@ -1,2 +1,2 @@
 vless://9bab5218-ce9f-4991-9887-8b3605a27d5e@104.17.3.81:443?encryption=none&host=graph.instagram.com.cyylr.eu.cc&path=%2Fsg-amz&security=tls&sni=graph.instagram.com.cyylr.eu.cc&type=ws#megav.app
-vless://7a422005-fbc1-4e92-b56c-3306ddbcd8c8@104.19.229.21:443?encryption=none&host=graph.instagram.com.cyylr.eu.cc&path=%2Fsg-amz&security=tls&sni=graph.instagram.com.cyylr.eu.cc&type=ws#megav.app
+vless://79863d42-9f1c-4e8e-a65b-1003090871c1@45.147.248.115:443?encryption=none&fp=chrome&host=confighaye.mokhaberatebinzon.workers.dev&path=%2FeyJqdW5rIjoiUHVXcXFjYTJGVGI3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560&security=tls&sni=coNFIghayE.moKhaBeraTebInZON.workErS.deV&type=ws#megav.app
