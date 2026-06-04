@@ -1,0 +1,33 @@
+name: Build Pages
+
+# Regenerates the docs/ SEO/GEO hub from subs/servers.json so per-country /
+# per-protocol landing pages stay fresh as the server list updates.
+# Uses the default GITHUB_TOKEN (only commits docs/, no Traffic API needed).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'subs/servers.json'
+      - 'scripts/build_pages.py'
+  schedule:
+    - cron: '37 4 * * *'   # daily safety rebuild
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Generate pages
+        run: python3 scripts/build_pages.py
+      - name: Commit docs
+        run: |
+          git config user.name  "megav-pages-bot"
+          git config user.email "bot@megav.app"
+          git add docs
+          git commit -m "chore(pages): rebuild $(date -u +%F)" || { echo "no changes"; exit 0; }
+          git push

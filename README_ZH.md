@@ -85,6 +85,7 @@
 
 - 📦 [**全部协议（订阅）**](subs/all.txt) · [VLESS](subs/vless.txt) · [VMess](subs/vmess.txt) · [Trojan](subs/trojan.txt) · [Shadowsocks](subs/ss.txt) · [SS-2022](subs/ss2022.txt)
 - 📋 [**完整列表 — 实时节点数、国家与速度 →**](subs/)
+- 🌍 [**按国家与协议浏览免费节点 →**](https://romaxa55.github.io/MegaV_Public/)
 
 > ⚠️ **提示：** 公共免费节点会轮换，**几小时内就会失效**。厌倦了每天重新导入失效链接？
 > **[⬇️ 安装 MegaV](https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_zh)** — 应用内置这些服务器并**自动配置**，始终保持可用连接。**3 天免费试用**，无需账号、无需手动设置。

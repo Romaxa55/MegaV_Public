@@ -85,6 +85,7 @@
 
 - 📦 [**Все протоколы (подписка)**](subs/all.txt) · [VLESS](subs/vless.txt) · [VMess](subs/vmess.txt) · [Trojan](subs/trojan.txt) · [Shadowsocks](subs/ss.txt) · [SS-2022](subs/ss2022.txt)
 - 📋 [**Полный список — живой счётчик серверов, страна и скорость →**](subs/)
+- 🌍 [**Конфиги по странам и протоколам →**](https://romaxa55.github.io/MegaV_Public/)
 
 > ⚠️ **Важно:** бесплатные конфиги ротируются и **умирают за часы**. Надоело каждый день заново импортировать мёртвые ссылки?
 > **[⬇️ Установи MegaV](https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_ru)** — приложение содержит эти серверы и **настраивается само**, рабочее соединение всегда под рукой. **3 дня бесплатно**, без аккаунта и ручной настройки.

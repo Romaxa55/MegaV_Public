@@ -105,6 +105,7 @@ Grab fresh, working **free V2Ray / VLESS Reality / VMess / Trojan / Shadowsocks*
 
 - 📦 [**All protocols (subscription)**](subs/all.txt) · [VLESS](subs/vless.txt) · [VMess](subs/vmess.txt) · [Trojan](subs/trojan.txt) · [Shadowsocks](subs/ss.txt) · [SS-2022](subs/ss2022.txt)
 - 📋 [**Full list — live server count, country & speed →**](subs/)
+- 🌍 [**Browse free configs by country & protocol →**](https://romaxa55.github.io/MegaV_Public/)
 
 > ⚠️ **Heads up:** public free configs rotate and **die within hours**. Tired of re-importing dead links every day?
 > **[⬇️ Install MegaV](https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en)** — the app bundles these servers and **auto-configures itself**, so you always have a working connection. **3-day free trial**, no account, no manual setup.
