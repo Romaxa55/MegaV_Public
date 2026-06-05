@@ -1,8 +1,9 @@
 vless://45b59bde-857e-41e3-b5e5-454bc3d3f927@104.19.229.21:443?encryption=none&fp=chrome&host=web.whatsapp.com.cyylr.eu.cc&path=%2Fsg-amz&security=tls&sni=web.whatsapp.com.cyylr.eu.cc&type=ws#megav.app
 vless://1eb8c38b-0bc2-4a6f-a860-5239c446abc8@45.130.125.0:443?encryption=none&path=%2Fsg-amz&security=tls&sni=support.zoom.us.cyylr.eu.cc&type=ws#megav.app
-vmess://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?host=173.249.209.146&path=%2F&security=none&type=ws#megav.app
+vmess://703f722a-4bdf-4e9d-9afd-a681fdf87c74@45.12.132.183:80?host=45.12.132.183&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://703f722a-4bdf-4e9d-9afd-a681fdf87c74@pq-hungary1.09vpn.com:80?path=%2Fvmess%2F&security=none&type=ws#megav.app
 trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 trojan://humanity@188.114.98.0:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.143:8080#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR0tNeUFUY0c1RVhVOWYyRTlwbVVaZUdlQjlpR2Q2NHJWcjZLVUV3Ymdoc1NBQnFHbjZyTDZUeDlaWG9tNnFhVHZvdHF2VDhLcHJpeUNaUkx6M1Vid0pZMkVtNXFWYWU=@185.5.38.111:55988#megav.app
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0=@49.13.3.249:23997?security=none&type=tcp#megav.app
