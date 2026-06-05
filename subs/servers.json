@@ -1,10 +1,9 @@
 {
-  "updated_at": "2026-06-05T08:00:41Z",
-  "total": 9,
+  "updated_at": "2026-06-05T12:00:40Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
     "shadowsocks2022": 1,
-    "trojan": 2,
     "vless": 2,
     "vmess": 2
   },
@@ -52,28 +51,6 @@
       "response_ms": 1457,
       "bandwidth_kbs": 454,
       "url": "vmess://703f722a-4bdf-4e9d-9afd-a681fdf87c74@pq-hungary1.09vpn.com:80?path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 613,
-      "bandwidth_kbs": 421,
-      "url": "trojan://humanity@188.114.98.0:443?host=www.creationlong.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 630,
-      "bandwidth_kbs": 447,
-      "url": "trojan://humanity@188.114.98.0:443?host=www.creationlong.org\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
