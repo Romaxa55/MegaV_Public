@@ -1,2 +1,2 @@
-vless://197f5e5c-fc15-4db6-8444-50248c2c394d@27.50.48.49:443?encryption=none&path=%2Fsg-amz&security=tls&sni=somersby.pt.cyylr.eu.cc&type=ws#megav.app
-vless://86d10ffb-da7b-4d1e-9e7d-013d9e89d932@188.114.97.6:443?encryption=none&fp=chrome&path=%2Fsg-amz&security=tls&sni=m.udemy.com.cyylr.eu.cc&type=ws#megav.app
+vless://45b59bde-857e-41e3-b5e5-454bc3d3f927@104.19.229.21:443?encryption=none&fp=chrome&host=web.whatsapp.com.cyylr.eu.cc&path=%2Fsg-amz&security=tls&sni=web.whatsapp.com.cyylr.eu.cc&type=ws#megav.app
+vless://1eb8c38b-0bc2-4a6f-a860-5239c446abc8@45.130.125.0:443?encryption=none&path=%2Fsg-amz&security=tls&sni=support.zoom.us.cyylr.eu.cc&type=ws#megav.app
