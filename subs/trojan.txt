@@ -1,2 +1,2 @@
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?fp=chrome&security=tls&sni=172.238.120.124&type=tcp#megav.app
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?fp=chrome&security=tls&sni=www.sandbox-cloud.click&type=raw#megav.app
+trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://humanity@188.114.98.0:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
