@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-05T04:00:35Z",
-  "total": 8,
+  "updated_at": "2026-06-05T08:00:41Z",
+  "total": 9,
   "by_protocol": {
     "shadowsocks": 2,
     "shadowsocks2022": 1,
     "trojan": 2,
     "vless": 2,
-    "vmess": 1
+    "vmess": 2
   },
   "servers": [
     {
@@ -33,14 +33,25 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "San Jose",
+      "country_code": "CY",
+      "flag": "🇨🇾",
+      "city": "Budapest",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2753,
-      "bandwidth_kbs": 473,
-      "url": "vmess://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?host=173.249.209.146\u0026path=%2F\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 992,
+      "bandwidth_kbs": 480,
+      "url": "vmess://703f722a-4bdf-4e9d-9afd-a681fdf87c74@45.12.132.183:80?host=45.12.132.183\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "CY",
+      "flag": "🇨🇾",
+      "city": "Budapest",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1457,
+      "bandwidth_kbs": 454,
+      "url": "vmess://703f722a-4bdf-4e9d-9afd-a681fdf87c74@pq-hungary1.09vpn.com:80?path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -77,14 +88,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1643,
-      "bandwidth_kbs": 486,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.143:8080#megav.app"
+      "response_ms": 1262,
+      "bandwidth_kbs": 439,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR0tNeUFUY0c1RVhVOWYyRTlwbVVaZUdlQjlpR2Q2NHJWcjZLVUV3Ymdoc1NBQnFHbjZyTDZUeDlaWG9tNnFhVHZvdHF2VDhLcHJpeUNaUkx6M1Vid0pZMkVtNXFWYWU=@185.5.38.111:55988#megav.app"
     },
     {
       "protocol": "shadowsocks2022",
