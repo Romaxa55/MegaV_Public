@@ -1,1 +1,2 @@
-vmess://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?host=173.249.209.146&path=%2F&security=none&type=ws#megav.app
+vmess://703f722a-4bdf-4e9d-9afd-a681fdf87c74@45.12.132.183:80?host=45.12.132.183&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://703f722a-4bdf-4e9d-9afd-a681fdf87c74@pq-hungary1.09vpn.com:80?path=%2Fvmess%2F&security=none&type=ws#megav.app
