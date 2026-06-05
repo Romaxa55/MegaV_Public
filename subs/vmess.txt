@@ -1,2 +1,1 @@
-vmess://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=auto&security=tls&type=raw#megav.app
-vmess://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=http%2F1.1&encryption=auto&security=tls&sni=uk5.taskflowhub.org&type=tcp#megav.app
+vmess://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?host=173.249.209.146&path=%2F&security=none&type=ws#megav.app
