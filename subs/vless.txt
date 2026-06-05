@@ -1,2 +1,2 @@
-vless://5dbfed06-dd62-48c0-8e39-b4835defcdb0@216.24.57.1:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=investors.spotify.com.cyylr.eu.cc&path=%2Fsg-amz&security=tls&sni=investors.spotify.com.cyylr.eu.cc&type=ws#megav.app
-vless://9bab5218-ce9f-4991-9887-8b3605a27d5e@188.114.97.6:443?encryption=none&fp=chrome&host=graph.instagram.com.cyylr.eu.cc&path=%2Fsg-amz&security=tls&sni=graph.instagram.com.cyylr.eu.cc&type=ws#megav.app
+vless://9bab5218-ce9f-4991-9887-8b3605a27d5e@104.17.3.81:443?encryption=none&host=graph.instagram.com.cyylr.eu.cc&path=%2Fsg-amz&security=tls&sni=graph.instagram.com.cyylr.eu.cc&type=ws#megav.app
+vless://7d90f043-ed7f-40c9-ac2f-352987904958@ov-germany1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#megav.app
