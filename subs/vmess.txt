@@ -1,2 +1,2 @@
-vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?host=38.107.234.57&path=%2Fvmess%2F&security=none&type=ws#megav.app
-vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@3h-kazakhstan1.09vpn.com:80?host=3h-kazakhstan1.09vpn.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89@185.248.33.173:28856?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
+vmess://58fe1542-5290-40ad-815a-77707a81afe5@172.67.130.66:80?host=de2.ping-game.ir&path=%2FIOebhLMhl1CTbFHbL95myfRX2&security=none&type=ws#megav.app
