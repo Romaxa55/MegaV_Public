@@ -1,2 +1,2 @@
 vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none&host=space.byu.id.r3xxe.eu.cc&path=%2Fsg-amz&security=tls&sni=space.byu.id.r3xxe.eu.cc&type=ws#megav.app
-vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none&fp=chrome&host=space.byu.id.r3xxe.eu.cc&path=%2Fsg-amz&security=tls&sni=space.byu.id.r3xxe.eu.cc&type=ws#megav.app
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@43.174.247.50:443?encryption=none&fp=chrome&host=smtp.mmadcoffee.info&path=%2F16838%2Fc89d26b724fe%2F&security=tls&sni=sni.mmadcoffee.info&type=ws#megav.app
