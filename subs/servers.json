@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-06T04:00:35Z",
-  "total": 7,
+  "updated_at": "2026-06-06T08:00:39Z",
+  "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
-    "vmess": 1
+    "vmess": 2
   },
   "servers": [
     {
@@ -21,25 +21,36 @@
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Falkenstein",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 664,
-      "bandwidth_kbs": 425,
-      "url": "vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none\u0026fp=chrome\u0026host=space.byu.id.r3xxe.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=space.byu.id.r3xxe.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 546,
+      "bandwidth_kbs": 459,
+      "url": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@43.174.247.50:443?encryption=none\u0026fp=chrome\u0026host=smtp.mmadcoffee.info\u0026path=%2F16838%2Fc89d26b724fe%2F\u0026security=tls\u0026sni=sni.mmadcoffee.info\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
-      "country_code": "JP",
-      "flag": "🇯🇵",
-      "city": "Osaka",
+      "country_code": "KZ",
+      "flag": "🇰🇿",
+      "city": "Almaty",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 5553,
-      "bandwidth_kbs": 471,
-      "url": "vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?encryption=auto\u0026host=168.138.43.75\u0026path=%2Fcctv13.m3u8\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 1970,
+      "bandwidth_kbs": 481,
+      "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?host=38.107.234.57\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "KZ",
+      "flag": "🇰🇿",
+      "city": "Almaty",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2956,
+      "bandwidth_kbs": 466,
+      "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@3h-kazakhstan1.09vpn.com:80?host=3h-kazakhstan1.09vpn.com\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -65,25 +76,25 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "RO",
-      "flag": "🇷🇴",
-      "city": "Voluntari",
+      "country_code": "FI",
+      "flag": "🇫🇮",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1076,
-      "bandwidth_kbs": 485,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#megav.app"
+      "response_ms": 768,
+      "bandwidth_kbs": 426,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOWF3TEJLZ3ZzSFU2R3N4VlVLNlBZ@195.133.2.2:34898#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "JP",
-      "flag": "🇯🇵",
-      "city": "Tokyo",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3531,
-      "bandwidth_kbs": 445,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#megav.app"
+      "response_ms": 1233,
+      "bandwidth_kbs": 447,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVzE5QWVnMVh3cWlYOUFXV3BCUUZWVXJ0WGtWcVVmeFRRdXBHY1BtWHRCdGFQMnRhNzJTWExKc1VKMnRTbTFxaGJMQkV4VVMxZTNSYVBBOEpUN0s0R0hSbnd3RmJHTm4=@185.5.38.111:55988#megav.app"
     }
   ]
 }
