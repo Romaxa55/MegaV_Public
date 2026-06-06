@@ -1,2 +1,1 @@
-vmess://fd169a0a-5c32-4f3e-9b6c-28dd35f2a5e5@node-de.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&type=raw#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@172.232.103.186:22324?security=none&type=tcp#megav.app
+vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?encryption=auto&host=168.138.43.75&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
