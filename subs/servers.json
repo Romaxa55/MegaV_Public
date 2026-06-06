@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T12:00:39Z",
+  "updated_at": "2026-06-06T16:00:33Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -10,47 +10,58 @@
   "servers": [
     {
       "protocol": "vless",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Dreieich",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 588,
+      "bandwidth_kbs": 487,
+      "url": "vless://00000000-0000-4000-8000-000000000000@213.179.69.128:19128?encryption=none\u0026host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org\u0026path=%2F%40Marisa_kristifp%3Dchrome\u0026security=tls\u0026sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vless",
       "country_code": "NL",
       "flag": "🇳🇱",
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 522,
-      "bandwidth_kbs": 450,
+      "response_ms": 588,
+      "bandwidth_kbs": 474,
       "url": "vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none\u0026host=space.byu.id.r3xxe.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=space.byu.id.r3xxe.eu.cc\u0026type=ws#megav.app"
     },
     {
-      "protocol": "vless",
+      "protocol": "vmess",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Marseille",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 719,
+      "bandwidth_kbs": 400,
+      "url": "vmess://d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89@185.248.33.173:28856?fp=chrome\u0026host=imafake.locker\u0026path=%2Fspeedtest\u0026security=tls\u0026sni=imafake.locker\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
       "country_code": "DE",
       "flag": "🇩🇪",
       "city": "Falkenstein",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 546,
-      "bandwidth_kbs": 459,
-      "url": "vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@43.174.247.50:443?encryption=none\u0026fp=chrome\u0026host=smtp.mmadcoffee.info\u0026path=%2F16838%2Fc89d26b724fe%2F\u0026security=tls\u0026sni=sni.mmadcoffee.info\u0026type=ws#megav.app"
+      "response_ms": 787,
+      "bandwidth_kbs": 420,
+      "url": "vmess://58fe1542-5290-40ad-815a-77707a81afe5@172.67.130.66:80?host=de2.ping-game.ir\u0026path=%2FIOebhLMhl1CTbFHbL95myfRX2\u0026security=none\u0026type=ws#megav.app"
     },
     {
-      "protocol": "vmess",
-      "country_code": "KZ",
-      "flag": "🇰🇿",
-      "city": "Almaty",
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1970,
-      "bandwidth_kbs": 481,
-      "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?host=38.107.234.57\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "KZ",
-      "flag": "🇰🇿",
-      "city": "Almaty",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2956,
-      "bandwidth_kbs": 466,
-      "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@3h-kazakhstan1.09vpn.com:80?host=3h-kazakhstan1.09vpn.com\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 593,
+      "bandwidth_kbs": 479,
+      "url": "trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -59,20 +70,9 @@
       "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1686,
-      "bandwidth_kbs": 485,
-      "url": "trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?fp=chrome\u0026security=tls\u0026sni=singingrobot.click\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Chicago",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1715,
-      "bandwidth_kbs": 434,
-      "url": "trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?insecure=1\u0026security=tls\u0026sni=172.237.145.189\u0026type=tcp#megav.app"
+      "response_ms": 864,
+      "bandwidth_kbs": 458,
+      "url": "trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?fp=chrome\u0026security=tls\u0026sni=singingrobot.click\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
