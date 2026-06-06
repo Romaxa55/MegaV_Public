@@ -1,1 +1,2 @@
-vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?encryption=auto&host=168.138.43.75&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
+vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?host=38.107.234.57&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@3h-kazakhstan1.09vpn.com:80?host=3h-kazakhstan1.09vpn.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
