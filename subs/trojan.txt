@@ -1,1 +1,2 @@
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?fp=chrome&security=tls&sni=www.sandbox-cloud.click&type=raw#megav.app
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
+trojan://humanity@104.20.6.134:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
