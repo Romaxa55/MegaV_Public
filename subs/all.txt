@@ -1,7 +1,8 @@
-vless://9bab5218-ce9f-4991-9887-8b3605a27d5e@104.17.3.81:443?encryption=none&host=graph.instagram.com.cyylr.eu.cc&path=%2Fsg-amz&security=tls&sni=graph.instagram.com.cyylr.eu.cc&type=ws#megav.app
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@ov-germany1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#megav.app
-vmess://703f722a-4bdf-4e9d-9afd-a681fdf87c74@45.12.132.183:80?host=45.12.132.183&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?encryption=none&security=tls&type=tcp#megav.app
 vmess://fd169a0a-5c32-4f3e-9b6c-28dd35f2a5e5@node-de.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&type=raw#megav.app
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?fp=chrome&security=tls&sni=www.sandbox-cloud.click&type=raw#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@172.232.103.186:22324?security=none&type=tcp#megav.app
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
+trojan://humanity@104.20.6.134:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#megav.app
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#megav.app
