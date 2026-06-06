@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T16:00:33Z",
+  "updated_at": "2026-06-06T20:00:31Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -10,17 +10,6 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Dreieich",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 588,
-      "bandwidth_kbs": 487,
-      "url": "vless://00000000-0000-4000-8000-000000000000@213.179.69.128:19128?encryption=none\u0026host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org\u0026path=%2F%40Marisa_kristifp%3Dchrome\u0026security=tls\u0026sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vless",
       "country_code": "NL",
       "flag": "🇳🇱",
       "city": "Amsterdam",
@@ -29,6 +18,17 @@
       "response_ms": 588,
       "bandwidth_kbs": 474,
       "url": "vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none\u0026host=space.byu.id.r3xxe.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=space.byu.id.r3xxe.eu.cc\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 646,
+      "bandwidth_kbs": 486,
+      "url": "vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?encryption=none\u0026host=juzi.qea.ccwu.cc\u0026path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048\u0026security=tls\u0026sni=juzi.qea.ccwu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -76,14 +76,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "FI",
-      "flag": "🇫🇮",
-      "city": "Helsinki",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Rotterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 768,
-      "bandwidth_kbs": 426,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOWF3TEJLZ3ZzSFU2R3N4VlVLNlBZ@195.133.2.2:34898#megav.app"
+      "response_ms": 1142,
+      "bandwidth_kbs": 437,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNUFM0UXhJeVNPMjB5R25GVEdFYnlZVE93ZDJIbEVtY0Mwa3Nxb2d4WnRMeUxZUmw=@185.18.54.70:31348#megav.app"
     },
     {
       "protocol": "shadowsocks",
