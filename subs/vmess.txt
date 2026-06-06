@@ -1,2 +1,2 @@
-vmess://703f722a-4bdf-4e9d-9afd-a681fdf87c74@45.12.132.183:80?host=45.12.132.183&path=%2Fvmess%2F&security=none&type=ws#megav.app
 vmess://fd169a0a-5c32-4f3e-9b6c-28dd35f2a5e5@node-de.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&type=raw#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@172.232.103.186:22324?security=none&type=tcp#megav.app
