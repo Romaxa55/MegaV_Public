@@ -1,2 +1,2 @@
 vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none&host=space.byu.id.r3xxe.eu.cc&path=%2Fsg-amz&security=tls&sni=space.byu.id.r3xxe.eu.cc&type=ws#megav.app
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?encryption=none&host=juzi.qea.ccwu.cc&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&sni=juzi.qea.ccwu.cc&type=ws#megav.app
+vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none&fp=chrome&host=space.byu.id.r3xxe.eu.cc&path=%2Fsg-amz&security=tls&sni=space.byu.id.r3xxe.eu.cc&type=ws#megav.app
