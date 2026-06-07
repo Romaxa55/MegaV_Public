@@ -1,2 +1,2 @@
 trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?fp=chrome&security=tls&sni=172.237.145.189&type=tcp#megav.app
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?fp=chrome&security=tls&sni=172.237.145.189&type=raw#megav.app
+trojan://humanity@104.18.32.47:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
