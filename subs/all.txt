@@ -1,8 +1,8 @@
-vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none&host=space.byu.id.r3xxe.eu.cc&path=%2Fsg-amz&security=tls&sni=space.byu.id.r3xxe.eu.cc&type=ws#megav.app
-vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none&fp=chrome&host=space.byu.id.r3xxe.eu.cc&path=%2Fsg-amz&security=tls&sni=space.byu.id.r3xxe.eu.cc&type=ws#megav.app
-vmess://d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89@185.248.33.173:28856?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
-vmess://58fe1542-5290-40ad-815a-77707a81afe5@172.67.130.66:80?host=de2.ping-game.ir&path=%2FIOebhLMhl1CTbFHbL95myfRX2&security=none&type=ws#megav.app
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.144.82:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
+vless://f0e2e83d-d2b0-4e71-8da5-71306ad58e08@164.92.143.135:80?encryption=none&host=xU.aSaCO.sTorE&path=%2F&security=none&type=ws#megav.app
+vmess://54a0bf6d-f2b5-4b2a-942c-798fb129527e@185.248.33.173:31723?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
+vmess://254551f6-ec28-4938-ad0e-0aa4aa1965ec@185.248.33.173:56696?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
 trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?fp=chrome&security=tls&sni=172.237.145.189&type=tcp#megav.app
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?fp=chrome&security=tls&sni=172.237.145.189&type=raw#megav.app
+trojan://humanity@104.18.32.47:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNUFM0UXhJeVNPMjB5R25GVEdFYnlZVE93ZDJIbEVtY0Mwa3Nxb2d4WnRMeUxZUmw=@185.18.54.70:31348#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQWtQSmdHTTlkV2RKRHdwYnE4ZFJjWWFyTXFhNVluekZNY283TEFMemNVWVVlUWlZQk5lTENvYVhnWlVRQ1VBU3pHOVEyRjNaZ0h3Z1RnNG1QdTZHQm53Z2dYZFpBZ3g=@mx2.drawnrisha.one:55988#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080?security=none&type=raw#megav.app
