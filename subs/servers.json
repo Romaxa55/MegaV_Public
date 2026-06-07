@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T20:00:31Z",
+  "updated_at": "2026-06-07T00:00:30Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -21,14 +21,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 646,
-      "bandwidth_kbs": 486,
-      "url": "vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?encryption=none\u0026host=juzi.qea.ccwu.cc\u0026path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048\u0026security=tls\u0026sni=juzi.qea.ccwu.cc\u0026type=ws#megav.app"
+      "response_ms": 1242,
+      "bandwidth_kbs": 414,
+      "url": "vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none\u0026fp=chrome\u0026host=space.byu.id.r3xxe.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=space.byu.id.r3xxe.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -54,25 +54,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Chicago",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 593,
-      "bandwidth_kbs": 479,
-      "url": "trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+      "response_ms": 1662,
+      "bandwidth_kbs": 487,
+      "url": "trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?fp=chrome\u0026security=tls\u0026sni=172.237.145.189\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "FI",
-      "flag": "🇫🇮",
-      "city": "Helsinki",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Chicago",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 864,
-      "bandwidth_kbs": 458,
-      "url": "trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?fp=chrome\u0026security=tls\u0026sni=singingrobot.click\u0026type=raw#megav.app"
+      "response_ms": 1739,
+      "bandwidth_kbs": 434,
+      "url": "trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?fp=chrome\u0026security=tls\u0026sni=172.237.145.189\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -92,9 +92,9 @@
       "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1233,
-      "bandwidth_kbs": 447,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVzE5QWVnMVh3cWlYOUFXV3BCUUZWVXJ0WGtWcVVmeFRRdXBHY1BtWHRCdGFQMnRhNzJTWExKc1VKMnRTbTFxaGJMQkV4VVMxZTNSYVBBOEpUN0s0R0hSbnd3RmJHTm4=@185.5.38.111:55988#megav.app"
+      "response_ms": 1682,
+      "bandwidth_kbs": 439,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQWtQSmdHTTlkV2RKRHdwYnE4ZFJjWWFyTXFhNVluekZNY283TEFMemNVWVVlUWlZQk5lTENvYVhnWlVRQ1VBU3pHOVEyRjNaZ0h3Z1RnNG1QdTZHQm53Z2dYZFpBZ3g=@mx2.drawnrisha.one:55988#megav.app"
     }
   ]
 }
