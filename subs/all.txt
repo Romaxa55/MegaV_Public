@@ -1,8 +1,8 @@
 vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none&host=space.byu.id.r3xxe.eu.cc&path=%2Fsg-amz&security=tls&sni=space.byu.id.r3xxe.eu.cc&type=ws#megav.app
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?encryption=none&host=juzi.qea.ccwu.cc&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&sni=juzi.qea.ccwu.cc&type=ws#megav.app
+vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none&fp=chrome&host=space.byu.id.r3xxe.eu.cc&path=%2Fsg-amz&security=tls&sni=space.byu.id.r3xxe.eu.cc&type=ws#megav.app
 vmess://d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89@185.248.33.173:28856?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
 vmess://58fe1542-5290-40ad-815a-77707a81afe5@172.67.130.66:80?host=de2.ping-game.ir&path=%2FIOebhLMhl1CTbFHbL95myfRX2&security=none&type=ws#megav.app
-trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?fp=chrome&security=tls&sni=singingrobot.click&type=raw#megav.app
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?fp=chrome&security=tls&sni=172.237.145.189&type=tcp#megav.app
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?fp=chrome&security=tls&sni=172.237.145.189&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNUFM0UXhJeVNPMjB5R25GVEdFYnlZVE93ZDJIbEVtY0Mwa3Nxb2d4WnRMeUxZUmw=@185.18.54.70:31348#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVzE5QWVnMVh3cWlYOUFXV3BCUUZWVXJ0WGtWcVVmeFRRdXBHY1BtWHRCdGFQMnRhNzJTWExKc1VKMnRTbTFxaGJMQkV4VVMxZTNSYVBBOEpUN0s0R0hSbnd3RmJHTm4=@185.5.38.111:55988#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQWtQSmdHTTlkV2RKRHdwYnE4ZFJjWWFyTXFhNVluekZNY283TEFMemNVWVVlUWlZQk5lTENvYVhnWlVRQ1VBU3pHOVEyRjNaZ0h3Z1RnNG1QdTZHQm53Z2dYZFpBZ3g=@mx2.drawnrisha.one:55988#megav.app
