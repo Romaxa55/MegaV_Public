@@ -3,6 +3,6 @@ vless://f0e2e83d-d2b0-4e71-8da5-71306ad58e08@164.92.143.135:80?encryption=none&h
 vmess://54a0bf6d-f2b5-4b2a-942c-798fb129527e@185.248.33.173:31723?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?security=none&type=raw#megav.app
 trojan://humanity@104.18.32.47:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?fp=chrome&security=tls&sni=172.237.145.189&type=raw#megav.app
+trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&type=tcp#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NkVLYUNoSzF6RVlWZmN0eVhlVGZ5Q1NQUkZGSGNEUTFuYWg1VEVrblJQZTdCTmRkd2lqckdEWDd4YVlSNE5STlJmQ0s5THRRTEVnYWhNZkFHQ1RxWlR4Q2R6VktHZzk=@mx2.drawnrisha.one:55988#megav.app
