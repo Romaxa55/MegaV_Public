@@ -2,7 +2,5 @@ vless://4bde8d55-d91c-45e9-9b36-e6448a194527@104.17.3.81:443?encryption=none&hos
 vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none&host=space.byu.id.r3xxe.eu.cc&path=%2Fsg-amz&security=tls&sni=space.byu.id.r3xxe.eu.cc&type=ws#megav.app
 vmess://4ec66d81-9565-4d8e-ae58-2bacfde95f48@185.248.33.173:49503?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
 vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2Fvmess%2F&security=none&type=ws#megav.app
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?alpn=http%252F1.1&fp=chrome&security=tls&sni=172.237.145.189&type=tcp#megav.app
-trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?fp=chrome&insecure=1&security=tls&sni=www.cdn-structure.click&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080?security=none&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYTRjeE10dEV6elJGU0xwejNJY0JG@109.107.182.229:51544#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.206:8080#megav.app
