@@ -1,2 +1,2 @@
-vless://4bde8d55-d91c-45e9-9b36-e6448a194527@104.17.3.81:443?encryption=none&host=dfsuporte.garena.com.ex33r.eu.cc&path=%2Fsg-amz&security=tls&sni=dfsuporte.garena.com.ex33r.eu.cc&type=ws#megav.app
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F%3Fed&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#megav.app
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?encryption=none&fp=chrome&path=%2Fvless%2F&security=tls&sni=SC-TheNetherlands1.09vpn.com&type=ws#megav.app
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
