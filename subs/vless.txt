@@ -1,2 +1,2 @@
-vless://4bde8d55-d91c-45e9-9b36-e6448a194527@104.17.3.81:443?encryption=none&host=dfsuporte.garena.com.ex33r.eu.cc&path=%2Fsg-amz&security=tls&sni=dfsuporte.garena.com.ex33r.eu.cc&type=ws#megav.app
 vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?encryption=none&host=space.byu.id.r3xxe.eu.cc&path=%2Fsg-amz&security=tls&sni=space.byu.id.r3xxe.eu.cc&type=ws#megav.app
+vless://4bde8d55-d91c-45e9-9b36-e6448a194527@104.17.3.81:443?encryption=none&host=dfsuporte.garena.com.ex33r.eu.cc&path=%2Fsg-amz&security=tls&sni=dfsuporte.garena.com.ex33r.eu.cc&type=ws#megav.app
