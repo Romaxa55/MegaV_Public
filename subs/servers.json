@@ -1,9 +1,8 @@
 {
-  "updated_at": "2026-06-07T20:00:31Z",
-  "total": 8,
+  "updated_at": "2026-06-08T00:00:32Z",
+  "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
-    "trojan": 2,
     "vless": 2,
     "vmess": 2
   },
@@ -53,26 +52,15 @@
       "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto\u0026host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Chicago",
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2302,
-      "bandwidth_kbs": 483,
-      "url": "trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?alpn=http%252F1.1\u0026fp=chrome\u0026security=tls\u0026sni=172.237.145.189\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "CL",
-      "flag": "🇨🇱",
-      "city": "Santiago",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 5027,
-      "bandwidth_kbs": 484,
-      "url": "trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?fp=chrome\u0026insecure=1\u0026security=tls\u0026sni=www.cdn-structure.click\u0026type=tcp#megav.app"
+      "response_ms": 729,
+      "bandwidth_kbs": 425,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -84,17 +72,6 @@
       "response_ms": 1563,
       "bandwidth_kbs": 451,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYTRjeE10dEV6elJGU0xwejNJY0JG@109.107.182.229:51544#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 3565,
-      "bandwidth_kbs": 475,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.206:8080#megav.app"
     }
   ]
 }
