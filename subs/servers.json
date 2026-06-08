@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T08:00:44Z",
+  "updated_at": "2026-06-08T12:00:44Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -43,14 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "JP",
-      "flag": "🇯🇵",
-      "city": "Osaka",
+      "country_code": "KZ",
+      "flag": "🇰🇿",
+      "city": "Almaty",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3598,
-      "bandwidth_kbs": 495,
-      "url": "vmess://cd3dacbc-2b7b-4718-83ad-ab870f87e12e@153.121.73.175:49803?security=none\u0026type=raw#megav.app"
+      "response_ms": 2472,
+      "bandwidth_kbs": 498,
+      "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto\u0026host=google.com\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -76,17 +76,6 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 729,
-      "bandwidth_kbs": 425,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080?security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
       "country_code": "TW",
       "flag": "🇹🇼",
       "city": "Taipei",
@@ -95,6 +84,17 @@
       "response_ms": 1472,
       "bandwidth_kbs": 424,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxMmpUb3hzeDR2VGV2cXJGaUxHdXdSeDk2U1hNM0M5NmlkMU1XcG5TRUNIcTNNYVRXbkVWNzZhTjVQWUVpZ1JmcWY3cnhBY3VBTVdVellOeHJZUkc2UWhNY1l3NVFucUw=@46.249.109.128:56594#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1702,
+      "bandwidth_kbs": 488,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
