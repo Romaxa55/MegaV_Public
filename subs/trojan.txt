@@ -1,2 +1,1 @@
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?alpn=http%252F1.1&fp=chrome&security=tls&sni=172.237.145.189&type=tcp#megav.app
-trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?fp=chrome&insecure=1&security=tls&sni=www.cdn-structure.click&type=tcp#megav.app
+trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?fp=chrome&security=tls&sni=singingrobot.click&type=raw#megav.app
