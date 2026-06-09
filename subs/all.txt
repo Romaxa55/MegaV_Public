@@ -1,7 +1,8 @@
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=raw#megav.app
 vless://969f9f79-e1d0-452c-864d-12409851bf9c@193.233.23.196:26048?encryption=none&security=none&type=tcp#megav.app
-vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2Fvmess%2F&security=none&type=ws#megav.app
-trojan://humanity@172.66.44.211:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-trojan://humanity@45.130.125.112:443?fp=chrome&path=%2F%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080?security=none&type=tcp#megav.app
+vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=google.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?host=38.107.234.57&path=%2Fvmess%2F&security=none&type=ws#megav.app
+trojan://humanity@www.gossipglove.com:443?fp=chrome&insecure=1&path=%252fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
+trojan://humanity@188.114.96.4:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSGd1VTg2SG9hNDFIQW5jVzg4bzRrRXNweThzb3M5dGtibks2dUx2c2dmTWV0dUZLRUNoazJRWTZlUjNhNjdOWEFtV2Uya0Q4dmJoWkV5dXcyR3gxaERQWFhTZ21pbXQ=@185.5.38.111:55988#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYUtYVmlnOUdXR2VDZVR2U3YzbnB2VTNxWUNnYmJBTXlwUFFVWTlXbTl4SlROQ1FHQ0NHS2NwZzR2WWVINkF4d1lOWTRtTHFLckJXdm95TmI0M0NHVTNkMXNkOHRmUnA=@mx2.drawnrisha.one:55988#megav.app
