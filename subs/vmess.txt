@@ -1,2 +1,1 @@
 vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2Fvmess%2F&security=none&type=ws#megav.app
-vmess://cd3dacbc-2b7b-4718-83ad-ab870f87e12e@153.121.73.175:49803#megav.app
