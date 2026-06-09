@@ -1,25 +1,14 @@
 {
-  "updated_at": "2026-06-09T16:00:33Z",
-  "total": 9,
+  "updated_at": "2026-06-09T20:00:30Z",
+  "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
     "shadowsocks2022": 1,
-    "trojan": 2,
+    "trojan": 1,
     "vless": 2,
     "vmess": 2
   },
   "servers": [
-    {
-      "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 525,
-      "bandwidth_kbs": 412,
-      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=raw#megav.app"
-    },
     {
       "protocol": "vless",
       "country_code": "NL",
@@ -30,6 +19,28 @@
       "response_ms": 552,
       "bandwidth_kbs": 465,
       "url": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?encryption=none\u0026fp=chrome\u0026host=sc-thenetherlands1.09vpn.com\u0026path=%2Fvless%2F\u0026security=tls\u0026sni=sc-thenetherlands1.09vpn.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 606,
+      "bandwidth_kbs": 468,
+      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none\u0026flow=xtls-rprx-vision\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Toronto",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2021,
+      "bandwidth_kbs": 438,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=aes-128-gcm\u0026security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -43,37 +54,26 @@
       "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto\u0026host=google.com\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
-      "protocol": "vmess",
-      "country_code": "KZ",
-      "flag": "🇰🇿",
-      "city": "Almaty",
+      "protocol": "trojan",
+      "country_code": "FI",
+      "flag": "🇫🇮",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2915,
-      "bandwidth_kbs": 454,
-      "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?host=38.107.234.57\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 5139,
+      "bandwidth_kbs": 478,
+      "url": "trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?fp=chrome\u0026security=tls\u0026sni=singingrobot.click\u0026type=tcp#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1657,
-      "bandwidth_kbs": 461,
-      "url": "trojan://humanity@188.114.96.4:443?alpn=http%2F1.1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmloud.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 3064,
-      "bandwidth_kbs": 457,
-      "url": "trojan://humanity@104.16.62.25:443?host=www.creationlong.org\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+      "response_ms": 470,
+      "bandwidth_kbs": 407,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -85,17 +85,6 @@
       "response_ms": 514,
       "bandwidth_kbs": 469,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080?security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Helsinki",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1406,
-      "bandwidth_kbs": 431,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSGd1VTg2SG9hNDFIQW5jVzg4bzRrRXNweThzb3M5dGtibks2dUx2c2dmTWV0dUZLRUNoazJRWTZlUjNhNjdOWEFtV2Uya0Q4dmJoWkV5dXcyR3gxaERQWFhTZ21pbXQ=@185.5.38.111:55988#megav.app"
     },
     {
       "protocol": "shadowsocks2022",
