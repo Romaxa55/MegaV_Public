@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-09T04:00:36Z",
-  "total": 8,
+  "updated_at": "2026-06-09T08:00:36Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
-    "vmess": 2
+    "vmess": 1
   },
   "servers": [
     {
@@ -15,20 +15,20 @@
       "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 735,
-      "bandwidth_kbs": 493,
-      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026insecure=1\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=tcp#megav.app"
+      "response_ms": 525,
+      "bandwidth_kbs": 412,
+      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=raw#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "FI",
+      "flag": "🇫🇮",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 762,
-      "bandwidth_kbs": 480,
-      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026insecure=1\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=tcp#megav.app"
+      "response_ms": 785,
+      "bandwidth_kbs": 426,
+      "url": "vless://969f9f79-e1d0-452c-864d-12409851bf9c@193.233.23.196:26048?encryption=none\u0026security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -42,28 +42,6 @@
       "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto\u0026host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
-      "protocol": "vmess",
-      "country_code": "JP",
-      "flag": "🇯🇵",
-      "city": "Osaka",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 3942,
-      "bandwidth_kbs": 461,
-      "url": "vmess://cd3dacbc-2b7b-4718-83ad-ab870f87e12e@153.121.73.175:49803#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 776,
-      "bandwidth_kbs": 451,
-      "url": "trojan://humanity@188.114.96.3:443?alpn=h2%25252chttp%25252f1.1\u0026fp=chrome\u0026host=www.creationlong.org\u0026insecure=1\u0026path=%252fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
-    },
-    {
       "protocol": "trojan",
       "country_code": "PL",
       "flag": "🇵🇱",
@@ -73,6 +51,17 @@
       "response_ms": 790,
       "bandwidth_kbs": 452,
       "url": "trojan://humanity@172.66.44.211:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 805,
+      "bandwidth_kbs": 475,
+      "url": "trojan://humanity@45.130.125.112:443?fp=chrome\u0026path=%2F%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -87,14 +76,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "KR",
-      "flag": "🇰🇷",
-      "city": "Seongdong-gu",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3218,
-      "bandwidth_kbs": 482,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@glance.asuscomm.com:10099#megav.app"
+      "response_ms": 1406,
+      "bandwidth_kbs": 431,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSGd1VTg2SG9hNDFIQW5jVzg4bzRrRXNweThzb3M5dGtibks2dUx2c2dmTWV0dUZLRUNoazJRWTZlUjNhNjdOWEFtV2Uya0Q4dmJoWkV5dXcyR3gxaERQWFhTZ21pbXQ=@185.5.38.111:55988#megav.app"
     }
   ]
 }
