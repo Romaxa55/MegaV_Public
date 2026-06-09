@@ -1,2 +1,2 @@
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?encryption=none&fp=chrome&path=%2Fvless%2F&security=tls&sni=SC-TheNetherlands1.09vpn.com&type=ws#megav.app
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision-udp443&fp=chrome&insecure=1&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
