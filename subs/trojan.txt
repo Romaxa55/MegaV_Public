@@ -1,2 +1,2 @@
-trojan://humanity@188.114.96.3:443?alpn=h2%25252chttp%25252f1.1&fp=chrome&host=www.creationlong.org&insecure=1&path=%252fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 trojan://humanity@172.66.44.211:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://humanity@45.130.125.112:443?fp=chrome&path=%2F%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
