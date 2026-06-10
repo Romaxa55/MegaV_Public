@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-10T08:00:46Z",
-  "total": 8,
+  "updated_at": "2026-06-10T12:00:44Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
-    "trojan": 2,
+    "trojan": 1,
     "vless": 2,
     "vmess": 2
   },
@@ -54,25 +54,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Nuremberg",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 687,
-      "bandwidth_kbs": 418,
-      "url": "trojan://humanity@104.26.6.159:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 883,
-      "bandwidth_kbs": 410,
-      "url": "trojan://humanity@172.66.44.211:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+      "response_ms": 1592,
+      "bandwidth_kbs": 465,
+      "url": "trojan://SoftNetConnect@167.233.99.208:35311?security=tls\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -81,9 +70,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 382,
-      "bandwidth_kbs": 408,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164:8080#megav.app"
+      "response_ms": 1459,
+      "bandwidth_kbs": 404,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -92,9 +81,9 @@
       "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1389,
-      "bandwidth_kbs": 470,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZFVreVM0d0dvTDVuM3lhQmhtNUpVQWVYY3dyQ2VrMmhRN0c2bmg2R3lZcHd2VTdKcVJwSldMa1ZVUVl6WVhROU1NYjRZdlNQdnJDaWROOVZWZ21UVXZma1pCZ2hDcXI=@mx2.drawnrisha.one:55988#megav.app"
+      "response_ms": 1513,
+      "bandwidth_kbs": 476,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKcmVuV3B6VkpZZFE4c2JnaVdyd2NaMlA3a0JOdktiRnZLZjhrUVJLVkFlc24yN3NQcXNzTGhxNFNnWUVpYlJKaDI1QXBCeFAzNVRaWnNtZGZ1U0hZM3MzWFJGbXVwN3M=@185.5.38.111:55988#megav.app"
     }
   ]
 }
