@@ -1,2 +1,2 @@
 vless://18907dc3-7e4c-476f-9ed8-b360db563bf9@172.67.143.139:8080?encryption=none&host=server8.faway91418.workers.dev&path=%2FeyJqdW5rIjoiN3FOeFprWFkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0%3D%3Fed%3D2560&security=none&type=ws#megav.app
-vless://fe273991-0514-4a16-8ec4-b15ae861c000@104.21.72.233:443?encryption=none&fp=chrome&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048fp%3Drandomized&security=tls&sni=zyzzzoao.xn--fiqv8j.eu.org&type=ws#megav.app
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80?encryption=none&path=%2Fvless%2F%23%5Bopenray%5D+%F0%9F%87%AB%F0%9F%87%B7+fr-1285&security=none&type=ws#megav.app
