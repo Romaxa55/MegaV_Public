@@ -1,2 +1,2 @@
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?encryption=none&fp=chrome&host=sc-thenetherlands1.09vpn.com&path=%2Fvless%2F&security=tls&sni=sc-thenetherlands1.09vpn.com&type=ws#megav.app
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@104.21.72.233:443?encryption=none&fp=chrome&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048fp%3Drandomized&security=tls&sni=zyzzzoao.xn--fiqv8j.eu.org&type=ws#megav.app
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
