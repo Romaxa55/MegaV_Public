@@ -1,9 +1,8 @@
 {
-  "updated_at": "2026-06-10T00:00:28Z",
-  "total": 9,
+  "updated_at": "2026-06-10T04:00:43Z",
+  "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
-    "shadowsocks2022": 1,
     "trojan": 2,
     "vless": 2,
     "vmess": 2
@@ -13,12 +12,12 @@
       "protocol": "vless",
       "country_code": "NL",
       "flag": "🇳🇱",
-      "city": "Haarlem",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 552,
-      "bandwidth_kbs": 465,
-      "url": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?encryption=none\u0026fp=chrome\u0026host=sc-thenetherlands1.09vpn.com\u0026path=%2Fvless%2F\u0026security=tls\u0026sni=sc-thenetherlands1.09vpn.com\u0026type=ws#megav.app"
+      "response_ms": 445,
+      "bandwidth_kbs": 463,
+      "url": "vless://fe273991-0514-4a16-8ec4-b15ae861c000@104.21.72.233:443?encryption=none\u0026fp=chrome\u0026host=zyzzzoao.xn--fiqv8j.eu.org\u0026path=%2F%3Fed%3D2048fp%3Drandomized\u0026security=tls\u0026sni=zyzzzoao.xn--fiqv8j.eu.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
@@ -96,17 +95,6 @@
       "response_ms": 470,
       "bandwidth_kbs": 407,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#megav.app"
-    },
-    {
-      "protocol": "shadowsocks2022",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Falkenstein",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 5120,
-      "bandwidth_kbs": 462,
-      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RFQwbWk1OVY0YTlTZTlFaHlvbnl1cHRWZkllM29KcElyekQvZmE4VzE3VT06U0NmNmN1cVBuZWFOd0NPS3pZa09uRVRmaWgxUkNVYzZrUmlvMmhQeURuZz0=@91.107.191.12:54471#megav.app"
     }
   ]
 }
