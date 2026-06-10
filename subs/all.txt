@@ -1,7 +1,6 @@
 vless://18907dc3-7e4c-476f-9ed8-b360db563bf9@172.67.143.139:8080?encryption=none&host=server8.faway91418.workers.dev&path=%2FeyJqdW5rIjoiN3FOeFprWFkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0%3D%3Fed%3D2560&security=none&type=ws#megav.app
-vless://fe273991-0514-4a16-8ec4-b15ae861c000@104.21.72.233:443?encryption=none&fp=chrome&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048fp%3Drandomized&security=tls&sni=zyzzzoao.xn--fiqv8j.eu.org&type=ws#megav.app
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80?encryption=none&path=%2Fvless%2F%23%5Bopenray%5D+%F0%9F%87%AB%F0%9F%87%B7+fr-1285&security=none&type=ws#megav.app
 vmess://04621bae-ab36-11ec-b909-0242ac120002@172.232.103.186:22324?security=none&type=tcp#megav.app
 vmess://cd3dacbc-2b7b-4718-83ad-ab870f87e12e@153.121.73.175:49803?security=none&type=raw#megav.app
-trojan://SoftNetConnect@167.233.99.208:35311?security=tls&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKcmVuV3B6VkpZZFE4c2JnaVdyd2NaMlA3a0JOdktiRnZLZjhrUVJLVkFlc24yN3NQcXNzTGhxNFNnWUVpYlJKaDI1QXBCeFAzNVRaWnNtZGZ1U0hZM3MzWFJGbXVwN3M=@185.5.38.111:55988#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVU5ocTZiY3E1N3NoTXp2VkNnbVdybmJvYmpnVzNhdTVwdjY1OG9VSGtKUzdDUmtNTHBkdTFXbllCemFWWkR0NjZ4NmRtYkozazl6ZU5LS3RoNG1HOHBzdFhSVW5RYVQ=@185.5.38.111:55988#megav.app
