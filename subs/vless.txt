@@ -1,2 +1,2 @@
 vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.173:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6a20f558.noooo.win&type=tcp#megav.app
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=raw#megav.app
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?encryption=none&insecure=1&security=tls&type=raw#megav.app
