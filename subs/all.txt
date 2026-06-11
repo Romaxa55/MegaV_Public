@@ -1,8 +1,8 @@
 vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.173:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6a20f558.noooo.win&type=tcp#megav.app
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=raw#megav.app
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?encryption=none&insecure=1&security=tls&type=raw#megav.app
 vmess://04621bae-ab36-11ec-b909-0242ac120002@172.233.17.76:22324?security=none&type=tcp#megav.app
-vmess://fa8f8911-2e9b-494e-9a8d-f80239ee2214@109.61.109.204:27339?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
-trojan://96sc719vi2gtuqp6@178.83.46.50:51117?alpn=h2%2Chttp%2F1.1&fp=chrome&path=%2F&security=tls&type=httpupgrade#megav.app
-trojan://humanity@104.18.32.47:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+vmess://b06054ae-f249-438e-998a-8e67bd8df653@153.121.73.175:32221?encryption=auto&security=none&type=raw#megav.app
+trojan://humanity@208.103.161.110:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://humanity@104.18.139.67:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 ss://YWVzLTI1Ni1nY206N2FkN2RmNWEtMjNiZC00NTliLTliZWYtYzQyOGYyNmZmZjRh@192.142.18.127:443#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKcmVuV3B6VkpZZFE4c2JnaVdyd2NaMlA3a0JOdktiRnZLZjhrUVJLVkFlc24yN3NQcXNzTGhxNFNnWUVpYlJKaDI1QXBCeFAzNVRaWnNtZGZ1U0hZM3MzWFJGbXVwN3M=@185.5.38.111:55988#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099?security=none&type=tcp#megav.app
