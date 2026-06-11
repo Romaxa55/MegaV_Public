@@ -1,2 +1,2 @@
-vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.173:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6a20f558.noooo.win&type=tcp#megav.app
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?encryption=none&insecure=1&security=tls&type=raw#megav.app
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.204:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
+vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.160:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=bazaryabab.global.ssl.fastly.net&insecure=1&path=%2F&security=tls&sni=mddc.tinkoff.ru&type=ws#megav.app
