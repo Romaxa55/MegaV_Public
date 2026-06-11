@@ -1,2 +1,2 @@
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@chatgpt.com:443?encryption=none&host=cf.cfvip.lol&path=%2Fpyip%3D47.251.95.178&security=tls&sni=cf.cfvip.lol&type=ws#megav.app
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision-udp443&fp=chrome&insecure=1&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision&fp=qq&insecure=1&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
