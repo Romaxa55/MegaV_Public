@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T04:00:36Z",
+  "updated_at": "2026-06-11T08:00:39Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -23,12 +23,12 @@
       "protocol": "vless",
       "country_code": "DE",
       "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "city": "Berlin",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 843,
-      "bandwidth_kbs": 487,
-      "url": "vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.160:443?alpn=http%2F1.1\u0026encryption=none\u0026fp=chrome\u0026host=bazaryabab.global.ssl.fastly.net\u0026insecure=1\u0026path=%2F\u0026security=tls\u0026sni=mddc.tinkoff.ru\u0026type=ws#megav.app"
+      "response_ms": 1169,
+      "bandwidth_kbs": 469,
+      "url": "vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?encryption=none\u0026insecure=1\u0026security=tls\u0026type=raw#megav.app"
     },
     {
       "protocol": "vmess",
@@ -43,14 +43,25 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "BR",
-      "flag": "🇧🇷",
-      "city": "São Paulo",
+      "country_code": "JP",
+      "flag": "🇯🇵",
+      "city": "Osaka",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3279,
-      "bandwidth_kbs": 471,
-      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@172.233.17.76:22324?security=none\u0026type=tcp#megav.app"
+      "response_ms": 3362,
+      "bandwidth_kbs": 475,
+      "url": "vmess://b06054ae-f249-438e-998a-8e67bd8df653@153.121.73.175:32221?encryption=auto\u0026security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 696,
+      "bandwidth_kbs": 494,
+      "url": "trojan://humanity@www.creationlong.org:443?fp=chrome\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -62,17 +73,6 @@
       "response_ms": 704,
       "bandwidth_kbs": 414,
       "url": "trojan://humanity@208.103.161.110:443?host=www.creationlong.org\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 793,
-      "bandwidth_kbs": 463,
-      "url": "trojan://humanity@104.18.139.67:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
