@@ -1,8 +1,8 @@
-vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@205.233.181.237:80?encryption=none&host=orange-truth-c6d1.rhyljiti.workers.dev&path=%2FeyJqdW5rIjoiWjk0b2FWb0xjVzV5d3FmdSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=none&type=ws#megav.app
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@chatgpt.com:443?encryption=none&host=cf.cfvip.lol&path=%2Fpyip%3D47.251.95.178&security=tls&sni=cf.cfvip.lol&type=ws#megav.app
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision-udp443&fp=chrome&insecure=1&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
 vmess://9db4c708-aef8-4359-821b-38e47990be0d@152.67.8.205:80?encryption=auto&host=152.67.8.205&path=%2F&security=none&type=ws#megav.app
-vmess://9db4c708-aef8-4359-821b-38e47990be0d@152.67.8.205:80?host=152.67.8.205&path=%2F&security=none&type=ws#megav.app
+vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&path=%2Fvmess%2F&security=none&type=ws#megav.app
 trojan://humanity@165.215.250.14:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?fp=chrome&security=tls&sni=singingrobot.click&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080?security=none&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080?security=none&type=raw#megav.app
+trojan://humanity@www.multiplydose.com:443?fp=chrome&path=%252Fassignment&security=tls&sni=www.multiplydose.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUjVXZzMyWHpFZ0NYazRNUENndmQxRzFUczhXSEJMc1hNVWFxTWE1RFVYTXVxTW1kWmdDYk1pcFhEaG9BbWo3M3FBOW9ZODV6WEszNUw1bTYzMVRuN2luMnAzS0xiV0Y=@46.249.109.128:56594#megav.app
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#megav.app
