@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T00:00:26Z",
+  "updated_at": "2026-06-12T03:24:14Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -32,6 +32,17 @@
     },
     {
       "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Buffalo",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2144,
+      "bandwidth_kbs": 496,
+      "url": "vmess://768eb8d0-caca-4f9b-8a6e-f5ccecdfc146@192.3.139.168:10086?security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
       "country_code": "ES",
       "flag": "🇪🇸",
       "city": "Madrid",
@@ -40,28 +51,6 @@
       "response_ms": 3198,
       "bandwidth_kbs": 483,
       "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto\u0026security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "IN",
-      "flag": "🇮🇳",
-      "city": "Chennai",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 3872,
-      "bandwidth_kbs": 436,
-      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@172.232.103.186:22324?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 477,
-      "bandwidth_kbs": 485,
-      "url": "trojan://humanity@172.67.71.219:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -73,6 +62,17 @@
       "response_ms": 720,
       "bandwidth_kbs": 326,
       "url": "trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@162.159.33.116:443?alpn=h3\u0026ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query\u0026fp=chrome\u0026host=kamonka.eu.org\u0026path=%2F%3Fed%3D2048\u0026security=tls\u0026sni=kamonka.eu.org\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FI",
+      "flag": "🇫🇮",
+      "city": "Helsinki",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 895,
+      "bandwidth_kbs": 421,
+      "url": "trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?fp=chrome\u0026security=tls\u0026sni=singingrobot.click\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
