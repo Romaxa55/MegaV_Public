@@ -1,6 +1,8 @@
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision-udp443&fp=chrome&insecure=1&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?encryption=none&host=vms.lifetime55.workers.dev&path=%2F%3Fed%3D2560&security=none&type=ws#megav.app
-vmess://768eb8d0-caca-4f9b-8a6e-f5ccecdfc146@192.3.139.168:10086?security=none&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@172.232.103.186:22324?encryption=auto&security=none&type=tcp#megav.app
 vmess://04621bae-ab36-11ec-b909-0242ac120002@172.233.17.76:22324?security=none&type=raw#megav.app
-trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?security=tls&sni=singingrobot.click&type=raw#megav.app
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?fp=chrome&security=tls&sni=ch-2.bexum.fun&type=raw#megav.app
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?fp=chrome&security=tls&sni=ch-2.bexum.fun&type=tcp#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080?security=none&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#megav.app
