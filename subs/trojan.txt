@@ -1,2 +1,2 @@
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?fp=chrome&security=tls&sni=ch-2.bexum.fun&type=raw#megav.app
 trojan://humanity@188.114.98.0:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://humanity@104.17.121.71:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
