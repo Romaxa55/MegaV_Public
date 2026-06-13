@@ -1,2 +1,2 @@
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&host=Join---v2ray_configs_pools&path=%2F&security=none&type=ws#megav.app
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision-udp443&fp=chrome&insecure=1&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
