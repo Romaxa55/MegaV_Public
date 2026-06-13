@@ -1,2 +1,2 @@
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.146.129:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none&flow=xtls-rprx-vision&insecure=1&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
