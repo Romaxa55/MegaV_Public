@@ -1,2 +1,2 @@
-vmess://04621bae-ab36-11ec-b909-0242ac120002@172.232.103.186:22324?encryption=auto&security=none&type=tcp#megav.app
 vmess://fd169a0a-5c32-4f3e-9b6c-28dd35f2a5e5@node-de.connectsuite.org:2053?encryption=auto&security=tls&sni=node-de.connectsuite.org&type=raw#megav.app
+vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=vk.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
