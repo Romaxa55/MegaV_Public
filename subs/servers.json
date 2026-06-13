@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T16:00:39Z",
+  "updated_at": "2026-06-13T20:00:35Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -15,9 +15,9 @@
       "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 512,
-      "bandwidth_kbs": 440,
-      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none\u0026flow=xtls-rprx-vision\u0026insecure=1\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=tcp#megav.app"
+      "response_ms": 571,
+      "bandwidth_kbs": 410,
+      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none\u0026flow=xtls-rprx-vision-udp443\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vless",
@@ -26,9 +26,9 @@
       "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 571,
-      "bandwidth_kbs": 410,
-      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none\u0026flow=xtls-rprx-vision-udp443\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=tcp#megav.app"
+      "response_ms": 665,
+      "bandwidth_kbs": 418,
+      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=qq\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -48,31 +48,31 @@
       "city": "Almaty",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 4320,
-      "bandwidth_kbs": 479,
-      "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto\u0026host=google.com\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 3845,
+      "bandwidth_kbs": 442,
+      "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto\u0026host=vk.com\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "CZ",
-      "flag": "🇨🇿",
-      "city": "Veselí nad Lužnicí",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1195,
-      "bandwidth_kbs": 396,
-      "url": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls\u0026type=raw#megav.app"
+      "response_ms": 1076,
+      "bandwidth_kbs": 309,
+      "url": "trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@162.159.2.9:443?alpn=h3\u0026ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query\u0026fp=chrome\u0026host=kamonka.eu.org\u0026path=%2F%3Fed%3D2048\u0026security=tls\u0026sni=kamonka.eu.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1197,
-      "bandwidth_kbs": 468,
-      "url": "trojan://humanity@45.130.125.112:443?path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+      "response_ms": 1853,
+      "bandwidth_kbs": 489,
+      "url": "trojan://TrojanPass2026%21@2.26.54.174:8448?security=tls\u0026sni=foolsland.ru\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -92,9 +92,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1049,
-      "bandwidth_kbs": 464,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080?security=none\u0026type=raw#megav.app"
+      "response_ms": 1319,
+      "bandwidth_kbs": 407,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
