@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T16:00:38Z",
+  "updated_at": "2026-06-14T20:00:33Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -9,25 +9,25 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 655,
-      "bandwidth_kbs": 334,
-      "url": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none\u0026path=%2F\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 1151,
+      "bandwidth_kbs": 393,
+      "url": "vless://30980fc4-8789-42df-80d1-0c8e5cd26881@172.67.195.79:443?encryption=none\u0026fp=chrome\u0026path=%2Fvpnhu\u0026security=tls\u0026sni=cdn.veilvpn.fans\u0026type=httpupgrade#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "HU",
+      "flag": "🇭🇺",
+      "city": "Budapest",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 714,
-      "bandwidth_kbs": 485,
-      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=tcp#megav.app"
+      "response_ms": 1278,
+      "bandwidth_kbs": 469,
+      "url": "vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?encryption=none\u0026fp=chrome\u0026security=tls\u0026sni=cdn7-09.vk-cdnvideo.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -58,8 +58,8 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 534,
-      "bandwidth_kbs": 412,
+      "response_ms": 668,
+      "bandwidth_kbs": 423,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#megav.app"
     },
     {
