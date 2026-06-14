@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-14T08:00:49Z",
-  "total": 8,
+  "updated_at": "2026-06-14T12:00:45Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
-    "trojan": 2,
+    "trojan": 1,
     "vless": 2,
     "vmess": 2
   },
@@ -34,17 +34,6 @@
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Phoenix",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2342,
-      "bandwidth_kbs": 451,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.114.123.42:18000?encryption=null\u0026security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
       "city": "Los Angeles",
       "tier": "silver",
       "speed_label": "hd",
@@ -53,15 +42,15 @@
       "url": "vmess://65b17c0b-0a52-4b54-9bc9-60e31397b841@104.21.89.181:80?host=accklsj.bufu.us.ci\u0026path=%2F65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess\u0026security=none\u0026type=ws#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
+      "protocol": "vmess",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Marseille",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 427,
-      "bandwidth_kbs": 410,
-      "url": "trojan://humanity@162.159.17.189:443?host=www.multiplydose.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.multiplydose.com\u0026type=ws#megav.app"
+      "response_ms": 2720,
+      "bandwidth_kbs": 437,
+      "url": "vmess://e3cb685e-7840-45cb-9d64-b2028d9b635e@185.248.33.173:35773?fp=chrome\u0026host=imafake.locker\u0026path=%2Fspeedtest\u0026security=tls\u0026sni=imafake.locker\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -87,14 +76,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "JP",
+      "flag": "🇯🇵",
+      "city": "Tokyo",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1281,
-      "bandwidth_kbs": 471,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.206:8080#megav.app"
+      "response_ms": 3689,
+      "bandwidth_kbs": 478,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#megav.app"
     }
   ]
 }
