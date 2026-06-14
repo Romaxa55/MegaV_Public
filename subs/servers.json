@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T00:00:30Z",
+  "updated_at": "2026-06-14T04:00:31Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -15,20 +15,20 @@
       "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 571,
-      "bandwidth_kbs": 410,
-      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none\u0026flow=xtls-rprx-vision-udp443\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=tcp#megav.app"
+      "response_ms": 595,
+      "bandwidth_kbs": 448,
+      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=raw#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "TR",
+      "flag": "🇹🇷",
+      "city": "Istanbul",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 762,
-      "bandwidth_kbs": 446,
-      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=raw#megav.app"
+      "response_ms": 1009,
+      "bandwidth_kbs": 435,
+      "url": "vless://9bccefee-13d9-4005-8cc4-c3fe3af87ed6@38.180.104.124:49709?encryption=none\u0026path=%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -43,14 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "KZ",
-      "flag": "🇰🇿",
-      "city": "Almaty",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Los Angeles",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3459,
+      "response_ms": 2600,
       "bandwidth_kbs": 496,
-      "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto\u0026host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
+      "url": "vmess://65b17c0b-0a52-4b54-9bc9-60e31397b841@104.21.89.181:80?host=accklsj.bufu.us.ci\u0026path=%2F65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -65,25 +65,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 846,
-      "bandwidth_kbs": 458,
-      "url": "trojan://humanity@208.103.161.110:443?fp=random\u0026host=www.creationlong.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
       "country_code": "NL",
       "flag": "🇳🇱",
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 638,
-      "bandwidth_kbs": 415,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#megav.app"
+      "response_ms": 673,
+      "bandwidth_kbs": 292,
+      "url": "trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@172.67.78.22:443?fp=chrome\u0026host=kamonka.eu.org\u0026path=%2F\u0026security=tls\u0026sni=kamonka.eu.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -95,6 +84,17 @@
       "response_ms": 1281,
       "bandwidth_kbs": 471,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.206:8080#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "KR",
+      "flag": "🇰🇷",
+      "city": "Seongdong-gu",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 3786,
+      "bandwidth_kbs": 476,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#megav.app"
     }
   ]
 }
