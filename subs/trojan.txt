@@ -1,2 +1,2 @@
-trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@162.159.2.9:443?alpn=h3&ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query&fp=chrome&host=kamonka.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=kamonka.eu.org&type=ws#megav.app
-trojan://TrojanPass2026%21@2.26.54.174:8448?security=tls&sni=foolsland.ru&type=tcp#megav.app
+trojan://humanity@162.159.17.189:443?host=www.multiplydose.com&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#megav.app
+trojan://humanity@208.103.161.110:443?fp=random&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
