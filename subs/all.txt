@@ -1,7 +1,6 @@
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=raw#megav.app
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&path=%2F&security=none&type=ws#megav.app
-vmess://65b17c0b-0a52-4b54-9bc9-60e31397b841@104.21.89.181:80?host=accklsj.bufu.us.ci&path=%2F65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess&security=none&type=ws#megav.app
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
 vmess://e3cb685e-7840-45cb-9d64-b2028d9b635e@185.248.33.173:35773?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
-trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@172.67.78.22:443?fp=chrome&host=kamonka.eu.org&path=%2F&security=tls&sni=kamonka.eu.org&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?encryption=null&security=none&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674?security=none&type=raw#megav.app
