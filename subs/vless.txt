@@ -1,2 +1,2 @@
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@104.21.224.5:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
-vless://82dd5d38-1a65-42b9-835e-497b5b51eb84@108.162.198.180:443?alpn=h3&ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query&encryption=none&fp=chrome&host=kamonka.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=kamonka.eu.org&type=ws#megav.app
