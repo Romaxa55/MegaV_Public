@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T00:51:28Z",
+  "updated_at": "2026-06-15T01:39:58Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -21,14 +21,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 462,
-      "bandwidth_kbs": 462,
-      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none\u0026flow=xtls-rprx-vision\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=tcp#megav.app"
+      "response_ms": 456,
+      "bandwidth_kbs": 496,
+      "url": "vless://69a2af58-d74a-44ca-864a-e09b493f4274@185.245.40.251:443?encryption=none\u0026fp=firefox\u0026pbk=YnBpu8Ul3-HHnTEq4YGz6i9uZVQE6a-fW1LcSs55sDg\u0026security=reality\u0026sid=1cc0b0\u0026sni=sun6-20.userapi.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
