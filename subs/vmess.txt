@@ -1,2 +1,2 @@
 vmess://9631096d-3032-4942-9446-bdf12665682b@185.248.33.173:10792?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
-vmess://e3cb685e-7840-45cb-9d64-b2028d9b635e@96.47.230.5:17134?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
+vmess://c09f13ce-2cca-49b6-ad1e-597566cc89c6@185.248.33.173:39580?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
