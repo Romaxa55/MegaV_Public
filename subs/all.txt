@@ -1,6 +1,8 @@
-vless://30980fc4-8789-42df-80d1-0c8e5cd26881@172.67.195.79:443?encryption=none&fp=chrome&path=%2Fvpnhu&security=tls&sni=cdn.veilvpn.fans&type=httpupgrade#megav.app
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#megav.app
-vmess://e3cb685e-7840-45cb-9d64-b2028d9b635e@185.248.33.173:35773?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?encryption=null&security=none&type=raw#megav.app
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
+vless://82dd5d38-1a65-42b9-835e-497b5b51eb84@108.162.198.180:443?alpn=h3&ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query&encryption=none&fp=chrome&host=kamonka.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=kamonka.eu.org&type=ws#megav.app
+vmess://b2da9920-b0a7-4354-9e26-3833ab8d00d0@185.248.33.173:38490?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
+vmess://254551f6-ec28-4938-ad0e-0aa4aa1965ec@185.248.33.173:29063?fp=chrome&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
+trojan://3ff6567c-e0de-4459-9dbc-5a2de5fb48dd@162.159.20.88:443?alpn=h3&ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query&fp=chrome&host=kamonka.dpdns.org&path=%2F%3Fed%3D2048&security=tls&sni=kamonka.dpdns.org&type=ws#megav.app
+trojan://humanity@www.ignitelimit.com:443?fp=chrome&path=%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674?security=none&type=raw#megav.app
