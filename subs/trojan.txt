@@ -1,1 +1,2 @@
-trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@172.67.78.22:443?fp=chrome&host=kamonka.eu.org&path=%2F&security=tls&sni=kamonka.eu.org&type=ws#megav.app
+trojan://3ff6567c-e0de-4459-9dbc-5a2de5fb48dd@162.159.20.88:443?alpn=h3&ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query&fp=chrome&host=kamonka.dpdns.org&path=%2F%3Fed%3D2048&security=tls&sni=kamonka.dpdns.org&type=ws#megav.app
+trojan://humanity@www.ignitelimit.com:443?fp=chrome&path=%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
