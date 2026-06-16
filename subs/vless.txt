@@ -1,2 +1,2 @@
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@89.167.25.28:11005?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=tPxRwVtrFklP9kJ8kWgHIcR-XSBBkZiYbwGCAaBrtgE&security=reality&sid=f98c&sni=www.cloudflare.com&type=tcp#megav.app
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=raw#megav.app
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=raw#megav.app
+vless://00000000-0000-4000-8000-000000000000@82.38.223.18:26130?encryption=none&fp=chrome&path=%2F%40Marisa_kristi&security=tls&sni=g1ixej-urdn-dlqnu1ol.gespz5p7nm04ej96ia7qc9tvsktgtx.workers.dev&type=ws#megav.app
