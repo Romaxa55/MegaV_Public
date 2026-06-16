@@ -1,8 +1,7 @@
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=raw#megav.app
-vless://00000000-0000-4000-8000-000000000000@82.38.223.18:26130?encryption=none&fp=chrome&path=%2F%40Marisa_kristi&security=tls&sni=g1ixej-urdn-dlqnu1ol.gespz5p7nm04ej96ia7qc9tvsktgtx.workers.dev&type=ws#megav.app
-vmess://c50f9480-2e1d-40db-9458-630e79636663@185.248.33.173:47193?encryption=auto&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
+vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none&fp=chrome&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&security=reality&sid=90&sni=www.icloud.com&type=raw#megav.app
 vmess://6d600864-32da-49fd-baf4-7df051762454@96.47.230.5:30421?encryption=auto&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
+vmess://27104fae-f047-4993-902a-9368d8a3e9bc@96.47.230.5:10605?host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
+trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#megav.app
 trojan://humanity@104.16.89.120:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-trojan://humanity@172.67.155.199:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080?security=none&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbWVMTExYZHVHZEY5a0VjZjE4aW4zWHNhR0ZMSDZBVmh4aGRrZU16MUtmMjdveG8zUkh2NTJXdHhCaGpuaGRpUnpRaFM4ZUw4cFhjaVk0cnU4bTVHaFJLZndMSlRlaVU=@185.5.38.111:55988#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQ3ZjYTdWRjExNDJFQ2NRSkJRU0I2OWdIeXZuNEpid1hKTTRxNUFSOWJGbkc3VENYQ2JQaGllVmIyR1p6Um5Uekc1OHJuWUVNbXNGdE5GMTRjMVhwbVdnNG1YcE1naEg=@185.5.38.111:55988#megav.app
