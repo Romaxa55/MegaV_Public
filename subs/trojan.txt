@@ -1,2 +1,2 @@
 trojan://86768774-70b2-4c15-80c3-02066fb1e3b6@104.21.39.202:443?host=zholli90.biggestqut.workers.dev&path=%2F152.32.181.246-44070&security=tls&sni=zholli90.biggestqut.workers.dev&type=ws#megav.app
-trojan://humanity@208.103.161.101:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://humanity@104.16.174.121:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
