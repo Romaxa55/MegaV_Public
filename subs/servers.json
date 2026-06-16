@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T00:00:59Z",
+  "updated_at": "2026-06-16T04:01:15Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -26,20 +26,20 @@
       "city": "Milan",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 644,
-      "bandwidth_kbs": 490,
-      "url": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?encryption=none\u0026mode=gun\u0026security=none\u0026type=grpc#megav.app"
+      "response_ms": 684,
+      "bandwidth_kbs": 404,
+      "url": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026encryption=none\u0026mode=gun\u0026security=none\u0026type=grpc#megav.app"
     },
     {
       "protocol": "vmess",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Marseille",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Seattle",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1170,
-      "bandwidth_kbs": 482,
-      "url": "vmess://c09f13ce-2cca-49b6-ad1e-597566cc89c6@185.248.33.173:39580?fp=chrome\u0026host=imafake.locker\u0026path=%2Fspeedtest\u0026security=tls\u0026sni=imafake.locker\u0026type=ws#megav.app"
+      "response_ms": 3136,
+      "bandwidth_kbs": 451,
+      "url": "vmess://3b475934-cb2a-4d96-b260-5e50cca5d430@96.47.230.5:63008?fp=chrome\u0026host=imafake.locker\u0026path=%2Fspeedtest\u0026security=tls\u0026sni=imafake.locker\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -65,14 +65,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1288,
-      "bandwidth_kbs": 430,
-      "url": "trojan://humanity@208.103.161.101:443?path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+      "response_ms": 2009,
+      "bandwidth_kbs": 440,
+      "url": "trojan://humanity@104.16.174.121:443?path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -92,9 +92,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 932,
-      "bandwidth_kbs": 415,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:443#megav.app"
+      "response_ms": 824,
+      "bandwidth_kbs": 445,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:443#megav.app"
     }
   ]
 }
