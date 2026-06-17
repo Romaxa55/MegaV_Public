@@ -1,8 +1,8 @@
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.137:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&path=%2F&security=none&type=ws#megav.app
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.146.198:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F&security=none&type=ws#megav.app
 vmess://04621bae-ab36-11ec-b909-0242ac120002@172.233.17.76:22324?security=none&type=raw#megav.app
 vmess://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@96.47.230.5:55503?encryption=auto&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
-trojan://humanity@172.64.152.23:443?host=www.creationlong.org&insecure=1&path=%252fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-trojan://humanity@104.18.32.47:443?fp=chrome&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#megav.app
+trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls&sni=38.54.13.189&type=raw#megav.app
+trojan://humanity@172.64.152.23:443?insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTzZGamZWZTRVMVhTTndqejJLYzdj@195.133.2.2:34898#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXazJCYkc2ZzJqcGR5Nko5QkM5Mk5vamNoUFlmWWJ2d0JtZmhmNFZlbm00bnVHczRINlJzbXgxdDZ3RVh1N211RVRxTWJYaExMQTc1M0t1aHd0cnVZTGFpZ0tnUXY5cjU=@185.5.38.111:55988#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@download.riferoser.icu:56594#megav.app
