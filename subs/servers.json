@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T08:01:15Z",
+  "updated_at": "2026-06-17T12:01:17Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -21,14 +21,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "DK",
-      "flag": "🇩🇰",
-      "city": "Nørre Åby",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 541,
-      "bandwidth_kbs": 414,
-      "url": "vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none\u0026path=%2F\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 575,
+      "bandwidth_kbs": 350,
+      "url": "vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.146.198:80?encryption=none\u0026host=zyzzzoao.xn--fiqv8j.eu.org\u0026path=%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -54,25 +54,25 @@
     },
     {
       "protocol": "trojan",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1003,
+      "bandwidth_kbs": 469,
+      "url": "trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls\u0026sni=38.54.13.189\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "trojan",
       "country_code": "PL",
       "flag": "🇵🇱",
       "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 725,
-      "bandwidth_kbs": 460,
-      "url": "trojan://humanity@172.64.152.23:443?host=www.creationlong.org\u0026insecure=1\u0026path=%252fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 960,
-      "bandwidth_kbs": 476,
-      "url": "trojan://humanity@104.18.32.47:443?fp=chrome\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.multiplydose.com\u0026type=ws#megav.app"
+      "response_ms": 2346,
+      "bandwidth_kbs": 478,
+      "url": "trojan://humanity@172.64.152.23:443?insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -87,14 +87,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Helsinki",
+      "country_code": "TW",
+      "flag": "🇹🇼",
+      "city": "Taipei",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1094,
-      "bandwidth_kbs": 476,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXazJCYkc2ZzJqcGR5Nko5QkM5Mk5vamNoUFlmWWJ2d0JtZmhmNFZlbm00bnVHczRINlJzbXgxdDZ3RVh1N211RVRxTWJYaExMQTc1M0t1aHd0cnVZTGFpZ0tnUXY5cjU=@185.5.38.111:55988#megav.app"
+      "response_ms": 1188,
+      "bandwidth_kbs": 428,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@download.riferoser.icu:56594#megav.app"
     }
   ]
 }
