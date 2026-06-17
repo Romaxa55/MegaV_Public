@@ -1,2 +1,2 @@
 vmess://12929592-a7bd-41eb-ab4d-d804f76c4ff9@96.47.230.5:36859?host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
-vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@3h-kazakhstan1.09vpn.com:80?encryption=auto&host=3h-kazakhstan1.09vpn.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://60441548-b68e-43b2-8191-e3b884be4b3c@104.17.77.77:8443?encryption=none&host=v2ray1.dozapp.xyz&path=%2FlMnsZUN4%2F&security=tls&sni=v2ray1.dozapp.xyz&type=ws#megav.app
