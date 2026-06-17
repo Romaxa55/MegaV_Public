@@ -1,2 +1,2 @@
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.137:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&path=%2F&security=none&type=ws#megav.app
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.146.198:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F&security=none&type=ws#megav.app
