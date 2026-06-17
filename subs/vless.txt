@@ -1,2 +1,2 @@
-vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.137:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
-vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.146.198:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F&security=none&type=ws#megav.app
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?alpn=http%2F1.1networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#megav.app
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
