@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T04:01:12Z",
+  "updated_at": "2026-06-17T08:01:15Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -32,25 +32,25 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Seattle",
+      "country_code": "BR",
+      "flag": "🇧🇷",
+      "city": "São Paulo",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3893,
-      "bandwidth_kbs": 497,
-      "url": "vmess://12929592-a7bd-41eb-ab4d-d804f76c4ff9@96.47.230.5:36859?host=imafake.locker\u0026path=%2Fspeedtest\u0026security=tls\u0026sni=imafake.locker\u0026type=ws#megav.app"
+      "response_ms": 2098,
+      "bandwidth_kbs": 495,
+      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@172.233.17.76:22324?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "St Louis",
+      "city": "Seattle",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 4356,
-      "bandwidth_kbs": 465,
-      "url": "vmess://60441548-b68e-43b2-8191-e3b884be4b3c@104.17.77.77:8443?encryption=none\u0026host=v2ray1.dozapp.xyz\u0026path=%2FlMnsZUN4%2F\u0026security=tls\u0026sni=v2ray1.dozapp.xyz\u0026type=ws#megav.app"
+      "response_ms": 3333,
+      "bandwidth_kbs": 496,
+      "url": "vmess://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@96.47.230.5:55503?encryption=auto\u0026host=imafake.locker\u0026path=%2Fspeedtest\u0026security=tls\u0026sni=imafake.locker\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
