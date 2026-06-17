@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T12:01:17Z",
+  "updated_at": "2026-06-17T16:01:11Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -15,20 +15,20 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 526,
-      "bandwidth_kbs": 347,
-      "url": "vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.137:80?encryption=none\u0026host=zyzzzoao.xn--fiqv8j.eu.org\u0026path=%2F%3Fed%3D2048\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 874,
+      "bandwidth_kbs": 495,
+      "url": "vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?alpn=http%2F1.1networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-\u0026encryption=none\u0026security=tls\u0026sni=ams1.fromblancwithlove.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 575,
-      "bandwidth_kbs": 350,
-      "url": "vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.146.198:80?encryption=none\u0026host=zyzzzoao.xn--fiqv8j.eu.org\u0026path=%2F\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 885,
+      "bandwidth_kbs": 444,
+      "url": "vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026security=tls\u0026sni=sub.sbrf-cdn342.ru\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -59,9 +59,9 @@
       "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1003,
-      "bandwidth_kbs": 469,
-      "url": "trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls\u0026sni=38.54.13.189\u0026type=raw#megav.app"
+      "response_ms": 455,
+      "bandwidth_kbs": 410,
+      "url": "trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?fp=chrome\u0026security=tls\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -76,17 +76,6 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "FI",
-      "flag": "🇫🇮",
-      "city": "Helsinki",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 754,
-      "bandwidth_kbs": 472,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTzZGamZWZTRVMVhTTndqejJLYzdj@195.133.2.2:34898#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
       "country_code": "TW",
       "flag": "🇹🇼",
       "city": "Taipei",
@@ -95,6 +84,17 @@
       "response_ms": 1188,
       "bandwidth_kbs": 428,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@download.riferoser.icu:56594#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "TW",
+      "flag": "🇹🇼",
+      "city": "Taipei",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1269,
+      "bandwidth_kbs": 473,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@46.249.109.128:56594#megav.app"
     }
   ]
 }
