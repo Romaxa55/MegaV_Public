@@ -1,7 +1,7 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?alpn=http%2F1.1networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#megav.app
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@172.233.17.76:22324?security=none&type=raw#megav.app
-vmess://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@96.47.230.5:55503?encryption=auto&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?encryption=none&flow=xtls-rprx-vision&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d515d6cfdfe60b02&sni=storage.yandex.net&type=raw#megav.app
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d515d6cfdfe60b02&sni=storage.yandex.net&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@172.232.103.186:22324#megav.app
+vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.214:180?encryption=aes-128-gcm&security=none&type=raw#megav.app
 trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?fp=chrome&security=tls&type=raw#megav.app
 trojan://humanity@172.64.152.23:443?insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@download.riferoser.icu:56594#megav.app
