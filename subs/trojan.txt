@@ -1,2 +1,2 @@
-trojan://humanity@172.64.152.23:443?host=www.creationlong.org&insecure=1&path=%252fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-trojan://humanity@104.18.32.47:443?fp=chrome&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#megav.app
+trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls&sni=38.54.13.189&type=raw#megav.app
+trojan://humanity@172.64.152.23:443?insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
