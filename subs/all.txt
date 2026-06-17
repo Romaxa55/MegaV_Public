@@ -1,7 +1,7 @@
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.137:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&path=%2F&security=none&type=ws#megav.app
-vmess://12929592-a7bd-41eb-ab4d-d804f76c4ff9@96.47.230.5:36859?host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
-vmess://60441548-b68e-43b2-8191-e3b884be4b3c@104.17.77.77:8443?encryption=none&host=v2ray1.dozapp.xyz&path=%2FlMnsZUN4%2F&security=tls&sni=v2ray1.dozapp.xyz&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@172.233.17.76:22324?security=none&type=raw#megav.app
+vmess://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@96.47.230.5:55503?encryption=auto&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#megav.app
 trojan://humanity@172.64.152.23:443?host=www.creationlong.org&insecure=1&path=%252fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 trojan://humanity@104.18.32.47:443?fp=chrome&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTzZGamZWZTRVMVhTTndqejJLYzdj@195.133.2.2:34898#megav.app
