@@ -3,6 +3,6 @@ vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?encryption
 vmess://04621bae-ab36-11ec-b909-0242ac120002@172.232.103.186:22324#megav.app
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.214:180?encryption=aes-128-gcm&security=none&type=raw#megav.app
 trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?fp=chrome&security=tls&type=raw#megav.app
-trojan://humanity@172.64.152.23:443?insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@download.riferoser.icu:56594#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@46.249.109.128:56594#megav.app
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.128.4:50099#megav.app
