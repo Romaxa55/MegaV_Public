@@ -1,8 +1,8 @@
-vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?encryption=none&flow=xtls-rprx-vision&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d515d6cfdfe60b02&sni=storage.yandex.net&type=raw#megav.app
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@103.227.84.1:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&security=reality&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net&type=tcp#megav.app
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&security=reality&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net&type=tcp#megav.app
+vmess://39feb812-0fd9-4e89-928b-9ffc0a47b778@51.195.235.71:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&sni=node-uk.connectsuite.org&type=tcp#megav.app
 vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?security=none&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@172.232.103.186:22324#megav.app
+trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls&type=raw#megav.app
 trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@162.159.33.116:443?alpn=h3&ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query&fp=chrome&host=kamonka.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=kamonka.eu.org&type=ws#megav.app
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:443#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#megav.app
