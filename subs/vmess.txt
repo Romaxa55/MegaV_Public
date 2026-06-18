@@ -1,2 +1,2 @@
+vmess://39feb812-0fd9-4e89-928b-9ffc0a47b778@51.195.235.71:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&sni=node-uk.connectsuite.org&type=tcp#megav.app
 vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?security=none&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@172.232.103.186:22324#megav.app
