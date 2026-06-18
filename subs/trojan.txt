@@ -1,2 +1,2 @@
-trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls&type=raw#megav.app
+trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?fp=chrome&security=tls&type=tcp#megav.app
 trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?fp=chrome&insecure=1&security=tls&sni=38.54.13.189&type=tcp#megav.app
