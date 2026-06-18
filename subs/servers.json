@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T04:01:20Z",
+  "updated_at": "2026-06-18T08:01:28Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -10,17 +10,6 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "CH",
-      "flag": "🇨🇭",
-      "city": "Zurich",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 566,
-      "bandwidth_kbs": 409,
-      "url": "vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc\u0026security=reality\u0026sid=d515d6cfdfe60b02\u0026sni=storage.yandex.net\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "vless",
       "country_code": "SC",
       "flag": "🇸🇨",
       "city": "Zurich",
@@ -29,6 +18,28 @@
       "response_ms": 646,
       "bandwidth_kbs": 436,
       "url": "vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@103.227.84.1:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY\u0026security=reality\u0026sid=a1ab5a56bc42\u0026sni=sw1tzerl4nd.gxcore.net\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "SC",
+      "flag": "🇸🇨",
+      "city": "Zurich",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 701,
+      "bandwidth_kbs": 445,
+      "url": "vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY\u0026security=reality\u0026sid=a1ab5a56bc42\u0026sni=sw1tzerl4nd.gxcore.net\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Brentford",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2753,
+      "bandwidth_kbs": 447,
+      "url": "vmess://39feb812-0fd9-4e89-928b-9ffc0a47b778@51.195.235.71:2053?alpn=h2%2Chttp%2F1.1\u0026encryption=auto\u0026security=tls\u0026sni=node-uk.connectsuite.org\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -42,15 +53,15 @@
       "url": "vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?security=none\u0026type=tcp#megav.app"
     },
     {
-      "protocol": "vmess",
-      "country_code": "IN",
-      "flag": "🇮🇳",
-      "city": "Chennai",
+      "protocol": "trojan",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2943,
-      "bandwidth_kbs": 442,
-      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@172.232.103.186:22324#megav.app"
+      "response_ms": 619,
+      "bandwidth_kbs": 349,
+      "url": "trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -62,17 +73,6 @@
       "response_ms": 733,
       "bandwidth_kbs": 327,
       "url": "trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@162.159.33.116:443?alpn=h3\u0026ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query\u0026fp=chrome\u0026host=kamonka.eu.org\u0026path=%2F%3Fed%3D2048\u0026security=tls\u0026sni=kamonka.eu.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "CZ",
-      "flag": "🇨🇿",
-      "city": "Veselí nad Lužnicí",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 898,
-      "bandwidth_kbs": 428,
-      "url": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls\u0026sni=ch-2.bexum.fun\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
