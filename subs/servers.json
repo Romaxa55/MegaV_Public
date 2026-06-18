@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T20:01:20Z",
+  "updated_at": "2026-06-18T00:01:06Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -65,36 +65,36 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "country_code": "CZ",
+      "flag": "🇨🇿",
+      "city": "Veselí nad Lužnicí",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2346,
-      "bandwidth_kbs": 478,
-      "url": "trojan://humanity@172.64.152.23:443?insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "TW",
-      "flag": "🇹🇼",
-      "city": "Taipei",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1188,
+      "response_ms": 898,
       "bandwidth_kbs": 428,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@download.riferoser.icu:56594#megav.app"
+      "url": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls\u0026sni=ch-2.bexum.fun\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1368,
+      "bandwidth_kbs": 442,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
       "country_code": "TW",
       "flag": "🇹🇼",
-      "city": "Taipei",
+      "city": "New Taipei City",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1269,
-      "bandwidth_kbs": 473,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@46.249.109.128:56594#megav.app"
+      "response_ms": 3293,
+      "bandwidth_kbs": 445,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.128.4:50099#megav.app"
     }
   ]
 }
