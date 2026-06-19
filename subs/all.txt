@@ -1,8 +1,8 @@
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#megav.app
-vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?encryption=none#megav.app
-vmess://96408f9a-df03-448b-b7e4-ec8e2c216682@myvpshosting.name.ng:80?host=myvpshosting.name.ng&path=%2Fvmess&security=none&type=ws#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@213.156.141.52:22324#megav.app
-trojan://humanity@8.6.112.6:443?host=www.creationlong.org&path=%252Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?encryption=none&mode=gun&security=none&type=grpc#megav.app
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.149.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#megav.app
+vmess://05b8c783-7f59-47f9-9923-06a465679f6a@172.111.146.64:80?encryption=auto&host=172.111.146.64&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=google.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
 trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls&sni=38.54.13.189&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#megav.app
+trojan://humanity@188.114.97.6:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.206:8080#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#megav.app
