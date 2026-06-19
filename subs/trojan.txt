@@ -1,2 +1,2 @@
 trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?fp=chrome&security=tls&type=tcp#megav.app
-trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?fp=chrome&insecure=1&security=tls&sni=38.54.13.189&type=tcp#megav.app
+trojan://humanity@8.6.112.6:443?host=www.creationlong.org&path=%252Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
