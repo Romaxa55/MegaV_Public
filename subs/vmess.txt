@@ -1,2 +1,2 @@
-vmess://96408f9a-df03-448b-b7e4-ec8e2c216682@myvpshosting.name.ng:80?host=myvpshosting.name.ng&path=%2Fvmess&security=none&type=ws#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@213.156.141.52:22324#megav.app
+vmess://05b8c783-7f59-47f9-9923-06a465679f6a@172.111.146.64:80?encryption=auto&host=172.111.146.64&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=google.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
