@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T08:04:55Z",
+  "updated_at": "2026-06-19T12:04:47Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -21,14 +21,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "AT",
-      "flag": "🇦🇹",
-      "city": "Vienna",
+      "country_code": "FI",
+      "flag": "🇫🇮",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 899,
-      "bandwidth_kbs": 447,
-      "url": "vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.29:10443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo\u0026security=reality\u0026sni=www.cloudflare.com\u0026type=tcp#megav.app"
+      "response_ms": 698,
+      "bandwidth_kbs": 414,
+      "url": "vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?encryption=none#megav.app"
     },
     {
       "protocol": "vmess",
@@ -43,14 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Los Angeles",
+      "country_code": "HK",
+      "flag": "🇭🇰",
+      "city": "Hong Kong",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2474,
-      "bandwidth_kbs": 489,
-      "url": "vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.214:180?encryption=aes-128-gcm\u0026security=none\u0026type=raw#megav.app"
+      "response_ms": 2581,
+      "bandwidth_kbs": 444,
+      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@213.156.141.52:22324#megav.app"
     },
     {
       "protocol": "trojan",
