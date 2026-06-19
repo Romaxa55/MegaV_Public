@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T16:01:23Z",
+  "updated_at": "2026-06-19T20:01:19Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -32,6 +32,17 @@
     },
     {
       "protocol": "vmess",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Toronto",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2571,
+      "bandwidth_kbs": 430,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "vmess",
       "country_code": "JP",
       "flag": "🇯🇵",
       "city": "Tokyo",
@@ -42,37 +53,37 @@
       "url": "vmess://05b8c783-7f59-47f9-9923-06a465679f6a@172.111.146.64:80?encryption=auto\u0026host=172.111.146.64\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
-      "protocol": "vmess",
-      "country_code": "KZ",
-      "flag": "🇰🇿",
-      "city": "Almaty",
+      "protocol": "trojan",
+      "country_code": "IE",
+      "flag": "🇮🇪",
+      "city": "Dublin",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 10068,
-      "bandwidth_kbs": 486,
-      "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto\u0026host=google.com\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 1290,
+      "bandwidth_kbs": 421,
+      "url": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?fp=chrome\u0026insecure=1\u0026security=tls\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
       "country_code": "DE",
       "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "city": "Gelnhausen",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1189,
-      "bandwidth_kbs": 477,
-      "url": "trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls\u0026sni=38.54.13.189\u0026type=raw#megav.app"
+      "response_ms": 1591,
+      "bandwidth_kbs": 422,
+      "url": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?fp=chrome\u0026security=tls\u0026sni=de-1.hysteria.ltd\u0026type=tcp#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
+      "protocol": "shadowsocks",
+      "country_code": "IE",
+      "flag": "🇮🇪",
+      "city": "Dublin",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1201,
-      "bandwidth_kbs": 498,
-      "url": "trojan://humanity@188.114.97.6:443?alpn=http%2F1.1\u0026fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
+      "response_ms": 895,
+      "bandwidth_kbs": 480,
+      "url": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -84,17 +95,6 @@
       "response_ms": 919,
       "bandwidth_kbs": 457,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.206:8080#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "RO",
-      "flag": "🇷🇴",
-      "city": "Voluntari",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 926,
-      "bandwidth_kbs": 475,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#megav.app"
     }
   ]
 }
