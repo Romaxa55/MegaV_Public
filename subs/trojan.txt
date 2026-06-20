@@ -1,2 +1,2 @@
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?fp=chrome&insecure=1&security=tls&type=tcp#megav.app
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.194:57452?insecure=1&security=tls&sni=www.vk.com&type=tcp#megav.app
 trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?fp=chrome&security=tls&sni=38.54.13.189&type=raw#megav.app
