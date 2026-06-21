@@ -1,10 +1,9 @@
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&fp=firefox&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&security=reality&sid=05fdaa8a05be46a9&sni=www.samsung.com&type=tcp#megav.app
-vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none&fp=chrome&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&security=reality&sid=90&sni=www.icloud.com&type=tcp#megav.app
+vless://039a1658-e86e-475f-a3a4-67cc249acada@146.103.121.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N1HRDSdKHqdbSX_N5SUfFiokXcN-jQzu-Na244bA21I&security=reality&sid=c64556c616970b14&sni=nl2.panel11.ru&type=tcp#megav.app
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?encryption=none&fp=chrome&host=sc-thenetherlands1.09vpn.com&path=%2Fvless%2F&security=tls&sni=sc-thenetherlands1.09vpn.com&type=ws#megav.app
 vmess://df83276c-fcf2-4cf6-9199-e4b509c194dd@89.167.82.102:4443?encryption=auto&security=none&type=tcp#megav.app
 vmess://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&type=raw#megav.app
-trojan://MiTiVPN@151.101.110.219:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-6.global.ssl.fastly.net&path=%2Fed%3Dmitivpn&security=tls&sni=global.fastly.com&type=ws#megav.app
-trojan://MiTiVPN@151.101.110.219:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-77.global.ssl.fastly.net&path=%2Fed%3Dmitivpn&security=tls&sni=default.ssl.fastly.net&type=ws#megav.app
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&type=raw#megav.app
+trojan://humanity@45.130.125.158:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080?security=none&type=tcp#megav.app
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bm5aYjIzM3diOGg5Y1pkbHdwSHdkSXQ0R1RBbGJLN0RRSk9CZE9ldzNTMD06OUNyQThOb2tVZmg0TkQ2dFJFVmtESWhwOHN2cGNNeVp5WTh5a3cxeGEraz0=@89.167.82.102:443#megav.app
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bm5aYjIzM3diOGg5Y1pkbHdwSHdkSXQ0R1RBbGJLN0RRSk9CZE9ldzNTMD06NGlaYnYrVzVCQUFGTTBFWDB2TFNTQ1owM25CekVTbW1sdEU2N1pDSVBTQT0=@89.167.82.102:443?security=none&type=tcp#megav.app
