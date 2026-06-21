@@ -1,2 +1,2 @@
-vless://2c53af1c-c440-38f0-94f1-8bc32a4274f8@138.68.150.88:443?encryption=none&flow=xtls-rprx-vision&pbk=SAgG_t0cdKBPSvJzlIjrwTRjtBjfaUZnpYWhXyxEHSg&security=reality&sid=2fe2afb9c7978f36&sni=learn.microsoft.com&type=raw#megav.app
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.149.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#megav.app
+vless://f3dec55e-14c8-d083-2ac1-92e190a3f4e2@170.114.45.239:80?encryption=none&host=b1b.blkbmisa.dpdns.org&path=%2Fmy-milisa&security=none&type=ws#megav.app
+vless://0471efb2-93e0-3b00-4a4b-fad5c442b2e4@170.114.45.239:8080?encryption=none&host=n1m.novacell95.qzz.io&path=%2Fm1outlook&security=none&type=ws#megav.app
