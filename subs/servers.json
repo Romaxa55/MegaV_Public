@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-21T12:01:31Z",
-  "total": 10,
+  "updated_at": "2026-06-21T16:01:35Z",
+  "total": 9,
   "by_protocol": {
     "shadowsocks": 2,
-    "shadowsocks2022": 2,
+    "shadowsocks2022": 1,
     "trojan": 2,
     "vless": 2,
     "vmess": 2
@@ -11,25 +11,25 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 654,
-      "bandwidth_kbs": 460,
-      "url": "vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none\u0026fp=firefox\u0026pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo\u0026security=reality\u0026sid=05fdaa8a05be46a9\u0026sni=www.samsung.com\u0026type=tcp#megav.app"
+      "response_ms": 637,
+      "bandwidth_kbs": 466,
+      "url": "vless://039a1658-e86e-475f-a3a4-67cc249acada@146.103.121.166:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=N1HRDSdKHqdbSX_N5SUfFiokXcN-jQzu-Na244bA21I\u0026security=reality\u0026sid=c64556c616970b14\u0026sni=nl2.panel11.ru\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "SE",
-      "flag": "🇸🇪",
-      "city": "Stockholm",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 707,
-      "bandwidth_kbs": 471,
-      "url": "vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none\u0026fp=chrome\u0026pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w\u0026security=reality\u0026sid=90\u0026sni=www.icloud.com\u0026type=tcp#megav.app"
+      "response_ms": 706,
+      "bandwidth_kbs": 414,
+      "url": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?encryption=none\u0026fp=chrome\u0026host=sc-thenetherlands1.09vpn.com\u0026path=%2Fvless%2F\u0026security=tls\u0026sni=sc-thenetherlands1.09vpn.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -55,25 +55,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "CZ",
+      "flag": "🇨🇿",
+      "city": "Veselí nad Lužnicí",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 792,
-      "bandwidth_kbs": 448,
-      "url": "trojan://MiTiVPN@151.101.110.219:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn-6.global.ssl.fastly.net\u0026path=%2Fed%3Dmitivpn\u0026security=tls\u0026sni=global.fastly.com\u0026type=ws#megav.app"
+      "response_ms": 1133,
+      "bandwidth_kbs": 398,
+      "url": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 928,
-      "bandwidth_kbs": 430,
-      "url": "trojan://MiTiVPN@151.101.110.219:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn-77.global.ssl.fastly.net\u0026path=%2Fed%3Dmitivpn\u0026security=tls\u0026sni=default.ssl.fastly.net\u0026type=ws#megav.app"
+      "response_ms": 1714,
+      "bandwidth_kbs": 462,
+      "url": "trojan://humanity@45.130.125.158:443?alpn=h3%2Ch2%2Chttp%2F1.1\u0026fp=chrome\u0026host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -96,17 +96,6 @@
       "response_ms": 586,
       "bandwidth_kbs": 478,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080?security=none\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "shadowsocks2022",
-      "country_code": "FI",
-      "flag": "🇫🇮",
-      "city": "Helsinki",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1968,
-      "bandwidth_kbs": 483,
-      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bm5aYjIzM3diOGg5Y1pkbHdwSHdkSXQ0R1RBbGJLN0RRSk9CZE9ldzNTMD06OUNyQThOb2tVZmg0TkQ2dFJFVmtESWhwOHN2cGNNeVp5WTh5a3cxeGEraz0=@89.167.82.102:443#megav.app"
     },
     {
       "protocol": "shadowsocks2022",
