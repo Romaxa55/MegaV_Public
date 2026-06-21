@@ -1,2 +1,2 @@
+trojan://humanity@199.181.197.11:443?path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&type=raw#megav.app
-trojan://humanity@45.130.125.158:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
