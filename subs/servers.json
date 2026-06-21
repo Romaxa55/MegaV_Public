@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-21T04:02:58Z",
-  "total": 9,
+  "updated_at": "2026-06-21T08:01:36Z",
+  "total": 10,
   "by_protocol": {
     "shadowsocks": 2,
-    "shadowsocks2022": 1,
+    "shadowsocks2022": 2,
     "trojan": 2,
     "vless": 2,
     "vmess": 2
@@ -16,20 +16,20 @@
       "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 504,
-      "bandwidth_kbs": 472,
-      "url": "vless://f3dec55e-14c8-d083-2ac1-92e190a3f4e2@170.114.45.239:80?encryption=none\u0026host=b1b.blkbmisa.dpdns.org\u0026path=%2Fmy-milisa\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 566,
+      "bandwidth_kbs": 435,
+      "url": "vless://0471efb2-93e0-3b00-4a4b-fad5c442b2e4@170.114.45.239:8080?encryption=none\u0026host=n1m.novacell95.qzz.io\u0026path=%2Fm1outlook\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 566,
-      "bandwidth_kbs": 347,
-      "url": "vless://0471efb2-93e0-3b00-4a4b-fad5c442b2e4@170.114.45.239:8080?encryption=none\u0026host=n1m.novacell95.qzz.io\u0026path=%2Fm1outlook\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 803,
+      "bandwidth_kbs": 478,
+      "url": "vless://0471efb2-93e0-3b00-4a4b-fad5c442b2e4@104.19.61.48:443?encryption=none\u0026fp=chrome\u0026host=n1m.novacell95.qzz.io\u0026path=%2Fm1outlook\u0026security=tls\u0026sni=n1m.novacell95.qzz.io\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -44,14 +44,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Los Angeles",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Toronto",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3215,
-      "bandwidth_kbs": 463,
-      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@67.220.72.237:22324?security=none\u0026type=tcp#megav.app"
+      "response_ms": 1829,
+      "bandwidth_kbs": 438,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -82,20 +82,20 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 536,
-      "bandwidth_kbs": 496,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388?security=none\u0026type=tcp#megav.app"
+      "response_ms": 491,
+      "bandwidth_kbs": 404,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "SE",
-      "flag": "🇸🇪",
-      "city": "Stockholm",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 709,
-      "bandwidth_kbs": 162,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@207.2.120.46:3478?security=none\u0026type=raw#megav.app"
+      "response_ms": 586,
+      "bandwidth_kbs": 478,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080?security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks2022",
@@ -107,6 +107,17 @@
       "response_ms": 1968,
       "bandwidth_kbs": 483,
       "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bm5aYjIzM3diOGg5Y1pkbHdwSHdkSXQ0R1RBbGJLN0RRSk9CZE9ldzNTMD06OUNyQThOb2tVZmg0TkQ2dFJFVmtESWhwOHN2cGNNeVp5WTh5a3cxeGEraz0=@89.167.82.102:443#megav.app"
+    },
+    {
+      "protocol": "shadowsocks2022",
+      "country_code": "FI",
+      "flag": "🇫🇮",
+      "city": "Helsinki",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 12922,
+      "bandwidth_kbs": 466,
+      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bm5aYjIzM3diOGg5Y1pkbHdwSHdkSXQ0R1RBbGJLN0RRSk9CZE9ldzNTMD06NGlaYnYrVzVCQUFGTTBFWDB2TFNTQ1owM25CekVTbW1sdEU2N1pDSVBTQT0=@89.167.82.102:443?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
