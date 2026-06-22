@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T08:01:49Z",
+  "updated_at": "2026-06-22T12:05:50Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -15,9 +15,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 393,
-      "bandwidth_kbs": 435,
-      "url": "vless://b991b390-dd0f-4061-9150-bee0cb467bce@66.81.247.240:443?encryption=none\u0026host=opu-ao6.pages.dev\u0026path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3\u0026security=tls\u0026sni=opu-ao6.pages.dev\u0026type=ws#megav.app"
+      "response_ms": 411,
+      "bandwidth_kbs": 488,
+      "url": "vless://b991b390-dd0f-4061-9150-bee0cb467bce@185.207.196.240:443?encryption=none\u0026fp=chrome\u0026host=opu-ao6.pages.dev\u0026path=%2F%3Fed%3D2560\u0026security=tls\u0026sni=opu-ao6.pages.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
@@ -26,9 +26,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 411,
-      "bandwidth_kbs": 488,
-      "url": "vless://b991b390-dd0f-4061-9150-bee0cb467bce@185.207.196.240:443?encryption=none\u0026fp=chrome\u0026host=opu-ao6.pages.dev\u0026path=%2F%3Fed%3D2560\u0026security=tls\u0026sni=opu-ao6.pages.dev\u0026type=ws#megav.app"
+      "response_ms": 417,
+      "bandwidth_kbs": 396,
+      "url": "vless://b991b390-dd0f-4061-9150-bee0cb467bce@45.135.235.240:443?encryption=none\u0026host=opu-ao6.pages.dev\u0026path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3\u0026security=tls\u0026sni=opu-ao6.pages.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -65,14 +65,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "CZ",
-      "flag": "🇨🇿",
-      "city": "Veselí nad Lužnicí",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1017,
-      "bandwidth_kbs": 430,
-      "url": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?fp=chrome\u0026security=tls\u0026sni=ch-2.bexum.fun\u0026type=tcp#megav.app"
+      "response_ms": 1336,
+      "bandwidth_kbs": 497,
+      "url": "trojan://humanity@199.181.197.212:443?alpn=http%2F1.1+\u0026host=www.calmloud.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmloud.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
