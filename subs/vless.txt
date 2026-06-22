@@ -1,2 +1,2 @@
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@108.162.195.7:2053?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#megav.app
-vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.65:443?encryption=none&flow=xtls-rprx-vision&pbk=vTtRZ_FeFQoAigFr_pmVc_O85RaE9H8aVL0SitFYcmI&security=reality&sid=53cd45d26d7b53fe&sni=free1.anotherboring.top&type=tcp#megav.app
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-119.466688.xyz:443?encryption=none&fp=chrome&host=opu-ao6.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fdaily_free_vpn&security=tls&sni=opu-ao6.pages.dev&type=ws#megav.app
