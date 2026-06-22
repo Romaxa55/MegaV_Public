@@ -1,8 +1,8 @@
 vless://4169ca30-91e6-4a55-9174-85c08ec55626@193.233.126.229:443?encryption=none&fp=chrome&mode=gun&pbk=e2CrnP8Xz_sXgy9-0U7BWzyFt84tG6xl6ZSNk991myw&security=reality&serviceName=grpc&sni=google.com&type=grpc#megav.app
-vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.65:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vTtRZ_FeFQoAigFr_pmVc_O85RaE9H8aVL0SitFYcmI&security=reality&sid=53cd45d26d7b53fe&sni=free1.anotherboring.top&type=tcp#megav.app
-vmess://df83276c-fcf2-4cf6-9199-e4b509c194dd@89.167.82.102:4443?encryption=auto&security=none&type=tcp#megav.app
-vmess://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&type=raw#megav.app
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?encryption=none&fp=chrome&host=sc-thenetherlands1.09vpn.com&path=%2Fvless%2F&security=tls&sni=sc-thenetherlands1.09vpn.com&type=ws#megav.app
+vmess://9db4c708-aef8-4359-821b-38e47990be0d@152.67.8.205:80?path=%2F&security=none&type=ws#megav.app
+vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?encryption=auto&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
 trojan://humanity@199.181.197.11:443?path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&type=raw#megav.app
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?fp=chrome&security=tls&sni=ch-2.bexum.fun&type=tcp#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#megav.app
 ss://Y2hhY2hhMjAtcG9seTEzMDU6N3liMW1nZ2Fhbnk1eDVvbQ==@109.207.169.188:8443?security=none&type=tcp#megav.app
