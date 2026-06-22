@@ -1,2 +1,2 @@
 trojan://humanity@104.27.113.179:443?path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?fp=chrome&security=tls&sni=ch-2.bexum.fun&type=tcp#megav.app
+trojan://humanity@199.181.197.212:443?alpn=http%2F1.1+&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
