@@ -1,8 +1,8 @@
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@66.81.247.240:443?encryption=none&host=opu-ao6.pages.dev&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=opu-ao6.pages.dev&type=ws#megav.app
 vless://4169ca30-91e6-4a55-9174-85c08ec55626@193.233.126.229:443?encryption=none&fp=chrome&mode=gun&pbk=e2CrnP8Xz_sXgy9-0U7BWzyFt84tG6xl6ZSNk991myw&security=reality&serviceName=grpc&sni=google.com&type=grpc#megav.app
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?encryption=none&fp=chrome&host=sc-thenetherlands1.09vpn.com&path=%2Fvless%2F&security=tls&sni=sc-thenetherlands1.09vpn.com&type=ws#megav.app
-vmess://9db4c708-aef8-4359-821b-38e47990be0d@152.67.8.205:80?path=%2F&security=none&type=ws#megav.app
-vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?encryption=auto&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
-trojan://humanity@199.181.197.11:443?path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
+vmess://0685a0bf-2413-45d2-dc00-c0281387c247@23.141.204.132:29633#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto&security=none&type=tcp#megav.app
+trojan://humanity@104.27.113.179:443?path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?fp=chrome&security=tls&sni=ch-2.bexum.fun&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVXl5ZFU3Q1ZraEQ1Qko0S2U2anlq@195.133.2.2:34898#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#megav.app
-ss://Y2hhY2hhMjAtcG9seTEzMDU6N3liMW1nZ2Fhbnk1eDVvbQ==@109.207.169.188:8443?security=none&type=tcp#megav.app
