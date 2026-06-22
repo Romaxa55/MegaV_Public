@@ -1,2 +1,2 @@
 vless://b991b390-dd0f-4061-9150-bee0cb467bce@66.81.247.240:443?encryption=none&host=opu-ao6.pages.dev&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=opu-ao6.pages.dev&type=ws#megav.app
-vless://4169ca30-91e6-4a55-9174-85c08ec55626@193.233.126.229:443?encryption=none&fp=chrome&mode=gun&pbk=e2CrnP8Xz_sXgy9-0U7BWzyFt84tG6xl6ZSNk991myw&security=reality&serviceName=grpc&sni=google.com&type=grpc#megav.app
+vless://b991b390-dd0f-4061-9150-bee0cb467bce@185.207.196.240:443?encryption=none&fp=chrome&host=opu-ao6.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=opu-ao6.pages.dev&type=ws#megav.app
