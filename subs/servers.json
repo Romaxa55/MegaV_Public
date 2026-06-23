@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T20:06:16Z",
+  "updated_at": "2026-06-23T00:04:33Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -54,6 +54,17 @@
     },
     {
       "protocol": "trojan",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 683,
+      "bandwidth_kbs": 473,
+      "url": "trojan://humanity@208.103.161.101:443?path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
       "country_code": "IE",
       "flag": "🇮🇪",
       "city": "Dublin",
@@ -64,15 +75,15 @@
       "url": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?insecure=1\u0026security=tls\u0026type=tcp#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2074,
-      "bandwidth_kbs": 455,
-      "url": "trojan://humanity@188.114.96.3:443?fp=ios\u0026host=www.calmloud.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmloud.com\u0026type=ws#megav.app"
+      "response_ms": 485,
+      "bandwidth_kbs": 482,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.164:8080#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -84,17 +95,6 @@
       "response_ms": 714,
       "bandwidth_kbs": 411,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164:8080#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1058,
-      "bandwidth_kbs": 458,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#megav.app"
     }
   ]
 }
