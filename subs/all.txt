@@ -1,8 +1,8 @@
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@108.162.195.7:2053?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#megav.app
-vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-119.466688.xyz:443?encryption=none&fp=chrome&host=opu-ao6.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fdaily_free_vpn&security=tls&sni=opu-ao6.pages.dev&type=ws#megav.app
-vmess://843f253f-1cd4-41b1-af37-2e87a77d1380@89.167.82.102:4443?encryption=auto&security=none&type=raw#megav.app
-vmess://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&sni=uk5.taskflowhub.org&type=tcp#megav.app
+vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?encryption=none&fp=firefox&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&security=reality&sid=1680&sni=www.samsung.com&spx=%2F&type=tcp#megav.app
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none&flow=xtls-rprx-vision&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&security=reality&sid=273940fba6ad8250&sni=5.oncloudnineservicestreang.com&type=tcp#megav.app
+vmess://0685a0bf-2413-45d2-dc00-c0281387c247@23.141.204.132:29633?encryption=auto&security=none&type=raw#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=aes-128-gcm&security=none&type=tcp#megav.app
 trojan://humanity@208.103.161.101:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?insecure=1&security=tls&type=tcp#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.164:8080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164:8080#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#megav.app
