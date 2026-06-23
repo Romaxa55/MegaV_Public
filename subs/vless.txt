@@ -1,2 +1,2 @@
-vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?encryption=none&fp=firefox&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&security=reality&sid=1680&sni=www.samsung.com&spx=%2F&type=tcp#megav.app
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none&flow=xtls-rprx-vision&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&security=reality&sid=273940fba6ad8250&sni=5.oncloudnineservicestreang.com&type=tcp#megav.app
+vless://6b175857-e726-43e7-a08b-3f1df4b963da@188.114.97.6:443?encryption=none&fp=chrome&host=support.zoom.us.r3xxe.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.r3xxe.eu.cc&type=ws#megav.app
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#megav.app
