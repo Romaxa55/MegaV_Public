@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T00:04:33Z",
+  "updated_at": "2026-06-23T04:03:49Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -15,42 +15,42 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 377,
-      "bandwidth_kbs": 439,
-      "url": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@108.162.195.7:2053?encryption=none\u0026security=tls\u0026sni=josni.hoyes.cloudns.ch\u0026type=ws#megav.app"
+      "response_ms": 615,
+      "bandwidth_kbs": 438,
+      "url": "vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?encryption=none\u0026fp=firefox\u0026pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs\u0026security=reality\u0026sid=1680\u0026sni=www.samsung.com\u0026spx=%2F\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Nuremberg",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 617,
-      "bandwidth_kbs": 474,
-      "url": "vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-119.466688.xyz:443?encryption=none\u0026fp=chrome\u0026host=opu-ao6.pages.dev\u0026path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fdaily_free_vpn\u0026security=tls\u0026sni=opu-ao6.pages.dev\u0026type=ws#megav.app"
+      "response_ms": 695,
+      "bandwidth_kbs": 495,
+      "url": "vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM\u0026security=reality\u0026sid=273940fba6ad8250\u0026sni=5.oncloudnineservicestreang.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
-      "country_code": "FI",
-      "flag": "🇫🇮",
-      "city": "Helsinki",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Los Angeles",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1098,
-      "bandwidth_kbs": 444,
-      "url": "vmess://843f253f-1cd4-41b1-af37-2e87a77d1380@89.167.82.102:4443?encryption=auto\u0026security=none\u0026type=raw#megav.app"
+      "response_ms": 1996,
+      "bandwidth_kbs": 433,
+      "url": "vmess://0685a0bf-2413-45d2-dc00-c0281387c247@23.141.204.132:29633?encryption=auto\u0026security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "vmess",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Brentford",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Santa Clara",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1797,
-      "bandwidth_kbs": 467,
-      "url": "vmess://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=auto\u0026fp=chrome\u0026security=tls\u0026sni=uk5.taskflowhub.org\u0026type=tcp#megav.app"
+      "response_ms": 6108,
+      "bandwidth_kbs": 485,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=aes-128-gcm\u0026security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -92,9 +92,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 714,
-      "bandwidth_kbs": 411,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164:8080#megav.app"
+      "response_ms": 550,
+      "bandwidth_kbs": 491,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#megav.app"
     }
   ]
 }
