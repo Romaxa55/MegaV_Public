@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T04:03:49Z",
+  "updated_at": "2026-06-23T08:01:37Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -15,20 +15,20 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 615,
-      "bandwidth_kbs": 438,
-      "url": "vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?encryption=none\u0026fp=firefox\u0026pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs\u0026security=reality\u0026sid=1680\u0026sni=www.samsung.com\u0026spx=%2F\u0026type=tcp#megav.app"
+      "response_ms": 814,
+      "bandwidth_kbs": 454,
+      "url": "vless://6b175857-e726-43e7-a08b-3f1df4b963da@188.114.97.6:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.r3xxe.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.r3xxe.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Nuremberg",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 695,
-      "bandwidth_kbs": 495,
-      "url": "vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM\u0026security=reality\u0026sid=273940fba6ad8250\u0026sni=5.oncloudnineservicestreang.com\u0026type=tcp#megav.app"
+      "response_ms": 897,
+      "bandwidth_kbs": 465,
+      "url": "vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none\u0026host=SC-TheNetherlands2.09vpn.com\u0026path=%2Fvless%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -45,12 +45,12 @@
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Santa Clara",
+      "city": "Los Angeles",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 6108,
-      "bandwidth_kbs": 485,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=aes-128-gcm\u0026security=none\u0026type=tcp#megav.app"
+      "response_ms": 8869,
+      "bandwidth_kbs": 486,
+      "url": "vmess://0685a0bf-2413-45d2-dc00-c0281387c247@23.141.204.132:29633?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -65,14 +65,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "IE",
-      "flag": "🇮🇪",
-      "city": "Dublin",
+      "country_code": "CZ",
+      "flag": "🇨🇿",
+      "city": "Veselí nad Lužnicí",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1025,
-      "bandwidth_kbs": 436,
-      "url": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?insecure=1\u0026security=tls\u0026type=tcp#megav.app"
+      "response_ms": 1203,
+      "bandwidth_kbs": 462,
+      "url": "trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls\u0026sni=ch-2.bexum.fun\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
