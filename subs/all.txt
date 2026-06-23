@@ -2,7 +2,7 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@108.162.195.7:2053?encryption=none&
 vless://b991b390-dd0f-4061-9150-bee0cb467bce@us2-119.466688.xyz:443?encryption=none&fp=chrome&host=opu-ao6.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fdaily_free_vpn&security=tls&sni=opu-ao6.pages.dev&type=ws#megav.app
 vmess://843f253f-1cd4-41b1-af37-2e87a77d1380@89.167.82.102:4443?encryption=auto&security=none&type=raw#megav.app
 vmess://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&sni=uk5.taskflowhub.org&type=tcp#megav.app
+trojan://humanity@208.103.161.101:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?insecure=1&security=tls&type=tcp#megav.app
-trojan://humanity@188.114.96.3:443?fp=ios&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.164:8080#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164:8080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#megav.app
