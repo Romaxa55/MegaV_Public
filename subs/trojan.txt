@@ -1,2 +1,2 @@
-trojan://Lg-BbZtsZ22VjvZPTsZbacbYA25pP-TF@swnode.dostupnet.ru:10001?alpn=h2%2Chttp%2F1.1&fp=firefox&insecure=1&security=tls&sni=css.rbxcdn.com&type=tcp#megav.app
 trojan://humanity@172.64.147.180:443?host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
+trojan://humanity@104.16.117.43:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
