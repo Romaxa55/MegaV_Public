@@ -1,2 +1,1 @@
-vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@3h-kazakhstan1.09vpn.com:80?encryption=auto&path=%2Fvmess%2F&security=none&type=ws#megav.app
-vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=google.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=null&security=none&type=raw#megav.app
