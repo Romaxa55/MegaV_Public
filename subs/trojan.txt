@@ -1,2 +1,2 @@
-trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@172.67.78.22:443?fp=chrome&host=kamonka.eu.org&path=%2F&security=tls&sni=kamonka.eu.org&type=ws#megav.app
-trojan://humanity@162.159.193.22:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
+trojan://MiTiVPN@167.82.101.251:443?alpn=http%2F1.1&fp=firefox&host=cdn-mitivpn.global.ssl.fastly.net&path=%2Fnl%3Dmitivpn&security=tls&sni=default.ssl.fastly.net&type=ws#megav.app
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443?security=tls&type=tcp#megav.app
