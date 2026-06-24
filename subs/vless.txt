@@ -1,2 +1,2 @@
-vless://2c53af1c-c440-38f0-94f1-8bc32a4274f8@138.68.150.88:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=SAgG_t0cdKBPSvJzlIjrwTRjtBjfaUZnpYWhXyxEHSg&security=reality&sid=2fe2afb9c7978f36&sni=learn.microsoft.com&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=tcp#megav.app
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.149.186:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#megav.app
