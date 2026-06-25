@@ -1,2 +1,2 @@
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?host=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#megav.app
-trojan://humanity@104.18.32.37:443?host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
+trojan://MiTiVPN@151.101.1.242:443?alpn=http%2F1.1&host=www.f6r.ir&path=%2Fde%3Dmitivpn+&security=tls&sni=www.f6r.ir&type=ws#megav.app
+trojan://CHhHZoXQCp@45.130.125.2:443?fp=firefox&host=se.farxmode.ir&path=%2Fda&security=tls&sni=se.farxmode.ir&type=ws#megav.app
