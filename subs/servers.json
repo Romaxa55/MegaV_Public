@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-25T08:01:09Z",
-  "total": 8,
+  "updated_at": "2026-06-25T12:01:08Z",
+  "total": 7,
   "by_protocol": {
-    "shadowsocks": 2,
+    "shadowsocks": 1,
     "trojan": 2,
     "vless": 2,
     "vmess": 2
@@ -43,25 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Minneapolis",
+      "country_code": "MY",
+      "flag": "🇲🇾",
+      "city": "Kuala Lumpur",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2187,
-      "bandwidth_kbs": 480,
-      "url": "vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?security=none\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 667,
-      "bandwidth_kbs": 454,
-      "url": "trojan://MiTiVPN@151.101.110.219:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=cdn2-mitivpn.global.ssl.fastly.net\u0026insecure=1\u0026path=%2Fnl%3Dmitivpn\u0026security=tls\u0026sni=global.fastly.com+\u0026type=ws#megav.app"
+      "response_ms": 2667,
+      "bandwidth_kbs": 429,
+      "url": "vmess://9665280c-a3d1-4aab-ef9f-a3a497337d91@47.250.149.51:50018?host=47.250.149.51\u0026path=%2F9665280c\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -75,15 +64,15 @@
       "url": "trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?host=space.byu.id.yxls.eu.cc\u0026path=%2Fbr-orcl\u0026security=tls\u0026sni=space.byu.id.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
-      "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "New York",
+      "protocol": "trojan",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1920,
-      "bandwidth_kbs": 455,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#megav.app"
+      "response_ms": 1798,
+      "bandwidth_kbs": 428,
+      "url": "trojan://humanity@104.18.32.37:443?host=www.gossipglove.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
