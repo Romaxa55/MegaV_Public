@@ -1,2 +1,2 @@
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?fp=chrome&insecure=1&security=tls&sni=ch-2.bexum.fun&type=tcp#megav.app
-trojan://humanity@216.24.57.1:443?ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://MiTiVPN@151.101.110.219:443?alpn=http%2F1.1&fp=chrome&host=cdn2-mitivpn.global.ssl.fastly.net&insecure=1&path=%2Fnl%3Dmitivpn&security=tls&sni=global.fastly.com+&type=ws#megav.app
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?host=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#megav.app
