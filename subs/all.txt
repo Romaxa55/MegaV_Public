@@ -1,8 +1,8 @@
-vless://666c7578-0000-4000-8000-000000000000@104.25.180.178:443?encryption=none&fp=chrome&host=parsa-panel-5dokp.aaamobina.workers.dev&path=%2Fflux&security=tls&sni=parsa-panel-5dokp.aaamobina.workers.dev&type=ws#megav.app
-vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@154.222.9.61:8443?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vless://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e3pn9C1M3g6zh0CMZS3L-GuDH71NNUcoy18quvlgfWw&security=reality&sid=165b0fe73e74&sni=www.nvidia.com&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?encryption=auto&security=none&type=tcp#megav.app
 vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?security=none&type=tcp#megav.app
-vmess://b7d93549-0f3f-4af2-9f4d-4340867a23b4@186.244.208.78:30022?security=none&type=raw#megav.app
-trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@162.159.2.9:443?alpn=h3&ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query&fp=chrome&host=kamonka.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=kamonka.eu.org&type=ws#megav.app
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?fp=chrome&insecure=1&security=tls&sni=ch-2.bexum.fun&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:443#megav.app
+trojan://humanity@216.24.57.1:443?ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#megav.app
