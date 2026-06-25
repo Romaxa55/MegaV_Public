@@ -1,1 +1,2 @@
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#megav.app
+vmess://3d358ea5-465b-46ac-a2df-98ca1555194f@node-de.connectsuite.org:2053?security=tls&type=raw#megav.app
