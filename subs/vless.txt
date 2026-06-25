@@ -1,2 +1,2 @@
-vless://666c7578-0000-4000-8000-000000000000@104.25.180.178:443?encryption=none&fp=chrome&host=parsa-panel-5dokp.aaamobina.workers.dev&path=%2Fflux&security=tls&sni=parsa-panel-5dokp.aaamobina.workers.dev&type=ws#megav.app
-vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@154.222.9.61:8443?encryption=none&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vless://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e3pn9C1M3g6zh0CMZS3L-GuDH71NNUcoy18quvlgfWw&security=reality&sid=165b0fe73e74&sni=www.nvidia.com&type=tcp#megav.app
