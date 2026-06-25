@@ -1,2 +1,2 @@
-trojan://MiTiVPN@151.101.110.219:443?alpn=http%2F1.1&fp=chrome&host=cdn2-mitivpn.global.ssl.fastly.net&insecure=1&path=%2Fnl%3Dmitivpn&security=tls&sni=global.fastly.com+&type=ws#megav.app
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?host=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#megav.app
+trojan://humanity@104.18.32.37:443?host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
