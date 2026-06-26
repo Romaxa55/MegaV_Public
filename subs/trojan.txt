@@ -1,2 +1,2 @@
 trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&sni=45.77.227.183&type=raw#megav.app
-trojan://MiTiVPN@151.101.1.242:443?alpn=http%2F1.1&host=www.f6r.ir&path=%2Fde%3Dmitivpn+&security=tls&sni=www.f6r.ir&type=ws#megav.app
+trojan://humanity@104.18.185.26:443?host=www.gossipglove.com&path=%252Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
