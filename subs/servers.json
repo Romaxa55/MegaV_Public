@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T21:27:20Z",
+  "updated_at": "2026-06-26T00:01:54Z",
   "total": 7,
   "by_protocol": {
     "shadowsocks": 1,
@@ -10,14 +10,14 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "SE",
-      "flag": "🇸🇪",
-      "city": "Stockholm",
+      "country_code": "IT",
+      "flag": "🇮🇹",
+      "city": "Milan",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 865,
-      "bandwidth_kbs": 481,
-      "url": "vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none\u0026fp=chrome\u0026pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w\u0026security=reality\u0026sid=90\u0026sni=www.icloud.com\u0026type=tcp#megav.app"
+      "response_ms": 1019,
+      "bandwidth_kbs": 432,
+      "url": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026encryption=none\u0026mode=gun\u0026security=none\u0026type=grpc#megav.app"
     },
     {
       "protocol": "vless",
@@ -43,14 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Santa Clara",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2791,
-      "bandwidth_kbs": 493,
-      "url": "vmess://3d358ea5-465b-46ac-a2df-98ca1555194f@node-de.connectsuite.org:2053?security=tls\u0026type=raw#megav.app"
+      "response_ms": 2111,
+      "bandwidth_kbs": 471,
+      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?encryption=auto\u0026security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
