@@ -1,8 +1,8 @@
-vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.146.143:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
-vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=winq35461s-19523160106-direct.irgame.co&type=raw#megav.app
+vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none&fp=chrome&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&security=reality&sid=90&sni=www.icloud.com&type=tcp#megav.app
+vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none&fp=firefox&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&security=reality&sid=90&sni=www.icloud.com&type=tcp#megav.app
 vmess://65b17c0b-0a52-4b54-9bc9-60e31397b841@172.67.190.141:80?encryption=auto&host=accklsj.bufu.us.ci&path=%2F65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess&security=none&type=ws#megav.app
-vmess://93e21d5a-251e-4f80-a105-7d8c3e7fab26@manager.xyzxz.qzz.io:443?encryption=auto&host=manager.xyzxz.qzz.io&path=%2F30562%2Fmehdi&security=tls&sni=manager.xyzxz.qzz.io&type=ws#megav.app
-trojan://humanity@104.18.185.26:443?host=www.gossipglove.com&path=%252Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?insecure=1&security=tls&type=tcp#megav.app
+vmess://b06054ae-f249-438e-998a-8e67bd8df653@153.121.73.175:32221?security=none&type=tcp#megav.app
+trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@104.19.175.195:443?fp=chrome&host=kamonka.eu.org&path=%2F&security=tls&sni=kamonka.eu.org&type=ws#megav.app
+trojan://humanity@208.103.161.110:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpId1J0M2EyWk5QVGpEN09FMG5QRXd3@209.222.11.77:155#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#megav.app
