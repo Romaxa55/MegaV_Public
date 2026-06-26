@@ -1,2 +1,2 @@
-trojan://humanity@104.18.185.26:443?host=www.gossipglove.com&path=%252Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?insecure=1&security=tls&type=tcp#megav.app
+trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@104.19.175.195:443?fp=chrome&host=kamonka.eu.org&path=%2F&security=tls&sni=kamonka.eu.org&type=ws#megav.app
+trojan://humanity@208.103.161.110:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
