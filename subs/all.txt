@@ -1,7 +1,7 @@
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.146.143:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
 vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=winq35461s-19523160106-direct.irgame.co&type=raw#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?encryption=auto&security=none&type=raw#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=null&security=none&type=raw#megav.app
+vmess://65b17c0b-0a52-4b54-9bc9-60e31397b841@172.67.190.141:80?encryption=auto&host=accklsj.bufu.us.ci&path=%2F65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess&security=none&type=ws#megav.app
+vmess://93e21d5a-251e-4f80-a105-7d8c3e7fab26@manager.xyzxz.qzz.io:443?encryption=auto&host=manager.xyzxz.qzz.io&path=%2F30562%2Fmehdi&security=tls&sni=manager.xyzxz.qzz.io&type=ws#megav.app
 trojan://humanity@104.18.185.26:443?host=www.gossipglove.com&path=%252Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?insecure=1&security=tls&type=tcp#megav.app
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#megav.app
