@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T08:01:12Z",
+  "updated_at": "2026-06-26T12:01:12Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -34,23 +34,23 @@
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Santa Clara",
+      "city": "Los Angeles",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2111,
-      "bandwidth_kbs": 471,
-      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?encryption=auto\u0026security=none\u0026type=raw#megav.app"
+      "response_ms": 2554,
+      "bandwidth_kbs": 448,
+      "url": "vmess://65b17c0b-0a52-4b54-9bc9-60e31397b841@172.67.190.141:80?encryption=auto\u0026host=accklsj.bufu.us.ci\u0026path=%2F65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
-      "country_code": "CA",
-      "flag": "🇨🇦",
-      "city": "Toronto",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "London",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2450,
-      "bandwidth_kbs": 433,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=null\u0026security=none\u0026type=raw#megav.app"
+      "response_ms": 5434,
+      "bandwidth_kbs": 445,
+      "url": "vmess://93e21d5a-251e-4f80-a105-7d8c3e7fab26@manager.xyzxz.qzz.io:443?encryption=auto\u0026host=manager.xyzxz.qzz.io\u0026path=%2F30562%2Fmehdi\u0026security=tls\u0026sni=manager.xyzxz.qzz.io\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
