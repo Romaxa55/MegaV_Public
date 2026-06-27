@@ -1,2 +1,2 @@
-vmess://65b17c0b-0a52-4b54-9bc9-60e31397b841@172.67.190.141:80?encryption=auto&host=accklsj.bufu.us.ci&path=%2F65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess&security=none&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto&security=none&type=raw#megav.app
 vmess://b06054ae-f249-438e-998a-8e67bd8df653@153.121.73.175:32221?security=none&type=tcp#megav.app
