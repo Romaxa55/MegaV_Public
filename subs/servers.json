@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-06-27T04:00:56Z",
-  "total": 4,
+  "updated_at": "2026-06-27T08:00:59Z",
+  "total": 6,
   "by_protocol": {
+    "shadowsocks": 2,
     "vless": 2,
     "vmess": 2
   },
@@ -19,14 +20,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "SE",
+      "flag": "🇸🇪",
+      "city": "Stockholm",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 610,
-      "bandwidth_kbs": 491,
-      "url": "vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@154.222.9.61:8443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo\u0026security=reality\u0026sid=8d3293f0066e129a\u0026sni=storage.yandex.net\u0026type=tcp#megav.app"
+      "response_ms": 870,
+      "bandwidth_kbs": 417,
+      "url": "vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none\u0026fp=firefox\u0026pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w\u0026security=reality\u0026sid=90\u0026sni=www.icloud.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -43,12 +44,34 @@
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
+      "city": "Ashburn",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2118,
+      "bandwidth_kbs": 495,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "IL",
+      "flag": "🇮🇱",
+      "city": "Milano",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1136,
+      "bandwidth_kbs": 442,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
       "city": "New York",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2513,
-      "bandwidth_kbs": 434,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto\u0026security=none\u0026type=raw#megav.app"
+      "response_ms": 1207,
+      "bandwidth_kbs": 418,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#megav.app"
     }
   ]
 }
