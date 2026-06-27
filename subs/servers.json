@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T20:00:58Z",
+  "updated_at": "2026-06-27T00:00:54Z",
   "total": 7,
   "by_protocol": {
     "shadowsocks": 1,
@@ -34,12 +34,12 @@
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Los Angeles",
+      "city": "New York",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2554,
-      "bandwidth_kbs": 448,
-      "url": "vmess://65b17c0b-0a52-4b54-9bc9-60e31397b841@172.67.190.141:80?encryption=auto\u0026host=accklsj.bufu.us.ci\u0026path=%2F65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 2513,
+      "bandwidth_kbs": 434,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto\u0026security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "vmess",
