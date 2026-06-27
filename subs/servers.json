@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T12:01:01Z",
+  "updated_at": "2026-06-27T16:00:55Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -10,14 +10,14 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "SE",
+      "flag": "🇸🇪",
+      "city": "Stockholm",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 513,
-      "bandwidth_kbs": 454,
-      "url": "vless://e89f9d3c-d924-4684-ad0e-a1e9d8c780e7@188.114.97.6:80?encryption=none\u0026host=unnes.ac.id.r3xxe.eu.cc\u0026path=%2Fsg-amz\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 859,
+      "bandwidth_kbs": 408,
+      "url": "vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none\u0026fp=chrome\u0026pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w\u0026security=reality\u0026sid=90\u0026sni=www.icloud.com\u0026type=raw#megav.app"
     },
     {
       "protocol": "vless",
@@ -34,23 +34,23 @@
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Phoenix",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2045,
-      "bandwidth_kbs": 464,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.114.123.42:18000?encryption=auto\u0026security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
       "city": "Ashburn",
       "tier": "silver",
       "speed_label": "hd",
       "response_ms": 2118,
       "bandwidth_kbs": 495,
       "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 9165,
+      "bandwidth_kbs": 493,
+      "url": "vmess://3d358ea5-465b-46ac-a2df-98ca1555194f@node-de.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1\u0026encryption=auto\u0026fp=chrome\u0026security=tls\u0026sni=node-de.connectsuite.org\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
