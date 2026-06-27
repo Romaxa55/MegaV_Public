@@ -1,7 +1,7 @@
-vless://e89f9d3c-d924-4684-ad0e-a1e9d8c780e7@188.114.97.6:80?encryption=none&host=unnes.ac.id.r3xxe.eu.cc&path=%2Fsg-amz&security=none&type=ws#megav.app
+vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none&fp=chrome&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&security=reality&sid=90&sni=www.icloud.com&type=raw#megav.app
 vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?encryption=none&fp=firefox&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&security=reality&sid=90&sni=www.icloud.com&type=tcp#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.114.123.42:18000?encryption=auto&security=none&type=raw#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=auto&security=none&type=tcp#megav.app
+vmess://3d358ea5-465b-46ac-a2df-98ca1555194f@node-de.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&sni=node-de.connectsuite.org&type=tcp#megav.app
 trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@162.159.33.116:443?alpn=h3&ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query&fp=chrome&host=kamonka.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=kamonka.eu.org&type=ws#megav.app
 trojan://humanity@104.16.174.72:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#megav.app
