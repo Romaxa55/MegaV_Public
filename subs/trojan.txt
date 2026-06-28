@@ -1,2 +1,2 @@
-trojan://telegram-id-privatevpns@51.45.54.27:22222?alpn=http%2F1.1&insecure=1&security=tls&sni=trojan.burgerip.co.uk&type=tcp#megav.app
-trojan://humanity@172.64.152.23:443?host=www.creationlong.org&insecure=1&path=%252fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://humanity@104.16.62.25:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://humanity@216.24.57.1:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
