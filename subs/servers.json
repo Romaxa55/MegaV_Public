@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T08:01:18Z",
+  "updated_at": "2026-06-28T12:01:19Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -21,14 +21,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "CH",
-      "flag": "🇨🇭",
-      "city": "Zurich",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 625,
-      "bandwidth_kbs": 497,
-      "url": "vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.100:8443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY\u0026security=reality\u0026sid=e3d38cee79d4f94c\u0026sni=storage.yandex.net\u0026type=raw#megav.app"
+      "response_ms": 551,
+      "bandwidth_kbs": 426,
+      "url": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none\u0026path=%2Fvless%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
