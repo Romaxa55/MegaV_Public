@@ -1,8 +1,8 @@
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@support.zoom.us:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.100:8443?encryption=none&flow=xtls-rprx-vision&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=raw#megav.app
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.134:8443?encryption=none&flow=xtls-rprx-vision&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=raw#megav.app
 vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?security=none&type=raw#megav.app
-vmess://b06054ae-f249-438e-998a-8e67bd8df653@153.121.73.175:32221#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324#megav.app
 trojan://telegram-id-privatevpns@51.45.54.27:22222?alpn=http%2F1.1&insecure=1&security=tls&sni=trojan.burgerip.co.uk&type=tcp#megav.app
 trojan://humanity@172.64.152.23:443?host=www.creationlong.org&insecure=1&path=%252fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#megav.app
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplSG8wSXFub29yYnZZRmRSUFlyMm5m@95.217.161.87:63978#megav.app
