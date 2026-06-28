@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-27T20:00:54Z",
-  "total": 7,
+  "updated_at": "2026-06-28T00:00:59Z",
+  "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
-    "vmess": 1
+    "vmess": 2
   },
   "servers": [
     {
@@ -32,6 +32,17 @@
     },
     {
       "protocol": "vmess",
+      "country_code": "JP",
+      "flag": "🇯🇵",
+      "city": "Osaka",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 3611,
+      "bandwidth_kbs": 468,
+      "url": "vmess://b06054ae-f249-438e-998a-8e67bd8df653@153.121.73.175:32221#megav.app"
+    },
+    {
+      "protocol": "vmess",
       "country_code": "DE",
       "flag": "🇩🇪",
       "city": "Frankfurt am Main",
@@ -43,25 +54,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 551,
-      "bandwidth_kbs": 295,
-      "url": "trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@162.159.33.116:443?alpn=h3\u0026ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query\u0026fp=chrome\u0026host=kamonka.eu.org\u0026path=%2F%3Fed%3D2048\u0026security=tls\u0026sni=kamonka.eu.org\u0026type=ws#megav.app"
+      "response_ms": 965,
+      "bandwidth_kbs": 443,
+      "url": "trojan://humanity@188.114.98.0:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=www.creationlong.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 818,
-      "bandwidth_kbs": 477,
-      "url": "trojan://humanity@104.16.174.72:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 1095,
+      "bandwidth_kbs": 446,
+      "url": "trojan://humanity@104.20.26.246:443?host=www.creationlong.org\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
