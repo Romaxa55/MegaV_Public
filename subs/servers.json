@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T16:01:12Z",
+  "updated_at": "2026-06-29T20:01:18Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -21,14 +21,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Nuremberg",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 706,
-      "bandwidth_kbs": 445,
-      "url": "vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM\u0026security=reality\u0026sid=1991780b928b292d\u0026sni=3.oncloudnineservicestreang.com\u0026type=tcp#megav.app"
+      "response_ms": 545,
+      "bandwidth_kbs": 422,
+      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -43,14 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Buffalo",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Toronto",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2072,
-      "bandwidth_kbs": 495,
-      "url": "vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
+      "response_ms": 3263,
+      "bandwidth_kbs": 408,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=aes-128-gcm\u0026security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -65,14 +65,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 815,
-      "bandwidth_kbs": 468,
-      "url": "trojan://Mitivpn@151.101.110.219:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=3-mitivpn.global.ssl.fastly.net\u0026path=%2Fde%3Dmitivpn\u0026security=tls\u0026sni=global.fastly.com\u0026type=ws#megav.app"
+      "response_ms": 1097,
+      "bandwidth_kbs": 495,
+      "url": "trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls\u0026sni=fra154.clientfirewall.click\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
