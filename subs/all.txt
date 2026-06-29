@@ -1,8 +1,8 @@
 vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@154.222.9.19:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=tcp#megav.app
-vless://c87950b3-f132-450a-bec6-e9e91fc9d8bc@193.23.219.140:56453?encryption=none&security=none&type=tcp#megav.app
-vmess://f0a2fbe5-29bf-468c-ddc1-b524552d1a23@107.173.27.219:6666?path=%2Fyoutube&security=none&type=ws#megav.app
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?encryption=none&flow=xtls-rprx-vision&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&security=reality&sid=1991780b928b292d&sni=3.oncloudnineservicestreang.com&type=tcp#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?security=none&type=tcp#megav.app
-trojan://Mitivpn@151.101.65.242:443?host=www.gamingdll.ir&security=tls&sni=www.gamingdll.ir&type=ws#megav.app
+vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?encryption=auto&security=none&type=tcp#megav.app
+trojan://3ff6567c-e0de-4459-9dbc-5a2de5fb48dd@162.159.8.243:443?alpn=h3&ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query&fp=chrome&host=kamonka.dpdns.org&path=%2F%3Fed%3D2048&security=tls&sni=kamonka.dpdns.org&type=ws#megav.app
 trojan://Mitivpn@151.101.110.219:443?alpn=http%2F1.1&fp=chrome&host=3-mitivpn.global.ssl.fastly.net&path=%2Fde%3Dmitivpn&security=tls&sni=global.fastly.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#megav.app
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#megav.app
