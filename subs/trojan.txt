@@ -1,2 +1,2 @@
-trojan://humanity@104.16.62.25:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://Mitivpn@151.101.65.242:443?host=www.gamingdll.ir&security=tls&sni=www.gamingdll.ir&type=ws#megav.app
 trojan://humanity@188.114.97.6:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
