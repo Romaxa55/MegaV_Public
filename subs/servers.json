@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T20:00:57Z",
+  "updated_at": "2026-06-29T00:00:51Z",
   "total": 7,
   "by_protocol": {
     "shadowsocks": 1,
@@ -8,17 +8,6 @@
     "vmess": 2
   },
   "servers": [
-    {
-      "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 551,
-      "bandwidth_kbs": 426,
-      "url": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none\u0026path=%2Fvless%2F\u0026security=none\u0026type=ws#megav.app"
-    },
     {
       "protocol": "vless",
       "country_code": "HU",
@@ -31,15 +20,15 @@
       "url": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.34:8443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg\u0026security=reality\u0026sid=2715592069f36fe7\u0026sni=storage.yandex.net\u0026type=raw#megav.app"
     },
     {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Minneapolis",
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2151,
-      "bandwidth_kbs": 464,
-      "url": "vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto\u0026security=none\u0026type=raw#megav.app"
+      "response_ms": 870,
+      "bandwidth_kbs": 499,
+      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -48,9 +37,20 @@
       "city": "Ashburn",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2335,
-      "bandwidth_kbs": 421,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
+      "response_ms": 1862,
+      "bandwidth_kbs": 472,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm\u0026security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Minneapolis",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2488,
+      "bandwidth_kbs": 470,
+      "url": "vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto\u0026security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -70,9 +70,9 @@
       "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 895,
-      "bandwidth_kbs": 499,
-      "url": "trojan://humanity@216.24.57.1:443?host=www.creationlong.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+      "response_ms": 899,
+      "bandwidth_kbs": 428,
+      "url": "trojan://humanity@188.114.97.6:443?host=www.creationlong.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
