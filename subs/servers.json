@@ -1,24 +1,13 @@
 {
-  "updated_at": "2026-06-29T04:01:07Z",
-  "total": 7,
+  "updated_at": "2026-06-29T08:01:16Z",
+  "total": 8,
   "by_protocol": {
-    "shadowsocks": 1,
+    "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
     "vmess": 2
   },
   "servers": [
-    {
-      "protocol": "vless",
-      "country_code": "HU",
-      "flag": "🇭🇺",
-      "city": "Budapest",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 678,
-      "bandwidth_kbs": 458,
-      "url": "vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.34:8443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg\u0026security=reality\u0026sid=2715592069f36fe7\u0026sni=storage.yandex.net\u0026type=raw#megav.app"
-    },
     {
       "protocol": "vless",
       "country_code": "DE",
@@ -29,6 +18,17 @@
       "response_ms": 680,
       "bandwidth_kbs": 395,
       "url": "vless://c87950b3-f132-450a-bec6-e9e91fc9d8bc@193.23.219.140:56453?encryption=none\u0026security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 761,
+      "bandwidth_kbs": 480,
+      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?encryption=none\u0026fp=firefox\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -65,14 +65,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 899,
-      "bandwidth_kbs": 428,
-      "url": "trojan://humanity@188.114.97.6:443?host=www.creationlong.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+      "response_ms": 815,
+      "bandwidth_kbs": 468,
+      "url": "trojan://Mitivpn@151.101.110.219:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=3-mitivpn.global.ssl.fastly.net\u0026path=%2Fde%3Dmitivpn\u0026security=tls\u0026sni=global.fastly.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2011,
+      "bandwidth_kbs": 483,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
