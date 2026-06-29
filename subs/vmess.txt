@@ -1,2 +1,2 @@
+vmess://f0a2fbe5-29bf-468c-ddc1-b524552d1a23@107.173.27.219:6666?path=%2Fyoutube&security=none&type=ws#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=raw#megav.app
-vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&type=raw#megav.app
