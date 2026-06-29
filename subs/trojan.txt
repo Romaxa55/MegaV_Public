@@ -1,2 +1,2 @@
 trojan://Mitivpn@151.101.65.242:443?host=www.gamingdll.ir&security=tls&sni=www.gamingdll.ir&type=ws#megav.app
-trojan://humanity@188.114.97.6:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://Mitivpn@151.101.110.219:443?alpn=http%2F1.1&fp=chrome&host=3-mitivpn.global.ssl.fastly.net&path=%2Fde%3Dmitivpn&security=tls&sni=global.fastly.com&type=ws#megav.app
