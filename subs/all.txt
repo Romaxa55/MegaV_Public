@@ -1,8 +1,8 @@
-vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@154.222.9.19:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=tcp#megav.app
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?security=none&type=tcp#megav.app
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?encryption=none&flow=xtls-rprx-vision&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&security=reality&sid=1991780b928b292d&sni=3.oncloudnineservicestreang.com&type=tcp#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=aes-128-gcm&security=none&type=tcp#megav.app
+vmess://5809911a-a16e-43d3-90b0-2c94cfc2035e@131.196.252.59:20521?encryption=auto&path=%2F&security=none&type=ws#megav.app
 trojan://3ff6567c-e0de-4459-9dbc-5a2de5fb48dd@162.159.8.243:443?alpn=h3&ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query&fp=chrome&host=kamonka.dpdns.org&path=%2F%3Fed%3D2048&security=tls&sni=kamonka.dpdns.org&type=ws#megav.app
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&sni=fra154.clientfirewall.click&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#megav.app
+ss://YWVzLTI1Ni1nY206cHJEak5kMUlMQXVNWVJoZ1JMK3hjQldYY2ZIOWQ4OW9nWlR4YXlxb21MQT0=@pphfree1.mvpnpvpn.de5.net:52351#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#megav.app
