@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T00:01:07Z",
+  "updated_at": "2026-06-30T04:01:20Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -15,20 +15,20 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 545,
-      "bandwidth_kbs": 422,
-      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 365,
+      "bandwidth_kbs": 452,
+      "url": "vless://fe273991-0514-4a16-8ec4-b15ae861c000@104.21.72.233:80?encryption=none\u0026host=zyzzzoao.xn--fiqv8j.eu.org\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Nuremberg",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 706,
-      "bandwidth_kbs": 445,
-      "url": "vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM\u0026security=reality\u0026sid=1991780b928b292d\u0026sni=3.oncloudnineservicestreang.com\u0026type=tcp#megav.app"
+      "response_ms": 545,
+      "bandwidth_kbs": 422,
+      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -43,25 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "MX",
-      "flag": "🇲🇽",
-      "city": "Mérida",
+      "country_code": "JP",
+      "flag": "🇯🇵",
+      "city": "Osaka",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 4161,
-      "bandwidth_kbs": 471,
-      "url": "vmess://5809911a-a16e-43d3-90b0-2c94cfc2035e@131.196.252.59:20521?encryption=auto\u0026path=%2F\u0026security=none\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 802,
-      "bandwidth_kbs": 444,
-      "url": "trojan://3ff6567c-e0de-4459-9dbc-5a2de5fb48dd@162.159.8.243:443?alpn=h3\u0026ech=cloudflare-ech.com%2Bhttps%3A%2F%2F223.5.5.5%2Fdns-query\u0026fp=chrome\u0026host=kamonka.dpdns.org\u0026path=%2F%3Fed%3D2048\u0026security=tls\u0026sni=kamonka.dpdns.org\u0026type=ws#megav.app"
+      "response_ms": 3983,
+      "bandwidth_kbs": 487,
+      "url": "vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?host=jp01.a0a.xyz\u0026path=%2Fcctv13.m3u8\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -75,6 +64,28 @@
       "url": "trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls\u0026sni=fra154.clientfirewall.click\u0026type=raw#megav.app"
     },
     {
+      "protocol": "trojan",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1495,
+      "bandwidth_kbs": 490,
+      "url": "trojan://humanity@104.19.229.21:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Dallas",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1856,
+      "bandwidth_kbs": 495,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443?security=none\u0026type=raw#megav.app"
+    },
+    {
       "protocol": "shadowsocks",
       "country_code": "TH",
       "flag": "🇹🇭",
@@ -84,17 +95,6 @@
       "response_ms": 3852,
       "bandwidth_kbs": 450,
       "url": "ss://YWVzLTI1Ni1nY206cHJEak5kMUlMQXVNWVJoZ1JMK3hjQldYY2ZIOWQ4OW9nWlR4YXlxb21MQT0=@pphfree1.mvpnpvpn.de5.net:52351#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "RO",
-      "flag": "🇷🇴",
-      "city": "Voluntari",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 13954,
-      "bandwidth_kbs": 446,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#megav.app"
     }
   ]
 }
