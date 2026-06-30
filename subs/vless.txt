@@ -1,2 +1,2 @@
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@104.21.72.233:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&security=none&type=ws#megav.app
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?encryption=none&flow=xtls-rprx-vision&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&security=reality&sid=1991780b928b292d&sni=3.oncloudnineservicestreang.com&type=tcp#megav.app
