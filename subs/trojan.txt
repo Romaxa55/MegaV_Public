@@ -1,2 +1,2 @@
-trojan://humanity@216.24.57.1:443?ech=54.mk%2Budp%3A%2F%2F8.8.8.8&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-trojan://humanity@104.18.152.113:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://GABTmlZTPGtULi@199.181.197.1:443?fp=chrome&host=KamRAN05-JDuYC1.kAmRan-05.woRKeRS.dEv&path=%2F%3Fed%3D2560&pcs=2ACC7C59CCFD015057E0CC7581D00F457CA0D0A35F62EC9F1D1E719FC1578002&security=tls&sni=KamRAN05-JDuYC1.kAmRan-05.woRKeRS.dEv&type=ws#megav.app
+trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@104.19.175.195:443?fp=chrome&host=kamonka.eu.org&path=%2F&security=tls&sni=kamonka.eu.org&type=ws#megav.app
