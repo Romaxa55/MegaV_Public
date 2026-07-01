@@ -1,1 +1,2 @@
-trojan://45d2fe56-2da3-409a-bdc7-5b95f30817bd@141.11.202.134:443?fp=chrome&host=sahand-m.sahand5.workers.dev&path=%2Fxiron&security=tls&sni=sahand-m.sahand5.workers.dev&type=ws#megav.app
+trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?security=tls&sni=singingrobot.click&type=raw#megav.app
+trojan://humanity@216.24.57.6:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
