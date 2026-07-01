@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-01T12:02:21Z",
+  "updated_at": "2026-07-01T16:01:03Z",
   "total": 7,
   "by_protocol": {
-    "shadowsocks": 1,
-    "trojan": 2,
+    "shadowsocks": 2,
+    "trojan": 1,
     "vless": 2,
     "vmess": 2
   },
@@ -15,9 +15,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 789,
-      "bandwidth_kbs": 448,
-      "url": "vless://6b175857-e726-43e7-a08b-3f1df4b963da@188.114.97.6:443?encryption=none\u0026host=support.zoom.us.r3xxe.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.r3xxe.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 909,
+      "bandwidth_kbs": 490,
+      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?encryption=none\u0026fp=firefox\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
@@ -32,25 +32,25 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "KZ",
+      "flag": "🇰🇿",
+      "city": "Almaty",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3004,
-      "bandwidth_kbs": 449,
-      "url": "vmess://0bf1cead-bdd4-4692-b3d4-6866ccb9f37a@hl112.cowjump.site:443?encryption=auto\u0026path=%2F\u0026security=tls\u0026type=ws#megav.app"
+      "response_ms": 3166,
+      "bandwidth_kbs": 476,
+      "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto\u0026host=3h-kazakhstan1.09vpn.com\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Ashburn",
+      "city": "New York",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 4895,
-      "bandwidth_kbs": 491,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm\u0026security=none\u0026type=tcp#megav.app"
+      "response_ms": 3879,
+      "bandwidth_kbs": 496,
+      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -64,26 +64,26 @@
       "url": "trojan://45d2fe56-2da3-409a-bdc7-5b95f30817bd@141.11.202.134:443?fp=chrome\u0026host=sahand-m.sahand5.workers.dev\u0026path=%2Fxiron\u0026security=tls\u0026sni=sahand-m.sahand5.workers.dev\u0026type=ws#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "CH",
-      "flag": "🇨🇭",
-      "city": "Geneva",
+      "protocol": "shadowsocks",
+      "country_code": "FI",
+      "flag": "🇫🇮",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 22064,
-      "bandwidth_kbs": 441,
-      "url": "trojan://SoftNetConnect@83.228.251.119:2087?authority=185.204.169.129\u0026fp=chrome\u0026mode=gun\u0026pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8\u0026security=reality\u0026sid=96a17085678b\u0026sni=www.yahoo.com\u0026spx=%2F+\u0026type=grpc#megav.app"
+      "response_ms": 638,
+      "bandwidth_kbs": 416,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZmY4Q2c0VzVYUUdvS0hKblR2cHV4@95.217.161.87:56308#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "IE",
-      "flag": "🇮🇪",
-      "city": "Dublin",
+      "country_code": "TW",
+      "flag": "🇹🇼",
+      "city": "New Taipei City",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1126,
-      "bandwidth_kbs": 462,
-      "url": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#megav.app"
+      "response_ms": 3682,
+      "bandwidth_kbs": 480,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#megav.app"
     }
   ]
 }
