@@ -1,2 +1,2 @@
-vmess://0bf1cead-bdd4-4692-b3d4-6866ccb9f37a@hl112.cowjump.site:443?encryption=auto&path=%2F&security=tls&type=ws#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#megav.app
+vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=3h-kazakhstan1.09vpn.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?encryption=auto&security=none&type=tcp#megav.app
