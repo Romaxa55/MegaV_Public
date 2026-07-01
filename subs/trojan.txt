@@ -1,2 +1,1 @@
 trojan://45d2fe56-2da3-409a-bdc7-5b95f30817bd@141.11.202.134:443?fp=chrome&host=sahand-m.sahand5.workers.dev&path=%2Fxiron&security=tls&sni=sahand-m.sahand5.workers.dev&type=ws#megav.app
-trojan://SoftNetConnect@83.228.251.119:2087?authority=185.204.169.129&fp=chrome&mode=gun&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&security=reality&sid=96a17085678b&sni=www.yahoo.com&spx=%2F+&type=grpc#megav.app
