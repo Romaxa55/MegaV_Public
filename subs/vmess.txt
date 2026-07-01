@@ -1,1 +1,2 @@
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?security=none&type=tcp#megav.app
+vmess://0bf1cead-bdd4-4692-b3d4-6866ccb9f37a@hl112.cowjump.site:443?encryption=auto&path=%2F&security=tls&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#megav.app
