@@ -1,8 +1,8 @@
-vless://ad961404-6249-4a11-9577-d1e81f6b198f@150.241.90.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0d6fEYI5nZ_puQdJ5J9Sn7ExAs53DZzbpfxghHt_u2E&security=reality&sid=7c81a04a4b20&sni=monolithgate.com&type=tcp#megav.app
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=google.com&type=tcp#megav.app
-vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?encryption=auto&security=none&type=raw#megav.app
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?security=none&type=tcp#megav.app
+vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443#megav.app
 trojan://humanity@165.215.250.14:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443?insecure=1&security=tls&type=tcp#megav.app
-ss://YWVzLTI1Ni1nY206MDc2N2RjOTYtZTY4YS00M2FjLWE5MjktNjhiNjY0NzAwMjY3@192.142.18.127:443#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443?security=none&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVXl5ZFU3Q1ZraEQ1Qko0S2U2anlq@195.133.2.2:34898#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0N0VtNDdoZ2JBdzM2THdqYUJ5UUtD@109.107.182.229:51544#megav.app
