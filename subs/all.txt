@@ -2,7 +2,7 @@ vless://ad961404-6249-4a11-9577-d1e81f6b198f@150.241.90.13:443?encryption=none&f
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=google.com&type=tcp#megav.app
 vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?encryption=auto&security=none&type=raw#megav.app
 vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?security=none&type=tcp#megav.app
+trojan://humanity@165.215.250.14:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443?insecure=1&security=tls&type=tcp#megav.app
-trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?security=tls&sni=singingrobot.click&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZmY4Q2c0VzVYUUdvS0hKblR2cHV4@95.217.161.87:56308#megav.app
+ss://YWVzLTI1Ni1nY206MDc2N2RjOTYtZTY4YS00M2FjLWE5MjktNjhiNjY0NzAwMjY3@192.142.18.127:443#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443?security=none&type=tcp#megav.app
