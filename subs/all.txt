@@ -1,8 +1,7 @@
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=sc-thenetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#megav.app
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#megav.app
+vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?encryption=none&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=icloud.com&type=raw#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?security=none&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@5.188.190.252:22324?encryption=auto&security=none&type=tcp#megav.app
-trojan://humanity@104.27.51.6:443?alpn=http%2F1.1+&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
+trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?fp=chrome&security=tls&sni=singingrobot.click&type=tcp#megav.app
 trojan://kZSruDyvxP@45.130.125.2:443?host=sk.farxmode.ir&path=%2Fda&security=tls&sni=sk.farxmode.ir&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVXl5ZFU3Q1ZraEQ1Qko0S2U2anlq@195.133.2.2:34898#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0N0VtNDdoZ2JBdzM2THdqYUJ5UUtD@109.107.182.229:51544#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#megav.app
