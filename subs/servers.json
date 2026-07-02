@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-02T16:01:13Z",
-  "total": 8,
+  "updated_at": "2026-07-02T20:01:03Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
-    "vmess": 2
+    "vmess": 1
   },
   "servers": [
     {
@@ -21,14 +21,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Orem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1093,
-      "bandwidth_kbs": 482,
-      "url": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none\u0026path=%2Fvless%2F\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 838,
+      "bandwidth_kbs": 393,
+      "url": "vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI\u0026security=reality\u0026sid=d82fb387\u0026sni=icloud.com\u0026type=raw#megav.app"
     },
     {
       "protocol": "vmess",
@@ -42,26 +42,15 @@
       "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?security=none\u0026type=tcp#megav.app"
     },
     {
-      "protocol": "vmess",
-      "country_code": "TR",
-      "flag": "🇹🇷",
-      "city": "Istanbul",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2457,
-      "bandwidth_kbs": 443,
-      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@5.188.190.252:22324?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
-    },
-    {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "FI",
+      "flag": "🇫🇮",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2097,
-      "bandwidth_kbs": 488,
-      "url": "trojan://humanity@104.27.51.6:443?alpn=http%2F1.1+\u0026host=www.gossipglove.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
+      "response_ms": 1549,
+      "bandwidth_kbs": 457,
+      "url": "trojan://fHngvzC1ut%23YqsV4X@212.193.18.121:21936?fp=chrome\u0026security=tls\u0026sni=singingrobot.click\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -76,25 +65,25 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "FI",
-      "flag": "🇫🇮",
-      "city": "Helsinki",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 712,
-      "bandwidth_kbs": 480,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVXl5ZFU3Q1ZraEQ1Qko0S2U2anlq@195.133.2.2:34898#megav.app"
+      "response_ms": 2205,
+      "bandwidth_kbs": 428,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "FI",
-      "flag": "🇫🇮",
-      "city": "Helsinki",
+      "country_code": "ZA",
+      "flag": "🇿🇦",
+      "city": "Johannesburg",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 717,
-      "bandwidth_kbs": 461,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0N0VtNDdoZ2JBdzM2THdqYUJ5UUtD@109.107.182.229:51544#megav.app"
+      "response_ms": 2557,
+      "bandwidth_kbs": 416,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#megav.app"
     }
   ]
 }
