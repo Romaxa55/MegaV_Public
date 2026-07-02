@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T12:01:21Z",
+  "updated_at": "2026-07-02T16:01:13Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -10,14 +10,14 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 779,
-      "bandwidth_kbs": 458,
-      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 611,
+      "bandwidth_kbs": 459,
+      "url": "vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none\u0026host=sc-thenetherlands2.09vpn.com\u0026path=%2Fvless%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
@@ -26,9 +26,9 @@
       "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1058,
-      "bandwidth_kbs": 403,
-      "url": "vless://e73df646-1f62-41bf-8c50-653497d603d0@SC-TheNetherlands2.09vpn.com:8443?encryption=none\u0026fp=chrome\u0026path=%2Fvless%2F\u0026security=tls\u0026type=ws#megav.app"
+      "response_ms": 1093,
+      "bandwidth_kbs": 482,
+      "url": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none\u0026path=%2Fvless%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -43,25 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Minneapolis",
+      "country_code": "TR",
+      "flag": "🇹🇷",
+      "city": "Istanbul",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2310,
-      "bandwidth_kbs": 463,
-      "url": "vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 840,
-      "bandwidth_kbs": 449,
-      "url": "trojan://humanity@165.215.250.14:443?host=www.creationlong.org\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+      "response_ms": 2457,
+      "bandwidth_kbs": 443,
+      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@5.188.190.252:22324?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -73,6 +62,17 @@
       "response_ms": 2097,
       "bandwidth_kbs": 488,
       "url": "trojan://humanity@104.27.51.6:443?alpn=http%2F1.1+\u0026host=www.gossipglove.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Nuremberg",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2571,
+      "bandwidth_kbs": 495,
+      "url": "trojan://kZSruDyvxP@45.130.125.2:443?host=sk.farxmode.ir\u0026path=%2Fda\u0026security=tls\u0026sni=sk.farxmode.ir\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
