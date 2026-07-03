@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T12:01:32Z",
+  "updated_at": "2026-07-03T16:01:02Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -15,9 +15,9 @@
       "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 369,
-      "bandwidth_kbs": 487,
-      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@108.162.198.108:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 401,
+      "bandwidth_kbs": 437,
+      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.131.138:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026insecure=1\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
@@ -26,20 +26,9 @@
       "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 394,
-      "bandwidth_kbs": 112,
-      "url": "vless://fe273991-0514-4a16-8ec4-b15ae861c000@104.25.242.40:443?encryption=none\u0026path=%2F\u0026security=tls\u0026sni=zyzzzoao.xn--fiqv8j.eu.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "CA",
-      "flag": "🇨🇦",
-      "city": "Toronto",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1563,
-      "bandwidth_kbs": 458,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=aes-128-gcm\u0026security=none\u0026type=tcp#megav.app"
+      "response_ms": 417,
+      "bandwidth_kbs": 469,
+      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.26.5.39:443?encryption=none\u0026fp=chrome\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -51,6 +40,17 @@
       "response_ms": 2544,
       "bandwidth_kbs": 449,
       "url": "vmess://d4603cc2-e0ee-4651-83f5-1db5b7168177@129.146.143.80:48111?security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Toronto",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 3310,
+      "bandwidth_kbs": 415,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
