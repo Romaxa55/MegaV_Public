@@ -1,2 +1,2 @@
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?host=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#megav.app
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?insecure=1&security=tls&sni=ads.x5.ru&type=tcp#megav.app
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?fp=chrome&security=tls&type=tcp#megav.app
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?fp=chrome&security=tls&sni=38.60.202.163&type=tcp#megav.app
