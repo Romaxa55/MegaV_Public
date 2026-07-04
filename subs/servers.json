@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-04T16:01:05Z",
-  "total": 8,
+  "updated_at": "2026-07-04T20:01:01Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
-    "vmess": 2
+    "vmess": 1
   },
   "servers": [
     {
@@ -26,8 +26,8 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 391,
-      "bandwidth_kbs": 492,
+      "response_ms": 351,
+      "bandwidth_kbs": 399,
       "url": "vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@80.93.202.2:443?encryption=none\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
@@ -40,17 +40,6 @@
       "response_ms": 4807,
       "bandwidth_kbs": 468,
       "url": "vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "KR",
-      "flag": "🇰🇷",
-      "city": "Seoul",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 5435,
-      "bandwidth_kbs": 489,
-      "url": "vmess://5155860e-d07d-46c3-9128-3afbd84626c7@132.145.80.230:80?host=132.145.80.230\u0026path=%2Fcctv13.m3u8\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -76,14 +65,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Manchester",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1677,
-      "bandwidth_kbs": 447,
-      "url": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#megav.app"
+      "response_ms": 8298,
+      "bandwidth_kbs": 480,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
