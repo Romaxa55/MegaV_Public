@@ -1,2 +1,2 @@
-trojan://MiTiVPN@brezzen.com:443?alpn=http%2F1.1&fp=chrome&host=F--l.App-Cloud.ir&path=%2FMiTiVPN%3DfL&security=tls&sni=F--l.App-Cloud.ir&type=ws#megav.app
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?insecure=1&security=tls&type=tcp#megav.app
+trojan://humanity@86.38.214.205:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&security=tls&sni=grape-ataturk-tr.yyuyy.com&type=tcp#megav.app
