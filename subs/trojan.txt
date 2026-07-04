@@ -1,2 +1,2 @@
 trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?insecure=1&security=tls&sni=www.vk.com&type=tcp#megav.app
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?fp=chrome&security=tls&type=tcp#megav.app
+trojan://MiTiVPN@brezzen.com:443?alpn=http%2F1.1&fp=chrome&host=F--l.App-Cloud.ir&path=%2FMiTiVPN%3DfL&security=tls&sni=F--l.App-Cloud.ir&type=ws#megav.app
