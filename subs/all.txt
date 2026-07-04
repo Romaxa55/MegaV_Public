@@ -1,8 +1,8 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@185.7.240.2:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.149.233:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&insecure=1&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@80.93.202.2:443?encryption=none&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?encryption=auto&security=none&type=raw#megav.app
-vmess://66ff581f-98d0-43cc-cecb-a7232f411c6d@194.60.95.7:59525?encryption=auto&path=%2F66ff581f-98d0-43cc-cecb-a7232f411c6d&security=none&type=ws#megav.app
-trojan://MiTiVPN@brezzen.com:443?alpn=http%2F1.1&fp=chrome&host=F--l.App-Cloud.ir&path=%2FMiTiVPN%3DfL&security=tls&sni=F--l.App-Cloud.ir&type=ws#megav.app
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?insecure=1&security=tls&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#megav.app
+vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://5155860e-d07d-46c3-9128-3afbd84626c7@132.145.80.230:80?host=132.145.80.230&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
+trojan://humanity@86.38.214.205:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&security=tls&sni=grape-ataturk-tr.yyuyy.com&type=tcp#megav.app
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#megav.app
