@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-05T12:01:40Z",
-  "total": 8,
+  "updated_at": "2026-07-05T16:01:16Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
-    "trojan": 2,
+    "trojan": 1,
     "vless": 2,
     "vmess": 2
   },
@@ -32,36 +32,25 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Buffalo",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Toronto",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2784,
-      "bandwidth_kbs": 451,
-      "url": "vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?security=none\u0026type=tcp#megav.app"
+      "response_ms": 1815,
+      "bandwidth_kbs": 488,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Phoenix",
+      "city": "Ashburn",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3568,
-      "bandwidth_kbs": 438,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.114.123.42:18000?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "TR",
-      "flag": "🇹🇷",
-      "city": "Yakuplu",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1426,
-      "bandwidth_kbs": 422,
-      "url": "trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome\u0026security=tls\u0026sni=grape-ataturk-tr.yyuyy.com\u0026type=tcp#megav.app"
+      "response_ms": 1883,
+      "bandwidth_kbs": 427,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -87,14 +76,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "FI",
+      "flag": "🇫🇮",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1764,
-      "bandwidth_kbs": 457,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080?security=none\u0026type=tcp#megav.app"
+      "response_ms": 864,
+      "bandwidth_kbs": 466,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQ1l2SjlaV1RaVmdSSTV5OXpSaHJT@195.133.2.2:34898#megav.app"
     }
   ]
 }
