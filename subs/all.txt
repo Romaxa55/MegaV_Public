@@ -1,7 +1,8 @@
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?encryption=none&fp=firefox&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.149.233:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&insecure=1&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@80.93.202.2:443?encryption=none&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
+vmess://848af33c-81f2-40c9-93b2-4681d056936b@57.131.32.191:8443?encryption=auto&path=%2Fvmess%2F&security=tls&sni=OV-Italy1.09vpn.com&type=ws#megav.app
 vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&path=%2Fvmess%2F&security=none&type=ws#megav.app
 trojan://humanity@86.38.214.205:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&security=tls&sni=grape-ataturk-tr.yyuyy.com&type=tcp#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443?security=none&type=raw#megav.app
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443?security=none&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#megav.app
