@@ -1,2 +1,2 @@
 vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?security=none&type=tcp#megav.app
-vmess://848af33c-81f2-40c9-93b2-4681d056936b@57.131.32.191:8443?encryption=auto&path=%2Fvmess%2F&security=tls&sni=OV-Italy1.09vpn.com&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.114.123.42:18000?encryption=auto&security=none&type=tcp#megav.app
