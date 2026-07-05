@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-05T16:01:16Z",
-  "total": 7,
+  "updated_at": "2026-07-05T20:01:14Z",
+  "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
-    "trojan": 1,
+    "trojan": 2,
     "vless": 2,
     "vmess": 2
   },
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 308,
-      "bandwidth_kbs": 447,
-      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.145.173:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 420,
+      "bandwidth_kbs": 426,
+      "url": "vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@185.176.26.2:443?encryption=none\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
@@ -26,8 +26,8 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 366,
-      "bandwidth_kbs": 472,
+      "response_ms": 502,
+      "bandwidth_kbs": 483,
       "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.28.104:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026insecure=1\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
@@ -59,9 +59,20 @@
       "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2796,
-      "bandwidth_kbs": 490,
-      "url": "trojan://humanity@104.17.150.76:443?host=www.creationlong.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+      "response_ms": 3717,
+      "bandwidth_kbs": 497,
+      "url": "trojan://humanity@43.169.18.179:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 24032,
+      "bandwidth_kbs": 437,
+      "url": "trojan://humanity@172.64.147.227:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
