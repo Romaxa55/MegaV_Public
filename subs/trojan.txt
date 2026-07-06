@@ -1,2 +1,1 @@
-trojan://humanity@43.169.18.179:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 trojan://humanity@172.64.147.227:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
