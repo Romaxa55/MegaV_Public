@@ -1,2 +1,2 @@
-vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.146.66:443?encryption=none&fp=chrome&host=zyzzzoao.xn--fiqv8j.eu.org&security=tls&sni=zyzzzoao.xn--fiqv8j.eu.org&type=ws#megav.app
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.230.30:8880?encryption=none&host=vms.lifetime02.workers.dev&security=none&type=ws#megav.app
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@50.62.88.2:443?encryption=none&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.131.138:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
