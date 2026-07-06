@@ -1,24 +1,13 @@
 {
-  "updated_at": "2026-07-06T08:01:50Z",
-  "total": 8,
+  "updated_at": "2026-07-06T12:01:44Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
-    "vmess": 2
+    "vmess": 1
   },
   "servers": [
-    {
-      "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 363,
-      "bandwidth_kbs": 462,
-      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@172.66.171.48:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026insecure=1\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
-    },
     {
       "protocol": "vless",
       "country_code": "NL",
@@ -31,6 +20,17 @@
       "url": "vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.146.66:443?encryption=none\u0026fp=chrome\u0026host=zyzzzoao.xn--fiqv8j.eu.org\u0026security=tls\u0026sni=zyzzzoao.xn--fiqv8j.eu.org\u0026type=ws#megav.app"
     },
     {
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 417,
+      "bandwidth_kbs": 433,
+      "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.230.30:8880?encryption=none\u0026host=vms.lifetime02.workers.dev\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
@@ -40,17 +40,6 @@
       "response_ms": 1604,
       "bandwidth_kbs": 437,
       "url": "vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Santa Clara",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 3284,
-      "bandwidth_kbs": 486,
-      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324#megav.app"
     },
     {
       "protocol": "trojan",
