@@ -1,2 +1,2 @@
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?insecure=1&security=tls&sni=%F0%9F%94%92&type=tcp#megav.app
-trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?fp=chrome&insecure=1&security=tls&sni=+&type=tcp#megav.app
+trojan://humanity@104.18.12.149:443?fp=chrome&insecure=1&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
