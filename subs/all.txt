@@ -1,8 +1,6 @@
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.147.118:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&insecure=1&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@108.165.216.2:443?encryption=none&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?insecure=1&security=tls&sni=%F0%9F%94%92&type=tcp#megav.app
 trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?fp=chrome&insecure=1&security=tls&sni=+&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNWRTTkhLTkl1WEpUWHV5WWxITEdn@195.133.2.2:34898#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080?security=none&type=raw#megav.app
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206RXlGb2N0Zlh5SVFWejA4bVBTc1B2Zm9sbmF1RDN3VE5qSk5ocEVFbTVSaz06WVRVbnFlejRhUUdGbS9OTWdpaW5kTzh1bk43QS9iQzFYSm5uS1B1TTlKOD0=@130.51.23.246:443#megav.app
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YklwMHNwU3VvTTFqYWRrYzIwWDVHQncxL3hxRSt0VDMycnh5UUNSVGRrcz06SHVmNVZiUzd1elR5bENZcWhxSU51MGNIc1hlMzhMVkdMRVoxLzVqai82MD0=@46.31.76.37:4004#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQ1l2SjlaV1RaVmdSSTV5OXpSaHJT@195.133.2.2:34898#megav.app
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#megav.app
