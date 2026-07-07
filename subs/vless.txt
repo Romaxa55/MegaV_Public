@@ -1,2 +1,2 @@
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@108.162.198.5:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&insecure=1&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.147.118:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&insecure=1&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@108.165.216.2:443?encryption=none&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
