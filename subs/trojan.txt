@@ -1,2 +1,2 @@
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?insecure=1&security=tls&sni=%F0%9F%94%92&type=tcp#megav.app
 trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?fp=chrome&insecure=1&security=tls&sni=+&type=tcp#megav.app
-trojan://humanity@104.17.121.9:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
