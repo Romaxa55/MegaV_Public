@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T08:01:50Z",
+  "updated_at": "2026-07-07T12:01:46Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -32,6 +32,17 @@
     },
     {
       "protocol": "trojan",
+      "country_code": "AL",
+      "flag": "🇦🇱",
+      "city": "Elbasan",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 784,
+      "bandwidth_kbs": 499,
+      "url": "trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?insecure=1\u0026security=tls\u0026sni=%F0%9F%94%92\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "trojan",
       "country_code": "FR",
       "flag": "🇫🇷",
       "city": "Frankfurt am Main",
@@ -42,15 +53,15 @@
       "url": "trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?fp=chrome\u0026insecure=1\u0026security=tls\u0026sni=+\u0026type=tcp#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "protocol": "shadowsocks",
+      "country_code": "FI",
+      "flag": "🇫🇮",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1745,
-      "bandwidth_kbs": 474,
-      "url": "trojan://humanity@104.17.121.9:443?alpn=http%2F1.1\u0026fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+      "response_ms": 1921,
+      "bandwidth_kbs": 401,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNWRTTkhLTkl1WEpUWHV5WWxITEdn@195.133.2.2:34898#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -62,17 +73,6 @@
       "response_ms": 1990,
       "bandwidth_kbs": 433,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080?security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "JP",
-      "flag": "🇯🇵",
-      "city": "Tokyo",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2733,
-      "bandwidth_kbs": 461,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#megav.app"
     },
     {
       "protocol": "shadowsocks2022",
