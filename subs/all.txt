@@ -1,7 +1,7 @@
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@108.162.198.5:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&insecure=1&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.147.118:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&insecure=1&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#megav.app
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?insecure=1&security=tls&sni=%F0%9F%94%92&type=tcp#megav.app
-trojan://humanity@104.18.12.149:443?fp=chrome&insecure=1&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
+trojan://humanity@198.41.201.36:443?alpn=http%2F1.1&host=www.gossipglove.com&insecure=1&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
+trojan://v2TkL6FH3h@45.130.125.2:443?fp=firefox&host=sm.farxmode.ir&path=%2Fda&security=tls&sni=sm.farxmode.ir&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQ1l2SjlaV1RaVmdSSTV5OXpSaHJT@195.133.2.2:34898#megav.app
