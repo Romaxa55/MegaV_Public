@@ -1,2 +1,2 @@
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?insecure=1&security=tls&sni=%F0%9F%94%92&type=tcp#megav.app
-trojan://humanity@104.18.12.149:443?fp=chrome&insecure=1&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
+trojan://humanity@198.41.201.36:443?alpn=http%2F1.1&host=www.gossipglove.com&insecure=1&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
+trojan://v2TkL6FH3h@45.130.125.2:443?fp=firefox&host=sm.farxmode.ir&path=%2Fda&security=tls&sni=sm.farxmode.ir&type=ws#megav.app
