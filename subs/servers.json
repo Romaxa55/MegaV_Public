@@ -1,11 +1,12 @@
 {
-  "updated_at": "2026-07-08T00:01:31Z",
-  "total": 7,
+  "updated_at": "2026-07-08T04:01:30Z",
+  "total": 9,
   "by_protocol": {
     "shadowsocks": 2,
+    "shadowsocks2022": 1,
     "trojan": 2,
     "vless": 2,
-    "vmess": 1
+    "vmess": 2
   },
   "servers": [
     {
@@ -21,14 +22,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 388,
+      "response_ms": 397,
       "bandwidth_kbs": 409,
-      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.147.118:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026insecure=1\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+      "url": "vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@108.165.216.2:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -40,6 +41,17 @@
       "response_ms": 2092,
       "bandwidth_kbs": 496,
       "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm\u0026security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Los Angeles",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2474,
+      "bandwidth_kbs": 497,
+      "url": "vmess://65b17c0b-0a52-4b54-9bc9-60e31397b841@172.67.190.141:80?host=accklsj.bufu.us.ci\u0026path=%2F65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -54,14 +66,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Nuremberg",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2818,
-      "bandwidth_kbs": 467,
-      "url": "trojan://v2TkL6FH3h@45.130.125.2:443?fp=firefox\u0026host=sm.farxmode.ir\u0026path=%2Fda\u0026security=tls\u0026sni=sm.farxmode.ir\u0026type=ws#megav.app"
+      "response_ms": 1598,
+      "bandwidth_kbs": 488,
+      "url": "trojan://humanity@188.114.99.0:443?host=www.gossipglove.com\u0026path=%252Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Nordhorn",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 736,
+      "bandwidth_kbs": 475,
+      "url": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -75,15 +98,15 @@
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#megav.app"
     },
     {
-      "protocol": "shadowsocks",
-      "country_code": "FI",
-      "flag": "🇫🇮",
-      "city": "Helsinki",
+      "protocol": "shadowsocks2022",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Nuremberg",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1752,
-      "bandwidth_kbs": 466,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQ1l2SjlaV1RaVmdSSTV5OXpSaHJT@195.133.2.2:34898#megav.app"
+      "response_ms": 577,
+      "bandwidth_kbs": 456,
+      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206bHVnQUhpYlhqTm5jWUF4ZEJCRlRYQT09OmhUcHRQYWNpOU1UWW53bzJxS1pPR3c9PQ==@202.61.242.135:3389#megav.app"
     }
   ]
 }
