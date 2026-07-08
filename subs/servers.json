@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T20:02:21Z",
+  "updated_at": "2026-07-08T00:01:31Z",
   "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
@@ -43,25 +43,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "AL",
-      "flag": "🇦🇱",
-      "city": "Elbasan",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 784,
-      "bandwidth_kbs": 499,
-      "url": "trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?insecure=1\u0026security=tls\u0026sni=%F0%9F%94%92\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
       "country_code": "NL",
       "flag": "🇳🇱",
       "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2393,
-      "bandwidth_kbs": 475,
-      "url": "trojan://humanity@104.18.12.149:443?fp=chrome\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
+      "response_ms": 1315,
+      "bandwidth_kbs": 473,
+      "url": "trojan://humanity@198.41.201.36:443?alpn=http%2F1.1\u0026host=www.gossipglove.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Nuremberg",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2818,
+      "bandwidth_kbs": 467,
+      "url": "trojan://v2TkL6FH3h@45.130.125.2:443?fp=firefox\u0026host=sm.farxmode.ir\u0026path=%2Fda\u0026security=tls\u0026sni=sm.farxmode.ir\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
