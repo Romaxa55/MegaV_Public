@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T08:01:59Z",
+  "updated_at": "2026-07-08T12:01:41Z",
   "total": 9,
   "by_protocol": {
     "shadowsocks": 2,
@@ -27,9 +27,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 397,
-      "bandwidth_kbs": 409,
-      "url": "vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@108.165.216.2:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 412,
+      "bandwidth_kbs": 425,
+      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.19.35.206:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -60,9 +60,9 @@
       "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1315,
-      "bandwidth_kbs": 473,
-      "url": "trojan://humanity@198.41.201.36:443?alpn=http%2F1.1\u0026host=www.gossipglove.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
+      "response_ms": 1598,
+      "bandwidth_kbs": 488,
+      "url": "trojan://humanity@188.114.99.0:443?host=www.gossipglove.com\u0026path=%252Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -71,9 +71,9 @@
       "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1598,
-      "bandwidth_kbs": 488,
-      "url": "trojan://humanity@188.114.99.0:443?host=www.gossipglove.com\u0026path=%252Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
+      "response_ms": 6315,
+      "bandwidth_kbs": 472,
+      "url": "trojan://humanity@104.19.208.184:443?fp=chrome\u0026path=%2F%2Fassignment\u0026security=tls\u0026sni=www.multiplydose.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -88,13 +88,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "EE",
-      "flag": "🇪🇪",
+      "country_code": "ES",
+      "flag": "🇪🇸",
+      "city": "Barcelona",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1275,
-      "bandwidth_kbs": 434,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ==@45.129.96.62:41348#megav.app"
+      "response_ms": 856,
+      "bandwidth_kbs": 498,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388?security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks2022",
