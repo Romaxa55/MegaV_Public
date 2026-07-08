@@ -1,2 +1,2 @@
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#megav.app
 vmess://65b17c0b-0a52-4b54-9bc9-60e31397b841@172.67.190.141:80?host=accklsj.bufu.us.ci&path=%2F65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess&security=none&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#megav.app
