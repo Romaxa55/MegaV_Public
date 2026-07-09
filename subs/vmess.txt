@@ -1,2 +1,2 @@
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?security=none&type=tcp#megav.app
-vmess://0626ffa1-ba74-41a4-93e8-2e9ea693d3cd@38.55.145.170:18976?path=%2Farki&security=none&type=ws#megav.app
+vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?host=None&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
