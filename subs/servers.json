@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T20:01:16Z",
+  "updated_at": "2026-07-09T00:01:18Z",
   "total": 9,
   "by_protocol": {
     "shadowsocks": 2,
@@ -27,9 +27,9 @@
       "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 411,
-      "bandwidth_kbs": 467,
-      "url": "vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@162.251.82.2:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 408,
+      "bandwidth_kbs": 455,
+      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.131.138:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026insecure=1\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -88,14 +88,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "ES",
-      "flag": "🇪🇸",
-      "city": "Barcelona",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Manchester",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 856,
-      "bandwidth_kbs": 498,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388?security=none\u0026type=tcp#megav.app"
+      "response_ms": 939,
+      "bandwidth_kbs": 421,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks2022",
