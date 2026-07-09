@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T08:02:16Z",
+  "updated_at": "2026-07-09T12:01:36Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -76,14 +76,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Manchester",
+      "country_code": "TR",
+      "flag": "🇹🇷",
+      "city": "Istanbul",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 939,
-      "bandwidth_kbs": 421,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443?security=none\u0026type=raw#megav.app"
+      "response_ms": 874,
+      "bandwidth_kbs": 448,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYzZreHV1dHBibThxZ2Y1@155.103.71.163:1080#megav.app"
     },
     {
       "protocol": "shadowsocks",
