@@ -1,9 +1,8 @@
 {
-  "updated_at": "2026-07-09T00:01:18Z",
-  "total": 9,
+  "updated_at": "2026-07-09T04:01:14Z",
+  "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
-    "shadowsocks2022": 1,
     "trojan": 2,
     "vless": 2,
     "vmess": 2
@@ -22,14 +21,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 408,
-      "bandwidth_kbs": 455,
-      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.131.138:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026insecure=1\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 353,
+      "bandwidth_kbs": 476,
+      "url": "vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@160.153.0.2:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -44,47 +43,36 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Los Angeles",
+      "country_code": "JP",
+      "flag": "🇯🇵",
+      "city": "Osaka",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3301,
-      "bandwidth_kbs": 468,
-      "url": "vmess://0626ffa1-ba74-41a4-93e8-2e9ea693d3cd@38.55.145.170:18976?path=%2Farki\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 4337,
+      "bandwidth_kbs": 498,
+      "url": "vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?host=None\u0026path=%2Fcctv13.m3u8\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "AL",
-      "flag": "🇦🇱",
-      "city": "Elbasan",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1820,
-      "bandwidth_kbs": 441,
-      "url": "trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?insecure=1\u0026security=tls\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1906,
-      "bandwidth_kbs": 462,
-      "url": "trojan://humanity@104.16.6.70:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
       "country_code": "GB",
       "flag": "🇬🇧",
-      "city": "Manchester",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 589,
-      "bandwidth_kbs": 470,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#megav.app"
+      "response_ms": 1301,
+      "bandwidth_kbs": 474,
+      "url": "trojan://bpb-trojan@172.67.135.88:443?path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026sni=vless.herogoing.top\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "IE",
+      "flag": "🇮🇪",
+      "city": "Dublin",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2008,
+      "bandwidth_kbs": 435,
+      "url": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?insecure=1\u0026security=tls\u0026sni=mddc.tinkoff.ru\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -98,15 +86,15 @@
       "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443?security=none\u0026type=raw#megav.app"
     },
     {
-      "protocol": "shadowsocks2022",
+      "protocol": "shadowsocks",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Chicago",
+      "city": "Dallas",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3467,
-      "bandwidth_kbs": 453,
-      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206RXlGb2N0Zlh5SVFWejA4bVBTc1B2Zm9sbmF1RDN3VE5qSk5ocEVFbTVSaz06WVRVbnFlejRhUUdGbS9OTWdpaW5kTzh1bk43QS9iQzFYSm5uS1B1TTlKOD0=@130.51.23.246:443#megav.app"
+      "response_ms": 1897,
+      "bandwidth_kbs": 440,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443?security=none\u0026type=raw#megav.app"
     }
   ]
 }
