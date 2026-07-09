@@ -1,8 +1,8 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@80.93.202.2:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@160.153.0.2:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?security=none&type=tcp#megav.app
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@104.21.49.141:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&security=none&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?security=none&type=tcp#megav.app
 vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?host=None&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
 trojan://bpb-trojan@172.67.135.88:443?path=%2Ftr%3Fed%3D2560&security=tls&sni=vless.herogoing.top&type=ws#megav.app
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?insecure=1&security=tls&sni=mddc.tinkoff.ru&type=tcp#megav.app
+trojan://humanity@188.114.97.3:443?fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443?security=none&type=raw#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080?security=none&type=raw#megav.app
