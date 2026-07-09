@@ -4,5 +4,5 @@ vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?security=none&
 vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?host=None&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
 trojan://bpb-trojan@172.67.135.88:443?path=%2Ftr%3Fed%3D2560&security=tls&sni=vless.herogoing.top&type=ws#megav.app
 trojan://humanity@188.114.97.3:443?fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYzZreHV1dHBibThxZ2Y1@155.103.71.163:1080#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080?security=none&type=raw#megav.app
