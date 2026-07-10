@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T00:01:02Z",
+  "updated_at": "2026-07-10T04:01:05Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -43,14 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Los Angeles",
+      "country_code": "HK",
+      "flag": "🇭🇰",
+      "city": "Mong Kok",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2989,
-      "bandwidth_kbs": 470,
-      "url": "vmess://65b17c0b-0a52-4b54-9bc9-60e31397b841@skk.moe:80?encryption=auto\u0026host=accklsj.bufu.us.ci\u0026path=%2F65b17c0b-0a52-4b54-9bc9-60e31397b841-vmess\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 2673,
+      "bandwidth_kbs": 480,
+      "url": "vmess://36cf6565-bc71-4f8c-9e30-a9cc6156e583@38.207.177.134:39742?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -76,25 +76,25 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "New York",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1224,
-      "bandwidth_kbs": 488,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443?security=none\u0026type=raw#megav.app"
+      "response_ms": 2002,
+      "bandwidth_kbs": 476,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "TH",
-      "flag": "🇹🇭",
-      "city": "Nonthaburi",
+      "country_code": "AU",
+      "flag": "🇦🇺",
+      "city": "Sydney",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2643,
-      "bandwidth_kbs": 497,
-      "url": "ss://YWVzLTI1Ni1nY206MG1UT01mcy80MmJVS2RmWkxnSjBRRXlGdVhyanRPOWg2d0tVeG91WXVFND0=@myo.vip.mvpn5g.com:47602#megav.app"
+      "response_ms": 3098,
+      "bandwidth_kbs": 491,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#megav.app"
     }
   ]
 }
