@@ -1,2 +1,1 @@
-trojan://humanity@104.16.174.33:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
-trojan://humanity@141.193.213.11:443?alpn=http%2F1.1+&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
+trojan://humanity@104.16.62.25:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
