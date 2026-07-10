@@ -1,8 +1,8 @@
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2@80.93.202.2:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.19.35.206:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#megav.app
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2@185.149.135.2:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@67.220.72.237:22324?encryption=auto&security=none&type=raw#megav.app
 vmess://36cf6565-bc71-4f8c-9e30-a9cc6156e583@38.207.177.134:39742?encryption=auto&security=none&type=tcp#megav.app
 trojan://humanity@104.16.174.33:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
 trojan://humanity@141.193.213.11:443?alpn=http%2F1.1+&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#megav.app
