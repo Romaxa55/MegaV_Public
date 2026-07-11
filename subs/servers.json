@@ -1,13 +1,24 @@
 {
-  "updated_at": "2026-07-11T00:00:55Z",
-  "total": 6,
+  "updated_at": "2026-07-11T04:01:22Z",
+  "total": 7,
   "by_protocol": {
-    "shadowsocks": 1,
-    "shadowsocks2022": 1,
+    "shadowsocks": 2,
+    "trojan": 2,
     "vless": 2,
-    "vmess": 2
+    "vmess": 1
   },
   "servers": [
+    {
+      "protocol": "vless",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 345,
+      "bandwidth_kbs": 474,
+      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?encryption=none\u0026fp=chrome\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+    },
     {
       "protocol": "vless",
       "country_code": "NL",
@@ -18,28 +29,6 @@
       "response_ms": 390,
       "bandwidth_kbs": 411,
       "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.138.128:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 413,
-      "bandwidth_kbs": 485,
-      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.149.233:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Minneapolis",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2116,
-      "bandwidth_kbs": 456,
-      "url": "vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto\u0026security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "vmess",
@@ -53,6 +42,39 @@
       "url": "vmess://d9c36b55-447a-4484-882b-d799f5301681@phoenix0202.zgjok.com:443?encryption=auto\u0026host=phoenix0202.zgjok.com\u0026path=%2Fd9c36b55-447a-4484-882b-d799f5301681\u0026security=tls\u0026sni=phoenix0202.zgjok.com\u0026type=ws#megav.app"
     },
     {
+      "protocol": "trojan",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 870,
+      "bandwidth_kbs": 469,
+      "url": "trojan://666@104.18.46.170:443?fp=chrome\u0026path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F\u0026security=tls\u0026sni=gdurt.ia6o.2s1.hh.penqiask.ccwu.cc\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 872,
+      "bandwidth_kbs": 419,
+      "url": "trojan://MiTiVPN@104.16.71.48:443?alpn=http%2F1.1\u0026fp=chrome\u0026path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DN--l\u0026security=tls\u0026sni=nland-o-nl.MaQRor.Ir\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 867,
+      "bandwidth_kbs": 488,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443?security=none\u0026type=tcp#megav.app"
+    },
+    {
       "protocol": "shadowsocks",
       "country_code": "US",
       "flag": "🇺🇸",
@@ -62,17 +84,6 @@
       "response_ms": 1781,
       "bandwidth_kbs": 433,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#megav.app"
-    },
-    {
-      "protocol": "shadowsocks2022",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Chicago",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2091,
-      "bandwidth_kbs": 478,
-      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206RXlGb2N0Zlh5SVFWejA4bVBTc1B2Zm9sbmF1RDN3VE5qSk5ocEVFbTVSaz06WVRVbnFlejRhUUdGbS9OTWdpaW5kTzh1bk43QS9iQzFYSm5uS1B1TTlKOD0=@130.51.23.246:443#megav.app"
     }
   ]
 }
