@@ -1,1 +1,2 @@
-trojan://humanity@104.16.62.25:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://666@104.18.46.170:443?fp=chrome&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&security=tls&sni=gdurt.ia6o.2s1.hh.penqiask.ccwu.cc&type=ws#megav.app
+trojan://MiTiVPN@104.16.71.48:443?alpn=http%2F1.1&fp=chrome&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DN--l&security=tls&sni=nland-o-nl.MaQRor.Ir&type=ws#megav.app
