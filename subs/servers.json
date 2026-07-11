@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T16:01:12Z",
+  "updated_at": "2026-07-11T20:01:03Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -15,9 +15,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 367,
-      "bandwidth_kbs": 401,
-      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.131.138:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026insecure=1\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 373,
+      "bandwidth_kbs": 482,
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.131:443?encryption=none\u0026host=tianshu13.pages.dev\u0026path=%2Fpyip%3Dproxyip.sg.cmliussss.net\u0026security=tls\u0026sni=tianshu13.pages.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
@@ -26,20 +26,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 379,
-      "bandwidth_kbs": 494,
-      "url": "vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@198.71.188.2:443?encryption=none\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "New York",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1928,
-      "bandwidth_kbs": 440,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
+      "response_ms": 405,
+      "bandwidth_kbs": 467,
+      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.2.87:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026insecure=1\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -53,15 +42,15 @@
       "url": "vmess://36cf6565-bc71-4f8c-9e30-a9cc6156e583@38.207.177.134:39742#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "protocol": "vmess",
+      "country_code": "HK",
+      "flag": "🇭🇰",
+      "city": "Mong Kok",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 885,
-      "bandwidth_kbs": 445,
-      "url": "trojan://humanity@104.18.32.47:443?path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+      "response_ms": 2709,
+      "bandwidth_kbs": 496,
+      "url": "vmess://36cf6565-bc71-4f8c-9e30-a9cc6156e583@38.207.177.134:39742?encryption=auto\u0026security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -75,6 +64,28 @@
       "url": "trojan://humanity@104.18.32.47:443?path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
     },
     {
+      "protocol": "trojan",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1903,
+      "bandwidth_kbs": 499,
+      "url": "trojan://MITIVPN@208.86.168.168:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=De1-2-3.MaQRor.Ir\u0026insecure=1\u0026path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DD--e\u0026security=tls\u0026sni=de-jodo.MaQRor.Ir\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 540,
+      "bandwidth_kbs": 405,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none\u0026type=tcp#megav.app"
+    },
+    {
       "protocol": "shadowsocks",
       "country_code": "NL",
       "flag": "🇳🇱",
@@ -84,17 +95,6 @@
       "response_ms": 1481,
       "bandwidth_kbs": 115,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "KZ",
-      "flag": "🇰🇿",
-      "city": "Almaty",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1846,
-      "bandwidth_kbs": 451,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674?security=none\u0026type=raw#megav.app"
     }
   ]
 }
