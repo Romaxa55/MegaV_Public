@@ -1,2 +1,1 @@
-vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&type=raw#megav.app
 vmess://d9c36b55-447a-4484-882b-d799f5301681@phoenix0202.zgjok.com:443?encryption=auto&host=phoenix0202.zgjok.com&path=%2Fd9c36b55-447a-4484-882b-d799f5301681&security=tls&sni=phoenix0202.zgjok.com&type=ws#megav.app
