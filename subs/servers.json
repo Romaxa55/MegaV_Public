@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-11T08:01:24Z",
-  "total": 7,
+  "updated_at": "2026-07-11T12:01:38Z",
+  "total": 8,
   "by_protocol": {
-    "shadowsocks": 1,
+    "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
     "vmess": 2
@@ -43,14 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Phoenix",
+      "country_code": "HK",
+      "flag": "🇭🇰",
+      "city": "Mong Kok",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3625,
-      "bandwidth_kbs": 326,
-      "url": "vmess://d9c36b55-447a-4484-882b-d799f5301681@phoenix0202.zgjok.com:443?encryption=auto\u0026host=phoenix0202.zgjok.com\u0026path=%2Fd9c36b55-447a-4484-882b-d799f5301681\u0026security=tls\u0026sni=phoenix0202.zgjok.com\u0026type=ws#megav.app"
+      "response_ms": 2845,
+      "bandwidth_kbs": 481,
+      "url": "vmess://36cf6565-bc71-4f8c-9e30-a9cc6156e583@38.207.177.134:39742?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -84,6 +84,17 @@
       "response_ms": 867,
       "bandwidth_kbs": 488,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443?security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "ZA",
+      "flag": "🇿🇦",
+      "city": "Johannesburg",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2610,
+      "bandwidth_kbs": 476,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
