@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T08:01:38Z",
+  "updated_at": "2026-07-12T12:01:32Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -76,6 +76,17 @@
     },
     {
       "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 985,
+      "bandwidth_kbs": 497,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080?security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
       "country_code": "DE",
       "flag": "🇩🇪",
       "city": "Frankfurt am Main",
@@ -84,17 +95,6 @@
       "response_ms": 1096,
       "bandwidth_kbs": 409,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388?security=none\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "TR",
-      "flag": "🇹🇷",
-      "city": "Istanbul",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1161,
-      "bandwidth_kbs": 430,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753?security=none\u0026type=raw#megav.app"
     }
   ]
 }
