@@ -1,2 +1,2 @@
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://MITIVPN@208.86.168.168:443?alpn=http%2F1.1&fp=chrome&host=De1-2-3.MaQRor.Ir&insecure=1&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DD--e&security=tls&sni=de-jodo.MaQRor.Ir&type=ws#megav.app
+trojan://humanity@104.21.8.107:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://humanity@104.18.152.187:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
