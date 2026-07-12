@@ -1,8 +1,7 @@
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.131:443?encryption=none&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=tianshu13.pages.dev&type=ws#megav.app
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.2.87:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&insecure=1&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vmess://36cf6565-bc71-4f8c-9e30-a9cc6156e583@38.207.177.134:39742#megav.app
-vmess://36cf6565-bc71-4f8c-9e30-a9cc6156e583@38.207.177.134:39742?encryption=auto&security=none&type=raw#megav.app
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://MITIVPN@208.86.168.168:443?alpn=http%2F1.1&fp=chrome&host=De1-2-3.MaQRor.Ir&insecure=1&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DD--e&security=tls&sni=de-jodo.MaQRor.Ir&type=ws#megav.app
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.145.173:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&insecure=1&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
+vmess://80039b4d-bac0-4f89-82c7-54fad3b0a1ea@47.250.45.234:8613?encryption=auto&host=google.com&path=%2Farki%3Fed%3D2048&security=none&type=ws#megav.app
+trojan://humanity@104.21.8.107:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://humanity@104.18.152.187:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388?security=none&type=tcp#megav.app
