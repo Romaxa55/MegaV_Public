@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T16:01:13Z",
+  "updated_at": "2026-07-12T20:01:16Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -32,17 +32,6 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Bexley",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2294,
-      "bandwidth_kbs": 445,
-      "url": "vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto\u0026host=google.com\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
       "city": "Seattle",
@@ -53,15 +42,15 @@
       "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "protocol": "vmess",
+      "country_code": "JP",
+      "flag": "🇯🇵",
+      "city": "Osaka",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 774,
-      "bandwidth_kbs": 473,
-      "url": "trojan://humanity@172.67.188.109:443?alpn=h3%2Ch2%2Chttp%2F1.1\u0026fp=ios\u0026host=www.creationlong.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+      "response_ms": 4912,
+      "bandwidth_kbs": 495,
+      "url": "vmess://6733c357-ba11-4e9f-f00f-7d87f2776ff9@140.83.51.161:25686?encryption=auto\u0026host=140.83.51.161\u0026path=%2Fcctv13.m3u8\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -73,6 +62,17 @@
       "response_ms": 1845,
       "bandwidth_kbs": 446,
       "url": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?insecure=1\u0026security=tls\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2088,
+      "bandwidth_kbs": 495,
+      "url": "trojan://humanity@216.24.57.7:443?host=www.creationlong.org\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -89,12 +89,12 @@
       "protocol": "shadowsocks",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Phoenix",
+      "city": "Dallas",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1802,
-      "bandwidth_kbs": 467,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443?security=none\u0026type=raw#megav.app"
+      "response_ms": 1768,
+      "bandwidth_kbs": 459,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443?security=none\u0026type=raw#megav.app"
     }
   ]
 }
