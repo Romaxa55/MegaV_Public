@@ -1,1 +1,2 @@
-vmess://80039b4d-bac0-4f89-82c7-54fad3b0a1ea@47.250.45.234:8613?encryption=auto&host=google.com&path=%2Farki%3Fed%3D2048&security=none&type=ws#megav.app
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=google.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000#megav.app
