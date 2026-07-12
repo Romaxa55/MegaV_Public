@@ -1,7 +1,8 @@
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.131:443?encryption=none&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=tianshu13.pages.dev&type=ws#megav.app
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.145.173:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&insecure=1&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vmess://80039b4d-bac0-4f89-82c7-54fad3b0a1ea@47.250.45.234:8613?encryption=auto&host=google.com&path=%2Farki%3Fed%3D2048&security=none&type=ws#megav.app
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.110:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=google.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000#megav.app
 trojan://humanity@104.21.8.107:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@104.18.152.187:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none&type=tcp#megav.app
+trojan://humanity@172.67.188.109:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388?security=none&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753?security=none&type=raw#megav.app
