@@ -1,8 +1,8 @@
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.26.5.39:443?encryption=none&fp=chrome&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2@192.0.63.2:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=google.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000#megav.app
-trojan://humanity@172.67.188.109:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+vmess://6733c357-ba11-4e9f-f00f-7d87f2776ff9@140.83.51.161:25686?encryption=auto&host=140.83.51.161&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?insecure=1&security=tls&type=tcp#megav.app
+trojan://humanity@216.24.57.7:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080?security=none&type=raw#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443?security=none&type=raw#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443?security=none&type=raw#megav.app
