@@ -1,9 +1,8 @@
 {
-  "updated_at": "2026-07-13T16:05:50Z",
-  "total": 8,
+  "updated_at": "2026-07-13T20:01:14Z",
+  "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
-    "trojan": 2,
     "vless": 2,
     "vmess": 2
   },
@@ -32,14 +31,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Minneapolis",
+      "country_code": "ES",
+      "flag": "🇪🇸",
+      "city": "Madrid",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1913,
-      "bandwidth_kbs": 443,
-      "url": "vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
+      "response_ms": 514,
+      "bandwidth_kbs": 493,
+      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -53,39 +52,6 @@
       "url": "vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?encryption=auto\u0026security=none\u0026type=raw#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "TR",
-      "flag": "🇹🇷",
-      "city": "Yakuplu",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1337,
-      "bandwidth_kbs": 431,
-      "url": "trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome\u0026insecure=1\u0026security=tls\u0026sni=grape-ataturk-tr.yyuyy.com\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "TR",
-      "flag": "🇹🇷",
-      "city": "Yakuplu",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1682,
-      "bandwidth_kbs": 455,
-      "url": "trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome\u0026security=tls\u0026sni=grape-ataturk-tr.yyuyy.com\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 665,
-      "bandwidth_kbs": 188,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#megav.app"
-    },
-    {
       "protocol": "shadowsocks",
       "country_code": "US",
       "flag": "🇺🇸",
@@ -95,6 +61,17 @@
       "response_ms": 1902,
       "bandwidth_kbs": 464,
       "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443?security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Vancouver",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2326,
+      "bandwidth_kbs": 481,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
