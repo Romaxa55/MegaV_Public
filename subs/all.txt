@@ -1,5 +1,5 @@
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.146.66:443?encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#megav.app
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@185.7.240.2:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.223.103:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&type=tcp#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=tcp#megav.app
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&insecure=1&security=tls&sni=grape-ataturk-tr.yyuyy.com&type=tcp#megav.app
