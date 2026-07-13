@@ -1,8 +1,6 @@
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@172.66.171.48:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.223.103:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#megav.app
 vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?encryption=auto&security=none&type=raw#megav.app
-trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&insecure=1&security=tls&sni=grape-ataturk-tr.yyuyy.com&type=tcp#megav.app
-trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&security=tls&sni=grape-ataturk-tr.yyuyy.com&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#megav.app
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443?security=none&type=tcp#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?security=none&type=tcp#megav.app
