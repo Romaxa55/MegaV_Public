@@ -1,7 +1,8 @@
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.26.5.39:443?encryption=none&fp=chrome&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2@192.0.63.2:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vmess://550e8400-e29b-41d4-a716-446655440000@57.151.100.27:10086?encryption=auto&security=none&type=tcp#megav.app
-vmess://44712929-c2b7-4fa4-93bd-9de332a78c8c@47.76.127.88:5566?encryption=auto&security=none&type=tcp#megav.app
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?insecure=1&security=tls&sni=146.70.90.197+&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443?security=none&type=raw#megav.app
+vless://e258977b-e413-4718-a3af-02d75492c349@172.64.146.66:443?encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#megav.app
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@185.7.240.2:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
+vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&type=tcp#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=tcp#megav.app
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&insecure=1&security=tls&sni=grape-ataturk-tr.yyuyy.com&type=tcp#megav.app
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&security=tls&sni=grape-ataturk-tr.yyuyy.com&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753?security=none&type=raw#megav.app
