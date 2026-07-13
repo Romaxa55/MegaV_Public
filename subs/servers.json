@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T12:01:16Z",
+  "updated_at": "2026-07-13T16:05:50Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -15,9 +15,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 397,
-      "bandwidth_kbs": 479,
-      "url": "vless://e258977b-e413-4718-a3af-02d75492c349@172.64.146.66:443?encryption=none\u0026fp=chrome\u0026host=ww1.aniuge.qzz.io\u0026path=%2F\u0026security=tls\u0026sni=ww1.aniuge.qzz.io\u0026type=ws#megav.app"
+      "response_ms": 415,
+      "bandwidth_kbs": 402,
+      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@172.66.171.48:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
@@ -43,14 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "CA",
-      "flag": "🇨🇦",
-      "city": "Toronto",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Minneapolis",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2132,
-      "bandwidth_kbs": 460,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
+      "response_ms": 2423,
+      "bandwidth_kbs": 441,
+      "url": "vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?encryption=auto\u0026security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -87,14 +87,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "TR",
-      "flag": "🇹🇷",
-      "city": "Istanbul",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Phoenix",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1331,
-      "bandwidth_kbs": 467,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753?security=none\u0026type=raw#megav.app"
+      "response_ms": 1902,
+      "bandwidth_kbs": 464,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
