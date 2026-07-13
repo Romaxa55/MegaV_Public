@@ -1,1 +1,2 @@
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?insecure=1&security=tls&sni=146.70.90.197+&type=tcp#megav.app
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&insecure=1&security=tls&sni=grape-ataturk-tr.yyuyy.com&type=tcp#megav.app
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&security=tls&sni=grape-ataturk-tr.yyuyy.com&type=raw#megav.app
