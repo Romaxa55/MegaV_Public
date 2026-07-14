@@ -1,6 +1,6 @@
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@172.66.171.48:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.223.103:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@160.153.0.2:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#megav.app
-vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?encryption=auto&security=none&type=raw#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443?security=none&type=tcp#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?security=none&type=tcp#megav.app
+vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#megav.app
