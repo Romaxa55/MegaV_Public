@@ -1,2 +1,2 @@
 trojan://MITIVPN@162.159.38.62:443?alpn=http%2F1.1&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s-W&security=tls&sni=Win-use-Cv-o.Maqror.ir&type=ws#megav.app
-trojan://humanity@208.103.161.110:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://humanity@104.16.89.120:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
