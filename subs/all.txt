@@ -1,8 +1,6 @@
 vless://e258977b-e413-4718-a3af-02d75492c349@8.47.69.6:443?encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&security=tls&sni=ww1.aniuge.qzz.io&type=ws#megav.app
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@80.93.202.2:443?encryption=none&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
-vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443#megav.app
-vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@3h-kazakhstan1.09vpn.com:80?host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2Fvmess%2F&security=none&type=ws#megav.app
 trojan://MITIVPN@162.159.38.62:443?alpn=http%2F1.1&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s-W&security=tls&sni=Win-use-Cv-o.Maqror.ir&type=ws#megav.app
 trojan://humanity@104.16.89.120:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#megav.app
