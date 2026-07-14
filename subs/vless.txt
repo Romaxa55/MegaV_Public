@@ -1,2 +1,2 @@
-vless://e258977b-e413-4718-a3af-02d75492c349@8.47.69.6:443?encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&security=tls&sni=ww1.aniuge.qzz.io&type=ws#megav.app
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@80.93.202.2:443?encryption=none&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@50.62.173.2:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
