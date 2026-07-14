@@ -1,8 +1,9 @@
 {
-  "updated_at": "2026-07-14T00:00:53Z",
-  "total": 6,
+  "updated_at": "2026-07-14T04:01:09Z",
+  "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
+    "trojan": 2,
     "vless": 2,
     "vmess": 2
   },
@@ -14,9 +15,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 415,
-      "bandwidth_kbs": 402,
-      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@172.66.171.48:443?encryption=none\u0026fp=chrome\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 373,
+      "bandwidth_kbs": 491,
+      "url": "vless://e258977b-e413-4718-a3af-02d75492c349@8.47.69.6:443?encryption=none\u0026fp=chrome\u0026host=ww1.aniuge.qzz.io\u0026security=tls\u0026sni=ww1.aniuge.qzz.io\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
@@ -25,9 +26,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 533,
-      "bandwidth_kbs": 457,
-      "url": "vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@160.153.0.2:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 407,
+      "bandwidth_kbs": 451,
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.166:443?encryption=none\u0026fp=chrome\u0026host=tianshu13.pages.dev\u0026path=%2Fpyip%3Dproxyip.sg.cmliussss.net\u0026security=tls\u0026sni=tianshu13.pages.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -50,6 +51,28 @@
       "response_ms": 2617,
       "bandwidth_kbs": 496,
       "url": "vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Norderstedt",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 514,
+      "bandwidth_kbs": 497,
+      "url": "trojan://MITIVPN@162.159.38.62:443?alpn=http%2F1.1\u0026host=bvck-oizksj-sWin-usje-C-o.Maqror.ir\u0026path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s-W\u0026security=tls\u0026sni=Win-use-Cv-o.Maqror.ir\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1591,
+      "bandwidth_kbs": 450,
+      "url": "trojan://humanity@208.103.161.110:443?host=www.creationlong.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
