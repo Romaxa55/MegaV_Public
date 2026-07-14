@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T20:01:14Z",
+  "updated_at": "2026-07-14T00:00:53Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -25,9 +25,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 428,
-      "bandwidth_kbs": 392,
-      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.223.103:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+      "response_ms": 533,
+      "bandwidth_kbs": 457,
+      "url": "vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@160.153.0.2:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -47,31 +47,31 @@
       "city": "Minneapolis",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2423,
-      "bandwidth_kbs": 441,
-      "url": "vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?encryption=auto\u0026security=none\u0026type=raw#megav.app"
+      "response_ms": 2617,
+      "bandwidth_kbs": 496,
+      "url": "vmess://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Phoenix",
+      "country_code": "TR",
+      "flag": "🇹🇷",
+      "city": "Istanbul",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1902,
-      "bandwidth_kbs": 464,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443?security=none\u0026type=tcp#megav.app"
+      "response_ms": 1911,
+      "bandwidth_kbs": 445,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "CA",
-      "flag": "🇨🇦",
-      "city": "Vancouver",
+      "country_code": "RO",
+      "flag": "🇷🇴",
+      "city": "Voluntari",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2326,
-      "bandwidth_kbs": 481,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?security=none\u0026type=tcp#megav.app"
+      "response_ms": 2011,
+      "bandwidth_kbs": 488,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#megav.app"
     }
   ]
 }
