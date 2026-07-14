@@ -1,23 +1,13 @@
 {
-  "updated_at": "2026-07-14T12:01:14Z",
-  "total": 6,
+  "updated_at": "2026-07-14T16:01:00Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
-    "vless": 2
+    "vless": 2,
+    "vmess": 1
   },
   "servers": [
-    {
-      "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 373,
-      "bandwidth_kbs": 491,
-      "url": "vless://e258977b-e413-4718-a3af-02d75492c349@8.47.69.6:443?encryption=none\u0026fp=chrome\u0026host=ww1.aniuge.qzz.io\u0026security=tls\u0026sni=ww1.aniuge.qzz.io\u0026type=ws#megav.app"
-    },
     {
       "protocol": "vless",
       "country_code": "NL",
@@ -30,15 +20,26 @@
       "url": "vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@80.93.202.2:443?encryption=none\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Norderstedt",
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 514,
-      "bandwidth_kbs": 497,
-      "url": "trojan://MITIVPN@162.159.38.62:443?alpn=http%2F1.1\u0026host=bvck-oizksj-sWin-usje-C-o.Maqror.ir\u0026path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s-W\u0026security=tls\u0026sni=Win-use-Cv-o.Maqror.ir\u0026type=ws#megav.app"
+      "response_ms": 381,
+      "bandwidth_kbs": 480,
+      "url": "vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@50.62.173.2:443?encryption=none\u0026host=support.zoom.us.yxls.eu.cc\u0026path=%2Fsg-amz\u0026security=tls\u0026sni=support.zoom.us.yxls.eu.cc\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Ashburn",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1879,
+      "bandwidth_kbs": 448,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm\u0026security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -50,6 +51,17 @@
       "response_ms": 998,
       "bandwidth_kbs": 476,
       "url": "trojan://humanity@104.16.89.120:443?path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1402,
+      "bandwidth_kbs": 490,
+      "url": "trojan://humanity@188.114.98.0:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
