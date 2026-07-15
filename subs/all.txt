@@ -1,7 +1,6 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.50:8880?encryption=none&host=vms.lifetime58.workers.dev&path=%2F&security=none&type=ws#megav.app
 vless://09c9f597-0c54-40e4-810a-474e1ef4bd6b@195.63.144.164:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UGKx4Kydrtu6oCJJPXOtR57bzIUIPK9meIy5ubEDHQM&security=reality&sid=94&sni=www.sony.com&type=raw#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=null&security=none&type=raw#megav.app
 trojan://humanity@104.16.174.121:443?alpn=null&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 trojan://humanity@104.18.152.149:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://YWVzLTI1Ni1nY206NjUxMjAzMDk2MTQ3M2YyMQ==@185.198.235.208:20129#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?security=none&type=tcp#megav.app
