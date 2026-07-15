@@ -1,6 +1,4 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.50:8880?encryption=none&host=vms.lifetime58.workers.dev&path=%2F&security=none&type=ws#megav.app
 vless://09c9f597-0c54-40e4-810a-474e1ef4bd6b@195.63.144.164:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UGKx4Kydrtu6oCJJPXOtR57bzIUIPK9meIy5ubEDHQM&security=reality&sid=94&sni=www.sony.com&type=raw#megav.app
-trojan://humanity@104.16.174.121:443?alpn=null&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@104.18.152.149:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-ss://YWVzLTI1Ni1nY206NjUxMjAzMDk2MTQ3M2YyMQ==@185.198.235.208:20129#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?security=none&type=tcp#megav.app
+vless://54244201-1f12-45fa-95f3-af46a3a7fc0b@159.195.148.47:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#megav.app
+trojan://humanity@104.16.62.25:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?fp=chrome&insecure=1&security=tls&sni=alfabank.ru&type=tcp#megav.app
