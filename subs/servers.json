@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T04:01:19Z",
+  "updated_at": "2026-07-15T08:01:29Z",
   "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
@@ -21,14 +21,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 912,
-      "bandwidth_kbs": 472,
-      "url": "vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=qq\u0026pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I\u0026security=reality\u0026sid=8e99fb4fa75e506f\u0026sni=www.github.com\u0026type=tcp#megav.app"
+      "response_ms": 696,
+      "bandwidth_kbs": 416,
+      "url": "vless://09c9f597-0c54-40e4-810a-474e1ef4bd6b@195.63.144.164:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=UGKx4Kydrtu6oCJJPXOtR57bzIUIPK9meIy5ubEDHQM\u0026security=reality\u0026sid=94\u0026sni=www.sony.com\u0026type=raw#megav.app"
     },
     {
       "protocol": "vmess",
