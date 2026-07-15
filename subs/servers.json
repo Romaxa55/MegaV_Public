@@ -1,44 +1,34 @@
 {
-  "updated_at": "2026-07-15T00:00:58Z",
-  "total": 6,
+  "updated_at": "2026-07-15T04:01:19Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
+    "trojan": 2,
     "vless": 2,
-    "vmess": 2
+    "vmess": 1
   },
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1782,
-      "bandwidth_kbs": 423,
-      "url": "vless://3ef170be-05d0-479c-9753-aa2f860964ea@153.76.122.225:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA\u0026security=reality\u0026sid=a1b2c3d4e5f6\u0026sni=cloudflare.com\u0026type=tcp#megav.app"
+      "response_ms": 609,
+      "bandwidth_kbs": 447,
+      "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.50:8880?encryption=none\u0026host=vms.lifetime58.workers.dev\u0026path=%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "IT",
-      "flag": "🇮🇹",
-      "city": "Milan",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1798,
-      "bandwidth_kbs": 470,
-      "url": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI\u0026encryption=none\u0026mode=gun\u0026security=none\u0026type=grpc#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Ashburn",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1879,
-      "bandwidth_kbs": 448,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm\u0026security=none\u0026type=raw#megav.app"
+      "response_ms": 912,
+      "bandwidth_kbs": 472,
+      "url": "vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=qq\u0026pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I\u0026security=reality\u0026sid=8e99fb4fa75e506f\u0026sni=www.github.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -52,6 +42,39 @@
       "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=null\u0026security=none\u0026type=raw#megav.app"
     },
     {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 684,
+      "bandwidth_kbs": 448,
+      "url": "trojan://humanity@104.16.174.121:443?alpn=null\u0026host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 755,
+      "bandwidth_kbs": 434,
+      "url": "trojan://humanity@104.18.152.149:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "IT",
+      "flag": "🇮🇹",
+      "city": "Palermo",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1179,
+      "bandwidth_kbs": 466,
+      "url": "ss://YWVzLTI1Ni1nY206NjUxMjAzMDk2MTQ3M2YyMQ==@185.198.235.208:20129#megav.app"
+    },
+    {
       "protocol": "shadowsocks",
       "country_code": "US",
       "flag": "🇺🇸",
@@ -61,17 +84,6 @@
       "response_ms": 1194,
       "bandwidth_kbs": 453,
       "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443?security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "ZA",
-      "flag": "🇿🇦",
-      "city": "Johannesburg",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 3100,
-      "bandwidth_kbs": 443,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
