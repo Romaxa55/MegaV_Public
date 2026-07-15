@@ -1,11 +1,10 @@
 {
-  "updated_at": "2026-07-15T08:01:29Z",
-  "total": 7,
+  "updated_at": "2026-07-15T12:01:37Z",
+  "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
-    "vless": 2,
-    "vmess": 1
+    "vless": 2
   },
   "servers": [
     {
@@ -29,17 +28,6 @@
       "response_ms": 696,
       "bandwidth_kbs": 416,
       "url": "vless://09c9f597-0c54-40e4-810a-474e1ef4bd6b@195.63.144.164:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=UGKx4Kydrtu6oCJJPXOtR57bzIUIPK9meIy5ubEDHQM\u0026security=reality\u0026sid=94\u0026sni=www.sony.com\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "CA",
-      "flag": "🇨🇦",
-      "city": "Toronto",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2016,
-      "bandwidth_kbs": 489,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=null\u0026security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -76,14 +64,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "New York",
+      "country_code": "ZA",
+      "flag": "🇿🇦",
+      "city": "Johannesburg",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1194,
-      "bandwidth_kbs": 453,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443?security=none\u0026type=raw#megav.app"
+      "response_ms": 2906,
+      "bandwidth_kbs": 481,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
