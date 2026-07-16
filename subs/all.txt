@@ -1,5 +1,8 @@
 vless://54244201-1f12-45fa-95f3-af46a3a7fc0b@159.195.148.47:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#megav.app
 vless://ad1f7afa-af80-4878-816d-1196c9ea70f2@51.116.101.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6DGUbHZFVqaAbexHjwHPggWgoHgFGyDSp20wuapQRwA&security=reality&sid=e1a78782&sni=www.cloudflare.com&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?encryption=auto&security=none&type=tcp#megav.app
+vmess://aedc66b8-99d7-4a21-8310-61870e7f870d@47.250.135.244:10000?security=none&type=raw#megav.app
+trojan://humanity@216.24.57.6:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?fp=chrome&insecure=1&security=tls&sni=css.rbxcdn.com&type=tcp#megav.app
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?insecure=1&security=tls&sni=static.rutube.ru&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYkM0M1dlTnh1REFYZG1RWmRrd1Z4@62.133.63.222:48981?security=none&type=raw#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443?security=none&type=raw#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443?security=none&type=raw#megav.app
