@@ -1,2 +1,2 @@
-vless://54244201-1f12-45fa-95f3-af46a3a7fc0b@159.195.148.47:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#megav.app
-vless://ad1f7afa-af80-4878-816d-1196c9ea70f2@51.116.101.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6DGUbHZFVqaAbexHjwHPggWgoHgFGyDSp20wuapQRwA&security=reality&sid=e1a78782&sni=www.cloudflare.com&type=tcp#megav.app
+vless://28f7cac4-4fb8-4abb-ac11-9f7b87b0b1d2@176.65.151.231:443?encryption=none&fp=chrome&pbk=ddouZdrCgPSxggWLsDeeFrYSwfj3kdK4-t1AVMw5p3M&security=reality&sid=d02acc89b16c0bfc&sni=ap-author.led.samsung.com&type=tcp#megav.app
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.236:443?encryption=none&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=tianshu13.pages.dev&type=ws#megav.app
