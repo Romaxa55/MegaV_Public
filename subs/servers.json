@@ -1,11 +1,10 @@
 {
-  "updated_at": "2026-07-16T08:01:48Z",
-  "total": 8,
+  "updated_at": "2026-07-16T12:01:42Z",
+  "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
-    "vless": 2,
-    "vmess": 2
+    "vless": 2
   },
   "servers": [
     {
@@ -31,28 +30,6 @@
       "url": "vless://28f7cac4-4fb8-4abb-ac11-9f7b87b0b1d2@176.65.151.231:443?encryption=none\u0026fp=chrome\u0026pbk=ddouZdrCgPSxggWLsDeeFrYSwfj3kdK4-t1AVMw5p3M\u0026security=reality\u0026sid=d02acc89b16c0bfc\u0026sni=ap-author.led.samsung.com\u0026type=tcp#megav.app"
     },
     {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "New York",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1621,
-      "bandwidth_kbs": 475,
-      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "MY",
-      "flag": "🇲🇾",
-      "city": "Kuala Lumpur",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2830,
-      "bandwidth_kbs": 445,
-      "url": "vmess://aedc66b8-99d7-4a21-8310-61870e7f870d@47.250.135.244:10000?security=none\u0026type=raw#megav.app"
-    },
-    {
       "protocol": "trojan",
       "country_code": "PL",
       "flag": "🇵🇱",
@@ -76,14 +53,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Manchester",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1205,
-      "bandwidth_kbs": 474,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#megav.app"
+      "response_ms": 414,
+      "bandwidth_kbs": 467,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -92,9 +69,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1550,
-      "bandwidth_kbs": 412,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#megav.app"
+      "response_ms": 1205,
+      "bandwidth_kbs": 474,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#megav.app"
     }
   ]
 }
