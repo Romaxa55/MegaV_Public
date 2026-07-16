@@ -1,2 +1,2 @@
-trojan://humanity@172.66.47.45:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?insecure=1&security=tls&sni=mddc.tinkoff.ru&type=tcp#megav.app
+trojan://KV63147582@89.39.70.233:443?security=tls&sni=game-firefly.rooster465.autos&type=raw#megav.app
+trojan://humanity@172.64.145.202:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
