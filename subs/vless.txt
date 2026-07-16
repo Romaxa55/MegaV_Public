@@ -1,2 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.194.40:8880?encryption=none&host=vms.lifetime37.workers.dev&path=%2F%3Fed%3D2560&security=none&type=ws#megav.app
 vless://28f7cac4-4fb8-4abb-ac11-9f7b87b0b1d2@176.65.151.231:443?encryption=none&fp=chrome&pbk=ddouZdrCgPSxggWLsDeeFrYSwfj3kdK4-t1AVMw5p3M&security=reality&sid=d02acc89b16c0bfc&sni=ap-author.led.samsung.com&type=tcp#megav.app
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.236:443?encryption=none&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=tianshu13.pages.dev&type=ws#megav.app
