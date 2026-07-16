@@ -1,2 +1,2 @@
+trojan://humanity@216.24.57.6:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?fp=chrome&insecure=1&security=tls&sni=css.rbxcdn.com&type=tcp#megav.app
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?insecure=1&security=tls&sni=static.rutube.ru&type=tcp#megav.app
