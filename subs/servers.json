@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T12:01:42Z",
+  "updated_at": "2026-07-16T16:01:25Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -20,14 +20,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "IL",
-      "flag": "🇮🇱",
-      "city": "Eygelshoven",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Nuremberg",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 606,
-      "bandwidth_kbs": 477,
-      "url": "vless://28f7cac4-4fb8-4abb-ac11-9f7b87b0b1d2@176.65.151.231:443?encryption=none\u0026fp=chrome\u0026pbk=ddouZdrCgPSxggWLsDeeFrYSwfj3kdK4-t1AVMw5p3M\u0026security=reality\u0026sid=d02acc89b16c0bfc\u0026sni=ap-author.led.samsung.com\u0026type=tcp#megav.app"
+      "response_ms": 1006,
+      "bandwidth_kbs": 469,
+      "url": "vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc\u0026security=reality\u0026sid=d8d3dc6c3ca45dd4\u0026sni=2.oncloudnineservicestreang.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -64,14 +64,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "IN",
+      "flag": "🇮🇳",
+      "city": "Mumbai",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1205,
-      "bandwidth_kbs": 474,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#megav.app"
+      "response_ms": 1841,
+      "bandwidth_kbs": 469,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061?security=none\u0026type=raw#megav.app"
     }
   ]
 }
