@@ -1,2 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.194.40:8880?encryption=none&host=vms.lifetime37.workers.dev&path=%2F%3Fed%3D2560&security=none&type=ws#megav.app
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?encryption=none&flow=xtls-rprx-vision&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&security=reality&sid=d8d3dc6c3ca45dd4&sni=2.oncloudnineservicestreang.com&type=tcp#megav.app
+vless://47883fd8-0478-414f-8230-6eeecedc234e@85.192.28.199:46235?encryption=none&security=none&type=raw#megav.app
+vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.208.106:443?encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=g11.steptofsvo.com&type=tcp#megav.app
