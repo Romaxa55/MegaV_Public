@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T04:01:18Z",
+  "updated_at": "2026-07-16T08:01:48Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -10,6 +10,17 @@
   "servers": [
     {
       "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 384,
+      "bandwidth_kbs": 433,
+      "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.194.40:8880?encryption=none\u0026host=vms.lifetime37.workers.dev\u0026path=%2F%3Fed%3D2560\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vless",
       "country_code": "IL",
       "flag": "🇮🇱",
       "city": "Eygelshoven",
@@ -18,17 +29,6 @@
       "response_ms": 606,
       "bandwidth_kbs": 477,
       "url": "vless://28f7cac4-4fb8-4abb-ac11-9f7b87b0b1d2@176.65.151.231:443?encryption=none\u0026fp=chrome\u0026pbk=ddouZdrCgPSxggWLsDeeFrYSwfj3kdK4-t1AVMw5p3M\u0026security=reality\u0026sid=d02acc89b16c0bfc\u0026sni=ap-author.led.samsung.com\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 627,
-      "bandwidth_kbs": 489,
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.236:443?encryption=none\u0026host=tianshu13.pages.dev\u0026path=%2Fpyip%3Dproxyip.sg.cmliussss.net\u0026security=tls\u0026sni=tianshu13.pages.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -59,20 +59,20 @@
       "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1163,
-      "bandwidth_kbs": 476,
-      "url": "trojan://humanity@216.24.57.6:443?host=www.creationlong.org\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+      "response_ms": 942,
+      "bandwidth_kbs": 472,
+      "url": "trojan://humanity@172.66.47.45:443?path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "IE",
+      "flag": "🇮🇪",
+      "city": "Dublin",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1889,
-      "bandwidth_kbs": 476,
-      "url": "trojan://humanity@104.26.14.137:443?path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 982,
+      "bandwidth_kbs": 459,
+      "url": "trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?insecure=1\u0026security=tls\u0026sni=mddc.tinkoff.ru\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
