@@ -1,13 +1,24 @@
 {
-  "updated_at": "2026-07-16T20:01:53Z",
-  "total": 7,
+  "updated_at": "2026-07-17T00:01:25Z",
+  "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
-    "vmess": 1
+    "vmess": 2
   },
   "servers": [
+    {
+      "protocol": "vless",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 881,
+      "bandwidth_kbs": 448,
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.102:443?encryption=none\u0026host=tianshu13.pages.dev\u0026path=%2Fpyip%3Dproxyip.sg.cmliussss.net\u0026security=tls\u0026sni=tianshu13.pages.dev\u0026type=ws#megav.app"
+    },
     {
       "protocol": "vless",
       "country_code": "DE",
@@ -18,17 +29,6 @@
       "response_ms": 1023,
       "bandwidth_kbs": 491,
       "url": "vless://47883fd8-0478-414f-8230-6eeecedc234e@85.192.28.199:46235?encryption=none\u0026security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Enschede",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1023,
-      "bandwidth_kbs": 428,
-      "url": "vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.208.106:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=randomized\u0026pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk\u0026security=reality\u0026sid=6d6f13013d3e1d0c\u0026sni=g11.steptofsvo.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -42,6 +42,28 @@
       "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?security=none\u0026type=raw#megav.app"
     },
     {
+      "protocol": "vmess",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Toronto",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2334,
+      "bandwidth_kbs": 474,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=null\u0026security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1072,
+      "bandwidth_kbs": 420,
+      "url": "trojan://humanity@172.66.44.211:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+    },
+    {
       "protocol": "trojan",
       "country_code": "NL",
       "flag": "🇳🇱",
@@ -53,28 +75,6 @@
       "url": "trojan://KV63147582@89.39.70.233:443?security=tls\u0026sni=game-firefly.rooster465.autos\u0026type=raw#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1277,
-      "bandwidth_kbs": 470,
-      "url": "trojan://humanity@172.64.145.202:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Manchester",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 414,
-      "bandwidth_kbs": 467,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443?security=none\u0026type=raw#megav.app"
-    },
-    {
       "protocol": "shadowsocks",
       "country_code": "NL",
       "flag": "🇳🇱",
@@ -84,6 +84,17 @@
       "response_ms": 1043,
       "bandwidth_kbs": 460,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080?security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "IN",
+      "flag": "🇮🇳",
+      "city": "Mumbai",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1841,
+      "bandwidth_kbs": 469,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061?security=none\u0026type=raw#megav.app"
     }
   ]
 }
