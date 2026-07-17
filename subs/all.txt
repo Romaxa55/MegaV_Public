@@ -1,8 +1,8 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.68.30:8880?encryption=none&host=vms.lifetime47.workers.dev&security=none&type=ws#megav.app
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.183:443?encryption=none&fp=firefox&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=tianshu13.pages.dev&type=ws#megav.app
-vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?encryption=auto&host=jp01.a0a.xyz&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
+vless://ad961404-6249-4a11-9577-d1e81f6b198f@150.241.90.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0d6fEYI5nZ_puQdJ5J9Sn7ExAs53DZzbpfxghHt_u2E&security=reality&sid=7c81a04a4b20&sni=monolithgate.com&type=raw#megav.app
 vmess://bda619b6-c5e7-444a-aed7-4d8716237bd7@107.161.82.89:59912?path=%2Farki&security=none&type=ws#megav.app
-trojan://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.17.104.204:443?fp=chrome&host=ezpanslll.samankarami0686.workers.dev&path=%2Fsync&security=tls&sni=ezpanslll.samankarami0686.workers.dev&type=ws#megav.app
-trojan://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.16.194.118:443?fp=chrome&host=ezpanslll.samankarami0686.workers.dev&path=%2Fsync&security=tls&sni=ezpanslll.samankarami0686.workers.dev&type=ws#megav.app
+vmess://bd16ed8f-a5bd-47ea-a69a-651fc70e92ac@107.161.82.89:59284?path=%2Farki&security=none&type=ws#megav.app
+trojan://humanity@104.21.103.254:443?alpn=http%252F1.1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://humanity@172.64.147.227:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388?security=none&type=raw#megav.app
