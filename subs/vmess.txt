@@ -1,2 +1,2 @@
-vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?encryption=auto&host=jp01.a0a.xyz&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
 vmess://bda619b6-c5e7-444a-aed7-4d8716237bd7@107.161.82.89:59912?path=%2Farki&security=none&type=ws#megav.app
+vmess://bd16ed8f-a5bd-47ea-a69a-651fc70e92ac@107.161.82.89:59284?path=%2Farki&security=none&type=ws#megav.app
