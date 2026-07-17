@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T08:02:12Z",
+  "updated_at": "2026-07-17T12:01:42Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -32,17 +32,6 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "CA",
-      "flag": "🇨🇦",
-      "city": "Toronto",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2334,
-      "bandwidth_kbs": 474,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=null\u0026security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "vmess",
       "country_code": "JP",
       "flag": "🇯🇵",
       "city": "Osaka",
@@ -51,6 +40,17 @@
       "response_ms": 3546,
       "bandwidth_kbs": 499,
       "url": "vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?encryption=auto\u0026host=jp01.a0a.xyz\u0026path=%2Fcctv13.m3u8\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Los Angeles",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 4234,
+      "bandwidth_kbs": 494,
+      "url": "vmess://bda619b6-c5e7-444a-aed7-4d8716237bd7@107.161.82.89:59912?path=%2Farki\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -76,25 +76,25 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "CA",
-      "flag": "🇨🇦",
-      "city": "Toronto",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1705,
-      "bandwidth_kbs": 496,
-      "url": "ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA==@50.114.177.235:20111?security=none\u0026type=raw#megav.app"
+      "response_ms": 680,
+      "bandwidth_kbs": 410,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "IN",
-      "flag": "🇮🇳",
-      "city": "Mumbai",
+      "country_code": "ES",
+      "flag": "🇪🇸",
+      "city": "Barcelona",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1997,
-      "bandwidth_kbs": 478,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061?security=none\u0026type=tcp#megav.app"
+      "response_ms": 1076,
+      "bandwidth_kbs": 435,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388?security=none\u0026type=raw#megav.app"
     }
   ]
 }
