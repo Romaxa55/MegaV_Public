@@ -1,2 +1,2 @@
-vmess://bda619b6-c5e7-444a-aed7-4d8716237bd7@107.161.82.89:59912?path=%2Farki&security=none&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000?security=none&type=raw#megav.app
 vmess://bd16ed8f-a5bd-47ea-a69a-651fc70e92ac@107.161.82.89:59284?path=%2Farki&security=none&type=ws#megav.app
