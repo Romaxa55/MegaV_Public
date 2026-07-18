@@ -1,2 +1,2 @@
-trojan://humanity@104.18.152.244:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://NQ26071394@47.129.241.73:443?insecure=1&security=tls&sni=arriving-colt.rooster465.autos&type=tcp#megav.app
+trojan://CF68213490@18.184.4.15:443?fp=chrome&security=tls&sni=harmless-lab.rooster465.autos&type=tcp#megav.app
+trojan://NQ26071394@54.199.249.181:443?security=tls&sni=bursting-racer.rooster465.autos&type=raw#megav.app
