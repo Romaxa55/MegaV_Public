@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-18T00:01:28Z",
-  "total": 7,
+  "updated_at": "2026-07-18T04:01:57Z",
+  "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
-    "vmess": 1
+    "vmess": 2
   },
   "servers": [
     {
@@ -21,14 +21,25 @@
     },
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Enschede",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 743,
-      "bandwidth_kbs": 449,
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.24:443?encryption=none\u0026fp=chrome\u0026host=tianshu13.pages.dev\u0026path=%2Fpyip%3Dproxyip.sg.cmliussss.net\u0026security=tls\u0026sni=tianshu13.pages.dev\u0026type=ws#megav.app"
+      "response_ms": 988,
+      "bandwidth_kbs": 490,
+      "url": "vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.208.104:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=randomized\u0026pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk\u0026security=reality\u0026sid=6d6f13013d3e1d0c\u0026sni=g11.steptofsvo.com\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Santa Clara",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2522,
+      "bandwidth_kbs": 423,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "vmess",
