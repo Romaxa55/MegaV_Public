@@ -1,2 +1,2 @@
-trojan://humanity@104.27.113.179:443?alpn=http%2F1.1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
-trojan://humanity@104.16.7.70:443?fp=chrome&host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://humanity@104.18.152.244:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://NQ26071394@47.129.241.73:443?insecure=1&security=tls&sni=arriving-colt.rooster465.autos&type=tcp#megav.app
