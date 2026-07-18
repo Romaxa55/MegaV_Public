@@ -1,5 +1,6 @@
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.223:443?encryption=none&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=tianshu13.pages.dev&type=ws#megav.app
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.24:443?encryption=none&fp=chrome&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=tianshu13.pages.dev&type=ws#megav.app
+vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.208.104:443?encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=g11.steptofsvo.com&type=tcp#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?security=none&type=raw#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000?security=none&type=raw#megav.app
 trojan://humanity@104.27.113.179:443?alpn=http%2F1.1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
 trojan://humanity@104.16.7.70:443?fp=chrome&host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
