@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T16:01:47Z",
+  "updated_at": "2026-07-18T20:01:55Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -43,14 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Miami",
+      "country_code": "JP",
+      "flag": "🇯🇵",
+      "city": "Tokyo",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2268,
-      "bandwidth_kbs": 466,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?security=none\u0026type=raw#megav.app"
+      "response_ms": 5018,
+      "bandwidth_kbs": 495,
+      "url": "vmess://537a036f-a4ad-4051-80c4-011a46c62bb0@jp01.scpnb.top:443?encryption=auto\u0026path=%2F537a036f-a4ad-4051-80c4-011a46c62bb0-vm\u0026security=tls\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -76,25 +76,25 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 815,
-      "bandwidth_kbs": 415,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#megav.app"
+      "response_ms": 1790,
+      "bandwidth_kbs": 447,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.249.220:1080?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Phoenix",
+      "country_code": "IN",
+      "flag": "🇮🇳",
+      "city": "Mumbai",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2014,
-      "bandwidth_kbs": 492,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443?security=none\u0026type=raw#megav.app"
+      "response_ms": 1839,
+      "bandwidth_kbs": 480,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#megav.app"
     }
   ]
 }
