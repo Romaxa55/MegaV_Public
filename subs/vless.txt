@@ -1,2 +1,2 @@
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.227:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
-vless://bf5d97e2-4321-4ed2-b95d-56f4b8cc1bc3@188.114.97.6:80?encryption=none&host=space.byu.id.r3xxe.eu.cc&path=%2Fbr-orcl&security=none&type=ws#megav.app
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?encryption=none&fp=firefox&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=google.com&type=tcp#megav.app
