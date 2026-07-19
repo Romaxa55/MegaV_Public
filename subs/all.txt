@@ -1,8 +1,8 @@
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.102:443?encryption=none&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=tianshu13.pages.dev&type=ws#megav.app
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=raw#megav.app
-vmess://9855f1f0-a800-40d4-8b38-c7d3eb79302d@94.131.108.36:443?security=none&type=ws#megav.app
+vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd4.466688.xyz:443?encryption=none&fp=chrome&host=edge-4cb23bf6.pages.dev&path=%2F%40https%3A%2F%2Ft.me%2FQiangLieTuiJian%3Fed%3D2048&security=tls&sni=edge-4cb23bf6.pages.dev&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=raw#megav.app
 vmess://537a036f-a4ad-4051-80c4-011a46c62bb0@jp01.scpnb.top:443?encryption=auto&path=%2F537a036f-a4ad-4051-80c4-011a46c62bb0-vm&security=tls&type=ws#megav.app
-trojan://CF68213490@18.184.4.15:443?fp=chrome&security=tls&sni=harmless-lab.rooster465.autos&type=tcp#megav.app
+trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 trojan://NQ26071394@54.199.249.181:443?security=tls&sni=bursting-racer.rooster465.autos&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.249.220:1080?security=none&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#megav.app
