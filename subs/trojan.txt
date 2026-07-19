@@ -1,2 +1,2 @@
-trojan://CF68213490@18.184.4.15:443?fp=chrome&security=tls&sni=harmless-lab.rooster465.autos&type=tcp#megav.app
+trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
 trojan://NQ26071394@54.199.249.181:443?security=tls&sni=bursting-racer.rooster465.autos&type=raw#megav.app
