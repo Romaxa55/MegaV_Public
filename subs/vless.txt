@@ -1,2 +1,2 @@
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.102:443?encryption=none&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=tianshu13.pages.dev&type=ws#megav.app
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=raw#megav.app
+vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd4.466688.xyz:443?encryption=none&fp=chrome&host=edge-4cb23bf6.pages.dev&path=%2F%40https%3A%2F%2Ft.me%2FQiangLieTuiJian%3Fed%3D2048&security=tls&sni=edge-4cb23bf6.pages.dev&type=ws#megav.app
