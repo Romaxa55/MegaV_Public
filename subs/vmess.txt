@@ -1,2 +1,2 @@
 vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?security=none&type=tcp#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=raw#megav.app
+vmess://79e0df31-8ed5-4213-9fff-292a9fbeae7b@104.21.88.22:443?encryption=auto&host=vpn.cyedu.xyz&path=%2Fws&security=tls&sni=vpn.cyedu.xyz&type=ws#megav.app
