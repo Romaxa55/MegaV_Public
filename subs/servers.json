@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T00:01:31Z",
+  "updated_at": "2026-07-19T04:12:39Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -10,25 +10,36 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 726,
-      "bandwidth_kbs": 419,
-      "url": "vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none\u0026security=none\u0026type=raw#megav.app"
+      "response_ms": 359,
+      "bandwidth_kbs": 101,
+      "url": "vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.227:80?encryption=none\u0026host=zyzzzoao.xn--fiqv8j.eu.org\u0026path=%2F%3Fed%3D2048\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Norderstedt",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 939,
-      "bandwidth_kbs": 465,
-      "url": "vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd4.466688.xyz:443?encryption=none\u0026fp=chrome\u0026host=edge-4cb23bf6.pages.dev\u0026path=%2F%40https%3A%2F%2Ft.me%2FQiangLieTuiJian%3Fed%3D2048\u0026security=tls\u0026sni=edge-4cb23bf6.pages.dev\u0026type=ws#megav.app"
+      "response_ms": 715,
+      "bandwidth_kbs": 438,
+      "url": "vless://bf5d97e2-4321-4ed2-b95d-56f4b8cc1bc3@188.114.97.6:80?encryption=none\u0026host=space.byu.id.r3xxe.eu.cc\u0026path=%2Fbr-orcl\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "City of London",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1334,
+      "bandwidth_kbs": 490,
+      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -42,37 +53,26 @@
       "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto\u0026security=none\u0026type=raw#megav.app"
     },
     {
-      "protocol": "vmess",
-      "country_code": "JP",
-      "flag": "🇯🇵",
-      "city": "Tokyo",
+      "protocol": "trojan",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 5018,
-      "bandwidth_kbs": 495,
-      "url": "vmess://537a036f-a4ad-4051-80c4-011a46c62bb0@jp01.scpnb.top:443?encryption=auto\u0026path=%2F537a036f-a4ad-4051-80c4-011a46c62bb0-vm\u0026security=tls\u0026type=ws#megav.app"
+      "response_ms": 533,
+      "bandwidth_kbs": 420,
+      "url": "trojan://humanity@104.27.113.179:443?alpn=http%2F1.1\u0026host=www.gossipglove.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 847,
-      "bandwidth_kbs": 474,
-      "url": "trojan://humanity@202.37.33.80:443?path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "JP",
-      "flag": "🇯🇵",
-      "city": "Tokyo",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 4579,
-      "bandwidth_kbs": 494,
-      "url": "trojan://NQ26071394@54.199.249.181:443?security=tls\u0026sni=bursting-racer.rooster465.autos\u0026type=raw#megav.app"
+      "response_ms": 579,
+      "bandwidth_kbs": 482,
+      "url": "trojan://humanity@185.18.250.252:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
