@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T20:01:55Z",
+  "updated_at": "2026-07-19T00:01:31Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -8,17 +8,6 @@
     "vmess": 2
   },
   "servers": [
-    {
-      "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 414,
-      "bandwidth_kbs": 491,
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.102:443?encryption=none\u0026host=tianshu13.pages.dev\u0026path=%2Fpyip%3Dproxyip.sg.cmliussss.net\u0026security=tls\u0026sni=tianshu13.pages.dev\u0026type=ws#megav.app"
-    },
     {
       "protocol": "vless",
       "country_code": "FR",
@@ -31,15 +20,26 @@
       "url": "vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none\u0026security=none\u0026type=raw#megav.app"
     },
     {
-      "protocol": "vmess",
-      "country_code": "MD",
-      "flag": "🇲🇩",
-      "city": "Başakşehir",
+      "protocol": "vless",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Norderstedt",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2106,
-      "bandwidth_kbs": 427,
-      "url": "vmess://9855f1f0-a800-40d4-8b38-c7d3eb79302d@94.131.108.36:443?security=none\u0026type=ws#megav.app"
+      "response_ms": 939,
+      "bandwidth_kbs": 465,
+      "url": "vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd4.466688.xyz:443?encryption=none\u0026fp=chrome\u0026host=edge-4cb23bf6.pages.dev\u0026path=%2F%40https%3A%2F%2Ft.me%2FQiangLieTuiJian%3Fed%3D2048\u0026security=tls\u0026sni=edge-4cb23bf6.pages.dev\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Toronto",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1702,
+      "bandwidth_kbs": 469,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto\u0026security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "vmess",
@@ -54,14 +54,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3986,
-      "bandwidth_kbs": 440,
-      "url": "trojan://CF68213490@18.184.4.15:443?fp=chrome\u0026security=tls\u0026sni=harmless-lab.rooster465.autos\u0026type=tcp#megav.app"
+      "response_ms": 847,
+      "bandwidth_kbs": 474,
+      "url": "trojan://humanity@202.37.33.80:443?path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
