@@ -1,2 +1,2 @@
-trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-trojan://NQ26071394@54.199.249.181:443?security=tls&sni=bursting-racer.rooster465.autos&type=raw#megav.app
+trojan://humanity@104.27.113.179:443?alpn=http%2F1.1&host=www.gossipglove.com&insecure=1&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
+trojan://humanity@185.18.250.252:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
