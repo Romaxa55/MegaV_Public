@@ -1,6 +1,6 @@
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.102:443?encryption=none&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=tianshu13.pages.dev&type=ws#megav.app
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=google.com&type=raw#megav.app
-trojan://humanity@104.21.8.107:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@216.24.57.6:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://humanity@208.103.161.101:443?alpn=h2%252Chttp%252F1.1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://XG59623478@3.249.67.252:443?fp=chrome&security=tls&sni=singular-lark.rooster465.autos&type=tcp#megav.app
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443?security=none&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#megav.app
