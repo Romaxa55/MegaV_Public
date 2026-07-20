@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T16:01:48Z",
+  "updated_at": "2026-07-20T20:01:51Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -21,14 +21,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "AT",
-      "flag": "🇦🇹",
-      "city": "Vienna",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1022,
-      "bandwidth_kbs": 490,
-      "url": "vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk\u0026security=reality\u0026sid=affc28b1a8c32c\u0026sni=shuviu.de\u0026type=tcp#megav.app"
+      "response_ms": 902,
+      "bandwidth_kbs": 485,
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.1:443?encryption=none\u0026host=tianshu13.pages.dev\u0026path=%2Fpyip%3Dproxyip.sg.cmliussss.net\u0026security=tls\u0026sni=tianshu13.pages.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -54,25 +54,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 631,
-      "bandwidth_kbs": 480,
-      "url": "trojan://humanity@208.103.161.101:443?alpn=h2%252Chttp%252F1.1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+      "response_ms": 993,
+      "bandwidth_kbs": 482,
+      "url": "trojan://NQ26071394@79.133.126.190:443?security=tls\u0026sni=renewed-phoenix.rooster465.autos\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "IE",
-      "flag": "🇮🇪",
-      "city": "Dublin",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 731,
-      "bandwidth_kbs": 480,
-      "url": "trojan://XG59623478@3.249.67.252:443?fp=chrome\u0026security=tls\u0026sni=singular-lark.rooster465.autos\u0026type=tcp#megav.app"
+      "response_ms": 2054,
+      "bandwidth_kbs": 464,
+      "url": "trojan://OD90375861@busy-hermit.rooster465.autos:443?security=tls\u0026sni=busy-hermit.rooster465.autos\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
