@@ -1,2 +1,2 @@
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?encryption=none&fp=firefox&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=google.com&type=tcp#megav.app
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.2:443?encryption=none&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=tianshu13.pages.dev&type=ws#megav.app
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.102:443?encryption=none&host=tianshu13.pages.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=tianshu13.pages.dev&type=ws#megav.app
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=google.com&type=raw#megav.app
