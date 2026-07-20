@@ -1,2 +1,2 @@
-trojan://humanity@208.103.161.101:443?alpn=h2%252Chttp%252F1.1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-trojan://XG59623478@3.249.67.252:443?fp=chrome&security=tls&sni=singular-lark.rooster465.autos&type=tcp#megav.app
+trojan://NQ26071394@79.133.126.190:443?security=tls&sni=renewed-phoenix.rooster465.autos&type=raw#megav.app
+trojan://OD90375861@busy-hermit.rooster465.autos:443?security=tls&sni=busy-hermit.rooster465.autos&type=tcp#megav.app
