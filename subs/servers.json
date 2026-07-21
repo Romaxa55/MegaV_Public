@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-21T04:02:04Z",
-  "total": 8,
+  "updated_at": "2026-07-21T08:11:49Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
-    "vmess": 2
+    "vmess": 1
   },
   "servers": [
     {
@@ -42,17 +42,6 @@
       "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?security=none\u0026type=raw#megav.app"
     },
     {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Santa Clara",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 4111,
-      "bandwidth_kbs": 462,
-      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?encryption=null\u0026security=none\u0026type=raw#megav.app"
-    },
-    {
       "protocol": "trojan",
       "country_code": "FR",
       "flag": "🇫🇷",
@@ -87,14 +76,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "TW",
-      "flag": "🇹🇼",
-      "city": "New Taipei City",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 4234,
-      "bandwidth_kbs": 409,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@114.25.8.186:50099#megav.app"
+      "response_ms": 1566,
+      "bandwidth_kbs": 464,
+      "url": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881#megav.app"
     }
   ]
 }
