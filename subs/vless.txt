@@ -1,2 +1,2 @@
-vless://3ccba794-1c6d-48a8-acf2-f5caf0e69d86@104.18.0.1:443?encryption=none&security=tls&sni=all.speedtest03.ccwu.cc&type=ws#megav.app
-vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@141.193.213.21:443?encryption=none&fp=chrome&host=blog.webex.com.yxls.eu.cc&path=%2Fmy-kc&security=tls&sni=blog.webex.com.yxls.eu.cc&type=ws#megav.app
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&security=reality&sid=affc28b1a8c32c&sni=shuviu.de&type=tcp#megav.app
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&security=reality&sid=1991780b928b292d&sni=3.oncloudnineservicestreang.com&spx=%2F&type=tcp#megav.app
