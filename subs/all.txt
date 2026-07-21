@@ -1,7 +1,7 @@
 vless://3ccba794-1c6d-48a8-acf2-f5caf0e69d86@104.18.0.1:443?encryption=none&security=tls&sni=all.speedtest03.ccwu.cc&type=ws#megav.app
 vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@141.193.213.21:443?encryption=none&fp=chrome&host=blog.webex.com.yxls.eu.cc&path=%2Fmy-kc&security=tls&sni=blog.webex.com.yxls.eu.cc&type=ws#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?security=none&type=raw#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324#megav.app
 trojan://humanity@104.16.72.2:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@104.17.121.71:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://humanity@104.21.40.34:443?fp=chrome&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#megav.app
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881#megav.app
