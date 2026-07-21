@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T08:11:49Z",
+  "updated_at": "2026-07-21T12:02:16Z",
   "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
@@ -34,12 +34,12 @@
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "New York",
+      "city": "Santa Clara",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2944,
-      "bandwidth_kbs": 466,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?security=none\u0026type=raw#megav.app"
+      "response_ms": 2133,
+      "bandwidth_kbs": 461,
+      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324#megav.app"
     },
     {
       "protocol": "trojan",
@@ -54,14 +54,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 897,
-      "bandwidth_kbs": 487,
-      "url": "trojan://humanity@104.17.121.71:443?host=www.creationlong.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
+      "response_ms": 896,
+      "bandwidth_kbs": 465,
+      "url": "trojan://humanity@104.21.40.34:443?fp=chrome\u0026host=www.gossipglove.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
