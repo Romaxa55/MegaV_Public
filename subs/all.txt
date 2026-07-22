@@ -1,7 +1,8 @@
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&security=reality&sid=affc28b1a8c32c&sni=shuviu.de&type=tcp#megav.app
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&security=reality&sid=1991780b928b292d&sni=3.oncloudnineservicestreang.com&spx=%2F&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324#megav.app
-trojan://humanity@104.26.6.159:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-trojan://humanity@104.21.40.34:443?fp=chrome&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#megav.app
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881#megav.app
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=google.com&type=tcp#megav.app
+vless://6179ce37-97b2-4ac7-9591-b4b2bfaca09d@109.121.44.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=0a4b7c3d&sni=www.amd.com&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?security=none&type=raw#megav.app
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=activision.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+trojan://humanity@104.16.118.43:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://NQ26071394@79.133.126.190:443?fp=chrome&insecure=1&security=tls&sni=renewed-phoenix.rooster465.autos&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#megav.app
