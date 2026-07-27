@@ -1,8 +1,8 @@
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=google.com&type=tcp#megav.app
-vless://6179ce37-97b2-4ac7-9591-b4b2bfaca09d@109.121.44.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=0a4b7c3d&sni=www.amd.com&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?security=none&type=raw#megav.app
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=activision.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
-trojan://humanity@104.16.118.43:443?host=www.creationlong.org&insecure=1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
-trojan://NQ26071394@79.133.126.190:443?fp=chrome&insecure=1&security=tls&sni=renewed-phoenix.rooster465.autos&type=tcp#megav.app
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.255:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
+vless://ad790e5f-3e31-43c6-b047-336577a3b3de@94.156.154.45:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=inkvLvTWXaBAAubrTpivxrJAWPYldv2rBG25zzCd6k0&security=reality&sni=dowload.max.ru&type=tcp#megav.app
+vmess://f4a047d5-f419-4e3f-9054-bd2a087e1dc2@154.26.183.5:8880?encryption=auto&path=f4a047d5-f419-4e3f-9054-bd2a087e1dc2-vm&security=none&type=ws#megav.app
+vmess://f4a047d5-f419-4e3f-9054-bd2a087e1dc2@154.26.183.5:8880?path=f4a047d5-f419-4e3f-9054-bd2a087e1dc2-vm&security=none&type=ws#megav.app
+trojan://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.18.212.0:443?fp=chrome&host=ezpanslll.samankarami0686.workers.dev&path=%2Fsync&security=tls&sni=ezpanslll.samankarami0686.workers.dev&type=ws#megav.app
+trojan://humanity@104.18.152.229:443?fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#megav.app
