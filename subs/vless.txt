@@ -1,2 +1,2 @@
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=google.com&type=tcp#megav.app
-vless://6179ce37-97b2-4ac7-9591-b4b2bfaca09d@109.121.44.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=0a4b7c3d&sni=www.amd.com&type=tcp#megav.app
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.255:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
+vless://ad790e5f-3e31-43c6-b047-336577a3b3de@94.156.154.45:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=inkvLvTWXaBAAubrTpivxrJAWPYldv2rBG25zzCd6k0&security=reality&sni=dowload.max.ru&type=tcp#megav.app
