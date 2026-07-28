@@ -1,2 +1,2 @@
-trojan://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.18.212.0:443?fp=chrome&host=ezpanslll.samankarami0686.workers.dev&path=%2Fsync&security=tls&sni=ezpanslll.samankarami0686.workers.dev&type=ws#megav.app
-trojan://humanity@104.18.152.229:443?fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@172.67.149.60:443?fp=chrome&path=%2Fin-pdr&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#megav.app
+trojan://humanity@104.18.152.204:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
