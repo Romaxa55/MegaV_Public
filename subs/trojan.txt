@@ -1,2 +1,2 @@
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@172.67.149.60:443?fp=chrome&path=%2Fin-pdr&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#megav.app
-trojan://humanity@104.18.152.204:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://521314@91.193.58.195:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#megav.app
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@104.18.1.1:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&host=space.byu.id.yxls.eu.cc&path=%2Fin-pdr&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#megav.app
