@@ -1,2 +1,2 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
+vless://29ca503d-e6b8-4509-b666-48133f450857@172.67.75.172:443?encryption=none&host=learn00.evany.de5.net&insecure=1&path=%2Ffdip%3Dtw.william.us.ci%21txt&security=tls&sni=learn00.evany.de5.net&type=ws#megav.app
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.146.27:80?encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
