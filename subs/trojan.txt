@@ -1,2 +1,2 @@
-trojan://521314@91.193.58.153:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#megav.app
 trojan://humanity@104.18.152.179:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://humanity@104.18.152.140:443?path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
