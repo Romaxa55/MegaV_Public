@@ -1,2 +1,2 @@
-vless://29ca503d-e6b8-4509-b666-48133f450857@172.67.75.172:443?encryption=none&host=learn00.evany.de5.net&insecure=1&path=%2Ffdip%3Dtw.william.us.ci%21txt&security=tls&sni=learn00.evany.de5.net&type=ws#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@109.176.239.123:443?encryption=none&fp=chrome&host=notls.lukongtou.eu.org&path=%2FTelegram-WangCai2&security=tls&sni=notls.lukongtou.eu.org&type=ws#megav.app
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@104.238.70.123:443?encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3fp%3Dfirefox&security=tls&sni=notls.lukongtou.eu.org&type=ws#megav.app
