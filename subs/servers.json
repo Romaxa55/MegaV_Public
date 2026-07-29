@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T16:01:08Z",
+  "updated_at": "2026-07-29T20:02:10Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -15,20 +15,20 @@
       "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 382,
-      "bandwidth_kbs": 406,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=raw#megav.app"
+      "response_ms": 666,
+      "bandwidth_kbs": 462,
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "SE",
+      "flag": "🇸🇪",
+      "city": "Stockholm",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 603,
-      "bandwidth_kbs": 499,
-      "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?encryption=none\u0026host=vms.lifetime19.workers.dev\u0026path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 1342,
+      "bandwidth_kbs": 461,
+      "url": "vless://60576147-90e7-4afc-9cf9-c7361a8c7fd8@148.253.211.10:443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=B3MWDjEWGQsObyH-9npa_PlkaoQDBqzwlwURFK1zlE8\u0026security=reality\u0026sid=3e0527d94cc8d1\u0026sni=vk.me\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -43,14 +43,14 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "CA",
-      "flag": "🇨🇦",
-      "city": "Toronto",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Los Angeles",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3483,
-      "bandwidth_kbs": 471,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?security=none\u0026type=raw#megav.app"
+      "response_ms": 2538,
+      "bandwidth_kbs": 445,
+      "url": "vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
