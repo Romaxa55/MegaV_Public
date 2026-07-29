@@ -1,6 +1,8 @@
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@109.176.239.123:443?encryption=none&fp=chrome&host=notls.lukongtou.eu.org&path=%2FTelegram-WangCai2&security=tls&sni=notls.lukongtou.eu.org&type=ws#megav.app
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
+vmess://41a7089a-040b-4538-8b8d-010902405bde@140.238.2.250:443?security=none&type=raw#megav.app
+vmess://5155860e-d07d-46c3-9128-3afbd84626c7@132.145.80.230:80?path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
 trojan://MITIVPN@104.17.148.22:8443?alpn=http%2F1.1&fp=chrome&host=puuy-mitivpn--MiTiVPN---MiTiVPN-av.kingnetwork.ir&insecure=1&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa&security=tls&sni=MiTiVPN---MiTiVPN-7.kingnetwork.ir&type=ws#megav.app
-trojan://humanity@198.41.201.36:443?alpn=http%2F1.1&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388?security=none&type=tcp#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.124.229.135:1080#megav.app
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Z1JKQXBkZlF4SWF2S1o4aFFHUzRqdm52R0tLNnRxMFBvRmxQdytmaS8zYz0=@103.114.203.183:8443?security=none&type=tcp#megav.app
