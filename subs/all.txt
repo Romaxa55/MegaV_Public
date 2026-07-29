@@ -2,5 +2,4 @@ vless://29ca503d-e6b8-4509-b666-48133f450857@172.67.75.172:443?encryption=none&h
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
 trojan://humanity@104.18.152.179:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 trojan://humanity@104.18.152.140:443?path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443?security=none&type=raw#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@61.231.49.122:50099#megav.app
