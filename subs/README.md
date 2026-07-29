@@ -3,7 +3,7 @@
 > Fresh working configs for VLESS, VMess, Trojan, Shadowsocks, TUIC.
 > Re-tested and refreshed automatically every 4 hours from the MegaV infrastructure.
 
-**Last updated:** 2026-07-29 00:05:58 UTC
+**Last updated:** 2026-07-29 04:06:25 UTC
 
 **Total configs:** 5
 
