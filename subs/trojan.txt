@@ -1,2 +1,2 @@
 trojan://MITIVPN@104.17.148.22:8443?alpn=http%2F1.1&fp=chrome&host=puuy-mitivpn--MiTiVPN---MiTiVPN-av.kingnetwork.ir&insecure=1&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa&security=tls&sni=MiTiVPN---MiTiVPN-7.kingnetwork.ir&type=ws#megav.app
-trojan://humanity@198.41.201.36:443?alpn=http%2F1.1&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#megav.app
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
