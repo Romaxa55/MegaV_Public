@@ -1,2 +1,2 @@
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@199.68.156.123:443?encryption=none&path=Telegram-WangCai2&security=tls&sni=notls.lukongtou.eu.org&type=ws#megav.app
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.161.50:8880?encryption=none&host=vms.lifetime08.workers.dev&security=none&type=ws#megav.app
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&security=reality&sid=04bc695105689674&sni=4.oncloudnineservicestreang.com&type=raw#megav.app
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&security=reality&sid=1991780b928b292d&sni=3.oncloudnineservicestreang.com&type=tcp#megav.app
