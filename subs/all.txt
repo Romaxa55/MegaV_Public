@@ -1,8 +1,8 @@
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
-vless://60576147-90e7-4afc-9cf9-c7361a8c7fd8@148.253.211.10:443?encryption=none&flow=xtls-rprx-vision&pbk=B3MWDjEWGQsObyH-9npa_PlkaoQDBqzwlwURFK1zlE8&security=reality&sid=3e0527d94cc8d1&sni=vk.me&type=tcp#megav.app
+vless://7216b4e8-e935-4d68-b959-73d145accdee@154.83.246.50:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=500aec9e9e5e2212&sni=storage.yandex.net&type=raw#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000#megav.app
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#megav.app
 trojan://humanity@104.16.174.12:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#megav.app
+trojan://humanity@104.18.152.159:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685?security=none&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388?security=none&type=tcp#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#megav.app
