@@ -1,11 +1,10 @@
 {
-  "updated_at": "2026-07-30T04:06:46Z",
-  "total": 7,
+  "updated_at": "2026-07-30T08:07:58Z",
+  "total": 5,
   "by_protocol": {
     "shadowsocks": 2,
-    "trojan": 2,
-    "vless": 2,
-    "vmess": 1
+    "trojan": 1,
+    "vless": 2
   },
   "servers": [
     {
@@ -31,37 +30,15 @@
       "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.161.50:8880?encryption=none\u0026host=vms.lifetime08.workers.dev\u0026security=none\u0026type=ws#megav.app"
     },
     {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Los Angeles",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2538,
-      "bandwidth_kbs": 445,
-      "url": "vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
-    },
-    {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1152,
-      "bandwidth_kbs": 450,
-      "url": "trojan://humanity@104.18.152.159:443?alpn=http%2F1.1\u0026fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmloud.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Pointe-Claire",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 8323,
-      "bandwidth_kbs": 499,
-      "url": "trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?insecure=1\u0026security=tls\u0026type=tcp#megav.app"
+      "response_ms": 1213,
+      "bandwidth_kbs": 483,
+      "url": "trojan://humanity@104.16.80.73:443?host=www.creationlong.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
