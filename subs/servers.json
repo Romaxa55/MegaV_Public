@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-30T08:07:58Z",
-  "total": 5,
+  "updated_at": "2026-07-30T12:09:58Z",
+  "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
-    "trojan": 1,
+    "trojan": 2,
     "vless": 2
   },
   "servers": [
@@ -41,15 +41,15 @@
       "url": "trojan://humanity@104.16.80.73:443?host=www.creationlong.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.creationlong.org\u0026type=ws#megav.app"
     },
     {
-      "protocol": "shadowsocks",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Manchester",
+      "protocol": "trojan",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 593,
-      "bandwidth_kbs": 464,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#megav.app"
+      "response_ms": 3486,
+      "bandwidth_kbs": 485,
+      "url": "trojan://humanity@104.18.1.55:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -58,9 +58,20 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1448,
+      "response_ms": 2185,
       "bandwidth_kbs": 471,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#megav.app"
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080?security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "ZA",
+      "flag": "🇿🇦",
+      "city": "Johannesburg",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2701,
+      "bandwidth_kbs": 453,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#megav.app"
     }
   ]
 }
