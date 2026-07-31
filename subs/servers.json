@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T08:00:57Z",
+  "updated_at": "2026-07-31T12:01:02Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -36,9 +36,9 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 524,
-      "bandwidth_kbs": 474,
-      "url": "trojan://humanity@104.17.121.37:443?host=www.gossipglove.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
+      "response_ms": 564,
+      "bandwidth_kbs": 438,
+      "url": "trojan://humanity@172.64.147.143:443?path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -47,9 +47,9 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 564,
-      "bandwidth_kbs": 438,
-      "url": "trojan://humanity@172.64.147.143:443?path=%2Fassignment\u0026security=tls\u0026sni=www.gossipglove.com\u0026type=ws#megav.app"
+      "response_ms": 756,
+      "bandwidth_kbs": 436,
+      "url": "trojan://humanity@104.18.152.230:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
