@@ -1,2 +1,2 @@
 vless://83ab4443-ec22-4b3d-a587-53090be7beb2@154.222.9.190:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw#megav.app
-vless://955ffc74-bc8f-4335-aa53-d854a118bb0c@104.17.108.69:443?encryption=none&host=chish2.mashadiebod.org&path=%2Fmashdi&security=tls&sni=chish2.mashadiebod.org&type=ws#megav.app
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&security=reality&sid=d8d3dc6c3ca45dd4&sni=2.oncloudnineservicestreang.com&type=tcp#megav.app
