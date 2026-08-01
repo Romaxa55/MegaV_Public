@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-01T12:00:56Z",
-  "total": 6,
+  "updated_at": "2026-08-01T16:00:46Z",
+  "total": 5,
   "by_protocol": {
-    "shadowsocks": 2,
+    "shadowsocks": 1,
     "trojan": 2,
     "vless": 2
   },
@@ -50,17 +50,6 @@
       "response_ms": 1165,
       "bandwidth_kbs": 437,
       "url": "trojan://humanity@104.18.152.133:443?host=www.ignitelimit.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1967,
-      "bandwidth_kbs": 481,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080?security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
