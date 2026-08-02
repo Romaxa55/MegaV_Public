@@ -1,1 +1,2 @@
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?insecure=1&security=tls&sni=hk.catxstar.com&type=tcp#megav.app
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?fp=chrome&insecure=1&security=tls&sni=static.rutube.ru&type=tcp#megav.app
