@@ -1,5 +1,5 @@
-vless://d25fa7ff-f71e-4cc2-88e6-a340b86fdebf@116.204.164.5:7443?encryption=none&fp=chrome&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&type=ws#megav.app
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=google.com&type=raw#megav.app
+vless://29ee269a-356f-475b-9e21-9df1f0899af1@77.221.154.42:3443?encryption=none&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&type=ws#megav.app
+vless://9b651a79-83f8-49a0-9848-b18c6a9406f7@45.145.43.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=ru-2.videoproeditor.com&type=tcp#megav.app
 trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@172.67.78.22:443?fp=chrome&host=kamonka.eu.org&path=%2F&security=tls&sni=kamonka.eu.org&type=ws#megav.app
 trojan://humanity@172.67.74.2:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#megav.app
