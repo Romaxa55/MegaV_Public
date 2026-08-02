@@ -1,23 +1,12 @@
 {
-  "updated_at": "2026-08-02T00:00:38Z",
-  "total": 6,
+  "updated_at": "2026-08-02T04:01:02Z",
+  "total": 5,
   "by_protocol": {
     "shadowsocks": 2,
-    "trojan": 2,
+    "trojan": 1,
     "vless": 2
   },
   "servers": [
-    {
-      "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 867,
-      "bandwidth_kbs": 492,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=raw#megav.app"
-    },
     {
       "protocol": "vless",
       "country_code": "DE",
@@ -25,31 +14,31 @@
       "city": "Nuremberg",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 877,
-      "bandwidth_kbs": 414,
-      "url": "vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM\u0026security=reality\u0026sid=1991780b928b292d\u0026sni=3.oncloudnineservicestreang.com\u0026type=raw#megav.app"
+      "response_ms": 436,
+      "bandwidth_kbs": 420,
+      "url": "vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM\u0026security=reality\u0026sid=273940fba6ad8250\u0026sni=5.oncloudnineservicestreang.com\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Brentford",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 849,
+      "bandwidth_kbs": 440,
+      "url": "vless://2e8beadd-99bf-4fda-8692-8493886504bc@104.18.32.47:8443?encryption=none\u0026fp=chrome\u0026host=ad-007.cloud25075.info\u0026path=%2F\u0026security=tls\u0026sni=ad-007.cloud25075.info\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "KR",
+      "flag": "🇰🇷",
+      "city": "Paju-si",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1241,
-      "bandwidth_kbs": 477,
-      "url": "trojan://humanity@104.18.23.63:443?alpn=http%2F1.1\u0026host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "HK",
-      "flag": "🇭🇰",
-      "city": "Hong Kong",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2753,
-      "bandwidth_kbs": 442,
-      "url": "trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@47.240.80.220:2052?security=tls\u0026sni=vpn.12169.top\u0026type=tcp#megav.app"
+      "response_ms": 3904,
+      "bandwidth_kbs": 275,
+      "url": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?insecure=1\u0026security=tls\u0026sni=hk.catxstar.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
