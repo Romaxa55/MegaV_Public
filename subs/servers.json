@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-02T08:01:09Z",
+  "updated_at": "2026-08-02T12:01:13Z",
   "total": 5,
   "by_protocol": {
-    "shadowsocks": 2,
-    "trojan": 1,
+    "shadowsocks": 1,
+    "trojan": 2,
     "vless": 2
   },
   "servers": [
@@ -41,26 +41,26 @@
       "url": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?insecure=1\u0026security=tls\u0026sni=hk.catxstar.com\u0026type=tcp#megav.app"
     },
     {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "protocol": "trojan",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Dallas",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 4123,
-      "bandwidth_kbs": 498,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#megav.app"
+      "response_ms": 5009,
+      "bandwidth_kbs": 435,
+      "url": "trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?fp=chrome\u0026insecure=1\u0026security=tls\u0026sni=static.rutube.ru\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "TW",
-      "flag": "🇹🇼",
-      "city": "New Taipei City",
+      "country_code": "TH",
+      "flag": "🇹🇭",
+      "city": "Bangkok",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 15189,
-      "bandwidth_kbs": 414,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#megav.app"
+      "response_ms": 2140,
+      "bandwidth_kbs": 444,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#megav.app"
     }
   ]
 }
