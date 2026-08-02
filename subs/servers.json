@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T16:00:57Z",
+  "updated_at": "2026-08-02T20:00:48Z",
   "total": 5,
   "by_protocol": {
     "shadowsocks": 1,
@@ -9,14 +9,14 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "IT",
-      "flag": "🇮🇹",
-      "city": "Gallarate",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Dreieich",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 613,
-      "bandwidth_kbs": 203,
-      "url": "vless://d25fa7ff-f71e-4cc2-88e6-a340b86fdebf@116.204.164.5:7443?encryption=none\u0026fp=chrome\u0026host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev\u0026path=%2F%40Marisa_kristi\u0026security=tls\u0026sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev\u0026type=ws#megav.app"
+      "response_ms": 823,
+      "bandwidth_kbs": 472,
+      "url": "vless://29ee269a-356f-475b-9e21-9df1f0899af1@77.221.154.42:3443?encryption=none\u0026host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev\u0026path=%2F%40Marisa_kristi\u0026security=tls\u0026sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
@@ -25,9 +25,9 @@
       "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 681,
+      "response_ms": 835,
       "bandwidth_kbs": 453,
-      "url": "vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?encryption=none\u0026pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo\u0026security=reality\u0026sid=3ca620a7ed5f3196\u0026sni=google.com\u0026type=raw#megav.app"
+      "url": "vless://9b651a79-83f8-49a0-9848-b18c6a9406f7@45.145.43.46:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk\u0026security=reality\u0026sid=6d6f13013d3e1d0c\u0026sni=ru-2.videoproeditor.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
