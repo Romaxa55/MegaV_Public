@@ -3,7 +3,7 @@
 > Fresh working configs for VLESS, VMess, Trojan, Shadowsocks, TUIC.
 > Re-tested and refreshed automatically every 4 hours from the MegaV infrastructure.
 
-**Last updated:** 2026-08-02 08:01:09 UTC
+**Last updated:** 2026-08-02 12:01:13 UTC
 
 **Total configs:** 5
 
@@ -14,8 +14,8 @@ Import directly into your client (v2rayN, Hiddify, NekoBox, Shadowrocket, etc.):
 | Protocol | File | Count |
 |----------|------|-------|
 | VLESS | [vless.txt](vless.txt) | 2 |
-| Trojan | [trojan.txt](trojan.txt) | 1 |
-| Shadowsocks | [ss.txt](ss.txt) | 2 |
+| Trojan | [trojan.txt](trojan.txt) | 2 |
+| Shadowsocks | [ss.txt](ss.txt) | 1 |
 | All protocols | [all.txt](all.txt) | 5 |
 
 ## How to use
