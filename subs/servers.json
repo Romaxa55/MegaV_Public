@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T04:01:02Z",
+  "updated_at": "2026-08-02T08:01:09Z",
   "total": 5,
   "by_protocol": {
     "shadowsocks": 2,
@@ -20,14 +20,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Brentford",
+      "country_code": "IT",
+      "flag": "🇮🇹",
+      "city": "Gallarate",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 849,
-      "bandwidth_kbs": 440,
-      "url": "vless://2e8beadd-99bf-4fda-8692-8493886504bc@104.18.32.47:8443?encryption=none\u0026fp=chrome\u0026host=ad-007.cloud25075.info\u0026path=%2F\u0026security=tls\u0026sni=ad-007.cloud25075.info\u0026type=ws#megav.app"
+      "response_ms": 613,
+      "bandwidth_kbs": 203,
+      "url": "vless://d25fa7ff-f71e-4cc2-88e6-a340b86fdebf@116.204.164.5:7443?encryption=none\u0026fp=chrome\u0026host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev\u0026path=%2F%40Marisa_kristi\u0026security=tls\u0026sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -42,17 +42,6 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "TW",
-      "flag": "🇹🇼",
-      "city": "New Taipei City",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 3310,
-      "bandwidth_kbs": 472,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@61.231.49.125:50099#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
       "country_code": "NL",
       "flag": "🇳🇱",
       "city": "Amsterdam",
@@ -61,6 +50,17 @@
       "response_ms": 4123,
       "bandwidth_kbs": 498,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "TW",
+      "flag": "🇹🇼",
+      "city": "New Taipei City",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 15189,
+      "bandwidth_kbs": 414,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#megav.app"
     }
   ]
 }
