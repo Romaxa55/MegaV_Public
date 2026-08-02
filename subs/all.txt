@@ -1,5 +1,5 @@
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&security=reality&sid=273940fba6ad8250&sni=5.oncloudnineservicestreang.com&type=raw#megav.app
-vless://2e8beadd-99bf-4fda-8692-8493886504bc@104.18.32.47:8443?encryption=none&fp=chrome&host=ad-007.cloud25075.info&path=%2F&security=tls&sni=ad-007.cloud25075.info&type=ws#megav.app
+vless://d25fa7ff-f71e-4cc2-88e6-a340b86fdebf@116.204.164.5:7443?encryption=none&fp=chrome&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&type=ws#megav.app
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?insecure=1&security=tls&sni=hk.catxstar.com&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@61.231.49.125:50099#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#megav.app
