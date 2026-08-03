@@ -1,5 +1,6 @@
-vless://9b651a79-83f8-49a0-9848-b18c6a9406f7@45.145.43.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=ru-2.videoproeditor.com&type=tcp#megav.app
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&security=reality&sid=273940fba6ad8250&sni=5.oncloudnineservicestreang.com&type=tcp#megav.app
-trojan://82dd5d38-1a65-42b9-835e-497b5b51eb84@172.67.78.22:443?fp=chrome&host=kamonka.eu.org&path=%2F&security=tls&sni=kamonka.eu.org&type=ws#megav.app
-trojan://humanity@172.67.74.2:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+vless://29ca503d-e6b8-4509-b666-48133f450857@104.18.21.69:8443?encryption=none&fp=chrome&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net&type=ws#megav.app
+vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@77.239.120.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jvzqpB_v8XMJum2W4Q_-f1fbDcujHW2OcnH-6wxj6Bg&security=reality&sid=b512d49930874a31&sni=cdn-de-2.ai-apiroute.cc&type=raw#megav.app
+trojan://tsuchiya@161.34.39.108:443?fp=chrome&security=tls&sni=aa.ccmusic.jp&type=raw#megav.app
+trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
 ss://YWVzLTEyOC1nY206ZDRjYmM5MDItMDg0ZS00ODdiLThjYTctMWRhYjVhMmJjNzI3@52.52.44.50:10086#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#megav.app
