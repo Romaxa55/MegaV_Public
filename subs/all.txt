@@ -1,5 +1,5 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
-vless://06e01b88-3753-4d3f-adcc-d82000000000@104.17.148.22:443?encryption=none&fp=chrome&security=tls&sni=netlivpn0714.sav2772v7272hshshsbuwiqmq.workers.dev&type=ws#megav.app
+vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@185.126.67.76:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kaw2U8L2ZTcgo56qUBONfylYJpHprI_CgZfv1I4q2Sc&security=reality&sid=b512d49930874a31&sni=cdn-de-4.ai-apiroute.cc&type=tcp#megav.app
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.25.244.217:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#megav.app
 trojan://humanity@104.18.8.83:443?host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?insecure=1&security=tls&type=tcp#megav.app
+trojan://32b2m2w7hsdd93z7@83.143.112.140.cdn-one.org:443?mode=gun&security=tls&serviceName=%2F56227%2FrSnUrv2yXU&type=grpc#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#megav.app
