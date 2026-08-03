@@ -1,2 +1,2 @@
-vless://9b651a79-83f8-49a0-9848-b18c6a9406f7@45.145.43.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=ru-2.videoproeditor.com&type=tcp#megav.app
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&security=reality&sid=273940fba6ad8250&sni=5.oncloudnineservicestreang.com&type=tcp#megav.app
+vless://29ca503d-e6b8-4509-b666-48133f450857@104.18.21.69:8443?encryption=none&fp=chrome&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net&type=ws#megav.app
+vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@77.239.120.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jvzqpB_v8XMJum2W4Q_-f1fbDcujHW2OcnH-6wxj6Bg&security=reality&sid=b512d49930874a31&sni=cdn-de-2.ai-apiroute.cc&type=raw#megav.app
