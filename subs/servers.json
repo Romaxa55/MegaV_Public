@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T04:01:25Z",
+  "updated_at": "2026-08-03T08:01:27Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -31,25 +31,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "JP",
-      "flag": "🇯🇵",
-      "city": "Nishihashimoto",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Pointe-Claire",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 5440,
-      "bandwidth_kbs": 479,
-      "url": "trojan://tsuchiya@161.34.39.108:443?fp=chrome\u0026security=tls\u0026sni=aa.ccmusic.jp\u0026type=raw#megav.app"
+      "response_ms": 1730,
+      "bandwidth_kbs": 492,
+      "url": "trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?insecure=1\u0026security=tls\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Bexley",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 7338,
-      "bandwidth_kbs": 489,
-      "url": "trojan://humanity@165.215.250.14:443?host=www.calmlunch.com\u0026path=%2F%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+      "response_ms": 3595,
+      "bandwidth_kbs": 487,
+      "url": "trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@179.237.72.182:48364?fp=chrome\u0026mode=gun\u0026pbk=0lvMgmUD3hF_mUKoVyUC4JJUKpdffxvkrzqeQOEK9EI\u0026security=reality\u0026serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----\u0026sid=b34e21b58ecc6362\u0026sni=www.icloud.com\u0026type=grpc#megav.app"
     },
     {
       "protocol": "shadowsocks",
