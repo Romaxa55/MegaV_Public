@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T20:00:48Z",
+  "updated_at": "2026-08-03T00:00:47Z",
   "total": 5,
   "by_protocol": {
     "shadowsocks": 1,
@@ -11,23 +11,23 @@
       "protocol": "vless",
       "country_code": "DE",
       "flag": "🇩🇪",
-      "city": "Dreieich",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 823,
-      "bandwidth_kbs": 472,
-      "url": "vless://29ee269a-356f-475b-9e21-9df1f0899af1@77.221.154.42:3443?encryption=none\u0026host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev\u0026path=%2F%40Marisa_kristi\u0026security=tls\u0026sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
       "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
       "response_ms": 835,
       "bandwidth_kbs": 453,
       "url": "vless://9b651a79-83f8-49a0-9848-b18c6a9406f7@45.145.43.46:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk\u0026security=reality\u0026sid=6d6f13013d3e1d0c\u0026sni=ru-2.videoproeditor.com\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Nuremberg",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 878,
+      "bandwidth_kbs": 420,
+      "url": "vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM\u0026security=reality\u0026sid=273940fba6ad8250\u0026sni=5.oncloudnineservicestreang.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -53,14 +53,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "TH",
-      "flag": "🇹🇭",
-      "city": "Bangkok",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "San Jose",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2140,
-      "bandwidth_kbs": 444,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#megav.app"
+      "response_ms": 2042,
+      "bandwidth_kbs": 443,
+      "url": "ss://YWVzLTEyOC1nY206ZDRjYmM5MDItMDg0ZS00ODdiLThjYTctMWRhYjVhMmJjNzI3@52.52.44.50:10086#megav.app"
     }
   ]
 }
