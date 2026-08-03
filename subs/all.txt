@@ -1,6 +1,6 @@
 vless://29ca503d-e6b8-4509-b666-48133f450857@104.18.21.69:8443?encryption=none&fp=chrome&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net&type=ws#megav.app
 vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@77.239.120.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jvzqpB_v8XMJum2W4Q_-f1fbDcujHW2OcnH-6wxj6Bg&security=reality&sid=b512d49930874a31&sni=cdn-de-2.ai-apiroute.cc&type=raw#megav.app
-trojan://tsuchiya@161.34.39.108:443?fp=chrome&security=tls&sni=aa.ccmusic.jp&type=raw#megav.app
-trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?insecure=1&security=tls&type=tcp#megav.app
+trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@179.237.72.182:48364?fp=chrome&mode=gun&pbk=0lvMgmUD3hF_mUKoVyUC4JJUKpdffxvkrzqeQOEK9EI&security=reality&serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----&sid=b34e21b58ecc6362&sni=www.icloud.com&type=grpc#megav.app
 ss://YWVzLTEyOC1nY206ZDRjYmM5MDItMDg0ZS00ODdiLThjYTctMWRhYjVhMmJjNzI3@52.52.44.50:10086#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#megav.app
