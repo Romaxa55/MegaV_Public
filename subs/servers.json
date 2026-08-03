@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T08:01:27Z",
+  "updated_at": "2026-08-03T12:01:28Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -31,6 +31,17 @@
     },
     {
       "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 699,
+      "bandwidth_kbs": 445,
+      "url": "trojan://humanity@104.18.8.83:443?host=www.calmlunch.com\u0026path=%2F%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
       "country_code": "US",
       "flag": "🇺🇸",
       "city": "Pointe-Claire",
@@ -39,28 +50,6 @@
       "response_ms": 1730,
       "bandwidth_kbs": 492,
       "url": "trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?insecure=1\u0026security=tls\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Bexley",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 3595,
-      "bandwidth_kbs": 487,
-      "url": "trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@179.237.72.182:48364?fp=chrome\u0026mode=gun\u0026pbk=0lvMgmUD3hF_mUKoVyUC4JJUKpdffxvkrzqeQOEK9EI\u0026security=reality\u0026serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----\u0026sid=b34e21b58ecc6362\u0026sni=www.icloud.com\u0026type=grpc#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "San Jose",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2042,
-      "bandwidth_kbs": 443,
-      "url": "ss://YWVzLTEyOC1nY206ZDRjYmM5MDItMDg0ZS00ODdiLThjYTctMWRhYjVhMmJjNzI3@52.52.44.50:10086#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -72,6 +61,17 @@
       "response_ms": 3186,
       "bandwidth_kbs": 432,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Cardiff",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 4063,
+      "bandwidth_kbs": 453,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ==@134.65.56.202:61312#megav.app"
     }
   ]
 }
