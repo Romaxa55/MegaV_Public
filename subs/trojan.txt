@@ -1,2 +1,2 @@
-trojan://32b2m2w7hsdd93z7@83.143.112.140.cdn-one.org:443?mode=gun&security=tls&serviceName=%2F56227%2FrSnUrv2yXU&type=grpc#megav.app
-trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?insecure=1&security=tls&sni=css.rbxcdn.com&type=tcp#megav.app
+trojan://ND91608427@humorous-malamute.rooster465.autos:443?security=tls&sni=humorous-malamute.rooster465.autos&type=tcp#megav.app
+trojan://1BARPLkaLl@45.130.22.70:32914?insecure=1&security=tls&sni=45.130.22.70&type=raw#megav.app
