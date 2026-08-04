@@ -1,2 +1,2 @@
+trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?insecure=1&security=tls&type=tcp#megav.app
 trojan://ND91608427@humorous-malamute.rooster465.autos:443?security=tls&sni=humorous-malamute.rooster465.autos&type=tcp#megav.app
-trojan://1BARPLkaLl@45.130.22.70:32914?insecure=1&security=tls&sni=45.130.22.70&type=raw#megav.app
