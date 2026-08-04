@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-04T08:01:14Z",
-  "total": 5,
+  "updated_at": "2026-08-04T16:00:55Z",
+  "total": 4,
   "by_protocol": {
-    "shadowsocks": 1,
     "trojan": 2,
     "vless": 2
   },
@@ -31,6 +30,17 @@
     },
     {
       "protocol": "trojan",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1736,
+      "bandwidth_kbs": 469,
+      "url": "trojan://MITIVPN@199.232.78.160:443?alpn=http%2F1.1\u0026host=s2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net\u0026path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde2---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
       "country_code": "US",
       "flag": "🇺🇸",
       "city": "Pointe-Claire",
@@ -39,28 +49,6 @@
       "response_ms": 1845,
       "bandwidth_kbs": 482,
       "url": "trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?insecure=1\u0026security=tls\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "KR",
-      "flag": "🇰🇷",
-      "city": "Incheon",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 3505,
-      "bandwidth_kbs": 458,
-      "url": "trojan://ND91608427@humorous-malamute.rooster465.autos:443?security=tls\u0026sni=humorous-malamute.rooster465.autos\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 7048,
-      "bandwidth_kbs": 455,
-      "url": "ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ==@82.38.31.199:8080?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
