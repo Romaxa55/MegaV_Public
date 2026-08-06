@@ -1,2 +1,2 @@
-trojan://87961f9d-bee1-4377-826b-e169e7891c4f@172.67.70.92:443?fp=chrome&security=tls&sni=yks-dd9.pages.dev&type=ws#megav.app
+trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.165:443?fp=chrome&security=tls&sni=yks-dd9.pages.dev&type=ws#megav.app
 trojan://87961f9d-bee1-4377-826b-e169e7891c4f@104.25.242.132:443?host=yks-dd9.pages.dev&path=%2F&security=tls&sni=yks-dd9.pages.dev&type=ws#megav.app
