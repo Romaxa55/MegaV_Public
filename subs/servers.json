@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T12:01:07Z",
+  "updated_at": "2026-08-07T16:00:45Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -42,14 +42,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 564,
-      "bandwidth_kbs": 486,
-      "url": "trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.21:443?fp=chrome\u0026security=tls\u0026sni=yks-dd9.pages.dev\u0026type=ws#megav.app"
+      "response_ms": 565,
+      "bandwidth_kbs": 462,
+      "url": "trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.185:443?fp=chrome\u0026security=tls\u0026sni=yks-dd9.pages.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -69,9 +69,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 893,
-      "bandwidth_kbs": 473,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#megav.app"
+      "response_ms": 985,
+      "bandwidth_kbs": 496,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
