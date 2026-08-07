@@ -1,6 +1,6 @@
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.16:443?encryption=none&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#megav.app
-vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@pl.riotvpn.eu:8443?encryption=none&fp=chrome&mode=multi&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&security=reality&serviceName=grpc-yandex&sid=844352756c1fabba&sni=avatars.mds.yandex.net&type=grpc#megav.app
+vless://5a0028f9-c656-cec9-4b61-54678477a408@104.16.7.58:2087?encryption=none&fp=chrome&host=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&path=%2Fgame&security=tls&sni=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&type=ws#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.195:443?fp=chrome&security=tls&sni=yks-dd9.pages.dev&type=ws#megav.app
 trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.21:443?fp=chrome&security=tls&sni=yks-dd9.pages.dev&type=ws#megav.app
-trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.185:443?fp=chrome&security=tls&sni=yks-dd9.pages.dev&type=ws#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?security=none&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?security=none&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#megav.app
