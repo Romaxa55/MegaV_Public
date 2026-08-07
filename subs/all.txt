@@ -1,6 +1,6 @@
 vless://5a0028f9-c656-cec9-4b61-54678477a408@104.16.7.58:2087?encryption=none&fp=chrome&host=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&path=%2Fgame&security=tls&sni=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&type=ws#megav.app
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
 trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.195:443?fp=chrome&security=tls&sni=yks-dd9.pages.dev&type=ws#megav.app
-trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.21:443?fp=chrome&security=tls&sni=yks-dd9.pages.dev&type=ws#megav.app
+trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.185:443?fp=chrome&security=tls&sni=yks-dd9.pages.dev&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080?security=none&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080?security=none&type=tcp#megav.app
