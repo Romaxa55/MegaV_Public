@@ -1,2 +1,2 @@
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&path=%2F+&security=none&type=ws#megav.app
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sid=a1b2c3d4&sni=www.samsung.com&type=raw#megav.app
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@45.40.144.8:443?encryption=none&path=%2F&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#megav.app
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@50.62.88.8:443?encryption=none&host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=%2F&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#megav.app
