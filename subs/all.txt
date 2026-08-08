@@ -1,6 +1,6 @@
-vless://5a0028f9-c656-cec9-4b61-54678477a408@104.16.7.58:2087?encryption=none&fp=chrome&host=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&path=%2Fgame&security=tls&sni=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev&type=ws#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
-trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.195:443?fp=chrome&security=tls&sni=yks-dd9.pages.dev&type=ws#megav.app
-trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.185:443?fp=chrome&security=tls&sni=yks-dd9.pages.dev&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080?security=none&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080?security=none&type=tcp#megav.app
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&path=%2F+&security=none&type=ws#megav.app
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sid=a1b2c3d4&sni=www.samsung.com&type=raw#megav.app
+trojan://87961f9d-bee1-4377-826b-e169e7891c4f@104.21.7.133:443?host=yks-dd9.pages.dev&path=%2F&security=tls&sni=yks-dd9.pages.dev&type=ws#megav.app
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?insecure=1&security=tls&sni=64.94.95.118&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:443#megav.app
