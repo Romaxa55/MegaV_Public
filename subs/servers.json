@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T00:00:21Z",
+  "updated_at": "2026-08-08T04:04:00Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -9,25 +9,36 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 666,
-      "bandwidth_kbs": 135,
-      "url": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none\u0026path=%2F+\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 402,
+      "bandwidth_kbs": 499,
+      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@45.40.144.8:443?encryption=none\u0026path=%2F\u0026security=tls\u0026sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
       "country_code": "NL",
       "flag": "🇳🇱",
-      "city": "Meppel",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 813,
-      "bandwidth_kbs": 405,
-      "url": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none\u0026fp=chrome\u0026pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4\u0026security=reality\u0026sid=a1b2c3d4\u0026sni=www.samsung.com\u0026type=raw#megav.app"
+      "response_ms": 408,
+      "bandwidth_kbs": 472,
+      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@50.62.88.8:443?encryption=none\u0026host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr\u0026path=%2F\u0026security=tls\u0026sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 353,
+      "bandwidth_kbs": 468,
+      "url": "trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.49.7:443?fp=chrome\u0026security=tls\u0026sni=yks-dd9.pages.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -41,37 +52,26 @@
       "url": "trojan://87961f9d-bee1-4377-826b-e169e7891c4f@104.21.7.133:443?host=yks-dd9.pages.dev\u0026path=%2F\u0026security=tls\u0026sni=yks-dd9.pages.dev\u0026type=ws#megav.app"
     },
     {
-      "protocol": "trojan",
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 592,
+      "bandwidth_kbs": 489,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080?security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Dallas",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3155,
-      "bandwidth_kbs": 484,
-      "url": "trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?insecure=1\u0026security=tls\u0026sni=64.94.95.118\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2005,
-      "bandwidth_kbs": 436,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2034,
-      "bandwidth_kbs": 456,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:443#megav.app"
+      "response_ms": 1106,
+      "bandwidth_kbs": 401,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMkZpdnppU29vV01EekU2cDJrQng3cmk3b3dkTFp5UG51UUxQZURoblk4cVhLbTZ6WjRNMzlwb3Y0dzdNZnhSTjVGaldxQzFjQ0E4Z0dvTHBaUVZvdVB0OWNDQTlpZE4=@166.1.129.245:42607#megav.app"
     }
   ]
 }
