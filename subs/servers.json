@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T16:00:45Z",
+  "updated_at": "2026-08-08T00:00:21Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -9,25 +9,25 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 522,
-      "bandwidth_kbs": 487,
-      "url": "vless://5a0028f9-c656-cec9-4b61-54678477a408@104.16.7.58:2087?encryption=none\u0026fp=chrome\u0026host=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev\u0026path=%2Fgame\u0026security=tls\u0026sni=green-credit-7e7b.vpnfreev2rayconfig-sale1.workers.dev\u0026type=ws#megav.app"
+      "response_ms": 666,
+      "bandwidth_kbs": 135,
+      "url": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none\u0026path=%2F+\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
       "country_code": "NL",
       "flag": "🇳🇱",
-      "city": "Haarlem",
+      "city": "Meppel",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 645,
-      "bandwidth_kbs": 460,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
+      "response_ms": 813,
+      "bandwidth_kbs": 405,
+      "url": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none\u0026fp=chrome\u0026pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4\u0026security=reality\u0026sid=a1b2c3d4\u0026sni=www.samsung.com\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -36,20 +36,20 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 393,
-      "bandwidth_kbs": 443,
-      "url": "trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.195:443?fp=chrome\u0026security=tls\u0026sni=yks-dd9.pages.dev\u0026type=ws#megav.app"
+      "response_ms": 360,
+      "bandwidth_kbs": 468,
+      "url": "trojan://87961f9d-bee1-4377-826b-e169e7891c4f@104.21.7.133:443?host=yks-dd9.pages.dev\u0026path=%2F\u0026security=tls\u0026sni=yks-dd9.pages.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Dallas",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 565,
-      "bandwidth_kbs": 462,
-      "url": "trojan://87961f9d-bee1-4377-826b-e169e7891c4f@173.245.58.185:443?fp=chrome\u0026security=tls\u0026sni=yks-dd9.pages.dev\u0026type=ws#megav.app"
+      "response_ms": 3155,
+      "bandwidth_kbs": 484,
+      "url": "trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?insecure=1\u0026security=tls\u0026sni=64.94.95.118\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -58,9 +58,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 884,
-      "bandwidth_kbs": 469,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080?security=none\u0026type=raw#megav.app"
+      "response_ms": 2005,
+      "bandwidth_kbs": 436,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -69,9 +69,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 985,
-      "bandwidth_kbs": 496,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080?security=none\u0026type=tcp#megav.app"
+      "response_ms": 2034,
+      "bandwidth_kbs": 456,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:443#megav.app"
     }
   ]
 }
