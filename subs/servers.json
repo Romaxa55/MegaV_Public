@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T08:00:59Z",
+  "updated_at": "2026-08-13T12:02:00Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -26,9 +26,9 @@
       "city": "Nuremberg",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 583,
-      "bandwidth_kbs": 446,
-      "url": "vless://551955b3-46e9-5129-95c9-e7474c15ed6b@159.195.40.19:443?alpn=http%2F1.1\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026security=tls\u0026sni=de7.fast-connect-service.site\u0026type=tcp#megav.app"
+      "response_ms": 631,
+      "bandwidth_kbs": 454,
+      "url": "vless://8033102198@159.195.40.19:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=safari\u0026security=tls\u0026sni=de7.fast-connect-service.site\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -81,9 +81,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 304,
-      "bandwidth_kbs": 445,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#megav.app"
+      "response_ms": 303,
+      "bandwidth_kbs": 472,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -92,9 +92,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 310,
-      "bandwidth_kbs": 475,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#megav.app"
+      "response_ms": 339,
+      "bandwidth_kbs": 399,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
