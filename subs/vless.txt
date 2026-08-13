@@ -1,2 +1,2 @@
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&host=josni.hoyes.cloudns.ch&path=%2Fsg%3Fed%3D512TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#megav.app
-vless://551955b3-46e9-5129-95c9-e7474c15ed6b@159.195.40.19:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=de7.fast-connect-service.site&type=tcp#megav.app
+vless://8033102198@159.195.40.19:443?encryption=none&flow=xtls-rprx-vision&fp=safari&security=tls&sni=de7.fast-connect-service.site&type=tcp#megav.app
