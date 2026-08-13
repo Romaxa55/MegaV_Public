@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T12:02:00Z",
+  "updated_at": "2026-08-13T16:00:34Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -10,17 +10,6 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 551,
-      "bandwidth_kbs": 455,
-      "url": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none\u0026host=josni.hoyes.cloudns.ch\u0026path=%2Fsg%3Fed%3D512TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN\u0026security=tls\u0026sni=josni.hoyes.cloudns.ch\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vless",
       "country_code": "DE",
       "flag": "🇩🇪",
       "city": "Nuremberg",
@@ -29,6 +18,17 @@
       "response_ms": 631,
       "bandwidth_kbs": 454,
       "url": "vless://8033102198@159.195.40.19:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=safari\u0026security=tls\u0026sni=de7.fast-connect-service.site\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 672,
+      "bandwidth_kbs": 494,
+      "url": "vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026security=tls\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -54,25 +54,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1854,
-      "bandwidth_kbs": 475,
-      "url": "trojan://MITIVPN@104.19.229.21:443?alpn=http%2F1.1\u0026host=d--AA-ia-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe\u0026path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN\u0026security=tls\u0026sni=d--AA-ia-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe\u0026type=ws#megav.app"
+      "response_ms": 1291,
+      "bandwidth_kbs": 493,
+      "url": "trojan://humanity@104.18.22.63:443?alpn=http%2F1.1\u0026host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2567,
-      "bandwidth_kbs": 482,
-      "url": "trojan://Telegram_healer_config@172.67.176.194:443?alpn=http%2F1.1\u0026fp=chrome\u0026path=%2Ftr%2FVKQiUREJ9PL5qHi1r4bkL9Rm8%3Fed%3D2560\u0026security=tls\u0026sni=30f67sBQ8JjwmT7gYtfc14.0M68-QZ3HQYFnLAr6N3IQ.wOrkerS.deV\u0026type=ws#megav.app"
+      "response_ms": 1485,
+      "bandwidth_kbs": 445,
+      "url": "trojan://humanity@104.18.152.175:443?host=www.ignitelimit.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
