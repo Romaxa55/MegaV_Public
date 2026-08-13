@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T01:42:06Z",
+  "updated_at": "2026-08-13T04:00:51Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -9,25 +9,25 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "IT",
-      "flag": "🇮🇹",
-      "city": "Gallarate",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1597,
-      "bandwidth_kbs": 473,
-      "url": "vless://0baed386-770e-4e17-a6ca-24349e60903f@116.204.164.17:7443?ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query\u0026encryption=none\u0026fp=chrome\u0026host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev\u0026path=%2F%40Marisa_kristi\u0026security=tls\u0026sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vless",
       "country_code": "GB",
       "flag": "🇬🇧",
       "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1631,
-      "bandwidth_kbs": 498,
-      "url": "vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.43.117:443?encryption=none\u0026host=rAyAn-007.pArViN.DpDnS.OrG\u0026path=%2F\u0026security=tls\u0026sni=rAyAn-007.pArViN.DpDnS.OrG\u0026type=ws#megav.app"
+      "response_ms": 551,
+      "bandwidth_kbs": 455,
+      "url": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none\u0026host=josni.hoyes.cloudns.ch\u0026path=%2Fsg%3Fed%3D512TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN\u0026security=tls\u0026sni=josni.hoyes.cloudns.ch\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Nuremberg",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 583,
+      "bandwidth_kbs": 446,
+      "url": "vless://551955b3-46e9-5129-95c9-e7474c15ed6b@159.195.40.19:443?alpn=http%2F1.1\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026security=tls\u0026sni=de7.fast-connect-service.site\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
