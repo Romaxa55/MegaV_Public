@@ -1,8 +1,8 @@
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&host=josni.hoyes.cloudns.ch&path=%2Fsg%3Fed%3D512TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#megav.app
 vless://8033102198@159.195.40.19:443?encryption=none&flow=xtls-rprx-vision&fp=safari&security=tls&sni=de7.fast-connect-service.site&type=tcp#megav.app
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#megav.app
 vmess://3e9bbbe9-24d4-4f17-8f39-63b59836e5c1@t.cnmjcn.cyou:16617?encryption=auto&host=76a0d7517e9ed01814349e6063c116ce.mobgslb.tbcache.com&path=%2F&security=none&type=ws#megav.app
 vmess://3e9bbbe9-24d4-4f17-8f39-63b59836e5c1@p2.in.linuxlh.xin:16632?encryption=auto&host=76a0d7517e9ed01814349e6063c116ce.mobgslb.tbcache.com&path=%2F&security=none&type=ws#megav.app
-trojan://MITIVPN@104.19.229.21:443?alpn=http%2F1.1&host=d--AA-ia-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=d--AA-ia-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&type=ws#megav.app
-trojan://Telegram_healer_config@172.67.176.194:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FVKQiUREJ9PL5qHi1r4bkL9Rm8%3Fed%3D2560&security=tls&sni=30f67sBQ8JjwmT7gYtfc14.0M68-QZ3HQYFnLAr6N3IQ.wOrkerS.deV&type=ws#megav.app
+trojan://humanity@104.18.22.63:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://humanity@104.18.152.175:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none&type=tcp#megav.app
