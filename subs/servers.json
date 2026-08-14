@@ -1,56 +1,33 @@
 {
-  "updated_at": "2026-08-13T16:00:34Z",
-  "total": 8,
+  "updated_at": "2026-08-14T00:00:20Z",
+  "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
-    "vless": 2,
-    "vmess": 2
+    "vless": 2
   },
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Nuremberg",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 631,
-      "bandwidth_kbs": 454,
-      "url": "vless://8033102198@159.195.40.19:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=safari\u0026security=tls\u0026sni=de7.fast-connect-service.site\u0026type=tcp#megav.app"
+      "response_ms": 861,
+      "bandwidth_kbs": 435,
+      "url": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none\u0026host=beichuan.serv00.net\u0026path=%2F%23%5Bopenray%5D+%F0%9F%87%B5%F0%9F%87%B1+pl-1141\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
       "country_code": "FR",
       "flag": "🇫🇷",
-      "city": "Paris",
+      "city": "Saarbrücken",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 672,
-      "bandwidth_kbs": 494,
-      "url": "vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026security=tls\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "JP",
-      "flag": "🇯🇵",
-      "city": "Tokyo",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 3419,
-      "bandwidth_kbs": 499,
-      "url": "vmess://3e9bbbe9-24d4-4f17-8f39-63b59836e5c1@t.cnmjcn.cyou:16617?encryption=auto\u0026host=76a0d7517e9ed01814349e6063c116ce.mobgslb.tbcache.com\u0026path=%2F\u0026security=none\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "HK",
-      "flag": "🇭🇰",
-      "city": "Tsuen Wan",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 6685,
-      "bandwidth_kbs": 487,
-      "url": "vmess://3e9bbbe9-24d4-4f17-8f39-63b59836e5c1@p2.in.linuxlh.xin:16632?encryption=auto\u0026host=76a0d7517e9ed01814349e6063c116ce.mobgslb.tbcache.com\u0026path=%2F\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 2007,
+      "bandwidth_kbs": 485,
+      "url": "vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@172.67.196.252:2053?alpn=http%2F1.1\u0026encryption=none\u0026fp=chrome\u0026host=ger-full.deepinsane.com\u0026path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1\u0026security=tls\u0026sni=ger-full.deepinsane.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -76,25 +53,25 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Toronto",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 303,
-      "bandwidth_kbs": 472,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#megav.app"
+      "response_ms": 1563,
+      "bandwidth_kbs": 467,
+      "url": "ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw==@212.193.6.107:30331#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "RO",
+      "flag": "🇷🇴",
+      "city": "Voluntari",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 339,
-      "bandwidth_kbs": 399,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none\u0026type=tcp#megav.app"
+      "response_ms": 12409,
+      "bandwidth_kbs": 426,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443?security=none\u0026type=raw#megav.app"
     }
   ]
 }
