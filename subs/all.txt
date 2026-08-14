@@ -1,8 +1,6 @@
-vless://8033102198@159.195.40.19:443?encryption=none&flow=xtls-rprx-vision&fp=safari&security=tls&sni=de7.fast-connect-service.site&type=tcp#megav.app
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#megav.app
-vmess://3e9bbbe9-24d4-4f17-8f39-63b59836e5c1@t.cnmjcn.cyou:16617?encryption=auto&host=76a0d7517e9ed01814349e6063c116ce.mobgslb.tbcache.com&path=%2F&security=none&type=ws#megav.app
-vmess://3e9bbbe9-24d4-4f17-8f39-63b59836e5c1@p2.in.linuxlh.xin:16632?encryption=auto&host=76a0d7517e9ed01814349e6063c116ce.mobgslb.tbcache.com&path=%2F&security=none&type=ws#megav.app
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=beichuan.serv00.net&path=%2F%23%5Bopenray%5D+%F0%9F%87%B5%F0%9F%87%B1+pl-1141&security=none&type=ws#megav.app
+vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@172.67.196.252:2053?alpn=http%2F1.1&encryption=none&fp=chrome&host=ger-full.deepinsane.com&path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1&security=tls&sni=ger-full.deepinsane.com&type=ws#megav.app
 trojan://humanity@104.18.22.63:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 trojan://humanity@104.18.152.175:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none&type=tcp#megav.app
+ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw==@212.193.6.107:30331#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443?security=none&type=raw#megav.app
