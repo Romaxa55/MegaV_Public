@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T04:00:28Z",
+  "updated_at": "2026-08-14T08:00:58Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -7,6 +7,17 @@
     "vless": 2
   },
   "servers": [
+    {
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 735,
+      "bandwidth_kbs": 417,
+      "url": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?ech=ip.gs%2Budp%3A%2F%2F8.8.8.8\u0026encryption=none\u0026host=josni.hoyes.cloudns.ch\u0026path=%2Fsg-melbi-%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network\u0026security=tls\u0026sni=josni.hoyes.cloudns.ch\u0026type=ws#megav.app"
+    },
     {
       "protocol": "vless",
       "country_code": "PL",
@@ -17,17 +28,6 @@
       "response_ms": 861,
       "bandwidth_kbs": 435,
       "url": "vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none\u0026host=beichuan.serv00.net\u0026path=%2F%23%5Bopenray%5D+%F0%9F%87%B5%F0%9F%87%B1+pl-1141\u0026security=none\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vless",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Saarbrücken",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2007,
-      "bandwidth_kbs": 485,
-      "url": "vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@172.67.196.252:2053?alpn=http%2F1.1\u0026encryption=none\u0026fp=chrome\u0026host=ger-full.deepinsane.com\u0026path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1\u0026security=tls\u0026sni=ger-full.deepinsane.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -42,14 +42,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "SG",
-      "flag": "🇸🇬",
-      "city": "Singapore",
+      "country_code": "HK",
+      "flag": "🇭🇰",
+      "city": "Hong Kong",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2588,
-      "bandwidth_kbs": 465,
-      "url": "trojan://AE62539071@47.129.157.81:443?fp=chrome\u0026security=tls\u0026sni=noted-bass.rooster465.autos\u0026type=tcp#megav.app"
+      "response_ms": 2354,
+      "bandwidth_kbs": 477,
+      "url": "trojan://AE62539071@magical-kodiak.rooster465.autos:443?security=tls\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
