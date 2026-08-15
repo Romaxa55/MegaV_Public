@@ -1,6 +1,6 @@
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&encryption=none&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi-%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#megav.app
-vless://06823dfb-4ced-425d-a905-3774ee9d5026@104.17.148.22:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=b22ntzajtafvkew6em2th68a6030-ogu.hirad228.workers.dev&path=%2Fvl%2Fgh2i0BnGec00i9U7usu&security=tls&sni=B22NtZAjTaFvkEw6Em2TH68A6030-OgU.hIrAD228.worKErs.dEV&type=ws#megav.app
-trojan://Telegram_healer_config@104.21.17.125:443?alpn=http%2F1.1&fp=chrome&host=30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev&path=%2Ftr%2FMBHDTiG2ZHfgBBj9iEpRFkse0tafJ%3Fed%3D2560&security=tls&sni=30F67SBQ8jJWMT7gytfc14.0m68-qZ3hqYFNlaR6n3Iq.WorKerS.Dev&type=ws#megav.app
-trojan://AE62539071@47.129.157.81:443?fp=chrome&security=tls&sni=noted-bass.rooster465.autos&type=tcp#megav.app
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#megav.app
+vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@188.114.97.6:8443?encryption=none&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Fx9i2&security=tls&sni=france.io-com-de-dev.org&type=ws#megav.app
+trojan://AE62539071@54.169.241.164:443?insecure=1&security=tls&sni=rested-osprey.rooster465.autos&type=tcp#megav.app
+trojan://AE62539071@dynamic-grubworm.rooster465.autos:443?security=tls&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080?security=none&type=tcp#megav.app
-ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.15:443#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#megav.app
