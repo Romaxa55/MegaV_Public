@@ -1,2 +1,2 @@
-trojan://AE62539071@54.169.241.164:443?insecure=1&security=tls&sni=rested-osprey.rooster465.autos&type=tcp#megav.app
-trojan://AE62539071@dynamic-grubworm.rooster465.autos:443?security=tls&type=raw#megav.app
+trojan://humanity@www.calmlunch.com:443?fp=firefox&host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://humanity@www.calmlunch.com:443?fp=chrome&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
