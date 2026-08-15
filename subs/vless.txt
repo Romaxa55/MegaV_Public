@@ -1,2 +1,2 @@
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#megav.app
-vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@188.114.97.6:8443?encryption=none&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Fx9i2&security=tls&sni=france.io-com-de-dev.org&type=ws#megav.app
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.40.139:443?encryption=none&fp=chrome&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws#megav.app
+vless://04fe440e-66c9-46df-998b-1b22c8ca7105@172.64.152.23:80?encryption=none&host=worker3.farife3383.workers.dev&path=%2FeyJqdW5rIjoiaXpTdXF2QmlsS3giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&type=ws#megav.app
