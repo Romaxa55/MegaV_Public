@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T12:26:54Z",
+  "updated_at": "2026-08-15T00:00:42Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -14,31 +14,20 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 735,
-      "bandwidth_kbs": 417,
-      "url": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?ech=ip.gs%2Budp%3A%2F%2F8.8.8.8\u0026encryption=none\u0026host=josni.hoyes.cloudns.ch\u0026path=%2Fsg-melbi-%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network%2F---%40sil3nt_network---%40sil3nt_network\u0026security=tls\u0026sni=josni.hoyes.cloudns.ch\u0026type=ws#megav.app"
+      "response_ms": 782,
+      "bandwidth_kbs": 463,
+      "url": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none\u0026host=josni.hoyes.cloudns.ch\u0026path=%2Fsg-melbi%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560\u0026security=tls\u0026sni=josni.hoyes.cloudns.ch\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Roubaix",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1786,
-      "bandwidth_kbs": 496,
-      "url": "vless://06823dfb-4ced-425d-a905-3774ee9d5026@104.17.148.22:8443?alpn=http%2F1.1\u0026encryption=none\u0026fp=chrome\u0026host=b22ntzajtafvkew6em2th68a6030-ogu.hirad228.workers.dev\u0026path=%2Fvl%2Fgh2i0BnGec00i9U7usu\u0026security=tls\u0026sni=B22NtZAjTaFvkEw6Em2TH68A6030-OgU.hIrAD228.worKErs.dEV\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1801,
-      "bandwidth_kbs": 486,
-      "url": "trojan://Telegram_healer_config@104.21.17.125:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev\u0026path=%2Ftr%2FMBHDTiG2ZHfgBBj9iEpRFkse0tafJ%3Fed%3D2560\u0026security=tls\u0026sni=30F67SBQ8jJWMT7gytfc14.0m68-qZ3hqYFNlaR6n3Iq.WorKerS.Dev\u0026type=ws#megav.app"
+      "response_ms": 941,
+      "bandwidth_kbs": 446,
+      "url": "vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@188.114.97.6:8443?encryption=none\u0026path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Fx9i2\u0026security=tls\u0026sni=france.io-com-de-dev.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -47,9 +36,20 @@
       "city": "Singapore",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2588,
-      "bandwidth_kbs": 465,
-      "url": "trojan://AE62539071@47.129.157.81:443?fp=chrome\u0026security=tls\u0026sni=noted-bass.rooster465.autos\u0026type=tcp#megav.app"
+      "response_ms": 2186,
+      "bandwidth_kbs": 498,
+      "url": "trojan://AE62539071@54.169.241.164:443?insecure=1\u0026security=tls\u0026sni=rested-osprey.rooster465.autos\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "HK",
+      "flag": "🇭🇰",
+      "city": "Hong Kong",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2782,
+      "bandwidth_kbs": 491,
+      "url": "trojan://AE62539071@dynamic-grubworm.rooster465.autos:443?security=tls\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -69,9 +69,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 877,
-      "bandwidth_kbs": 420,
-      "url": "ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.15:443#megav.app"
+      "response_ms": 849,
+      "bandwidth_kbs": 465,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#megav.app"
     }
   ]
 }
