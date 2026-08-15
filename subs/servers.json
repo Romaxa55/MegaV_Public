@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T00:00:42Z",
+  "updated_at": "2026-08-15T04:00:37Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -14,42 +14,42 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 782,
-      "bandwidth_kbs": 463,
-      "url": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none\u0026host=josni.hoyes.cloudns.ch\u0026path=%2Fsg-melbi%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560\u0026security=tls\u0026sni=josni.hoyes.cloudns.ch\u0026type=ws#megav.app"
+      "response_ms": 384,
+      "bandwidth_kbs": 443,
+      "url": "vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.40.139:443?encryption=none\u0026fp=chrome\u0026host=rAyAn-007.pArViN.DpDnS.OrG\u0026path=%2F%3Fed%3D2560\u0026security=tls\u0026sni=rAyAn-007.pArViN.DpDnS.OrG\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 552,
+      "bandwidth_kbs": 432,
+      "url": "vless://04fe440e-66c9-46df-998b-1b22c8ca7105@172.64.152.23:80?encryption=none\u0026host=worker3.farife3383.workers.dev\u0026path=%2FeyJqdW5rIjoiaXpTdXF2QmlsS3giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
       "country_code": "FR",
       "flag": "🇫🇷",
-      "city": "Roubaix",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 941,
-      "bandwidth_kbs": 446,
-      "url": "vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@188.114.97.6:8443?encryption=none\u0026path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Fx9i2\u0026security=tls\u0026sni=france.io-com-de-dev.org\u0026type=ws#megav.app"
+      "response_ms": 703,
+      "bandwidth_kbs": 497,
+      "url": "trojan://humanity@www.calmlunch.com:443?fp=firefox\u0026host=www.calmlunch.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "SG",
-      "flag": "🇸🇬",
-      "city": "Singapore",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2186,
-      "bandwidth_kbs": 498,
-      "url": "trojan://AE62539071@54.169.241.164:443?insecure=1\u0026security=tls\u0026sni=rested-osprey.rooster465.autos\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "HK",
-      "flag": "🇭🇰",
-      "city": "Hong Kong",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2782,
-      "bandwidth_kbs": 491,
-      "url": "trojan://AE62539071@dynamic-grubworm.rooster465.autos:443?security=tls\u0026type=raw#megav.app"
+      "response_ms": 904,
+      "bandwidth_kbs": 470,
+      "url": "trojan://humanity@www.calmlunch.com:443?fp=chrome\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -58,9 +58,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 518,
-      "bandwidth_kbs": 496,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080?security=none\u0026type=tcp#megav.app"
+      "response_ms": 389,
+      "bandwidth_kbs": 454,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -69,9 +69,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 849,
-      "bandwidth_kbs": 465,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#megav.app"
+      "response_ms": 404,
+      "bandwidth_kbs": 461,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#megav.app"
     }
   ]
 }
