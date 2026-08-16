@@ -1,2 +1,2 @@
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl01.skorostnet.space:13868?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&security=reality&sid=e852dc&sni=www.epicgames.com&type=tcp#megav.app
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.1:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=ios&host=germany-2.ariyuz.org.&path=%2F&security=tls&sni=germany-2.ariyuz.org.&type=ws#megav.app
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.141.234.219:13868?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XkqVl2cyWFosUZRHlg55Iek6KzLEoT_OPzuoErgWfWg&security=reality&sid=e852dc&sni=amd.com&type=tcp#megav.app
