@@ -1,33 +1,45 @@
 {
-  "updated_at": "2026-08-15T08:00:43Z",
-  "total": 6,
+  "updated_at": "2026-08-16T00:00:25Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
-    "vless": 2
+    "vless": 2,
+    "vmess": 1
   },
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "FI",
+      "flag": "🇫🇮",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 384,
-      "bandwidth_kbs": 443,
-      "url": "vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.40.139:443?encryption=none\u0026fp=chrome\u0026host=rAyAn-007.pArViN.DpDnS.OrG\u0026path=%2F%3Fed%3D2560\u0026security=tls\u0026sni=rAyAn-007.pArViN.DpDnS.OrG\u0026type=ws#megav.app"
+      "response_ms": 1234,
+      "bandwidth_kbs": 442,
+      "url": "vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl01.skorostnet.space:13868?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk\u0026security=reality\u0026sid=e852dc\u0026sni=www.epicgames.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Falkenstein",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 552,
-      "bandwidth_kbs": 432,
-      "url": "vless://04fe440e-66c9-46df-998b-1b22c8ca7105@172.64.152.23:80?encryption=none\u0026host=worker3.farife3383.workers.dev\u0026path=%2FeyJqdW5rIjoiaXpTdXF2QmlsS3giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 2652,
+      "bandwidth_kbs": 449,
+      "url": "vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.1:443?alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026fp=ios\u0026host=germany-2.ariyuz.org.\u0026path=%2F\u0026security=tls\u0026sni=germany-2.ariyuz.org.\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "London",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 935,
+      "bandwidth_kbs": 434,
+      "url": "vmess://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1\u0026encryption=auto\u0026fp=chrome\u0026security=tls\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -36,42 +48,42 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 703,
-      "bandwidth_kbs": 497,
-      "url": "trojan://humanity@www.calmlunch.com:443?fp=firefox\u0026host=www.calmlunch.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+      "response_ms": 659,
+      "bandwidth_kbs": 482,
+      "url": "trojan://humanity@104.16.7.70:443?host=www.calmlunch.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Dallas",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 904,
+      "response_ms": 2644,
+      "bandwidth_kbs": 498,
+      "url": "trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?fp=chrome\u0026insecure=1\u0026security=tls\u0026sni=static.rutube.ru\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "New York",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1157,
+      "bandwidth_kbs": 421,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Dallas",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1546,
       "bandwidth_kbs": 470,
-      "url": "trojan://humanity@www.calmlunch.com:443?fp=chrome\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 389,
-      "bandwidth_kbs": 454,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080?security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 404,
-      "bandwidth_kbs": 461,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#megav.app"
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443?security=none\u0026type=raw#megav.app"
     }
   ]
 }
