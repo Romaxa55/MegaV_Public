@@ -1,2 +1,2 @@
 trojan://humanity@104.16.7.70:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?fp=chrome&insecure=1&security=tls&sni=static.rutube.ru&type=tcp#megav.app
+trojan://FH72359861@54.185.164.73:443?security=tls&sni=outgoing-lynx.rooster465.autos&type=tcp#megav.app
