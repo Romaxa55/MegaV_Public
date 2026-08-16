@@ -1,6 +1,7 @@
-vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.40.139:443?encryption=none&fp=chrome&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws#megav.app
-vless://04fe440e-66c9-46df-998b-1b22c8ca7105@172.64.152.23:80?encryption=none&host=worker3.farife3383.workers.dev&path=%2FeyJqdW5rIjoiaXpTdXF2QmlsS3giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&type=ws#megav.app
-trojan://humanity@www.calmlunch.com:443?fp=firefox&host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@www.calmlunch.com:443?fp=chrome&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080?security=none&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#megav.app
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl01.skorostnet.space:13868?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&security=reality&sid=e852dc&sni=www.epicgames.com&type=tcp#megav.app
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.1:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=ios&host=germany-2.ariyuz.org.&path=%2F&security=tls&sni=germany-2.ariyuz.org.&type=ws#megav.app
+vmess://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&type=tcp#megav.app
+trojan://humanity@104.16.7.70:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?fp=chrome&insecure=1&security=tls&sni=static.rutube.ru&type=tcp#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443?security=none&type=raw#megav.app
