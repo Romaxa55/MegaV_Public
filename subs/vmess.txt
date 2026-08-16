@@ -1,2 +1,1 @@
-vmess://3e9bbbe9-24d4-4f17-8f39-63b59836e5c1@t.cnmjcn.cyou:16617?encryption=auto&host=76a0d7517e9ed01814349e6063c116ce.mobgslb.tbcache.com&path=%2F&security=none&type=ws#megav.app
-vmess://3e9bbbe9-24d4-4f17-8f39-63b59836e5c1@p2.in.linuxlh.xin:16632?encryption=auto&host=76a0d7517e9ed01814349e6063c116ce.mobgslb.tbcache.com&path=%2F&security=none&type=ws#megav.app
+vmess://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&type=tcp#megav.app
