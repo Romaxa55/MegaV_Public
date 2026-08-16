@@ -1,2 +1,2 @@
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl01.skorostnet.space:13868?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&security=reality&sid=e852dc&sni=www.epicgames.com&type=tcp#megav.app
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.141.234.219:13868?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XkqVl2cyWFosUZRHlg55Iek6KzLEoT_OPzuoErgWfWg&security=reality&sid=e852dc&sni=amd.com&type=tcp#megav.app
+vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@150.40.117.221:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&security=reality&sid=7b&sni=www.amazon.com&type=tcp#megav.app
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.38.4.126:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=de126.mechvpn.online&type=tcp#megav.app
