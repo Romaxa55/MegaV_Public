@@ -1,2 +1,2 @@
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@ger03.skorostnet.space:13868?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=XxzDVidmyjuPnBKrFDwCpowaIdLth4-kJsqrDvdPPx8&security=reality&sid=e852dc&sni=amd.com&type=tcp#megav.app
+vless://24f8209b-6689-4e7a-b067-f886e04dfc43@pl-1.p-esmy.icu:2066?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=XIBKbglsQ9pI4eo26LoUkmNxnVqlKtxZRO0H91v3jF0&security=reality&sid=1b2a3f&sni=ads.x5.ru&type=tcp#megav.app
 vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@104.21.66.61:8443?alpn=http%2F1.1&encryption=none&fp=chrome&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Fx9i2&security=tls&sni=france.io-com-de-dev.org&type=ws#megav.app
