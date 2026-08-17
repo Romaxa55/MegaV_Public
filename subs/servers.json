@@ -1,9 +1,8 @@
 {
-  "updated_at": "2026-08-17T04:00:52Z",
-  "total": 7,
+  "updated_at": "2026-08-17T08:00:47Z",
+  "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
-    "shadowsocks2022": 1,
     "trojan": 2,
     "vless": 2
   },
@@ -73,17 +72,6 @@
       "response_ms": 700,
       "bandwidth_kbs": 470,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#megav.app"
-    },
-    {
-      "protocol": "shadowsocks2022",
-      "country_code": "SG",
-      "flag": "🇸🇬",
-      "city": "Singapore",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2196,
-      "bandwidth_kbs": 426,
-      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0=@167.150.100.115:27755#megav.app"
     }
   ]
 }
