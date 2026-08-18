@@ -1,1 +1,2 @@
-vmess://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&type=raw#megav.app
+vmess://2a2645fe-34b6-4b0b-87bb-241cd17bb71f@m.cnmjin.net:16645?host=1a7b4b2d69cfc3485134b5ca9cc738f6.mobgslb.tbcache.com&path=%2F&security=none&type=ws#megav.app
+vmess://2a2645fe-34b6-4b0b-87bb-241cd17bb71f@t.cnmjcn.cyou:16645?host=1a7b4b2d69cfc3485134b5ca9cc738f6.mobgslb.tbcache.com&path=%2F&security=none&type=ws#megav.app
