@@ -1,2 +1,2 @@
-vless://0e9591e8-aff5-4ed4-9724-827b55758dbc@45.131.66.247:20002?encryption=none&fp=chrome&host=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&type=ws#megav.app
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&security=reality&sid=273940fba6ad8250&sni=5.oncloudnineservicestreang.com&spx=%2F&type=raw#megav.app
+vless://16bc33b0-49c9-4e61-931e-ec2baf36cefe@163.172.185.55:8880?encryption=none&security=none&type=tcp#megav.app
+vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?encryption=none&security=tls&sni=ee2.mehab.me&type=tcp#megav.app
