@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T04:01:15Z",
+  "updated_at": "2026-08-18T08:01:16Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -54,25 +54,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "IE",
+      "flag": "🇮🇪",
+      "city": "Dublin",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 936,
-      "bandwidth_kbs": 422,
-      "url": "trojan://PQ05174892@35.156.115.70:443?security=tls\u0026sni=fine-elf.rooster465.autos\u0026type=tcp#megav.app"
+      "response_ms": 1035,
+      "bandwidth_kbs": 426,
+      "url": "trojan://PQ05174892@nice-elephant.rooster465.autos:443?fp=qq\u0026security=tls\u0026sni=nice-elephant.rooster465.autos\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "LU",
+      "flag": "🇱🇺",
+      "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 980,
-      "bandwidth_kbs": 444,
-      "url": "trojan://humanity@104.16.122.175:443?alpn=h2%2Chttp%2F1.1+\u0026host=www.calmlunch.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+      "response_ms": 1079,
+      "bandwidth_kbs": 487,
+      "url": "trojan://FH72359861@game-firefly.rooster465.autos:443?security=tls\u0026sni=game-firefly.rooster465.autos\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
