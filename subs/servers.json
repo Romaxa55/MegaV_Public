@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T16:01:08Z",
+  "updated_at": "2026-08-18T20:01:06Z",
   "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
@@ -10,25 +10,25 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 961,
-      "bandwidth_kbs": 399,
-      "url": "vless://16bc33b0-49c9-4e61-931e-ec2baf36cefe@163.172.185.55:8880?encryption=none\u0026security=none\u0026type=tcp#megav.app"
+      "response_ms": 408,
+      "bandwidth_kbs": 474,
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "EE",
-      "flag": "🇪🇪",
-      "city": "Tallinn",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1197,
-      "bandwidth_kbs": 396,
-      "url": "vless://278412f2-ef42-48e2-a4c0-243b173e612b@ee2.mehab.me:443?encryption=none\u0026security=tls\u0026sni=ee2.mehab.me\u0026type=tcp#megav.app"
+      "response_ms": 428,
+      "bandwidth_kbs": 457,
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -48,9 +48,9 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 847,
-      "bandwidth_kbs": 397,
-      "url": "trojan://humanity@104.18.152.108:443?host=www.ignitelimit.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 787,
+      "bandwidth_kbs": 437,
+      "url": "trojan://humanity@104.18.152.246:443?path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
