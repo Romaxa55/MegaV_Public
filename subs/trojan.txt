@@ -1,2 +1,2 @@
-trojan://humanity@45.133.117.185:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@104.18.8.83:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://PQ05174892@35.156.115.70:443?security=tls&sni=fine-elf.rooster465.autos&type=tcp#megav.app
+trojan://humanity@104.16.122.175:443?alpn=h2%2Chttp%2F1.1+&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
