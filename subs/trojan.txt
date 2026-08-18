@@ -1,2 +1,2 @@
-trojan://PQ05174892@nice-elephant.rooster465.autos:443?fp=qq&security=tls&sni=nice-elephant.rooster465.autos&type=tcp#megav.app
-trojan://FH72359861@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos&type=raw#megav.app
+trojan://humanity@104.16.174.72:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://humanity@104.18.152.108:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
