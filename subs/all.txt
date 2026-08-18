@@ -2,7 +2,7 @@ vless://0e9591e8-aff5-4ed4-9724-827b55758dbc@45.131.66.247:20002?encryption=none
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&security=reality&sid=273940fba6ad8250&sni=5.oncloudnineservicestreang.com&spx=%2F&type=raw#megav.app
 vmess://2a2645fe-34b6-4b0b-87bb-241cd17bb71f@m.cnmjin.net:16645?host=1a7b4b2d69cfc3485134b5ca9cc738f6.mobgslb.tbcache.com&path=%2F&security=none&type=ws#megav.app
 vmess://2a2645fe-34b6-4b0b-87bb-241cd17bb71f@t.cnmjcn.cyou:16645?host=1a7b4b2d69cfc3485134b5ca9cc738f6.mobgslb.tbcache.com&path=%2F&security=none&type=ws#megav.app
-trojan://PQ05174892@35.156.115.70:443?security=tls&sni=fine-elf.rooster465.autos&type=tcp#megav.app
-trojan://humanity@104.16.122.175:443?alpn=h2%2Chttp%2F1.1+&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://PQ05174892@nice-elephant.rooster465.autos:443?fp=qq&security=tls&sni=nice-elephant.rooster465.autos&type=tcp#megav.app
+trojan://FH72359861@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#megav.app
