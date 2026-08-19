@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T20:01:06Z",
+  "updated_at": "2026-08-19T00:01:07Z",
   "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
@@ -37,9 +37,9 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 747,
-      "bandwidth_kbs": 441,
-      "url": "trojan://humanity@104.16.174.72:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 618,
+      "bandwidth_kbs": 472,
+      "url": "trojan://humanity@104.18.152.50:443?host=www.ignitelimit.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
