@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T04:01:17Z",
+  "updated_at": "2026-08-19T08:01:23Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -20,14 +20,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Worksop",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 408,
-      "bandwidth_kbs": 474,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
+      "response_ms": 561,
+      "bandwidth_kbs": 467,
+      "url": "vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?encryption=none\u0026fp=qq\u0026path=%2F\u0026security=tls\u0026sni=gb1.wba-pn.ru\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -53,25 +53,25 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Harlesden",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "New York",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3145,
-      "bandwidth_kbs": 482,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjkwYjQ0Yy1lMjE4LTRmNDAtYWFjOS01NjRiY2RiNDZlMTk=@uks1.network-cdn-gw-yd.net:10014#megav.app"
+      "response_ms": 1571,
+      "bandwidth_kbs": 484,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc=@38.180.135.156:8388#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "MY",
-      "flag": "🇲🇾",
-      "city": "Seremban",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Staten Island",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3624,
-      "bandwidth_kbs": 458,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjkwYjQ0Yy1lMjE4LTRmNDAtYWFjOS01NjRiY2RiNDZlMTk=@mas.network-cdn-gw-yd.net:43305#megav.app"
+      "response_ms": 2097,
+      "bandwidth_kbs": 450,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
