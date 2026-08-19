@@ -1,2 +1,2 @@
-trojan://EQ30679154@3.64.59.246:443?fp=chrome&security=tls&sni=gentle-raptor.rooster465.autos&type=tcp#megav.app
-trojan://EQ30679154@unique-gobbler.rooster465.autos:443?fp=chrome&security=tls&sni=unique-gobbler.rooster465.autos&type=raw#megav.app
+trojan://AE62539071@54.170.38.205:443?fp=chrome&security=tls&sni=unbiased-garfish.rooster465.autos&type=raw#megav.app
+trojan://AE62539071@15.237.214.103:443?fp=qq&security=tls&sni=tough-hermit.rooster465.autos&type=tcp#megav.app
