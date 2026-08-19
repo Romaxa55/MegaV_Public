@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjkwYjQ0Yy1lMjE4LTRmNDAtYWFjOS01NjRiY2RiNDZlMTk=@uks1.network-cdn-gw-yd.net:10014#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjkwYjQ0Yy1lMjE4LTRmNDAtYWFjOS01NjRiY2RiNDZlMTk=@mas.network-cdn-gw-yd.net:43305#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc=@38.180.135.156:8388#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443?security=none&type=tcp#megav.app
