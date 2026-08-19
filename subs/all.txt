@@ -1,6 +1,6 @@
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.75:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=raw#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?encryption=none&fp=qq&path=%2F&security=tls&sni=gb1.wba-pn.ru&type=ws#megav.app
 trojan://EQ30679154@3.64.59.246:443?fp=chrome&security=tls&sni=gentle-raptor.rooster465.autos&type=tcp#megav.app
 trojan://EQ30679154@unique-gobbler.rooster465.autos:443?fp=chrome&security=tls&sni=unique-gobbler.rooster465.autos&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjkwYjQ0Yy1lMjE4LTRmNDAtYWFjOS01NjRiY2RiNDZlMTk=@uks1.network-cdn-gw-yd.net:10014#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjkwYjQ0Yy1lMjE4LTRmNDAtYWFjOS01NjRiY2RiNDZlMTk=@mas.network-cdn-gw-yd.net:43305#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc=@38.180.135.156:8388#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443?security=none&type=tcp#megav.app
