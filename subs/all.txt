@@ -2,5 +2,6 @@ vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.75:443?encryption=none&f
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?encryption=none&fp=qq&path=%2F&security=tls&sni=gb1.wba-pn.ru&type=ws#megav.app
 trojan://EQ30679154@3.64.59.246:443?fp=chrome&security=tls&sni=gentle-raptor.rooster465.autos&type=tcp#megav.app
 trojan://EQ30679154@unique-gobbler.rooster465.autos:443?fp=chrome&security=tls&sni=unique-gobbler.rooster465.autos&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc=@38.180.135.156:8388#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443?security=none&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#megav.app
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0=@167.150.100.115:27755#megav.app
