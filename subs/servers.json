@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T04:01:11Z",
+  "updated_at": "2026-08-20T08:01:06Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -55,12 +55,12 @@
       "protocol": "shadowsocks",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Dallas",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2119,
-      "bandwidth_kbs": 423,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?security=none\u0026type=raw#megav.app"
+      "response_ms": 2716,
+      "bandwidth_kbs": 442,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMkZpdnppU29vV01EekU2cDJrQng3cmk3b3dkTFp5UG51UUxQZURoblk4cVhLbTZ6WjRNMzlwb3Y0dzdNZnhSTjVGaldxQzFjQ0E4Z0dvTHBaUVZvdVB0OWNDQTlpZE4=@166.1.129.245:42607#megav.app"
     },
     {
       "protocol": "shadowsocks",
