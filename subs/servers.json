@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T08:01:06Z",
+  "updated_at": "2026-08-20T12:01:25Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -31,6 +31,17 @@
     },
     {
       "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 612,
+      "bandwidth_kbs": 475,
+      "url": "trojan://humanity@208.103.161.159:443?fp=chrome\u0026host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
       "country_code": "IE",
       "flag": "🇮🇪",
       "city": "Dublin",
@@ -39,17 +50,6 @@
       "response_ms": 615,
       "bandwidth_kbs": 433,
       "url": "trojan://FH72359861@54.216.139.140:443?fp=firefox\u0026security=tls\u0026sni=cunning-grub.rooster465.autos\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 726,
-      "bandwidth_kbs": 440,
-      "url": "trojan://MiTiVPN@140.248.185.253:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net\u0026insecure=1\u0026path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -69,9 +69,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3485,
-      "bandwidth_kbs": 453,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#megav.app"
+      "response_ms": 5476,
+      "bandwidth_kbs": 467,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#megav.app"
     }
   ]
 }
