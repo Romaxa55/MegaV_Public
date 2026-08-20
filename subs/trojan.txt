@@ -1,2 +1,2 @@
+trojan://humanity@208.103.161.159:443?fp=chrome&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 trojan://FH72359861@54.216.139.140:443?fp=firefox&security=tls&sni=cunning-grub.rooster465.autos&type=tcp#megav.app
-trojan://MiTiVPN@140.248.185.253:443?alpn=http%2F1.1&fp=chrome&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&insecure=1&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=ssl.fastly.com&type=ws#megav.app
