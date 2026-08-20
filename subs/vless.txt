@@ -1,2 +1,2 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vless://2f919a1e-f00e-4538-b0a9-cf190721d578@nl.shhflow.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=gjj7bNUAuBdJEANhEJogoCKXyXsKeCj0xphzhL3uUVU&security=reality&sni=nl.shhflow.xyz&type=tcp#megav.app
+vless://26b35808-f1e1-4b97-8c69-46796f058d8b@172.67.174.249:443?encryption=none&fp=chrome&host=ezaccess-project-9138d4.5f6on.workers.dev&path=%2FeyJqdW5rIjoicG9pMkt4TDY2TVNtRSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&sni=ezaccess-project-9138d4.5f6on.workers.dev&type=ws#megav.app
