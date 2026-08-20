@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T00:01:06Z",
+  "updated_at": "2026-08-20T04:01:11Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -11,23 +11,23 @@
       "protocol": "vless",
       "country_code": "NL",
       "flag": "🇳🇱",
-      "city": "Haarlem",
+      "city": "Eindhoven",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 360,
-      "bandwidth_kbs": 469,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
+      "response_ms": 387,
+      "bandwidth_kbs": 434,
+      "url": "vless://2f919a1e-f00e-4538-b0a9-cf190721d578@nl.shhflow.xyz:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=edge\u0026pbk=gjj7bNUAuBdJEANhEJogoCKXyXsKeCj0xphzhL3uUVU\u0026security=reality\u0026sni=nl.shhflow.xyz\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vless",
       "country_code": "NL",
       "flag": "🇳🇱",
-      "city": "Haarlem",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 429,
-      "bandwidth_kbs": 462,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
+      "response_ms": 393,
+      "bandwidth_kbs": 450,
+      "url": "vless://26b35808-f1e1-4b97-8c69-46796f058d8b@172.67.174.249:443?encryption=none\u0026fp=chrome\u0026host=ezaccess-project-9138d4.5f6on.workers.dev\u0026path=%2FeyJqdW5rIjoicG9pMkt4TDY2TVNtRSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0\u0026security=tls\u0026sni=ezaccess-project-9138d4.5f6on.workers.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -36,31 +36,20 @@
       "city": "Dublin",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 553,
-      "bandwidth_kbs": 411,
-      "url": "trojan://AE62539071@54.170.38.205:443?fp=chrome\u0026security=tls\u0026sni=unbiased-garfish.rooster465.autos\u0026type=raw#megav.app"
+      "response_ms": 615,
+      "bandwidth_kbs": 433,
+      "url": "trojan://FH72359861@54.216.139.140:443?fp=firefox\u0026security=tls\u0026sni=cunning-grub.rooster465.autos\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 622,
-      "bandwidth_kbs": 447,
-      "url": "trojan://AE62539071@15.237.214.103:443?fp=qq\u0026security=tls\u0026sni=tough-hermit.rooster465.autos\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "CA",
-      "flag": "🇨🇦",
-      "city": "Toronto",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1798,
-      "bandwidth_kbs": 435,
-      "url": "ss://YWVzLTI1Ni1nY206c1pTWmk3dEdzOXdvZFQ3aw==@155.138.136.240:80#megav.app"
+      "response_ms": 726,
+      "bandwidth_kbs": 440,
+      "url": "trojan://MiTiVPN@140.248.185.253:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net\u0026insecure=1\u0026path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -72,6 +61,17 @@
       "response_ms": 2119,
       "bandwidth_kbs": 423,
       "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 3485,
+      "bandwidth_kbs": 453,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#megav.app"
     }
   ]
 }
