@@ -1,2 +1,2 @@
-trojan://PQ05174892@actual-aardvark.rooster465.autos:443?fp=chrome&insecure=1&security=tls&sni=actual-aardvark.rooster465.autos&type=tcp#megav.app
 trojan://bpb-trojan@172.64.80.1:443?fp=chrome&path=%2Ftr%3Fed%3D2560+&security=tls&sni=vless.herogoing.top&type=ws#megav.app
+trojan://humanity@198.41.223.96:443?alpn=http%2F1.1%2Ch2%2Ch3&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
