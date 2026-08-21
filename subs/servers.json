@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-21T04:00:56Z",
-  "total": 6,
+  "updated_at": "2026-08-21T08:01:04Z",
+  "total": 5,
   "by_protocol": {
-    "shadowsocks": 2,
+    "shadowsocks": 1,
     "trojan": 2,
     "vless": 2
   },
@@ -25,20 +25,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 510,
-      "bandwidth_kbs": 476,
-      "url": "vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.18.1.1:443?encryption=none\u0026fp=ios\u0026host=workspace.evan00.dpdns.org\u0026path=%2F\u0026security=tls\u0026sni=workspace.evan00.dpdns.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 479,
-      "bandwidth_kbs": 470,
-      "url": "trojan://PQ05174892@actual-aardvark.rooster465.autos:443?fp=chrome\u0026insecure=1\u0026security=tls\u0026sni=actual-aardvark.rooster465.autos\u0026type=tcp#megav.app"
+      "response_ms": 373,
+      "bandwidth_kbs": 481,
+      "url": "vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none\u0026host=workspace.evan00.dpdns.org\u0026path=%252F\u0026security=tls\u0026sni=workspace.evan00.dpdns.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -52,26 +41,26 @@
       "url": "trojan://bpb-trojan@172.64.80.1:443?fp=chrome\u0026path=%2Ftr%3Fed%3D2560+\u0026security=tls\u0026sni=vless.herogoing.top\u0026type=ws#megav.app"
     },
     {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 471,
-      "bandwidth_kbs": 476,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#megav.app"
+      "response_ms": 911,
+      "bandwidth_kbs": 482,
+      "url": "trojan://humanity@198.41.223.96:443?alpn=http%2F1.1%2Ch2%2Ch3\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Wroclaw",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 822,
-      "bandwidth_kbs": 496,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443?security=none\u0026type=raw#megav.app"
+      "response_ms": 3677,
+      "bandwidth_kbs": 430,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMkZpdnppU29vV01EekU2cDJrQng3cmk3b3dkTFp5UG51UUxQZURoblk4cVhLbTZ6WjRNMzlwb3Y0dzdNZnhSTjVGaldxQzFjQ0E4Z0dvTHBaUVZvdVB0OWNDQTlpZE4=@166.1.129.245:42607#megav.app"
     }
   ]
 }
