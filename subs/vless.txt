@@ -1,2 +1,2 @@
 vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&fp=chrome&host=workspace.evan00.dpdns.org&path=%2Ffp%3Drandomized&security=tls&sni=workspace.evan00.dpdns.org&type=ws#megav.app
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.18.1.1:443?encryption=none&fp=ios&host=workspace.evan00.dpdns.org&path=%2F&security=tls&sni=workspace.evan00.dpdns.org&type=ws#megav.app
+vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&host=workspace.evan00.dpdns.org&path=%252F&security=tls&sni=workspace.evan00.dpdns.org&type=ws#megav.app
