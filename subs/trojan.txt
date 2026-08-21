@@ -1,2 +1,2 @@
-trojan://Telegram_healer_config@188.114.96.3:443?alpn=http%2F1.1&fp=chrome&host=7kdylxxsikw5rjlkhpdrhtx8.6nvgyhkobjke10qsu1s09hhyd4iz4pv.workers.dev&path=%2Ftr%2FFPR2laikdYLiah29Tqdujf%3Fed%3D2560&security=tls&sni=7kDYlxxSIkw5RjLKHpdRHtX8.6nVgyHkobjke10qsu1s09HhYd4Iz4pv.WOrKERS.deV&type=ws#megav.app
 trojan://PQ05174892@actual-aardvark.rooster465.autos:443?fp=chrome&insecure=1&security=tls&sni=actual-aardvark.rooster465.autos&type=tcp#megav.app
+trojan://bpb-trojan@172.64.80.1:443?fp=chrome&path=%2Ftr%3Fed%3D2560+&security=tls&sni=vless.herogoing.top&type=ws#megav.app
