@@ -1,2 +1,2 @@
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@5.61.46.9:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=vod.ensf.top&path=%2Fapi%2Fv1%2Firc&security=tls&sni=vod.ensf.top&type=ws#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
+vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?encryption=none&fp=firefox&security=tls&sni=deproxy2.lckdwn.ru&type=raw#megav.app
+vless://11af1c47-865a-47c6-92ff-118013655d78@51.15.56.211:8080?encryption=none&security=none&type=ws#megav.app
