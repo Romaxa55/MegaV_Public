@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T08:01:25Z",
+  "updated_at": "2026-08-28T12:01:11Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -58,9 +58,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 317,
-      "bandwidth_kbs": 410,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none\u0026type=raw#megav.app"
+      "response_ms": 1389,
+      "bandwidth_kbs": 489,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080?security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -69,9 +69,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1389,
-      "bandwidth_kbs": 489,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080?security=none\u0026type=tcp#megav.app"
+      "response_ms": 1720,
+      "bandwidth_kbs": 454,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080?security=none\u0026type=raw#megav.app"
     }
   ]
 }
