@@ -1,2 +1,2 @@
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&fp=chrome&host=workspace.evan00.dpdns.org&path=%2Ffp%3Drandomized&security=tls&sni=workspace.evan00.dpdns.org&type=ws#megav.app
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&host=workspace.evan00.dpdns.org&path=%252F&security=tls&sni=workspace.evan00.dpdns.org&type=ws#megav.app
+vless://2f919a1e-f00e-4538-b0a9-cf190721d578@2.26.227.49:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=HyxJ9UmGQlNG7YPMdc_jjvB8GW8JfeKmoi1CA1ZL5wM&security=reality&sni=ge1.shhflow.xyz&type=tcp#megav.app
+vless://03446511-2806-4fc0-b02f-f10d2d3a33c6@109.121.44.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=8c2d9e1f&sni=www.amd.com&spx=%2F&type=tcp#megav.app
