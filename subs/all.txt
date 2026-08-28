@@ -1,6 +1,6 @@
-vless://2f919a1e-f00e-4538-b0a9-cf190721d578@2.26.227.49:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=HyxJ9UmGQlNG7YPMdc_jjvB8GW8JfeKmoi1CA1ZL5wM&security=reality&sni=ge1.shhflow.xyz&type=tcp#megav.app
-vless://03446511-2806-4fc0-b02f-f10d2d3a33c6@109.121.44.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=8c2d9e1f&sni=www.amd.com&spx=%2F&type=tcp#megav.app
-trojan://humanity@172.67.74.2:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@216.24.57.7:443?alpn=http%2F1.1+&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.158.146:2052?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%3Fed%3D2560security%3Dtls&security=none&type=ws#megav.app
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:8080?encryption=none&host=a0hbm.jvb1.28f.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560&security=none&type=ws#megav.app
+trojan://humanity@104.17.111.3:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://qILX2iK3__aseaW-T&Ab@104.16.25.255:443?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FafENpV4Vp8HF2EyfgSyA5TYDHW%3Fed%3D2560&security=tls&sni=W2r2hnWmlM-p33C1-VNWd.haMeddsharabI.WORKErS.DEV&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none&type=tcp#megav.app
