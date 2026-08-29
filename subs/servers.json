@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T16:00:41Z",
+  "updated_at": "2026-08-29T20:00:27Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -9,25 +9,35 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 488,
-      "bandwidth_kbs": 499,
-      "url": "vless://c7ae1368-b6ca-4d11-beef-bb76f68d1b80@37.49.226.85:2053?encryption=none\u0026fp=firefox\u0026mode=gun\u0026pbk=dQ1gH8wthrDqq1MkzQiLCuKDV0vtcYRDUOHgTU3znH8\u0026security=reality\u0026serviceName=grpc\u0026sid=085d21ba5e089c9b\u0026sni=dl.google.com\u0026type=grpc#megav.app"
+      "response_ms": 1058,
+      "bandwidth_kbs": 433,
+      "url": "vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none\u0026host=ov-germany1.09vpn.com%F0%9F%91%89%F0%9F%86%94freenettir%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FLimburg+an+der+Lahn%F0%9F%85%BF%EF%B8%8Fping%3A27.95ms\u0026path=%2Fvless%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "US",
+      "flag": "🇺🇸",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 855,
-      "bandwidth_kbs": 487,
-      "url": "vless://c7ae1368-b6ca-4d11-beef-bb76f68d1b80@37.49.226.85:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=dQ1gH8wthrDqq1MkzQiLCuKDV0vtcYRDUOHgTU3znH8\u0026security=reality\u0026sid=085d21ba5e089c9b\u0026sni=dl.google.com\u0026type=tcp#megav.app"
+      "response_ms": 2067,
+      "bandwidth_kbs": 433,
+      "url": "vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.79:8080?encryption=none\u0026path=%2F%3Fed%3D2048\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "London",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 553,
+      "bandwidth_kbs": 435,
+      "url": "trojan://rva2cdbcd8npbl62@104.18.75.133:443?host=vgo.sevendev.dpdns.org\u0026insecure=1\u0026path=%2Fws-uix-home\u0026security=tls\u0026sni=vgo.sevendev.dpdns.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -36,20 +46,9 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 465,
-      "bandwidth_kbs": 409,
-      "url": "trojan://humanity@104.16.174.109:443?path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 523,
-      "bandwidth_kbs": 430,
-      "url": "trojan://humanity@104.18.152.179:443?path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 581,
+      "bandwidth_kbs": 425,
+      "url": "trojan://humanity@104.18.152.233:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -66,12 +65,12 @@
       "protocol": "shadowsocks",
       "country_code": "NL",
       "flag": "🇳🇱",
-      "city": "Dronten",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 574,
-      "bandwidth_kbs": 398,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMUR1Sk9FTXh5ZWZDVWxLM0Vlczh1ckZ6Y3BUdzNYakxXM0w5Tg==@193.0.179.84:31348#megav.app"
+      "response_ms": 598,
+      "bandwidth_kbs": 444,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#megav.app"
     }
   ]
 }
