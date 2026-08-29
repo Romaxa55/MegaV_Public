@@ -1,2 +1,2 @@
-vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?encryption=none&fp=firefox&security=tls&sni=deproxy2.lckdwn.ru&type=raw#megav.app
-vless://11af1c47-865a-47c6-92ff-118013655d78@51.15.56.211:8080?encryption=none&security=none&type=ws#megav.app
+vless://c7ae1368-b6ca-4d11-beef-bb76f68d1b80@37.49.226.85:2053?encryption=none&fp=firefox&mode=gun&pbk=dQ1gH8wthrDqq1MkzQiLCuKDV0vtcYRDUOHgTU3znH8&security=reality&serviceName=grpc&sid=085d21ba5e089c9b&sni=dl.google.com&type=grpc#megav.app
+vless://c7ae1368-b6ca-4d11-beef-bb76f68d1b80@37.49.226.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dQ1gH8wthrDqq1MkzQiLCuKDV0vtcYRDUOHgTU3znH8&security=reality&sid=085d21ba5e089c9b&sni=dl.google.com&type=tcp#megav.app
