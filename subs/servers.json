@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-28T20:00:43Z",
-  "total": 6,
+  "updated_at": "2026-08-29T00:00:18Z",
+  "total": 5,
   "by_protocol": {
-    "shadowsocks": 2,
+    "shadowsocks": 1,
     "trojan": 2,
     "vless": 2
   },
@@ -36,9 +36,9 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 854,
-      "bandwidth_kbs": 427,
-      "url": "trojan://humanity@104.16.174.46:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 1006,
+      "bandwidth_kbs": 421,
+      "url": "trojan://humanity@104.18.152.103:443?host=www.ignitelimit.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -47,30 +47,20 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1006,
-      "bandwidth_kbs": 421,
-      "url": "trojan://humanity@104.18.152.103:443?host=www.ignitelimit.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 1278,
+      "bandwidth_kbs": 412,
+      "url": "trojan://humanity@104.18.22.63:443?alpn=http%2F1.1\u0026host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "New York",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2486,
-      "bandwidth_kbs": 456,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 7516,
-      "bandwidth_kbs": 406,
-      "url": "ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.7:8080#megav.app"
+      "response_ms": 1272,
+      "bandwidth_kbs": 407,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443?security=none\u0026type=raw#megav.app"
     }
   ]
 }
