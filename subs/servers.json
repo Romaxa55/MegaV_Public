@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T12:00:43Z",
+  "updated_at": "2026-08-29T16:00:41Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -55,23 +55,23 @@
       "protocol": "shadowsocks",
       "country_code": "NL",
       "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 377,
+      "bandwidth_kbs": 480,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
       "city": "Dronten",
       "tier": "silver",
       "speed_label": "hd",
       "response_ms": 574,
       "bandwidth_kbs": 398,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMUR1Sk9FTXh5ZWZDVWxLM0Vlczh1ckZ6Y3BUdzNYakxXM0w5Tg==@193.0.179.84:31348#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 576,
-      "bandwidth_kbs": 470,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#megav.app"
     }
   ]
 }
