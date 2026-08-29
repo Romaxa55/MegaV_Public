@@ -1,2 +1,2 @@
-trojan://humanity@104.16.174.109:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@104.18.152.179:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://rva2cdbcd8npbl62@104.18.75.133:443?host=vgo.sevendev.dpdns.org&insecure=1&path=%2Fws-uix-home&security=tls&sni=vgo.sevendev.dpdns.org&type=ws#megav.app
+trojan://humanity@104.18.152.233:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
