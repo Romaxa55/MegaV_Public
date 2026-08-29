@@ -2,5 +2,5 @@ vless://c7ae1368-b6ca-4d11-beef-bb76f68d1b80@37.49.226.85:2053?encryption=none&f
 vless://c7ae1368-b6ca-4d11-beef-bb76f68d1b80@37.49.226.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dQ1gH8wthrDqq1MkzQiLCuKDV0vtcYRDUOHgTU3znH8&security=reality&sid=085d21ba5e089c9b&sni=dl.google.com&type=tcp#megav.app
 trojan://humanity@104.16.174.109:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 trojan://humanity@104.18.152.179:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMUR1Sk9FTXh5ZWZDVWxLM0Vlczh1ckZ6Y3BUdzNYakxXM0w5Tg==@193.0.179.84:31348#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#megav.app
