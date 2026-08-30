@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T20:00:27Z",
+  "updated_at": "2026-08-30T00:00:15Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -20,13 +20,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "US",
-      "flag": "🇺🇸",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2067,
-      "bandwidth_kbs": 433,
-      "url": "vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.79:8080?encryption=none\u0026path=%2F%3Fed%3D2048\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 12653,
+      "bandwidth_kbs": 452,
+      "url": "vless://bae1db59-6091-4566-9fe0-1b5fc6a4779e@82.40.62.44:37430?encryption=none\u0026fp=ios\u0026pbk=MNKg9Lti8zBudF2zQbCqIZPoqLMSxINa6QwzpODpE20\u0026security=reality\u0026sni=amp-api-edge.apps.apple.com\u0026spx=%2F\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
