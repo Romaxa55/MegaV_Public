@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:00:24Z",
+  "updated_at": "2026-08-30T16:00:22Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -31,17 +31,6 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 329,
-      "bandwidth_kbs": 482,
-      "url": "trojan://qILX2iK3__aseaW-T\u0026Ab@104.16.178.11:2087?alpn=http%2F1.1\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Ftr%2F77IJLbtz1EMVB3VaIGjYrQwUZFyBlmJp%3Fed%3D2560\u0026security=tls\u0026sni=w2r2hnwMLm-p33c1-VnWd.HAmEddShaRabI.workERs.dEv\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
       "country_code": "FR",
       "flag": "🇫🇷",
       "city": "Paris",
@@ -50,6 +39,17 @@
       "response_ms": 592,
       "bandwidth_kbs": 479,
       "url": "trojan://humanity@104.18.12.149:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 812,
+      "bandwidth_kbs": 480,
+      "url": "trojan://humanity@104.18.13.149:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
