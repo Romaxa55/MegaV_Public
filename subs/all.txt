@@ -1,5 +1,5 @@
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&host=ov-germany1.09vpn.com%F0%9F%91%89%F0%9F%86%94freenettir%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FLimburg+an+der+Lahn%F0%9F%85%BF%EF%B8%8Fping%3A27.95ms&path=%2Fvless%2F&security=none&type=ws#megav.app
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.79:8080?encryption=none&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
+vless://bae1db59-6091-4566-9fe0-1b5fc6a4779e@82.40.62.44:37430?encryption=none&fp=ios&pbk=MNKg9Lti8zBudF2zQbCqIZPoqLMSxINa6QwzpODpE20&security=reality&sni=amp-api-edge.apps.apple.com&spx=%2F&type=tcp#megav.app
 trojan://rva2cdbcd8npbl62@104.18.75.133:443?host=vgo.sevendev.dpdns.org&insecure=1&path=%2Fws-uix-home&security=tls&sni=vgo.sevendev.dpdns.org&type=ws#megav.app
 trojan://humanity@104.18.152.233:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#megav.app
