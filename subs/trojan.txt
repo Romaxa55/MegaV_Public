@@ -1,2 +1,2 @@
-trojan://humanity@104.18.12.149:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@104.18.13.149:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://humanity@104.17.111.8:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?insecure=1&security=tls&sni=borat-hopp.bumbleshrimp.com&type=tcp#megav.app
