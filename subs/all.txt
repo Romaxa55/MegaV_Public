@@ -1,5 +1,5 @@
 vless://10000026-0216-6626-f000-da35b731a020@151.242.168.69:335?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=XJhq5Vpqo6j5Xsd56EMAK8--8EWBZWc3tjf-WFnInio&security=reality&sid=ec2213ae33d5b43f&sni=onlineraceentry.co.uk&type=tcp#megav.app
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#megav.app
+vless://196d9250-8e02-4a0f-a3bf-effa8e4aebe4@78.129.150.216:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp#megav.app
 trojan://qILX2iK3__aseaW-T&Ab@104.16.178.11:2087?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2F77IJLbtz1EMVB3VaIGjYrQwUZFyBlmJp%3Fed%3D2560&security=tls&sni=w2r2hnwMLm-p33c1-VnWd.HAmEddShaRabI.workERs.dEv&type=ws#megav.app
 trojan://humanity@104.18.12.149:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080?security=none&type=raw#megav.app
