@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T08:00:26Z",
+  "updated_at": "2026-08-30T12:00:24Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -20,14 +20,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "North Bergen",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Maidenhead",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1438,
-      "bandwidth_kbs": 421,
-      "url": "vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=qq\u0026pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno\u0026security=reality\u0026sni=aws.amazon.com\u0026type=tcp#megav.app"
+      "response_ms": 1243,
+      "bandwidth_kbs": 444,
+      "url": "vless://196d9250-8e02-4a0f-a3bf-effa8e4aebe4@78.129.150.216:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=qq\u0026pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY\u0026security=reality\u0026sid=fd55b698ee8c3629\u0026sni=strapi.io\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
