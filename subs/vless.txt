@@ -1,2 +1,2 @@
-vless://31aa0950-eb19-45ff-94a2-af416deb3b90@104.26.13.54:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=square-salad-ebde.zdfgvccfguuyggg.workers.dev&path=%2FeyJqdW5rIjoiZm5INktPV0lGcHI1NjNSOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&sni=SquarE-saLaD-EbDe.ZDFGVcCfgUUYgGG.wOrKeRS.DEV&type=ws#megav.app
-vless://31aa0950-eb19-45ff-94a2-af416deb3b90@172.67.186.192:2083?encryption=none&host=square-salad-ebde.zdfgvccfguuyggg.workers.dev&path=%2FeyJqdW5rIjoiZm5INktPV0lGcHI1NjNSOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%253D&security=tls&sni=square-salad-ebde.zdfgvccfguuyggg.workers.dev&type=ws#megav.app
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&fp=chrome&security=tls&sni=estproxy4.lockdwn.com&type=tcp#megav.app
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&fp=firefox&security=tls&sni=estproxy4.lockdwn.com&type=tcp#megav.app
