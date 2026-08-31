@@ -1,6 +1,6 @@
 vless://31aa0950-eb19-45ff-94a2-af416deb3b90@104.26.13.54:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=square-salad-ebde.zdfgvccfguuyggg.workers.dev&path=%2FeyJqdW5rIjoiZm5INktPV0lGcHI1NjNSOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&sni=SquarE-saLaD-EbDe.ZDFGVcCfgUUYgGG.wOrKeRS.DEV&type=ws#megav.app
 vless://31aa0950-eb19-45ff-94a2-af416deb3b90@172.67.186.192:2083?encryption=none&host=square-salad-ebde.zdfgvccfguuyggg.workers.dev&path=%2FeyJqdW5rIjoiZm5INktPV0lGcHI1NjNSOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%253D&security=tls&sni=square-salad-ebde.zdfgvccfguuyggg.workers.dev&type=ws#megav.app
-trojan://humanity@45.130.125.158:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@216.24.57.1:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://qILX2iK3__aseaW-T&Ab@172.64.150.185:443?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FTF2z1IFqM5cLOP2p614r7%3Fed%3D2560&security=tls&sni=W2R2HNWMlM-p33C1-VnwD.hAmedDshaRaBi.WORkers.dEv&type=ws#megav.app
+trojan://qILX2iK3__aseaW-T&Ab@172.66.159.27:2083?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FgxgoaXTiL4m7FluGZ3tFomxJ8VQW5%3Fed%3D2560&security=tls&sni=w2R2hNwmLM-P33C1-VnWd.hAmEddSHaRAbI.WorkerS.dEv&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443?security=none&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388?security=none&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388?security=none&type=raw#megav.app
