@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T04:00:27Z",
+  "updated_at": "2026-08-31T08:00:34Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -42,14 +42,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1102,
-      "bandwidth_kbs": 495,
-      "url": "trojan://qILX2iK3__aseaW-T\u0026Ab@172.66.159.27:2096?alpn=http%2F1.1\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Ftr%2FfkVBmlPst2przsBhsJesAvaw7jEc%3Fed%3D2560\u0026security=tls\u0026sni=w2r2HNWMlM-p33c1-VNwD.haMEddsHaRaBI.WOrKERS.DEv\u0026type=ws#megav.app"
+      "response_ms": 655,
+      "bandwidth_kbs": 468,
+      "url": "trojan://humanity@216.24.57.1:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
