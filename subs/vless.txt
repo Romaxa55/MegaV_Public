@@ -1,2 +1,2 @@
 vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.190.63:8080?encryption=none&path=%2F%3Fed%3D2048&security=none&type=ws#megav.app
-vless://196d9250-8e02-4a0f-a3bf-effa8e4aebe4@78.129.150.216:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp#megav.app
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@144.225.65.111:46142?encryption=none&fp=chrome&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&security=reality&sid=39feeba3085c&sni=www.yahoo.com&type=tcp#megav.app
