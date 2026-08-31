@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T16:00:28Z",
+  "updated_at": "2026-08-31T20:00:17Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -64,14 +64,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "IT",
-      "flag": "🇮🇹",
-      "city": "Palermo",
+      "country_code": "JP",
+      "flag": "🇯🇵",
+      "city": "Tokyo",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2399,
-      "bandwidth_kbs": 462,
-      "url": "ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.204:10901#megav.app"
+      "response_ms": 2572,
+      "bandwidth_kbs": 480,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#megav.app"
     }
   ]
 }
