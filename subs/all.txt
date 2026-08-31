@@ -3,4 +3,4 @@ vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none
 trojan://qILX2iK3__aseaW-T&Ab@172.64.150.185:443?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FTF2z1IFqM5cLOP2p614r7%3Fed%3D2560&security=tls&sni=W2R2HNWMlM-p33C1-VnwD.hAmedDshaRaBi.WORkers.dEv&type=ws#megav.app
 trojan://qILX2iK3__aseaW-T&Ab@172.66.159.27:2083?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FgxgoaXTiL4m7FluGZ3tFomxJ8VQW5%3Fed%3D2560&security=tls&sni=w2R2hNwmLM-P33C1-VnWd.hAmEddSHaRAbI.WorkerS.dEv&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8316#megav.app
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.204:10901#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#megav.app
