@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T08:00:34Z",
+  "updated_at": "2026-08-31T12:00:34Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -31,25 +31,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 539,
-      "bandwidth_kbs": 428,
-      "url": "trojan://humanity@45.130.125.158:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 361,
+      "bandwidth_kbs": 492,
+      "url": "trojan://qILX2iK3__aseaW-T\u0026Ab@172.64.150.185:443?alpn=http%2F1.1\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Ftr%2FTF2z1IFqM5cLOP2p614r7%3Fed%3D2560\u0026security=tls\u0026sni=W2R2HNWMlM-p33C1-VnwD.hAmedDshaRaBi.WORkers.dEv\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 655,
-      "bandwidth_kbs": 468,
-      "url": "trojan://humanity@216.24.57.1:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 374,
+      "bandwidth_kbs": 481,
+      "url": "trojan://qILX2iK3__aseaW-T\u0026Ab@172.66.159.27:2083?alpn=http%2F1.1\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Ftr%2FgxgoaXTiL4m7FluGZ3tFomxJ8VQW5%3Fed%3D2560\u0026security=tls\u0026sni=w2R2hNwmLM-P33C1-VnWd.hAmEddSHaRAbI.WorkerS.dEv\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -64,14 +64,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Strasbourg",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1300,
-      "bandwidth_kbs": 409,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388?security=none\u0026type=tcp#megav.app"
+      "response_ms": 1445,
+      "bandwidth_kbs": 458,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388?security=none\u0026type=raw#megav.app"
     }
   ]
 }
