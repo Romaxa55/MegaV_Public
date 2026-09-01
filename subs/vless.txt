@@ -1,2 +1,2 @@
+vless://31aa0950-eb19-45ff-94a2-af416deb3b90@188.114.97.8:8443?alpn=http%2F1.1&encryption=none&path=%2FeyJqdW5rIjoiZm5INktPV0lGcHI1NjNSOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=SquarE-saLaD-EbDe.ZDFGVcCfgUUYgGG.wOrKeRS.DEV&type=ws#megav.app
 vless://1246e51a-97cd-4d5c-9842-76dd3420bbe2@188.114.97.6:443?encryption=none&host=investor.fb.com.r3xxe.eu.cc&path=id-tksi&security=tls&sni=investor.fb.com.r3xxe.eu.cc&type=ws#megav.app
-vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.241.182:8080?encryption=none&security=none&type=ws#megav.app
