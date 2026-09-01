@@ -2,5 +2,4 @@ vless://31aa0950-eb19-45ff-94a2-af416deb3b90@188.114.97.8:8443?alpn=http%2F1.1&e
 vless://1246e51a-97cd-4d5c-9842-76dd3420bbe2@188.114.97.6:443?encryption=none&host=investor.fb.com.r3xxe.eu.cc&path=id-tksi&security=tls&sni=investor.fb.com.r3xxe.eu.cc&type=ws#megav.app
 trojan://qILX2iK3__aseaW-T&Ab@104.17.95.128:8443?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FLAPyxH6tgsF5uS2LnqitxaXrs6j4%3Fed%3D2560&security=tls&sni=W2r2HnwMlm-p33c1-VNWD.HaMedDSharaBI.wORKeRs.deV&type=ws#megav.app
 trojan://Telegram_healer_config@188.114.97.3:443?alpn=http%2F1.1&fp=chrome&host=cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev&path=%2Ftr%2FGg4NdaZRmdH4LEyYm0pg1FRlUCpLO%3Fed%3D2560&security=tls&sni=CDtfrgmtCSBAARMz-9owPz7G4.f9W96pzKy6un-CoVzx6B-hZLm80WOJ2.workERS.DEv&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaEdYSkc0bkVxVE42MmNERGNEXzhfQ2RkcnBUSG4wdQ==@207.241.172.111:1080#megav.app
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#megav.app
