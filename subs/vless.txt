@@ -1,2 +1,2 @@
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&fp=chrome&security=tls&sni=estproxy4.lockdwn.com&type=tcp#megav.app
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&fp=firefox&security=tls&sni=estproxy4.lockdwn.com&type=tcp#megav.app
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&security=tls&sni=estproxy4.lockdwn.com&type=raw#megav.app
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&security=tls&sni=estproxy4.lockdwn.com&type=tcp#megav.app
