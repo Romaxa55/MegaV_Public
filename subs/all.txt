@@ -1,6 +1,6 @@
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&security=tls&sni=estproxy4.lockdwn.com&type=raw#megav.app
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&security=tls&sni=estproxy4.lockdwn.com&type=tcp#megav.app
-trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@185.220.100.168:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+vless://1246e51a-97cd-4d5c-9842-76dd3420bbe2@188.114.97.6:443?encryption=none&host=investor.fb.com.r3xxe.eu.cc&path=id-tksi&security=tls&sni=investor.fb.com.r3xxe.eu.cc&type=ws#megav.app
+vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.241.182:8080?encryption=none&security=none&type=ws#megav.app
+trojan://qILX2iK3__aseaW-T&Ab@104.17.95.128:8443?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FLAPyxH6tgsF5uS2LnqitxaXrs6j4%3Fed%3D2560&security=tls&sni=W2r2HnwMlm-p33c1-VNWD.HaMedDSharaBI.wORKeRs.deV&type=ws#megav.app
+trojan://Telegram_healer_config@188.114.97.3:443?alpn=http%2F1.1&fp=chrome&host=cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev&path=%2Ftr%2FGg4NdaZRmdH4LEyYm0pg1FRlUCpLO%3Fed%3D2560&security=tls&sni=CDtfrgmtCSBAARMz-9owPz7G4.f9W96pzKy6un-CoVzx6B-hZLm80WOJ2.workERS.DEv&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaEdYSkc0bkVxVE42MmNERGNEXzhfQ2RkcnBUSG4wdQ==@207.241.172.111:1080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8316#megav.app
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#megav.app
