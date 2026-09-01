@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-01T08:00:40Z",
-  "total": 6,
+  "updated_at": "2026-09-01T12:01:04Z",
+  "total": 5,
   "by_protocol": {
-    "shadowsocks": 2,
+    "shadowsocks": 1,
     "trojan": 2,
     "vless": 2
   },
@@ -50,17 +50,6 @@
       "response_ms": 441,
       "bandwidth_kbs": 431,
       "url": "trojan://Telegram_healer_config@188.114.97.3:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev\u0026path=%2Ftr%2FGg4NdaZRmdH4LEyYm0pg1FRlUCpLO%3Fed%3D2560\u0026security=tls\u0026sni=CDtfrgmtCSBAARMz-9owPz7G4.f9W96pzKy6un-CoVzx6B-hZLm80WOJ2.workERS.DEv\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Nuremberg",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 838,
-      "bandwidth_kbs": 421,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaEdYSkc0bkVxVE42MmNERGNEXzhfQ2RkcnBUSG4wdQ==@207.241.172.111:1080#megav.app"
     },
     {
       "protocol": "shadowsocks",
