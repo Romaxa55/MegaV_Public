@@ -1,6 +1,6 @@
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.42.85:8080?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls+&security=none&type=ws#megav.app
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.47.113:80?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&security=none&type=ws#megav.app
 trojan://humanity@104.18.152.187:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@104.18.152.140:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://humanity@208.103.161.159:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?security=none&type=tcp#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?security=none&type=tcp#megav.app
