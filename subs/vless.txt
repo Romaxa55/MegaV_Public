@@ -1,2 +1,2 @@
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.248.50:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&security=reality&sid=dd3ff38418d29d22&sni=eu-west.cendora.ru&type=tcp#megav.app
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.248.50:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&security=reality&sid=dd3ff38418d29d22&sni=eu-west.cendora.ru&type=raw#megav.app
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.21.69:2095?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls&security=none&type=ws#megav.app
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.39.218:80?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtlssecurity%3Dtls&security=none&type=ws#megav.app
