@@ -1,2 +1,2 @@
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.47.113:80?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&security=none&type=ws#megav.app
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.21.69:2095?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls&security=none&type=ws#megav.app
-vless://2e8077d9-7bd9-444b-b2e3-de940d2eb35e@45.90.58.216:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PMYLdOtnvW-ca8Zf6u7CFgGXoGXCvmCMPerPjGY3AAc&security=reality&sid=77d7abe2c55892f1&sni=www.cloudflare.com&type=tcp#megav.app
