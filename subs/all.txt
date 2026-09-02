@@ -1,6 +1,6 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.248.50:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&security=reality&sid=dd3ff38418d29d22&sni=eu-west.cendora.ru&type=tcp#megav.app
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.248.50:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&security=reality&sid=dd3ff38418d29d22&sni=eu-west.cendora.ru&type=raw#megav.app
+trojan://humanity@104.17.111.4:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 trojan://humanity@104.18.152.149:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@188.114.97.6:443?fp=safari&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099?security=none&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443?security=none&type=raw#megav.app
