@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T00:00:39Z",
+  "updated_at": "2026-09-02T04:00:56Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -9,25 +9,25 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 756,
-      "bandwidth_kbs": 462,
-      "url": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.248.50:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=edge\u0026pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0\u0026security=reality\u0026sid=dd3ff38418d29d22\u0026sni=eu-west.cendora.ru\u0026type=tcp#megav.app"
+      "response_ms": 601,
+      "bandwidth_kbs": 413,
+      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.21.69:2095?encryption=none\u0026host=8nj2r.2k8t.f88.hh.vavava.kdns.fr\u0026path=%2F%3Fed%3D2560security%3Dtls\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 889,
-      "bandwidth_kbs": 482,
-      "url": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.248.50:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0\u0026security=reality\u0026sid=dd3ff38418d29d22\u0026sni=eu-west.cendora.ru\u0026type=raw#megav.app"
+      "response_ms": 745,
+      "bandwidth_kbs": 419,
+      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.39.218:80?encryption=none\u0026host=8nj2r.2k8t.f88.hh.vavava.kdns.fr\u0026path=%2F%3Fed%3D2560security%3Dtlssecurity%3Dtls\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -42,14 +42,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1122,
-      "bandwidth_kbs": 419,
-      "url": "trojan://humanity@104.18.152.149:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 1109,
+      "bandwidth_kbs": 430,
+      "url": "trojan://qILX2iK3__aseaW-T\u0026Ab@104.17.90.216:443?alpn=http%2F1.1\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Ftr%2F3DpYmU9Vvab1LO2qTWAwhFxHwsdNd%3Fed%3D2560\u0026security=tls\u0026sni=W2r2HNWMlM-p33C1-VnWD.HAMEddshArAbI.wORkERS.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
