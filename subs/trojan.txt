@@ -1,2 +1,2 @@
+trojan://humanity@45.130.125.75:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
 trojan://humanity@104.16.7.70:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://qILX2iK3__aseaW-T&Ab@104.18.129.94:8443?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2F2jJUrr0k253cjcUzdebuzem%3Fed%3D2560&security=tls&sni=W2R2HnwmLm-p33c1-vNWd.haMedDsharAbI.WoRKErS.dEV&type=ws#megav.app
