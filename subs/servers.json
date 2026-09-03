@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T00:00:39Z",
+  "updated_at": "2026-09-03T04:00:43Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -7,17 +7,6 @@
     "vless": 2
   },
   "servers": [
-    {
-      "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 397,
-      "bandwidth_kbs": 463,
-      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.42.85:8080?encryption=none\u0026host=8nj2r.2k8t.f88.hh.vavava.kdns.fr\u0026path=%2F%3Fed%3D2560security%3Dtls+\u0026security=none\u0026type=ws#megav.app"
-    },
     {
       "protocol": "vless",
       "country_code": "GB",
@@ -30,15 +19,15 @@
       "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.43.187:2086?encryption=none\u0026host=8nj2r.2k8t.f88.hh.vavava.kdns.fr\u0026security=none\u0026type=ws#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "protocol": "vless",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 481,
-      "bandwidth_kbs": 398,
-      "url": "trojan://humanity@104.18.152.187:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 634,
+      "bandwidth_kbs": 431,
+      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.24.131:2086?encryption=none\u0026host=8nj2r.2k8t.f88.hh.vavava.kdns.fr\u0026path=%2F%3Fed%3D2560security%3Dtls+\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -47,31 +36,42 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 771,
-      "bandwidth_kbs": 481,
-      "url": "trojan://humanity@208.103.161.159:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 665,
+      "bandwidth_kbs": 395,
+      "url": "trojan://humanity@104.16.7.70:443?host=www.ignitelimit.com\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 877,
+      "bandwidth_kbs": 454,
+      "url": "trojan://qILX2iK3__aseaW-T\u0026Ab@104.18.129.94:8443?alpn=http%2F1.1\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Ftr%2F2jJUrr0k253cjcUzdebuzem%3Fed%3D2560\u0026security=tls\u0026sni=W2R2HnwmLm-p33c1-vNWd.haMedDsharAbI.WoRKErS.dEV\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "PL",
-      "flag": "🇵🇱",
-      "city": "Warsaw",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2237,
-      "bandwidth_kbs": 460,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#megav.app"
+      "response_ms": 1174,
+      "bandwidth_kbs": 428,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "ZA",
-      "flag": "🇿🇦",
-      "city": "Johannesburg",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2729,
-      "bandwidth_kbs": 446,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?security=none\u0026type=tcp#megav.app"
+      "response_ms": 1621,
+      "bandwidth_kbs": 427,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080?security=none\u0026type=raw#megav.app"
     }
   ]
 }
