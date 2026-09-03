@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388?security=none&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#megav.app
