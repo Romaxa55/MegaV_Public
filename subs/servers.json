@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T20:00:42Z",
+  "updated_at": "2026-09-03T00:00:39Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -25,9 +25,9 @@
       "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 589,
-      "bandwidth_kbs": 488,
-      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.47.113:80?encryption=none\u0026host=8nj2r.2k8t.f88.hh.vavava.kdns.fr\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 571,
+      "bandwidth_kbs": 494,
+      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.43.187:2086?encryption=none\u0026host=8nj2r.2k8t.f88.hh.vavava.kdns.fr\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -53,14 +53,14 @@
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "ZA",
-      "flag": "🇿🇦",
-      "city": "Johannesburg",
+      "country_code": "PL",
+      "flag": "🇵🇱",
+      "city": "Warsaw",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2729,
-      "bandwidth_kbs": 446,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?security=none\u0026type=tcp#megav.app"
+      "response_ms": 2237,
+      "bandwidth_kbs": 460,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -69,9 +69,9 @@
       "city": "Johannesburg",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2927,
-      "bandwidth_kbs": 468,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?security=none\u0026type=tcp#megav.app"
+      "response_ms": 2729,
+      "bandwidth_kbs": 446,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
