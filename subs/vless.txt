@@ -1,2 +1,2 @@
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.43.187:2086?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&security=none&type=ws#megav.app
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.24.131:2086?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls+&security=none&type=ws#megav.app
+vless://48942ced-a272-41c1-98ac-75745d83bf93@116.204.164.60:7443?encryption=none&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=%2F%40Marisa_kristifp%3Dchrome&security=tls&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&type=ws#megav.app
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.16.148.11:2052?encryption=none&host=eu02.123450908.xyz&path=%2Frain1226&security=none&type=ws#megav.app
