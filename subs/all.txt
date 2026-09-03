@@ -1,6 +1,6 @@
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.43.187:2086?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&security=none&type=ws#megav.app
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.24.131:2086?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls+&security=none&type=ws#megav.app
+trojan://humanity@45.130.125.75:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
 trojan://humanity@104.16.7.70:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://qILX2iK3__aseaW-T&Ab@104.18.129.94:8443?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2F2jJUrr0k253cjcUzdebuzem%3Fed%3D2560&security=tls&sni=W2R2HnwmLm-p33c1-vNWd.haMedDsharAbI.WoRKErS.dEV&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080?security=none&type=raw#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#megav.app
