@@ -1,6 +1,6 @@
-vless://48942ced-a272-41c1-98ac-75745d83bf93@116.204.164.60:7443?encryption=none&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=%2F%40Marisa_kristifp%3Dchrome&security=tls&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&type=ws#megav.app
-vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.16.148.11:2052?encryption=none&host=eu02.123450908.xyz&path=%2Frain1226&security=none&type=ws#megav.app
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2086?encryption=none&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
 trojan://humanity@45.130.125.75:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@104.16.7.70:443?host=www.ignitelimit.com&insecure=1&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#megav.app
+trojan://humanity@104.18.152.175:443?host=www.ignitelimit.com&path=%2F%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388?security=none&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#megav.app
