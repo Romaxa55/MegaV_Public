@@ -1,7 +1,5 @@
-vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.100.252:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=decher10.potatosubge20.org&type=tcp#megav.app
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?encryption=none&fp=firefox&path=%2Fvws%2F&security=tls&sni=bab-6.site&type=ws#megav.app
+vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:2053?encryption=none&fp=firefox&mode=gun&pbk=kYTvBfrb1FgbqV6Pb2gpfT5tAnsva6wU6abNMgG2ngw&security=reality&serviceName=grpc&sid=64bb&sni=dzen.ru&type=grpc#megav.app
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.156:9458?encryption=none&fp=chrome&mode=gun&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&spx=%2F&type=grpc#megav.app
 trojan://qILX2iK3__aseaW-T&Ab@104.16.147.251:2087?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FGN7yKetlmQonUtzBeD5Agog4U5MpF%3Fed%3D2560&security=tls&sni=w2r2HnwmLM-P33C1-vNwd.hAMEDdsHArabI.wOrkeRS.DEV&type=ws#megav.app
 trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&fp=edge&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
-ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:80#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443?security=none&type=tcp#megav.app
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0=@167.150.100.115:27755#megav.app
