@@ -1,2 +1,2 @@
-trojan://humanity@216.24.57.1:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@104.17.111.4:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://qILX2iK3__aseaW-T&Ab@104.16.147.251:2087?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FGN7yKetlmQonUtzBeD5Agog4U5MpF%3Fed%3D2560&security=tls&sni=w2r2HnwmLM-P33C1-vNwd.hAMEDdsHArabI.wOrkeRS.DEV&type=ws#megav.app
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&fp=edge&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
