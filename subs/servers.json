@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-04T04:00:49Z",
-  "total": 7,
+  "updated_at": "2026-09-04T08:00:54Z",
+  "total": 5,
   "by_protocol": {
-    "shadowsocks": 2,
     "shadowsocks2022": 1,
     "trojan": 2,
     "vless": 2
@@ -10,25 +9,25 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 475,
-      "bandwidth_kbs": 451,
-      "url": "vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.100.252:443?alpn=h2%2Chttp%2F1.1\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026security=tls\u0026sni=decher10.potatosubge20.org\u0026type=tcp#megav.app"
+      "response_ms": 570,
+      "bandwidth_kbs": 453,
+      "url": "vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:2053?encryption=none\u0026fp=firefox\u0026mode=gun\u0026pbk=kYTvBfrb1FgbqV6Pb2gpfT5tAnsva6wU6abNMgG2ngw\u0026security=reality\u0026serviceName=grpc\u0026sid=64bb\u0026sni=dzen.ru\u0026type=grpc#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Roubaix",
+      "country_code": "SE",
+      "flag": "🇸🇪",
+      "city": "Stockholm",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 489,
-      "bandwidth_kbs": 499,
-      "url": "vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?encryption=none\u0026fp=firefox\u0026path=%2Fvws%2F\u0026security=tls\u0026sni=bab-6.site\u0026type=ws#megav.app"
+      "response_ms": 760,
+      "bandwidth_kbs": 463,
+      "url": "vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.156:9458?encryption=none\u0026fp=chrome\u0026mode=gun\u0026pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY\u0026security=reality\u0026serviceName=TunService\u0026sni=www.google.com\u0026spx=%2F\u0026type=grpc#megav.app"
     },
     {
       "protocol": "trojan",
@@ -51,28 +50,6 @@
       "response_ms": 604,
       "bandwidth_kbs": 402,
       "url": "trojan://humanity@213.182.199.137:443?alpn=http%2F1.1\u0026fp=edge\u0026host=www.pleadcourt.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.pleadcourt.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Karlsruhe",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1452,
-      "bandwidth_kbs": 448,
-      "url": "ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:80#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2113,
-      "bandwidth_kbs": 449,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443?security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks2022",
