@@ -1,5 +1,6 @@
-vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:2053?encryption=none&fp=firefox&mode=gun&pbk=kYTvBfrb1FgbqV6Pb2gpfT5tAnsva6wU6abNMgG2ngw&security=reality&serviceName=grpc&sid=64bb&sni=dzen.ru&type=grpc#megav.app
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.156:9458?encryption=none&fp=chrome&mode=gun&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&spx=%2F&type=grpc#megav.app
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@91.193.17.156:9458?encryption=none&fp=safari&mode=gun&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&spx=%2F&type=grpc#megav.app
 trojan://qILX2iK3__aseaW-T&Ab@104.16.147.251:2087?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FGN7yKetlmQonUtzBeD5Agog4U5MpF%3Fed%3D2560&security=tls&sni=w2r2HnwmLM-P33C1-vNwd.hAMEDdsHArabI.wOrkeRS.DEV&type=ws#megav.app
 trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&fp=edge&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0=@167.150.100.115:27755#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388?security=none&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080?security=none&type=tcp#megav.app
