@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T16:03:04Z",
+  "updated_at": "2026-09-05T20:00:31Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -31,17 +31,6 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 619,
-      "bandwidth_kbs": 444,
-      "url": "trojan://humanity@104.18.152.73:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
       "country_code": "GB",
       "flag": "🇬🇧",
       "city": "Hounslow",
@@ -50,6 +39,17 @@
       "response_ms": 686,
       "bandwidth_kbs": 417,
       "url": "trojan://MiTiVPN@151.101.56.7:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net\u0026path=%2F---TOOTFFARANGI\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 781,
+      "bandwidth_kbs": 469,
+      "url": "trojan://humanity@104.21.46.3:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
