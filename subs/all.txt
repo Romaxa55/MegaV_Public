@@ -1,6 +1,6 @@
-vless://329aa1be-ee6d-4d92-a8ef-c2ddac7583b1@116.204.164.30:7443?ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&encryption=none&fp=chrome&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&path=%2F%40Marisa_kristi+&security=tls&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&type=ws#megav.app
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@144.31.53.52:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QWWpyBLxKBNBvBHMDDr-bt38fh_mD3xjMqlJ5jY-6hQ&security=reality&sni=fi-8.kihsuyhf8jkiugsxb.cfd&type=tcp#megav.app
-trojan://ff5aeddc-8fea-4d17-b504-1a9fdacca802@45.130.125.160:443?fp=chrome&path=%2Fbr-orcl&security=tls&sni=go.appsflyer.com.r3xxe.eu.cc&type=ws#megav.app
+vless://10000025-9365-7424-f000-93edfcf6a020@78.129.221.66:446?encryption=none&flow=xtls-rprx-vision&pbk=9LFDlpt6d56wFwxchaKvyLQHGj3lw3ku1g3X8H9JjEI&security=reality&sid=91e6c6797f49ed84&sni=louisvuitton.com&type=raw#megav.app
+vless://05020afd-d476-406b-8950-ee7dd63a6e64@151.242.168.180:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&security=reality&sid=46babe29a750b634&sni=kibi-institut.de&type=tcp#megav.app
 trojan://humanity@104.18.152.73:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080?security=none&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none&type=tcp#megav.app
+trojan://MiTiVPN@151.101.56.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=%2F---TOOTFFARANGI&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.7:8080#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080?security=none&type=tcp#megav.app
