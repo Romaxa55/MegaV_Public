@@ -1,6 +1,6 @@
 vless://329aa1be-ee6d-4d92-a8ef-c2ddac7583b1@116.204.164.30:7443?ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&encryption=none&fp=chrome&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&path=%2F%40Marisa_kristi+&security=tls&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&type=ws#megav.app
 vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@144.31.53.52:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QWWpyBLxKBNBvBHMDDr-bt38fh_mD3xjMqlJ5jY-6hQ&security=reality&sni=fi-8.kihsuyhf8jkiugsxb.cfd&type=tcp#megav.app
 trojan://ff5aeddc-8fea-4d17-b504-1a9fdacca802@45.130.125.160:443?fp=chrome&path=%2Fbr-orcl&security=tls&sni=go.appsflyer.com.r3xxe.eu.cc&type=ws#megav.app
-trojan://humanity@104.16.174.22:443?fp=chrome&path=%2F%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://humanity@104.18.152.73:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080?security=none&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none&type=tcp#megav.app
