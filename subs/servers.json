@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T00:02:31Z",
+  "updated_at": "2026-09-05T04:04:18Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -9,25 +9,36 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "IT",
+      "flag": "🇮🇹",
+      "city": "Gallarate",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1299,
-      "bandwidth_kbs": 496,
-      "url": "vless://423b1d79-08c4-403f-9d5e-c541f791b55f@87.121.221.200:13443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=safari\u0026pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM\u0026security=reality\u0026sid=a7f3c91b2e6d84c0\u0026sni=auto.cendora.ru\u0026type=tcp#megav.app"
+      "response_ms": 627,
+      "bandwidth_kbs": 498,
+      "url": "vless://329aa1be-ee6d-4d92-a8ef-c2ddac7583b1@116.204.164.30:7443?ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query\u0026encryption=none\u0026fp=chrome\u0026host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev\u0026path=%2F%40Marisa_kristi+\u0026security=tls\u0026sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "FI",
+      "flag": "🇫🇮",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1387,
-      "bandwidth_kbs": 465,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=raw#megav.app"
+      "response_ms": 784,
+      "bandwidth_kbs": 493,
+      "url": "vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@144.31.53.52:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=QWWpyBLxKBNBvBHMDDr-bt38fh_mD3xjMqlJ5jY-6hQ\u0026security=reality\u0026sni=fi-8.kihsuyhf8jkiugsxb.cfd\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 472,
+      "bandwidth_kbs": 489,
+      "url": "trojan://ff5aeddc-8fea-4d17-b504-1a9fdacca802@45.130.125.160:443?fp=chrome\u0026path=%2Fbr-orcl\u0026security=tls\u0026sni=go.appsflyer.com.r3xxe.eu.cc\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -41,15 +52,15 @@
       "url": "trojan://humanity@104.16.174.22:443?fp=chrome\u0026path=%2F%252Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 926,
-      "bandwidth_kbs": 418,
-      "url": "trojan://humanity@216.24.57.7:443?alpn=http%252F1.1\u0026fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 301,
+      "bandwidth_kbs": 471,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -58,20 +69,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 458,
-      "bandwidth_kbs": 442,
+      "response_ms": 335,
+      "bandwidth_kbs": 400,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 970,
-      "bandwidth_kbs": 451,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
