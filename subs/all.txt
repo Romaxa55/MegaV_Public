@@ -1,6 +1,6 @@
-vless://329aa1be-ee6d-4d92-a8ef-c2ddac7583b1@116.204.164.30:7443?encryption=none&fp=chrome&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&type=ws#megav.app
+vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@104.167.24.227:18443?encryption=none&fp=chrome&mode=multi&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&serviceName=grpc&sid=5c766813929a1fdd&sni=gp1.steptofsvo.com&type=grpc#megav.app
 vless://0772109c-a680-4896-b005-d86513194f96@77.110.106.58:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node13.mxvpn.dev&type=tcp#megav.app
 trojan://humanity@104.16.174.101:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&fp=chrome&insecure=1&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
+trojan://humanity@104.16.174.22:443?fp=chrome&path=%2F%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#megav.app
