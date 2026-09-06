@@ -1,2 +1,2 @@
+vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@169.58.143.21:443?encryption=none&fp=firefox&path=%2F&security=tls&sni=finite-node.rtxconfigz.com&type=ws#megav.app
 vless://10000025-9365-7424-f000-93edfcf6a020@78.129.221.66:446?encryption=none&flow=xtls-rprx-vision&pbk=9LFDlpt6d56wFwxchaKvyLQHGj3lw3ku1g3X8H9JjEI&security=reality&sid=91e6c6797f49ed84&sni=louisvuitton.com&type=raw#megav.app
-vless://05020afd-d476-406b-8950-ee7dd63a6e64@151.242.168.180:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&security=reality&sid=46babe29a750b634&sni=kibi-institut.de&type=tcp#megav.app
