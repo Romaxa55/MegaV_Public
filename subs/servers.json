@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T20:00:31Z",
+  "updated_at": "2026-09-06T00:01:43Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -7,6 +7,17 @@
     "vless": 2
   },
   "servers": [
+    {
+      "protocol": "vless",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Lauterbourg",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 677,
+      "bandwidth_kbs": 429,
+      "url": "vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@169.58.143.21:443?encryption=none\u0026fp=firefox\u0026path=%2F\u0026security=tls\u0026sni=finite-node.rtxconfigz.com\u0026type=ws#megav.app"
+    },
     {
       "protocol": "vless",
       "country_code": "GB",
@@ -19,15 +30,15 @@
       "url": "vless://10000025-9365-7424-f000-93edfcf6a020@78.129.221.66:446?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=9LFDlpt6d56wFwxchaKvyLQHGj3lw3ku1g3X8H9JjEI\u0026security=reality\u0026sid=91e6c6797f49ed84\u0026sni=louisvuitton.com\u0026type=raw#megav.app"
     },
     {
-      "protocol": "vless",
-      "country_code": "NO",
-      "flag": "🇳🇴",
-      "city": "Sandefjord",
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1313,
-      "bandwidth_kbs": 458,
-      "url": "vless://05020afd-d476-406b-8950-ee7dd63a6e64@151.242.168.180:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ\u0026security=reality\u0026sid=46babe29a750b634\u0026sni=kibi-institut.de\u0026type=tcp#megav.app"
+      "response_ms": 567,
+      "bandwidth_kbs": 483,
+      "url": "trojan://humanity@104.16.174.33:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -41,15 +52,15 @@
       "url": "trojan://MiTiVPN@151.101.56.7:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net\u0026path=%2F---TOOTFFARANGI\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 781,
-      "bandwidth_kbs": 469,
-      "url": "trojan://humanity@104.21.46.3:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 304,
+      "bandwidth_kbs": 487,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -61,17 +72,6 @@
       "response_ms": 366,
       "bandwidth_kbs": 412,
       "url": "ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.7:8080#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 760,
-      "bandwidth_kbs": 481,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
