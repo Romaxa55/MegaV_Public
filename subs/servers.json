@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T12:03:18Z",
+  "updated_at": "2026-09-06T16:02:37Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -9,14 +9,14 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "IT",
-      "flag": "🇮🇹",
-      "city": "Gallarate",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 866,
-      "bandwidth_kbs": 318,
-      "url": "vless://329aa1be-ee6d-4d92-a8ef-c2ddac7583b1@116.204.164.30:7443?encryption=none\u0026fp=chrome\u0026host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev\u0026path=%2F%40Marisa_kristi\u0026security=tls\u0026sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev\u0026type=ws#megav.app"
+      "response_ms": 993,
+      "bandwidth_kbs": 452,
+      "url": "vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@104.167.24.227:18443?encryption=none\u0026fp=chrome\u0026mode=multi\u0026pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0\u0026security=reality\u0026serviceName=grpc\u0026sid=5c766813929a1fdd\u0026sni=gp1.steptofsvo.com\u0026type=grpc#megav.app"
     },
     {
       "protocol": "vless",
@@ -42,14 +42,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 563,
-      "bandwidth_kbs": 430,
-      "url": "trojan://humanity@188.42.145.180:443?alpn=http%2F1.1\u0026fp=chrome\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.volumeroot.com\u0026type=ws#megav.app"
+      "response_ms": 594,
+      "bandwidth_kbs": 416,
+      "url": "trojan://humanity@104.16.174.22:443?fp=chrome\u0026path=%2F%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
