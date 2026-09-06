@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T00:01:43Z",
+  "updated_at": "2026-09-06T04:02:37Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -20,14 +20,25 @@
     },
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Maidenhead",
+      "country_code": "IT",
+      "flag": "🇮🇹",
+      "city": "Gallarate",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1086,
-      "bandwidth_kbs": 466,
-      "url": "vless://10000025-9365-7424-f000-93edfcf6a020@78.129.221.66:446?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=9LFDlpt6d56wFwxchaKvyLQHGj3lw3ku1g3X8H9JjEI\u0026security=reality\u0026sid=91e6c6797f49ed84\u0026sni=louisvuitton.com\u0026type=raw#megav.app"
+      "response_ms": 866,
+      "bandwidth_kbs": 318,
+      "url": "vless://329aa1be-ee6d-4d92-a8ef-c2ddac7583b1@116.204.164.30:7443?encryption=none\u0026fp=chrome\u0026host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev\u0026path=%2F%40Marisa_kristi\u0026security=tls\u0026sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 563,
+      "bandwidth_kbs": 430,
+      "url": "trojan://humanity@188.42.145.180:443?alpn=http%2F1.1\u0026fp=chrome\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.volumeroot.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -39,17 +50,6 @@
       "response_ms": 567,
       "bandwidth_kbs": 483,
       "url": "trojan://humanity@104.16.174.33:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 686,
-      "bandwidth_kbs": 417,
-      "url": "trojan://MiTiVPN@151.101.56.7:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net\u0026path=%2F---TOOTFFARANGI\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -69,9 +69,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 366,
-      "bandwidth_kbs": 412,
-      "url": "ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.7:8080#megav.app"
+      "response_ms": 1191,
+      "bandwidth_kbs": 449,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#megav.app"
     }
   ]
 }
