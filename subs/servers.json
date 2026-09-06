@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T04:02:37Z",
+  "updated_at": "2026-09-06T08:02:54Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -31,6 +31,17 @@
     },
     {
       "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 554,
+      "bandwidth_kbs": 428,
+      "url": "trojan://humanity@104.16.174.101:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
       "country_code": "NL",
       "flag": "🇳🇱",
       "city": "Haarlem",
@@ -39,17 +50,6 @@
       "response_ms": 563,
       "bandwidth_kbs": 430,
       "url": "trojan://humanity@188.42.145.180:443?alpn=http%2F1.1\u0026fp=chrome\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.volumeroot.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 567,
-      "bandwidth_kbs": 483,
-      "url": "trojan://humanity@104.16.174.33:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -69,9 +69,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1191,
-      "bandwidth_kbs": 449,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#megav.app"
+      "response_ms": 856,
+      "bandwidth_kbs": 489,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#megav.app"
     }
   ]
 }
