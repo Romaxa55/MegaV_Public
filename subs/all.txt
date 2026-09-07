@@ -1,6 +1,6 @@
+vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@104.167.24.227:18443?encryption=none&fp=firefox&mode=gun&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&serviceName=grpc&sid=5c766813929a1fdd&sni=gp1.steptofsvo.com&type=grpc#megav.app
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com&type=tcp#megav.app
-vless://11af1c47-865a-47c6-92ff-118013655d78@51.15.57.139:8080?encryption=none&path=%2F&security=none&type=ws#megav.app
 trojan://humanity@216.24.57.7:443?alpn=http%252F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 trojan://humanity@104.18.152.77:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:80?security=none&type=raw#megav.app
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@51.83.192.80:8388?security=none&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388?security=none&type=raw#megav.app
