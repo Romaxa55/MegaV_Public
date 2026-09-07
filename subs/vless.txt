@@ -1,2 +1,2 @@
-vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@104.18.32.47:443?encryption=none&host=ancient-heart-60c5.dpccgizieb.workers.dev&path=%2FeyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV&type=ws#megav.app
-vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@188.114.98.0:443?encryption=none&fp=firefox&host=ancient-heart-60c5.dpccgizieb.workers.dev&path=%2FeyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV&type=ws#megav.app
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com&type=tcp#megav.app
+vless://11af1c47-865a-47c6-92ff-118013655d78@51.15.57.139:8080?encryption=none&path=%2F&security=none&type=ws#megav.app
