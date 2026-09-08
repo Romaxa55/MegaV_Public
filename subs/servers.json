@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T16:10:12Z",
+  "updated_at": "2026-09-08T20:06:41Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -9,36 +9,25 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Naaldwijk",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 529,
-      "bandwidth_kbs": 451,
-      "url": "vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8\u0026security=reality\u0026sid=85c86a9863\u0026sni=www.intel.com\u0026type=tcp#megav.app"
+      "response_ms": 408,
+      "bandwidth_kbs": 474,
+      "url": "vless://dfc220d1-0b3a-44a2-99e3-8075bcae3b68@45.82.67.183:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=daiJkQwpAcBk7oH1iZzRthMj-jAlqovX7vAiwVqfjTU\u0026security=reality\u0026sid=8880a9f75eb46d91\u0026sni=northwaleswildlifetrust.org.uk\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vless",
       "country_code": "NL",
       "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "city": "Naaldwijk",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 991,
-      "bandwidth_kbs": 449,
-      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.46.46:8080?encryption=none\u0026host=8nj2r.2k8t.f88.hh.vavava.kdns.fr\u0026security=none\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 705,
-      "bandwidth_kbs": 416,
-      "url": "trojan://humanity@104.17.177.143:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 460,
+      "bandwidth_kbs": 453,
+      "url": "vless://dfc220d1-0b3a-44a2-99e3-8075bcae3b68@45.82.67.183:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=random\u0026pbk=daiJkQwpAcBk7oH1iZzRthMj-jAlqovX7vAiwVqfjTU\u0026security=reality\u0026sid=8880a9f75eb46d91\u0026sni=northwaleswildlifetrust.org.uk\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -50,6 +39,17 @@
       "response_ms": 772,
       "bandwidth_kbs": 439,
       "url": "trojan://humanity@104.16.174.117:443?path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1024,
+      "bandwidth_kbs": 444,
+      "url": "trojan://humanity@185.114.72.31:2053?path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
