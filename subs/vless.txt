@@ -1,2 +1,2 @@
-vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&security=reality&sid=85c86a9863&sni=www.intel.com&type=tcp#megav.app
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.46.46:8080?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&security=none&type=ws#megav.app
+vless://dfc220d1-0b3a-44a2-99e3-8075bcae3b68@45.82.67.183:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=daiJkQwpAcBk7oH1iZzRthMj-jAlqovX7vAiwVqfjTU&security=reality&sid=8880a9f75eb46d91&sni=northwaleswildlifetrust.org.uk&type=tcp#megav.app
+vless://dfc220d1-0b3a-44a2-99e3-8075bcae3b68@45.82.67.183:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=daiJkQwpAcBk7oH1iZzRthMj-jAlqovX7vAiwVqfjTU&security=reality&sid=8880a9f75eb46d91&sni=northwaleswildlifetrust.org.uk&type=tcp#megav.app
