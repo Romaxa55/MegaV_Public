@@ -5,4 +5,4 @@ vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?security=none&
 trojan://humanity@104.17.148.22:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 trojan://humanity@104.18.152.108:443?path=%2Fassignment%23US%E7%BE%8E%E5%9B%BD%28ProxyGo%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388?security=none&type=tcp#megav.app
-ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:80?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?security=none&type=tcp#megav.app
