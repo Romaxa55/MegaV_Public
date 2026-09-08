@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T08:01:28Z",
+  "updated_at": "2026-09-08T12:11:48Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -15,20 +15,20 @@
       "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 376,
-      "bandwidth_kbs": 480,
-      "url": "vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.18.122.123:2053?alpn=http%2F1.1\u0026encryption=none\u0026host=indEX.hARmonIca01.woRKerS.dEv\u0026path=%2F9ei5zb6lq95285foxa\u0026security=tls\u0026sni=indEX.hARmonIca01.woRKerS.dEv\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
-      "tier": "silver",
-      "speed_label": "hd",
       "response_ms": 447,
       "bandwidth_kbs": 489,
       "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.24.131:8080?encryption=none\u0026host=8nj2r.2k8t.f88.hh.vavava.kdns.fr\u0026path=%2F%3Fed%3D2560security%3Dtls\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 529,
+      "bandwidth_kbs": 451,
+      "url": "vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8\u0026security=reality\u0026sid=85c86a9863\u0026sni=www.intel.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
@@ -81,9 +81,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 557,
-      "bandwidth_kbs": 492,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388?security=none\u0026type=tcp#megav.app"
+      "response_ms": 1972,
+      "bandwidth_kbs": 491,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -92,9 +92,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1972,
-      "bandwidth_kbs": 491,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?security=none\u0026type=tcp#megav.app"
+      "response_ms": 3183,
+      "bandwidth_kbs": 403,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#megav.app"
     }
   ]
 }
