@@ -1,2 +1,2 @@
-vmess://2a2645fe-34b6-4b0b-87bb-241cd17bb71f@m.cnmjin.net:16645?host=1a7b4b2d69cfc3485134b5ca9cc738f6.mobgslb.tbcache.com&path=%2F&security=none&type=ws#megav.app
-vmess://2a2645fe-34b6-4b0b-87bb-241cd17bb71f@t.cnmjcn.cyou:16645?host=1a7b4b2d69cfc3485134b5ca9cc738f6.mobgslb.tbcache.com&path=%2F&security=none&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?security=none&type=raw#megav.app
+vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?security=none&type=raw#megav.app
