@@ -1,55 +1,78 @@
 {
-  "updated_at": "2026-09-08T00:04:35Z",
-  "total": 6,
+  "updated_at": "2026-09-08T04:04:24Z",
+  "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
-    "vless": 2
+    "vless": 2,
+    "vmess": 2
   },
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 556,
-      "bandwidth_kbs": 487,
-      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@8.6.112.86:2095?encryption=none\u0026host=8nj2r.2k8t.f88.hh.vavava.kdns.fr\u0026path=%2F%3Fed%3D2560security%3Dtls\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 376,
+      "bandwidth_kbs": 480,
+      "url": "vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.18.122.123:2053?alpn=http%2F1.1\u0026encryption=none\u0026host=indEX.hARmonIca01.woRKerS.dEv\u0026path=%2F9ei5zb6lq95285foxa\u0026security=tls\u0026sni=indEX.hARmonIca01.woRKerS.dEv\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1124,
+      "response_ms": 447,
+      "bandwidth_kbs": 489,
+      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.24.131:8080?encryption=none\u0026host=8nj2r.2k8t.f88.hh.vavava.kdns.fr\u0026path=%2F%3Fed%3D2560security%3Dtls\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "ES",
+      "flag": "🇪🇸",
+      "city": "Madrid",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1287,
+      "bandwidth_kbs": 476,
+      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Buffalo",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1689,
+      "bandwidth_kbs": 423,
+      "url": "vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 514,
+      "bandwidth_kbs": 449,
+      "url": "trojan://humanity@104.17.148.22:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 597,
       "bandwidth_kbs": 494,
-      "url": "vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@104.167.24.227:18443?encryption=none\u0026fp=firefox\u0026mode=gun\u0026pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0\u0026security=reality\u0026serviceName=grpc\u0026sid=5c766813929a1fdd\u0026sni=gp1.steptofsvo.com\u0026type=grpc#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 811,
-      "bandwidth_kbs": 421,
-      "url": "trojan://humanity@104.21.8.107:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 899,
-      "bandwidth_kbs": 428,
-      "url": "trojan://humanity@104.18.152.161:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "url": "trojan://humanity@104.18.152.108:443?path=%2Fassignment%23US%E7%BE%8E%E5%9B%BD%28ProxyGo%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
