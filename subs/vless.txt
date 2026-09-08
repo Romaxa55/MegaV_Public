@@ -1,2 +1,2 @@
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@8.6.112.86:2095?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls&security=none&type=ws#megav.app
-vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@104.167.24.227:18443?encryption=none&fp=firefox&mode=gun&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&serviceName=grpc&sid=5c766813929a1fdd&sni=gp1.steptofsvo.com&type=grpc#megav.app
+vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.18.122.123:2053?alpn=http%2F1.1&encryption=none&host=indEX.hARmonIca01.woRKerS.dEv&path=%2F9ei5zb6lq95285foxa&security=tls&sni=indEX.hARmonIca01.woRKerS.dEv&type=ws#megav.app
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.24.131:8080?encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls&security=none&type=ws#megav.app
