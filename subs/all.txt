@@ -1,6 +1,6 @@
 vless://dfc220d1-0b3a-44a2-99e3-8075bcae3b68@45.82.67.183:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=daiJkQwpAcBk7oH1iZzRthMj-jAlqovX7vAiwVqfjTU&security=reality&sid=8880a9f75eb46d91&sni=northwaleswildlifetrust.org.uk&type=tcp#megav.app
 vless://dfc220d1-0b3a-44a2-99e3-8075bcae3b68@45.82.67.183:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=daiJkQwpAcBk7oH1iZzRthMj-jAlqovX7vAiwVqfjTU&security=reality&sid=8880a9f75eb46d91&sni=northwaleswildlifetrust.org.uk&type=tcp#megav.app
 trojan://humanity@104.16.174.117:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?fp=edge&insecure=1&security=tls&type=tcp#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWE41Tmx6allKRVFHOG9mTUh3bHpF@77.221.155.75:12576#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#megav.app
