@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T00:02:42Z",
+  "updated_at": "2026-09-09T04:02:36Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -31,25 +31,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 772,
-      "bandwidth_kbs": 439,
-      "url": "trojan://humanity@104.16.174.117:443?path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 588,
+      "bandwidth_kbs": 488,
+      "url": "trojan://qILX2iK3__aseaW-T\u0026Ab@104.17.95.128:8443?alpn=http%2F1.1\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Ftr%2FLAPyxH6tgsF5uS2LnqitxaXrs6j4%3Fed%3D2560\u0026security=tls\u0026sni=W2r2HnwMlm-p33c1-VNWD.HaMedDSharaBI.wORKeRs.deV\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "SG",
-      "flag": "🇸🇬",
-      "city": "Singapore",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 4082,
-      "bandwidth_kbs": 451,
-      "url": "trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?fp=edge\u0026insecure=1\u0026security=tls\u0026type=tcp#megav.app"
+      "response_ms": 680,
+      "bandwidth_kbs": 477,
+      "url": "trojan://qILX2iK3__aseaW-T\u0026Ab@104.18.129.94:8443?alpn=http%2F1.1\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Ftr%2F2jJUrr0k253cjcUzdebuzem%3Fed%3D2560\u0026security=tls\u0026sni=W2R2HnwmLm-p33c1-vNWd.haMedDsharAbI.WoRKErS.dEV\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -58,9 +58,9 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 927,
-      "bandwidth_kbs": 489,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWE41Tmx6allKRVFHOG9mTUh3bHpF@77.221.155.75:12576#megav.app"
+      "response_ms": 291,
+      "bandwidth_kbs": 451,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#megav.app"
     },
     {
       "protocol": "shadowsocks",
