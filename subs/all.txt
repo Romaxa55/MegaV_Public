@@ -1,4 +1,6 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.145.30:8880?encryption=none&host=vms.lifetime35.workers.dev&security=none&type=ws#megav.app
 vless://7b363f9c-3df9-4b60-a789-9cd36be0bdfe@151.242.168.125:390?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=5RCgAVjaT7hwdVIKAEULswXGqR127ZOZV6X17nEhYk8&security=reality&sid=b545fe8c5e22f92d&sni=bowandbead.com&type=tcp#megav.app
-vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.16.148.3:2052?encryption=none&host=eu02.123450908.xyz&path=%2Frain1226&security=none&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388?security=none&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388?security=none&type=raw#megav.app
+trojan://ff5aeddc-8fea-4d17-b504-1a9fdacca802@45.130.125.160:443?host=go.appsflyer.com.r3xxe.eu.cc&path=br-orcl&security=tls&sni=go.appsflyer.com.r3xxe.eu.cc&type=ws#megav.app
+trojan://humanity@104.16.174.124:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#megav.app
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@51.83.192.80:8388?security=none&type=tcp#megav.app
