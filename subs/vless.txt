@@ -1,2 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.145.30:8880?encryption=none&host=vms.lifetime35.workers.dev&security=none&type=ws#megav.app
 vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&security=reality&sid=af04ff8094115e93&sni=178.105.61.61&type=tcp#megav.app
+vless://2c070f10-57e8-442b-b6cb-ff39b35d929d@95.85.245.163:442?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=urhSusjL1QqHdmlCrvbC9yBftecrgQMuhWmfGh0CUFg&security=reality&sid=ab&sni=p-nt-www-amazon-com-kalias.amazon.com&type=raw#megav.app
