@@ -1,5 +1,5 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.145.30:8880?encryption=none&host=vms.lifetime35.workers.dev&security=none&type=ws#megav.app
-vless://7b363f9c-3df9-4b60-a789-9cd36be0bdfe@151.242.168.125:390?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=5RCgAVjaT7hwdVIKAEULswXGqR127ZOZV6X17nEhYk8&security=reality&sid=b545fe8c5e22f92d&sni=bowandbead.com&type=tcp#megav.app
+vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&security=reality&sid=af04ff8094115e93&sni=178.105.61.61&type=tcp#megav.app
 trojan://ff5aeddc-8fea-4d17-b504-1a9fdacca802@45.130.125.160:443?host=go.appsflyer.com.r3xxe.eu.cc&path=br-orcl&security=tls&sni=go.appsflyer.com.r3xxe.eu.cc&type=ws#megav.app
 trojan://Telegram_healer_config@104.21.4.124:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FW3Ei3SdcW9sRVMLIbEd8sB1lm%3Fed%3D2560&security=tls&sni=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&type=ws#megav.app
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#megav.app
