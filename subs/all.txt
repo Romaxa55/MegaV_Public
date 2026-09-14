@@ -1,5 +1,4 @@
 vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&security=reality&sid=af04ff8094115e93&sni=178.105.61.61&type=tcp#megav.app
 vless://2c070f10-57e8-442b-b6cb-ff39b35d929d@95.85.245.163:442?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=urhSusjL1QqHdmlCrvbC9yBftecrgQMuhWmfGh0CUFg&security=reality&sid=ab&sni=p-nt-www-amazon-com-kalias.amazon.com&type=raw#megav.app
-trojan://Telegram_healer_config@104.21.4.124:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FW3Ei3SdcW9sRVMLIbEd8sB1lm%3Fed%3D2560&security=tls&sni=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&type=ws#megav.app
-trojan://Telegram_healer_config@188.114.97.3:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2Fox5zBiRQjs2Rscy0XwxXY2ZzE%3Fed%3D2560&security=tls&sni=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388?security=none&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#megav.app
