@@ -1,2 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.145.30:8880?encryption=none&host=vms.lifetime35.workers.dev&security=none&type=ws#megav.app
 vless://7b363f9c-3df9-4b60-a789-9cd36be0bdfe@151.242.168.125:390?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=5RCgAVjaT7hwdVIKAEULswXGqR127ZOZV6X17nEhYk8&security=reality&sid=b545fe8c5e22f92d&sni=bowandbead.com&type=tcp#megav.app
-vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.16.148.3:2052?encryption=none&host=eu02.123450908.xyz&path=%2Frain1226&security=none&type=ws#megav.app
