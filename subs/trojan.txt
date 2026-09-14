@@ -1,2 +1,2 @@
 trojan://ff5aeddc-8fea-4d17-b504-1a9fdacca802@45.130.125.160:443?host=go.appsflyer.com.r3xxe.eu.cc&path=br-orcl&security=tls&sni=go.appsflyer.com.r3xxe.eu.cc&type=ws#megav.app
-trojan://humanity@104.16.174.124:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://Telegram_healer_config@104.21.4.124:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FW3Ei3SdcW9sRVMLIbEd8sB1lm%3Fed%3D2560&security=tls&sni=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&type=ws#megav.app
