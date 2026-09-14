@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T04:00:35Z",
+  "updated_at": "2026-09-14T08:00:43Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -42,14 +42,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1187,
-      "bandwidth_kbs": 480,
-      "url": "trojan://humanity@104.16.174.124:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 1007,
+      "bandwidth_kbs": 489,
+      "url": "trojan://Telegram_healer_config@104.21.4.124:443?alpn=http%2F1.1\u0026fp=chrome\u0026path=%2Ftr%2FW3Ei3SdcW9sRVMLIbEd8sB1lm%3Fed%3D2560\u0026security=tls\u0026sni=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
