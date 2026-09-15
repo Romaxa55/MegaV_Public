@@ -1,9 +1,8 @@
 {
-  "updated_at": "2026-09-15T16:06:27Z",
-  "total": 6,
+  "updated_at": "2026-09-15T20:01:33Z",
+  "total": 3,
   "by_protocol": {
-    "shadowsocks": 2,
-    "trojan": 2,
+    "trojan": 1,
     "vless": 2
   },
   "servers": [
@@ -20,58 +19,25 @@
     },
     {
       "protocol": "vless",
-      "country_code": "TR",
-      "flag": "🇹🇷",
-      "city": "Istanbul",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 926,
-      "bandwidth_kbs": 424,
-      "url": "vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@107.161.174.26:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc\u0026security=reality\u0026sni=books.blackbigdog.com\u0026type=tcp#megav.app"
+      "response_ms": 651,
+      "bandwidth_kbs": 439,
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "HK",
+      "flag": "🇭🇰",
+      "city": "Kwai Chung",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 344,
-      "bandwidth_kbs": 431,
-      "url": "trojan://Telegram_healer_config@188.114.97.8:443?alpn=http%2F1.1\u0026host=y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev\u0026path=%2Ftr%2FSniOCmVMzIWOA1FDZDeGODGx2lS1LV%3Fed%3D2560\u0026security=tls\u0026sni=y9p34jPJMqjAZaYPF.pIiwdDIlXjcQEHR17aF22U7xK-yU.workers.DEv\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 376,
-      "bandwidth_kbs": 465,
-      "url": "trojan://qILX2iK3__aseaW-T\u0026Ab@104.16.25.255:2096?alpn=http%2F1.1\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Ftr%2FW7XzNIMJj7K74GIIRozMvBbUOzemL%3Fed%3D2560\u0026security=tls\u0026sni=w2R2hnwMlM-p33c1-VnwD.hAMedDsHaRabI.workErs.DEv\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 625,
-      "bandwidth_kbs": 440,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388?security=none\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "ES",
-      "flag": "🇪🇸",
-      "city": "Barcelona",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2350,
-      "bandwidth_kbs": 492,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#megav.app"
+      "response_ms": 3025,
+      "bandwidth_kbs": 432,
+      "url": "trojan://BxceQaOe@119.246.1.143:443?alpn=http%2F1.1\u0026fp=chrome\u0026insecure=1\u0026security=tls\u0026type=tcp#megav.app"
     }
   ]
 }
