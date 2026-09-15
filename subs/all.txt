@@ -1,6 +1,8 @@
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&security=tls&sni=estproxy4.lockdwn.com&type=raw#megav.app
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#megav.app
-trojan://humanity@104.21.33.59:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
-trojan://humanity@172.64.148.197:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+vless://bd01efed-f999-41a5-bbb1-3d2357647f11@129.151.64.169:31867?encryption=none&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&path=%2F%40Marisa_kristifp%3Dchrome&security=tls&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&type=ws#megav.app
+vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?encryption=none&fp=firefox&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&security=reality&sid=f7b2&sni=deepl.com&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?security=none&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=raw#megav.app
+trojan://Telegram_healer_config@188.114.96.3:443?alpn=http%2F1.1&fp=chrome&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&path=%2Ftr%2FN61UxT346epoPVmA9xFM6H00%3Fed%3D2560&security=tls&sni=6M1RGYiecLMrX9HEf1.z6-0hLNuBjIBWzPa85.wOrkers.DEv&type=ws#megav.app
+trojan://Telegram_healer_config@104.17.147.22:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FVQ1n6VuZtSQv0vvjjCG%3Fed%3D2560&security=tls&sni=BjSa2yGfiTzJtho8uCZE29Xf2M2Q9C.g3fIAjPF0erM9k3X6wW-YeGZl2.WORkERS.dev&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388?security=none&type=raw#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#megav.app
