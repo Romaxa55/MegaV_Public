@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:05:30Z",
+  "updated_at": "2026-09-15T12:08:03Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -21,14 +21,14 @@
     },
     {
       "protocol": "vless",
-      "country_code": "FI",
-      "flag": "🇫🇮",
-      "city": "Helsinki",
+      "country_code": "NO",
+      "flag": "🇳🇴",
+      "city": "Nordland",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 792,
-      "bandwidth_kbs": 478,
-      "url": "vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?encryption=none\u0026fp=firefox\u0026mode=gun\u0026security=tls\u0026serviceName=se02-grpc-8e47a\u0026sni=hub-se-02.hanvpn.cc\u0026type=grpc#megav.app"
+      "response_ms": 847,
+      "bandwidth_kbs": 473,
+      "url": "vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?encryption=none\u0026fp=firefox\u0026pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc\u0026security=reality\u0026sid=f7b2\u0026sni=deepl.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
