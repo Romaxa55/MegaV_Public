@@ -1,8 +1,6 @@
-vless://bd01efed-f999-41a5-bbb1-3d2357647f11@129.151.64.169:31867?encryption=none&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&path=%2F%40Marisa_kristifp%3Dchrome&security=tls&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&type=ws#megav.app
-vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?encryption=none&fp=firefox&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&security=reality&sid=f7b2&sni=deepl.com&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?security=none&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=raw#megav.app
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@84.32.186.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=naFxXMoZGp3dHSEMiupvt7FsYtnxONkSN90c2JLWl38&security=reality&sid=974acf45&sni=api37.betust.net&type=raw#megav.app
+vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@107.161.174.26:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc&security=reality&sni=books.blackbigdog.com&type=tcp#megav.app
 trojan://Telegram_healer_config@188.114.97.8:443?alpn=http%2F1.1&host=y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev&path=%2Ftr%2FSniOCmVMzIWOA1FDZDeGODGx2lS1LV%3Fed%3D2560&security=tls&sni=y9p34jPJMqjAZaYPF.pIiwdDIlXjcQEHR17aF22U7xK-yU.workers.DEv&type=ws#megav.app
 trojan://qILX2iK3__aseaW-T&Ab@104.16.25.255:2096?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FW7XzNIMJj7K74GIIRozMvBbUOzemL%3Fed%3D2560&security=tls&sni=w2R2hnwMlM-p33c1-VnwD.hAMedDsHaRabI.workErs.DEv&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388?security=none&type=tcp#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#megav.app
