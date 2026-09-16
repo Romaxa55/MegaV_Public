@@ -1,2 +1,2 @@
-trojan://MITIVPN@167.82.76.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---ss--s---mitivpn-33s.global.ssl.fastly.net&path=%40bored_vpn&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://qILX2iK3__aseaW-T&Ab@104.18.129.94:2083?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FeApNjPrxRNjFeoJ0kgeeEg7rs%3Fed%3D2560&security=tls&sni=w2R2HNwmLM-p33c1-vNwD.hAmeDdsHarabI.wOrKErS.dEv&type=ws#megav.app
+trojan://qILX2iK3__aseaW-T&Ab@104.16.25.255:2096?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FW7XzNIMJj7K74GIIRozMvBbUOzemL%3Fed%3D2560&security=tls&sni=w2R2hnwMlM-p33c1-VnwD.hAMedDsHaRabI.workErs.DEv&type=ws#megav.app
+trojan://qILX2iK3__aseaW-T&Ab@172.67.229.159:2083?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FrUQQrrcrdSAbNziI1n9fE3%3Fed%3D2560&security=tls&sni=W2R2HNwmlM-p33c1-VNwD.hAMedDSharaBi.woRKers.dEv&type=ws#megav.app
