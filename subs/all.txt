@@ -1,9 +1,8 @@
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
-vless://d731cf09-79a6-4647-aabe-8e0fda4fe3be@57.129.130.63:52014?encryption=none&fp=chrome&path=%2F%40Marisa_kristi&security=tls&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&type=ws#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.37:180?security=none&type=raw#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#megav.app
 trojan://qILX2iK3__aseaW-T&Ab@104.16.25.255:2096?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FW7XzNIMJj7K74GIIRozMvBbUOzemL%3Fed%3D2560&security=tls&sni=w2R2hnwMlM-p33c1-VnwD.hAMedDsHaRabI.workErs.DEv&type=ws#megav.app
 trojan://qILX2iK3__aseaW-T&Ab@172.67.229.159:2083?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FrUQQrrcrdSAbNziI1n9fE3%3Fed%3D2560&security=tls&sni=W2R2HNwmlM-p33c1-VNwD.hAMedDSharaBi.woRKers.dEv&type=ws#megav.app
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443?security=none&type=raw#megav.app
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmFDdHBlTWlldEdzSlk1MGg2akRXNnc9PQ==@178.104.246.215:4680#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?security=none&type=tcp#megav.app
