@@ -1,4 +1,7 @@
-vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@84.32.186.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=naFxXMoZGp3dHSEMiupvt7FsYtnxONkSN90c2JLWl38&security=reality&sid=974acf45&sni=api37.betust.net&type=raw#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
-trojan://BxceQaOe@119.246.1.143:443?alpn=http%2F1.1&fp=chrome&insecure=1&security=tls&type=tcp#megav.app
-trojan://humanity@185.114.72.31:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+vless://d731cf09-79a6-4647-aabe-8e0fda4fe3be@57.129.130.63:52014?encryption=none&fp=chrome&path=%2F%40Marisa_kristi&security=tls&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&type=ws#megav.app
+vless://50414e45-4c5f-5a45-5553-a10396c0eb0f@160.153.0.192:80?encryption=none&host=9dz4quexuuos.javad-ghoreyshi11.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fa10396c0eb0f&security=none&type=ws#megav.app
+trojan://MITIVPN@167.82.76.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---ss--s---mitivpn-33s.global.ssl.fastly.net&path=%40bored_vpn&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://qILX2iK3__aseaW-T&Ab@104.18.129.94:2083?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FeApNjPrxRNjFeoJ0kgeeEg7rs%3Fed%3D2560&security=tls&sni=w2R2HNwmLM-p33c1-vNwD.hAmeDdsHarabI.wOrKErS.dEv&type=ws#megav.app
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443?security=none&type=raw#megav.app
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmFDdHBlTWlldEdzSlk1MGg2akRXNnc9PQ==@178.104.246.215:4680#megav.app
