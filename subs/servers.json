@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-15T20:01:33Z",
-  "total": 3,
+  "updated_at": "2026-09-16T00:00:53Z",
+  "total": 4,
   "by_protocol": {
-    "trojan": 1,
+    "trojan": 2,
     "vless": 2
   },
   "servers": [
@@ -38,6 +38,17 @@
       "response_ms": 3025,
       "bandwidth_kbs": 432,
       "url": "trojan://BxceQaOe@119.246.1.143:443?alpn=http%2F1.1\u0026fp=chrome\u0026insecure=1\u0026security=tls\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 7038,
+      "bandwidth_kbs": 477,
+      "url": "trojan://humanity@185.114.72.31:2053?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
     }
   ]
 }
