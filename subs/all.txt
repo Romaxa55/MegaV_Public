@@ -1,6 +1,5 @@
 vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@139.64.235.115:443?encryption=none&path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&sni=nb.lovecf.ggff.net&type=ws#megav.app
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@109.176.239.123:443?encryption=none&fp=chrome&host=notls.lukongtou.eu.org&security=tls&sni=notls.lukongtou.eu.org&type=ws#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?security=none&type=raw#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?security=none&type=raw#megav.app
 trojan://humanity@104.18.152.140:443?fp=chrome&path=%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 trojan://humanity@104.18.152.113:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
