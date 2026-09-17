@@ -1,2 +1,2 @@
-trojan://Telegram_healer_config@172.67.182.52:443?alpn=http%2F1.1&fp=chrome&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV&type=ws#megav.app
-trojan://Tg3RnK7Xp8B1@136.244.86.129:443?insecure=1&security=tls&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com&type=tcp#megav.app
+trojan://humanity@104.18.152.140:443?fp=chrome&path=%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://humanity@104.18.152.113:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
