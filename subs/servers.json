@@ -1,8 +1,9 @@
 {
-  "updated_at": "2026-09-17T16:03:35Z",
-  "total": 6,
+  "updated_at": "2026-09-17T20:02:01Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
+    "shadowsocks2022": 1,
     "trojan": 2,
     "vless": 2
   },
@@ -36,20 +37,20 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 549,
-      "bandwidth_kbs": 445,
-      "url": "trojan://humanity@104.18.152.140:443?fp=chrome\u0026path=%252Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 2674,
+      "bandwidth_kbs": 423,
+      "url": "trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 653,
-      "bandwidth_kbs": 406,
-      "url": "trojan://humanity@104.18.152.113:443?path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 17695,
+      "bandwidth_kbs": 481,
+      "url": "trojan://humanity@104.21.33.59:443?alpn=http%2F1.1\u0026fp=unsafe\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.pleadcourt.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -72,6 +73,17 @@
       "response_ms": 1920,
       "bandwidth_kbs": 446,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks2022",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Beauharnois",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 9317,
+      "bandwidth_kbs": 472,
+      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
