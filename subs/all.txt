@@ -1,8 +1,8 @@
 vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@139.64.235.115:443?encryption=none&path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&sni=nb.lovecf.ggff.net&type=ws#megav.app
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@109.176.239.123:443?encryption=none&fp=chrome&host=notls.lukongtou.eu.org&security=tls&sni=notls.lukongtou.eu.org&type=ws#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@67.220.72.237:22324#megav.app
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?security=none&type=raw#megav.app
-trojan://Telegram_healer_config@172.67.182.52:443?alpn=http%2F1.1&fp=chrome&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV&type=ws#megav.app
-trojan://Tg3RnK7Xp8B1@136.244.86.129:443?insecure=1&security=tls&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com&type=tcp#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?security=none&type=raw#megav.app
+trojan://humanity@104.18.152.140:443?fp=chrome&path=%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://humanity@104.18.152.113:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?security=none&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?security=none&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080?security=none&type=raw#megav.app
