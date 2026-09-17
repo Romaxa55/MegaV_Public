@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T04:03:45Z",
+  "updated_at": "2026-09-17T08:04:14Z",
   "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
@@ -34,17 +34,6 @@
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Los Angeles",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2336,
-      "bandwidth_kbs": 488,
-      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@67.220.72.237:22324#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
       "city": "Ashburn",
       "tier": "silver",
       "speed_label": "hd",
@@ -53,26 +42,48 @@
       "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?security=none\u0026type=raw#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Miami",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1036,
-      "bandwidth_kbs": 471,
-      "url": "trojan://Telegram_healer_config@172.67.182.52:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev\u0026path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560\u0026security=tls\u0026sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV\u0026type=ws#megav.app"
+      "response_ms": 2917,
+      "bandwidth_kbs": 456,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3032,
-      "bandwidth_kbs": 457,
-      "url": "trojan://Tg3RnK7Xp8B1@136.244.86.129:443?insecure=1\u0026security=tls\u0026sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com\u0026type=tcp#megav.app"
+      "response_ms": 549,
+      "bandwidth_kbs": 445,
+      "url": "trojan://humanity@104.18.152.140:443?fp=chrome\u0026path=%252Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 653,
+      "bandwidth_kbs": 406,
+      "url": "trojan://humanity@104.18.152.113:443?path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Hillsboro",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2009,
+      "bandwidth_kbs": 480,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -84,17 +95,6 @@
       "response_ms": 2475,
       "bandwidth_kbs": 445,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2975,
-      "bandwidth_kbs": 471,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080?security=none\u0026type=raw#megav.app"
     }
   ]
 }
