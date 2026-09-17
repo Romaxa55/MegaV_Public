@@ -1,24 +1,13 @@
 {
-  "updated_at": "2026-09-16T20:07:49Z",
-  "total": 7,
+  "updated_at": "2026-09-17T00:04:44Z",
+  "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
-    "vmess": 1
+    "vmess": 2
   },
   "servers": [
-    {
-      "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 365,
-      "bandwidth_kbs": 429,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=edge\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
-    },
     {
       "protocol": "vless",
       "country_code": "DE",
@@ -31,6 +20,17 @@
       "url": "vless://ab33aeb8-3414-4c53-a7cf-5c61dc470d7e@178.105.61.61:80?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=YFiMGe_OQouur1MvMJso9nOkOXTqRbZlUibRxFZo31k\u0026security=reality\u0026sid=c222b3a1d42cad90\u0026sni=www.yahoo.com\u0026type=tcp#megav.app"
     },
     {
+      "protocol": "vless",
+      "country_code": "AE",
+      "flag": "🇦🇪",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 752,
+      "bandwidth_kbs": 460,
+      "url": "vless://b994ec00-699f-4890-974d-c06777be94a5@31.58.181.88:8443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=AERbWB2uslqIzm1hSlOZZEH3Y9qg_zlWRRyLfh97kXc\u0026security=reality\u0026sni=tradingview.com\u0026type=raw#megav.app"
+    },
+    {
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
@@ -40,6 +40,17 @@
       "response_ms": 2336,
       "bandwidth_kbs": 488,
       "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@67.220.72.237:22324#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Ashburn",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2569,
+      "bandwidth_kbs": 452,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
