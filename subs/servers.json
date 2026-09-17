@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-17T08:04:14Z",
-  "total": 8,
+  "updated_at": "2026-09-17T12:03:36Z",
+  "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
-    "vmess": 2
+    "vmess": 1
   },
   "servers": [
     {
@@ -29,17 +29,6 @@
       "response_ms": 438,
       "bandwidth_kbs": 477,
       "url": "vless://1d16c6e0-1bbe-435b-b661-90043fee999c@109.176.239.123:443?encryption=none\u0026fp=chrome\u0026host=notls.lukongtou.eu.org\u0026security=tls\u0026sni=notls.lukongtou.eu.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Ashburn",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2569,
-      "bandwidth_kbs": 452,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "vmess",
