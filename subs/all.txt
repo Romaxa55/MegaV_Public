@@ -1,7 +1,6 @@
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@139.64.235.115:443?encryption=none&path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&sni=nb.lovecf.ggff.net&type=ws#megav.app
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@109.176.239.123:443?encryption=none&fp=chrome&host=notls.lukongtou.eu.org&security=tls&sni=notls.lukongtou.eu.org&type=ws#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?security=none&type=raw#megav.app
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?authority=%2F%3FTELEGRAM-madshopx&encryption=none&fp=firefox&mode=gun&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&security=reality&serviceName=media.v1.ObjectService&sid=1469af2040b7c323&sni=rs2.univesalsrv.com&type=grpc#megav.app
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?authority=%2F%3FTELEGRAM--MARAMBASHI&encryption=none&fp=firefox&mode=gun&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&security=reality&serviceName=media.v1.ObjectService&sid=1469af2040b7c323&sni=rs2.univesalsrv.com&type=grpc#megav.app
 trojan://humanity@104.18.152.140:443?fp=chrome&path=%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 trojan://humanity@104.18.152.113:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?security=none&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?security=none&type=tcp#megav.app
