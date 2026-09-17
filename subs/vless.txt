@@ -1,2 +1,2 @@
-vless://ab33aeb8-3414-4c53-a7cf-5c61dc470d7e@178.105.61.61:80?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YFiMGe_OQouur1MvMJso9nOkOXTqRbZlUibRxFZo31k&security=reality&sid=c222b3a1d42cad90&sni=www.yahoo.com&type=tcp#megav.app
-vless://b994ec00-699f-4890-974d-c06777be94a5@31.58.181.88:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AERbWB2uslqIzm1hSlOZZEH3Y9qg_zlWRRyLfh97kXc&security=reality&sni=tradingview.com&type=raw#megav.app
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@139.64.235.115:443?encryption=none&path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&sni=nb.lovecf.ggff.net&type=ws#megav.app
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@109.176.239.123:443?encryption=none&fp=chrome&host=notls.lukongtou.eu.org&security=tls&sni=notls.lukongtou.eu.org&type=ws#megav.app
