@@ -1,7 +1,7 @@
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?authority=%2F%3FTELEGRAM-madshopx&encryption=none&fp=firefox&mode=gun&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&security=reality&serviceName=media.v1.ObjectService&sid=1469af2040b7c323&sni=rs2.univesalsrv.com&type=grpc#megav.app
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?authority=%2F%3FTELEGRAM--MARAMBASHI&encryption=none&fp=firefox&mode=gun&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&security=reality&serviceName=media.v1.ObjectService&sid=1469af2040b7c323&sni=rs2.univesalsrv.com&type=grpc#megav.app
+trojan://humanity@198.41.223.96:443?alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://humanity@104.21.33.59:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?security=none&type=tcp#megav.app
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083?security=none&type=tcp#megav.app
