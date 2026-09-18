@@ -1,7 +1,6 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.227.67.161:2083?encryption=none&path=%2Fmembers%2Fdetail%2Fgif&security=tls&sni=cdn8848.776676.xyz&type=ws#megav.app
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.59.121.156:2053?encryption=none&host=cdn8848.776676.xyz&path=%2Fgo%2Flibrary%2Fchannel&security=tls&sni=cdn8848.776676.xyz&type=ws#megav.app
-trojan://humanity@198.41.223.96:443?alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
-trojan://f0eb9f67-ef76-40aa-a1e6-22a11d5a9379@sg-3.gsafevpnapi.com:44370?fp=qq&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&security=reality&sid=c9672c5ded53a018&sni=www.yahoo.com&type=raw#megav.app
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.59.121.156:2053?encryption=none&fp=chrome&security=tls&sni=cdn8848.776676.xyz&type=ws#megav.app
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@147.90.26.37:443?encryption=none&fp=chrome&security=tls&sni=cdn8848.776676.xyz&type=ws#megav.app
+trojan://qILX2iK3__aseaW-T&Ab@104.18.196.116:443?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2Fy5rzBxAR3k9l3Tpr%3Fed%3D2560&security=tls&sni=w2r2hnwMLm-P33c1-VnWD.hamEdDSHaRAbI.WorkERs.dev&type=ws#megav.app
+trojan://humanity@104.18.152.133:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?security=none&type=raw#megav.app
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083?security=none&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388?security=none&type=tcp#megav.app
