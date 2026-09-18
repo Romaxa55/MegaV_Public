@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T20:02:01Z",
+  "updated_at": "2026-09-18T00:01:06Z",
   "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
@@ -37,20 +37,31 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
+      "response_ms": 1126,
+      "bandwidth_kbs": 419,
+      "url": "trojan://humanity@198.41.223.96:443?alpn=http%2F1.1%2Ch2%2Ch3\u0026fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
       "response_ms": 2674,
       "bandwidth_kbs": 423,
       "url": "trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
+      "protocol": "shadowsocks",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Portsmouth",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 17695,
-      "bandwidth_kbs": 481,
-      "url": "trojan://humanity@104.21.33.59:443?alpn=http%2F1.1\u0026fp=unsafe\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.pleadcourt.org\u0026type=ws#megav.app"
+      "response_ms": 333,
+      "bandwidth_kbs": 490,
+      "url": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -62,17 +73,6 @@
       "response_ms": 1856,
       "bandwidth_kbs": 441,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Hillsboro",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1920,
-      "bandwidth_kbs": 446,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks2022",
