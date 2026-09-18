@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T00:01:06Z",
+  "updated_at": "2026-09-18T04:00:33Z",
   "total": 7,
   "by_protocol": {
     "shadowsocks": 2,
@@ -10,25 +10,25 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "RS",
-      "flag": "🇷🇸",
-      "city": "Belgrade",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1505,
-      "bandwidth_kbs": 484,
-      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?authority=%2F%3FTELEGRAM-madshopx\u0026encryption=none\u0026fp=firefox\u0026mode=gun\u0026pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE\u0026security=reality\u0026serviceName=media.v1.ObjectService\u0026sid=1469af2040b7c323\u0026sni=rs2.univesalsrv.com\u0026type=grpc#megav.app"
+      "response_ms": 352,
+      "bandwidth_kbs": 450,
+      "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.227.67.161:2083?encryption=none\u0026path=%2Fmembers%2Fdetail%2Fgif\u0026security=tls\u0026sni=cdn8848.776676.xyz\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "RS",
-      "flag": "🇷🇸",
-      "city": "Belgrade",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Aulnay-sous-Bois",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1958,
-      "bandwidth_kbs": 484,
-      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?authority=%2F%3FTELEGRAM--MARAMBASHI\u0026encryption=none\u0026fp=firefox\u0026mode=gun\u0026pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE\u0026security=reality\u0026serviceName=media.v1.ObjectService\u0026sid=1469af2040b7c323\u0026sni=rs2.univesalsrv.com\u0026type=grpc#megav.app"
+      "response_ms": 615,
+      "bandwidth_kbs": 498,
+      "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.59.121.156:2053?encryption=none\u0026host=cdn8848.776676.xyz\u0026path=%2Fgo%2Flibrary%2Fchannel\u0026security=tls\u0026sni=cdn8848.776676.xyz\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -43,14 +43,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "SG",
+      "flag": "🇸🇬",
+      "city": "Singapore",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2674,
-      "bandwidth_kbs": 423,
-      "url": "trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 7911,
+      "bandwidth_kbs": 490,
+      "url": "trojan://f0eb9f67-ef76-40aa-a1e6-22a11d5a9379@sg-3.gsafevpnapi.com:44370?fp=qq\u0026pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY\u0026security=reality\u0026sid=c9672c5ded53a018\u0026sni=www.yahoo.com\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -70,9 +70,9 @@
       "city": "Hillsboro",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1856,
-      "bandwidth_kbs": 441,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#megav.app"
+      "response_ms": 2823,
+      "bandwidth_kbs": 432,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "shadowsocks2022",
