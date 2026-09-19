@@ -1,2 +1,2 @@
+trojan://qILX2iK3__aseaW-T&Ab@104.21.228.38:443?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FcbzGtmVKNtY1Eno2LSq%3Fed%3D2560&security=tls&sni=w2r2HnWmLM-P33c1-vNwD.HamEdDshARAbI.WoRKers.dEv&type=ws#megav.app
 trojan://humanity@45.130.125.76:443?alpn=http%2F1.1&host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@78.47.146.151:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
