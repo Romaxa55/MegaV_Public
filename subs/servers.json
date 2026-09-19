@@ -1,9 +1,7 @@
 {
-  "updated_at": "2026-09-19T12:03:47Z",
-  "total": 6,
+  "updated_at": "2026-09-19T16:02:31Z",
+  "total": 4,
   "by_protocol": {
-    "shadowsocks": 1,
-    "shadowsocks2022": 1,
     "trojan": 2,
     "vless": 2
   },
@@ -51,28 +49,6 @@
       "response_ms": 374,
       "bandwidth_kbs": 446,
       "url": "trojan://bpb-trojan@172.64.80.1:443?host=vless.herogoing.top\u0026path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026sni=vless.herogoing.top\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 587,
-      "bandwidth_kbs": 425,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMjMxcENLb1kwSE4tWi1OSERGQ2Zn@91.211.14.92:3#megav.app"
-    },
-    {
-      "protocol": "shadowsocks2022",
-      "country_code": "SG",
-      "flag": "🇸🇬",
-      "city": "Singapore",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 4733,
-      "bandwidth_kbs": 455,
-      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MlBJdVRBeFpqekp4bmk0a3h5L0dRMzZWV1RiUnJZemwxZmptMHVmVFI5ND0=@167.150.100.93:29824#megav.app"
     }
   ]
 }
