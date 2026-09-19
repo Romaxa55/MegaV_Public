@@ -1,7 +1,6 @@
-vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?encryption=none&flow=xtls-rprx-vision&pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4&security=reality&sid=835391010667297d&sni=www.samsung.com&type=tcp#megav.app
-vless://51e493d4-b275-45e0-a714-e014f40b3c32@207.175.190.56:443?encryption=none&fp=safari&pbk=nTLhc6e5HMgO-hpD8RUMp0cd2t6p2_RqHLHM0P39_xA&security=reality&sid=95ae4a39d3933191&sni=www.cloudflare.com&type=tcp#megav.app
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@165.232.39.212:8443?encryption=none&path=%2Fhtml%2Fshows%3Fed%3D2560fp%3Dchrome&security=tls&sni=cdn8848.776676.xyz&type=ws#megav.app
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.166.60.219:8443?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%252Fgroups%252Fpictures%253Fed%253D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#megav.app
 trojan://qILX2iK3__aseaW-T&Ab@104.21.228.38:443?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FcbzGtmVKNtY1Eno2LSq%3Fed%3D2560&security=tls&sni=w2r2HnWmLM-P33c1-vNwD.HamEdDshARAbI.WoRKers.dEv&type=ws#megav.app
-trojan://humanity@45.130.125.76:443?alpn=http%2F1.1&host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://humanity@104.17.111.4:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMjMxcENLb1kwSE4tWi1OSERGQ2Zn@91.211.14.92:3#megav.app
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@141.164.45.187:8008#megav.app
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MlBJdVRBeFpqekp4bmk0a3h5L0dRMzZWV1RiUnJZemwxZmptMHVmVFI5ND0=@167.150.100.93:29824#megav.app
