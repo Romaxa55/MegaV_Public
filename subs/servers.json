@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T08:03:04Z",
+  "updated_at": "2026-09-19T12:03:47Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 1,
@@ -32,25 +32,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 518,
-      "bandwidth_kbs": 422,
-      "url": "trojan://qILX2iK3__aseaW-T\u0026Ab@104.21.228.38:443?alpn=http%2F1.1\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Ftr%2FcbzGtmVKNtY1Eno2LSq%3Fed%3D2560\u0026security=tls\u0026sni=w2r2HnWmLM-P33c1-vNwD.HamEdDshARAbI.WoRKers.dEv\u0026type=ws#megav.app"
+      "response_ms": 373,
+      "bandwidth_kbs": 451,
+      "url": "trojan://qILX2iK3__aseaW-T\u0026Ab@104.16.181.223:2096?alpn=http%2F1.1\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Ftr%2FZFEeID9CJuDOo1G4L7aAUrhon4H8Bqsr%3Fed%3D2560\u0026security=tls\u0026sni=w2r2hnWmLM-P33c1-vnWD.hAMEDDShARAbi.wORKERS.dEv\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 810,
-      "bandwidth_kbs": 467,
-      "url": "trojan://humanity@104.17.111.4:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+      "response_ms": 374,
+      "bandwidth_kbs": 446,
+      "url": "trojan://bpb-trojan@172.64.80.1:443?host=vless.herogoing.top\u0026path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026sni=vless.herogoing.top\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
