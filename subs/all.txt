@@ -1,8 +1,6 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.97.141:443?encryption=none&host=cdn8848.776676.xyz&security=tls&sni=cdn8848.776676.xyz&type=ws#megav.app
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.63.21:443?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%2Fmovie%2Fdiscuss%2Ftrade%3Fed%3D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=raw#megav.app
-trojan://humanity@45.130.125.76:443?alpn=http%2F1.1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@104.17.121.9:443?fp=chrome&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388?security=none&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.156:8080#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?encryption=none&fp=firefox&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&security=reality&sid=a8ae&sni=deepl.com&type=raw#megav.app
+trojan://Telegram_healer_config@104.21.17.125:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FhYgAqUlh5GyczDyXP%3Fed%3D2560&security=tls&sni=30f67sBQ8jJwMt7GYtfc14.0M68-Qz3hqYfnLAR6n3Iq.wORkErs.dEv&type=ws#megav.app
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080?security=none&type=raw#megav.app
