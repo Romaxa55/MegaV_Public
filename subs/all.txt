@@ -1,7 +1,7 @@
 vless://845bd981-8725-4f9e-9ae8-6f500ec84001@104.16.34.71:2083?alpn=http%2F1.1&encryption=none&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Fvl%2FiTgy3OkZCNEPTlobOe6Thwaewy%3Fed%3D2560&security=tls&sni=W2r2hnWmlM-P33c1-VnwD.HamEDdSHaraBi.WORkERs.DEv&type=ws#megav.app
-vless://845bd981-8725-4f9e-9ae8-6f500ec84001@104.17.240.214:443?alpn=http%2F1.1&encryption=none&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Fvl%2FmCnLxNQkMdoXkjNc3m7Aexy2%3Fed%3D2560&security=tls&sni=W2r2HnWMLm-P33C1-vNWd.HaMEddshArABI.WOrkERS.deV&type=ws#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?security=none&type=raw#megav.app
+vless://026f58a9-b36e-4204-8f8d-54c5374163da@84.32.186.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=naFxXMoZGp3dHSEMiupvt7FsYtnxONkSN90c2JLWl38&security=reality&sid=974acf45&sni=api37.betust.net&type=tcp#megav.app
 vmess://5809911a-a16e-43d3-90b0-2c94cfc2035e@131.196.252.59:20521?encryption=auto&host=131.196.252.59&path=%2F&security=none&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=raw#megav.app
 trojan://bpb-trojan@104.21.26.36:443?path=%2Ftr%3Fed%3D2560&security=tls&sni=vless.herogoing.top&type=ws#megav.app
 trojan://50414e45-4c5f-5a45-5553-a10396c0eb0f@104.129.165.170:443?fp=unsafe&host=9dz4quexuuos.javad-ghoreyshi11.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fa10396c0eb0f&security=tls&sni=9dz4quexuuos.javad-ghoreyshi11.workers.dev&type=ws#megav.app
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443?security=none&type=raw#megav.app
