@@ -1,8 +1,9 @@
 {
-  "updated_at": "2026-09-21T00:02:18Z",
-  "total": 8,
+  "updated_at": "2026-09-21T04:04:22Z",
+  "total": 9,
   "by_protocol": {
     "shadowsocks": 2,
+    "shadowsocks2022": 1,
     "trojan": 2,
     "vless": 2,
     "vmess": 2
@@ -12,23 +13,23 @@
       "protocol": "vless",
       "country_code": "GB",
       "flag": "🇬🇧",
-      "city": "Gosport",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 592,
-      "bandwidth_kbs": 427,
-      "url": "vless://be5b6ad6-8184-4b63-82ac-3bc00c09c98c@5.152.223.97:443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=IFEZmwpGK7VCuDj3kmVdyMn7vUIG8Sntc6TG4eIS3xs\u0026security=reality\u0026sid=1aa9f3c9021280c0\u0026sni=strapi.io\u0026type=tcp#megav.app"
+      "response_ms": 316,
+      "bandwidth_kbs": 489,
+      "url": "vless://845bd981-8725-4f9e-9ae8-6f500ec84001@104.16.34.71:2083?alpn=http%2F1.1\u0026encryption=none\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Fvl%2FiTgy3OkZCNEPTlobOe6Thwaewy%3Fed%3D2560\u0026security=tls\u0026sni=W2r2hnWmlM-P33c1-VnwD.HamEDdSHaraBi.WORkERs.DEv\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
       "country_code": "GB",
       "flag": "🇬🇧",
-      "city": "Gosport",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 654,
-      "bandwidth_kbs": 499,
-      "url": "vless://be5b6ad6-8184-4b63-82ac-3bc00c09c98c@5.152.223.97:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=qq\u0026pbk=IFEZmwpGK7VCuDj3kmVdyMn7vUIG8Sntc6TG4eIS3xs\u0026security=reality\u0026sid=1aa9f3c9021280c0\u0026sni=strapi.io\u0026type=tcp#megav.app"
+      "response_ms": 363,
+      "bandwidth_kbs": 488,
+      "url": "vless://845bd981-8725-4f9e-9ae8-6f500ec84001@104.17.240.214:443?alpn=http%2F1.1\u0026encryption=none\u0026fp=random\u0026host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev\u0026path=%2Fvl%2FmCnLxNQkMdoXkjNc3m7Aexy2%3Fed%3D2560\u0026security=tls\u0026sni=W2r2HnWMLm-P33C1-vNWd.HaMEddshArABI.WOrkERS.deV\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -43,36 +44,36 @@
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Phoenix",
+      "country_code": "MX",
+      "flag": "🇲🇽",
+      "city": "Mérida",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 3504,
-      "bandwidth_kbs": 468,
-      "url": "vmess://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto\u0026host=129.146.77.248\u0026path=%2Fcctv13.m3u8\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 2515,
+      "bandwidth_kbs": 477,
+      "url": "vmess://5809911a-a16e-43d3-90b0-2c94cfc2035e@131.196.252.59:20521?encryption=auto\u0026host=131.196.252.59\u0026path=%2F\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 328,
+      "bandwidth_kbs": 429,
+      "url": "trojan://bpb-trojan@104.21.26.36:443?path=%2Ftr%3Fed%3D2560\u0026security=tls\u0026sni=vless.herogoing.top\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
       "country_code": "FR",
       "flag": "🇫🇷",
-      "city": "Paris",
+      "city": "Aulnay-sous-Bois",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 892,
-      "bandwidth_kbs": 442,
-      "url": "trojan://humanity@45.130.125.160:443?path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 941,
-      "bandwidth_kbs": 428,
-      "url": "trojan://humanity@45.130.125.75:443?host=www.calmlunch.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+      "response_ms": 516,
+      "bandwidth_kbs": 495,
+      "url": "trojan://50414e45-4c5f-5a45-5553-a10396c0eb0f@104.129.165.170:443?fp=unsafe\u0026host=9dz4quexuuos.javad-ghoreyshi11.workers.dev\u0026path=%2Fstream%2FPANEL_ZEUS%2Fa10396c0eb0f\u0026security=tls\u0026sni=9dz4quexuuos.javad-ghoreyshi11.workers.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -95,6 +96,17 @@
       "response_ms": 1178,
       "bandwidth_kbs": 473,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "shadowsocks2022",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "London",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 817,
+      "bandwidth_kbs": 417,
+      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0=@51.38.71.51:2083#megav.app"
     }
   ]
 }
