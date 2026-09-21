@@ -1,2 +1,2 @@
-trojan://bpb-trojan@104.21.26.36:443?path=%2Ftr%3Fed%3D2560&security=tls&sni=vless.herogoing.top&type=ws#megav.app
 trojan://50414e45-4c5f-5a45-5553-a10396c0eb0f@104.129.165.170:443?fp=unsafe&host=9dz4quexuuos.javad-ghoreyshi11.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fa10396c0eb0f&security=tls&sni=9dz4quexuuos.javad-ghoreyshi11.workers.dev&type=ws#megav.app
+trojan://qILX2iK3__aseaW-T&Ab@104.16.25.255:2083?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FSDeXi2lAaKQ6BEME4I5%3Fed%3D2560&security=tls&sni=W2r2HNWmlM-P33c1-vNWD.haMeddSHARaBi.wORKeRs.DEv&type=ws#megav.app
