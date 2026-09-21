@@ -1,8 +1,6 @@
-vless://026f58a9-b36e-4204-8f8d-54c5374163da@84.32.186.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=naFxXMoZGp3dHSEMiupvt7FsYtnxONkSN90c2JLWl38&security=reality&sid=974acf45&sni=api37.betust.net&type=tcp#megav.app
-vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.19.1.100:2052?encryption=none&host=tianshu.kevqwkt451.workers.dev&path=%2F%3Fed%3D2560&security=none&type=ws#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=raw#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324#megav.app
-trojan://humanity@185.114.72.31:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+vless://20dd9433-389e-4573-ba7b-689619cf13da@89.169.53.176:4443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YIyohkkCU5kw6J5iZYZkhILyDwlfftFPDTkbITlrAUw&security=reality&sid=df3aff719526dc5a&sni=de.wvpn.one&type=tcp#megav.app
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@134.209.194.199:2083?encryption=none&host=cdn8848.776676.xyz&path=%2Fjumping%2Ffiles%2Fvideos%3Fed%3D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#megav.app
 trojan://eabf1999fefbb7d2@104.21.42.129:2087?alpn=http%2F1.1&fp=ios&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&security=tls&sni=waysi.waysi6688.workers.dev&type=ws#megav.app
+trojan://eabf1999fefbb7d2@104.21.42.129:2087?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&security=tls&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#megav.app
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?security=none&type=raw#megav.app
