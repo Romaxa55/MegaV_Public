@@ -1,2 +1,2 @@
-vless://026f58a9-b36e-4204-8f8d-54c5374163da@84.32.186.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=naFxXMoZGp3dHSEMiupvt7FsYtnxONkSN90c2JLWl38&security=reality&sid=974acf45&sni=api37.betust.net&type=tcp#megav.app
-vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.19.1.100:2052?encryption=none&host=tianshu.kevqwkt451.workers.dev&path=%2F%3Fed%3D2560&security=none&type=ws#megav.app
+vless://20dd9433-389e-4573-ba7b-689619cf13da@89.169.53.176:4443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YIyohkkCU5kw6J5iZYZkhILyDwlfftFPDTkbITlrAUw&security=reality&sid=df3aff719526dc5a&sni=de.wvpn.one&type=tcp#megav.app
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@134.209.194.199:2083?encryption=none&host=cdn8848.776676.xyz&path=%2Fjumping%2Ffiles%2Fvideos%3Fed%3D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#megav.app
