@@ -1,9 +1,8 @@
 vless://026f58a9-b36e-4204-8f8d-54c5374163da@84.32.186.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=naFxXMoZGp3dHSEMiupvt7FsYtnxONkSN90c2JLWl38&security=reality&sid=974acf45&sni=api37.betust.net&type=tcp#megav.app
-vless://1e2c38d5-e0dc-472e-b31b-a1e15f083cc7@88.216.92.78:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BTCZ0hMhV10H818mbm54EQdU0s3qQXMtY4Hl67dFA18&security=reality&sni=vu.nl&type=tcp#megav.app
-vmess://5809911a-a16e-43d3-90b0-2c94cfc2035e@131.196.252.59:20521?encryption=auto&host=131.196.252.59&path=%2F&security=none&type=ws#megav.app
+vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.19.1.100:2052?encryption=none&host=tianshu.kevqwkt451.workers.dev&path=%2F%3Fed%3D2560&security=none&type=ws#megav.app
 vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=raw#megav.app
-trojan://50414e45-4c5f-5a45-5553-a10396c0eb0f@104.129.165.170:443?fp=unsafe&host=9dz4quexuuos.javad-ghoreyshi11.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fa10396c0eb0f&security=tls&sni=9dz4quexuuos.javad-ghoreyshi11.workers.dev&type=ws#megav.app
-trojan://qILX2iK3__aseaW-T&Ab@104.16.25.255:2083?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FSDeXi2lAaKQ6BEME4I5%3Fed%3D2560&security=tls&sni=W2r2HNWmlM-P33c1-vNWD.haMeddSHARaBi.wORKeRs.DEv&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324#megav.app
+trojan://humanity@185.114.72.31:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://eabf1999fefbb7d2@104.21.42.129:2087?alpn=http%2F1.1&fp=ios&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&security=tls&sni=waysi.waysi6688.workers.dev&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#megav.app
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?security=none&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#megav.app
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0=@51.38.71.51:2083#megav.app
