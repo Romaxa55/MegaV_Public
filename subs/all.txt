@@ -2,7 +2,7 @@ vless://be5b6ad6-8184-4b63-82ac-3bc00c09c98c@5.152.223.97:443?encryption=none&fl
 vless://be5b6ad6-8184-4b63-82ac-3bc00c09c98c@5.152.223.97:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=IFEZmwpGK7VCuDj3kmVdyMn7vUIG8Sntc6TG4eIS3xs&security=reality&sid=1aa9f3c9021280c0&sni=strapi.io&type=tcp#megav.app
 vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?security=none&type=raw#megav.app
 vmess://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&host=129.146.77.248&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
-trojan://Telegram_healer_config@104.21.17.125:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FhYgAqUlh5GyczDyXP%3Fed%3D2560&security=tls&sni=30f67sBQ8jJwMt7GYtfc14.0M68-Qz3hqYfnLAR6n3Iq.wORkErs.dEv&type=ws#megav.app
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcnMyZTlh@54.36.174.134:443#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#megav.app
+trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?security=none&type=raw#megav.app
