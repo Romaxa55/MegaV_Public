@@ -1,2 +1,2 @@
 vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?security=none&type=raw#megav.app
-vmess://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&host=129.146.77.248&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
+vmess://5809911a-a16e-43d3-90b0-2c94cfc2035e@131.196.252.59:20521?encryption=auto&host=131.196.252.59&path=%2F&security=none&type=ws#megav.app
