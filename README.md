@@ -212,41 +212,49 @@ Grab fresh, working **free V2Ray / VLESS Reality / VMess / Trojan / Shadowsocks*
 
 ## Why MegaV? The Competition Can't Keep Up
 
-Most mainstream VPNs rely on **OpenVPN** or plain **WireGuard** — protocols that are easily fingerprinted by modern **Deep Packet Inspection (DPI)** systems, so on restrictive networks they tend to stop working fast. MegaV is built on **VLESS Reality** and the **Xray / V2Ray** core, so connections look like ordinary HTTPS traffic and keep working where generic VPN protocols are throttled or blocked. And unlike raw config tools, MegaV manages it all for you — **no manual setup, ever**.
+Most mainstream VPNs rely on **OpenVPN** or plain **WireGuard** — protocols that are easily fingerprinted by modern **Deep Packet Inspection (DPI)** systems, so their performance degrades on congested or heavily filtered networks. MegaV is built on **VLESS Reality** and the **Xray / V2Ray** core, so connections present an ordinary HTTPS profile and stay stable where generic VPN protocols do not. And unlike raw config tools, MegaV manages it all for you — **no manual setup, ever**.
 
 | | MegaV VPN | NordVPN | Surfshark | ProtonVPN |
 |---|:---:|:---:|:---:|:---:|
 | VLESS Reality (anti-DPI) | ✅ | ❌ | ❌ | ❌ |
 | Xray / V2Ray core | ✅ | ❌ | ❌ | ❌ |
 | Free servers built in (auto-configured) | ✅ | ❌ | ❌ | ❌ |
-| Designed for restrictive networks | ✅ | ⚠️ | ⚠️ | ⚠️ |
+| Works on difficult networks | ✅ | ⚠️ | ⚠️ | ⚠️ |
 | Built-in Ad Blocker | ✅ | ✅ | ✅ | ✅ |
 | Built-in News & Radio | ✅ | ❌ | ❌ | ❌ |
 | Free tier / free trial | ✅ | ❌ | ❌ | ✅ Limited |
 | Open-source client | ✅ | ❌ | ❌ | ✅ |
 | Strict no-logs | ✅ | ✅ | ✅ | ✅ |
 
-> ⚠️ Comparison reflects publicly reported behaviour of these protocols on restrictive networks. Availability varies by network and over time.
+> ⚠️ Comparison reflects publicly reported behaviour of these protocols. Availability varies by network and over time.
 
 ---
 
-## Built for Restrictive Networks & Privacy-Conscious Users
+## Designed for Difficult Network Conditions
 
-MegaV's **VLESS Reality / V2Ray** technology is popular with privacy-focused users on heavily-filtered networks — including those in **Russia, China, Turkey and Iran** — who want their data protected from interception and surveillance. The protocol design makes VPN traffic hard to distinguish from normal HTTPS.
+MegaV is built on **VLESS Reality** and the **Xray / V2Ray** core. The protocol
+presents traffic with a TLS profile that is hard to distinguish from ordinary
+HTTPS, which keeps connections stable on congested, filtered or otherwise
+unreliable networks where generic VPN protocols degrade.
 
-### 🇷🇺 Russia (Россия)
-Many generic VPN protocols are unreliable on Russian networks. **VLESS Reality** is popular among privacy-conscious users in Russia because its traffic profile blends in with ordinary HTTPS.
+### TLS camouflage
+Unlike OpenVPN or plain WireGuard, VLESS Reality does not expose a distinctive
+protocol signature. To an observer the session looks like a normal HTTPS
+connection to a real website.
 
-### 🇨🇳 China (中国) — The Great Firewall (GFW)
-The GFW uses active probing to detect proxy servers. VLESS Reality's TLS camouflage is designed to respond legitimately to direct HTTPS requests, which is why it's popular with privacy-seeking users behind the GFW.
+### Resistance to active probing
+Reality responds legitimately to direct HTTPS requests, so the endpoint behaves
+like the genuine site it fronts rather than like a proxy server.
 
-### 🇹🇷 Turkey
-During periodic restrictions on social platforms and VPN services, **VLESS Reality** remains a community favourite for users who want a private, encrypted connection.
+### Automatic configuration
+The app ships with community servers and configures itself. There is nothing to
+import, edit or renew manually.
 
-### 🇮🇷 Iran (ایران)
-**VLESS Reality** is popular among privacy-focused users in Iran who want to protect their data. *(Note: due to applicable export and sanctions regulations, Iran-based servers are not distributed through this project — the community configs referenced here are not owned, operated or hosted by MegaV.)*
-
-> 🌍 The geographic terms above describe the **audiences** that value private, encrypted connections. MegaV does not officially provide a circumvention service to any sanctioned region.
+> 🛡️ **Compliance.** MegaV is a privacy and data-protection tool. It does not
+> officially provide a circumvention service to any sanctioned region, and no
+> servers located in sanctioned jurisdictions are distributed through this
+> project. Community-contributed configs referenced here are third-party and are
+> not owned, operated or hosted by MegaV. Use in line with your local laws.
 
 ---
 
@@ -256,7 +264,7 @@ MegaV runs on the **Xray / V2Ray** core and supports all major modern proxy prot
 
 | Protocol | DPI-Resistance | Speed | Best For |
 |---|:---:|:---:|---|
-| **VLESS Reality** | ✅ Best | 🚀 Fastest | Restrictive networks (recommended) |
+| **VLESS Reality** | ✅ Best | 🚀 Fastest | Difficult networks (recommended) |
 | **VMess** | ✅ Good | 🚀 Fast | General-purpose privacy |
 | **Trojan** | ✅ Good | 🚀 Fast | HTTPS-style camouflage |
 | **Shadowsocks** | ⚠️ Basic | ⚡ Fast | Lightweight proxy |
@@ -373,7 +381,7 @@ If MegaV helped you stay private online without the hassle of manual configs —
 
 ## Keywords
 
-`free vpn` · `free v2ray config` · `free vless config` · `free v2ray servers` · `free vpn config` · `v2ray` · `vless` · `vless reality` · `reality` · `xray` · `xray-core` · `vmess` · `trojan` · `shadowsocks` · `wireguard` · `v2ray subscription` · `sub link` · `anti-censorship` · `censorship-resistant` · `bypass dpi` · `no-logs vpn` · `ad blocker vpn` · `kill switch` · `free iptv` · `internet radio` · `open source vpn` · `android vpn` · `ios vpn` · `macos vpn` · `windows vpn` · `vpn russia` · `vpn china` · `vpn turkey` · `vpn iran`
+`free vpn` · `free v2ray config` · `free vless config` · `free v2ray servers` · `free vpn config` · `v2ray` · `vless` · `vless reality` · `reality` · `xray` · `xray-core` · `vmess` · `trojan` · `shadowsocks` · `wireguard` · `v2ray subscription` · `sub link` · `no-logs vpn` · `ad blocker vpn` · `kill switch` · `free iptv` · `internet radio` · `open source vpn` · `android vpn` · `ios vpn` · `macos vpn` · `windows vpn` · `split tunneling` · `tls camouflage`
 
 ---
 
