@@ -1,2 +1,2 @@
-trojan://humanity@185.114.72.31:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
 trojan://eabf1999fefbb7d2@104.21.42.129:2087?alpn=http%2F1.1&fp=ios&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&security=tls&sni=waysi.waysi6688.workers.dev&type=ws#megav.app
+trojan://eabf1999fefbb7d2@104.21.42.129:2087?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&security=tls&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#megav.app
