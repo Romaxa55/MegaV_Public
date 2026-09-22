@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-21T20:04:48Z",
-  "total": 6,
+  "updated_at": "2026-09-22T00:03:15Z",
+  "total": 5,
   "by_protocol": {
-    "shadowsocks": 2,
+    "shadowsocks": 1,
     "trojan": 2,
     "vless": 2
   },
@@ -31,25 +31,25 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 981,
-      "bandwidth_kbs": 467,
-      "url": "trojan://eabf1999fefbb7d2@104.21.42.129:2087?alpn=http%2F1.1\u0026fp=ios\u0026path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ\u0026security=tls\u0026sni=waysi.waysi6688.workers.dev\u0026type=ws#megav.app"
+      "response_ms": 564,
+      "bandwidth_kbs": 411,
+      "url": "trojan://humanity@104.18.152.244:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1080,
-      "bandwidth_kbs": 466,
-      "url": "trojan://eabf1999fefbb7d2@104.21.42.129:2087?alpn=http%2F1.1\u0026fp=chrome\u0026path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ\u0026security=tls\u0026sni=WaYSi.wAYsI6688.WOrkeRS.deV\u0026type=ws#megav.app"
+      "response_ms": 975,
+      "bandwidth_kbs": 487,
+      "url": "trojan://humanity@45.130.125.76:443?path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -61,17 +61,6 @@
       "response_ms": 484,
       "bandwidth_kbs": 475,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Dallas",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1887,
-      "bandwidth_kbs": 454,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?security=none\u0026type=raw#megav.app"
     }
   ]
 }
