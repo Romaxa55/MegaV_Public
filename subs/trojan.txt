@@ -1,2 +1,2 @@
-trojan://eabf1999fefbb7d2@104.21.42.129:2087?alpn=http%2F1.1&fp=ios&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&security=tls&sni=waysi.waysi6688.workers.dev&type=ws#megav.app
-trojan://eabf1999fefbb7d2@104.21.42.129:2087?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FsMpzOZ0eWEt6jbZ1jjN3BaM7LLoQ&security=tls&sni=WaYSi.wAYsI6688.WOrkeRS.deV&type=ws#megav.app
+trojan://humanity@104.18.152.244:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#megav.app
