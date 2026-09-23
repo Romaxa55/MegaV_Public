@@ -1,6 +1,6 @@
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@185.207.198.123:443?encryption=none&path=Telegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=notls.lukongtou.eu.org&type=ws#megav.app
 vless://2b8738de-1af5-4267-b101-c05707769ed4@172.67.130.187:2083?alpn=http%2F1.1&encryption=none&fp=chrome&host=fans.liverpool.qzz.io&path=%2FeyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&sni=FANs.LIVeRPOol.QZz.IO&type=ws#megav.app
 trojan://50414e45-4c5f-5a45-5553-a10396c0eb0f@104.19.163.244:443?fp=unsafe&host=9dz4quexuuos.javad-ghoreyshi11.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fa10396c0eb0f&security=tls&sni=9dz4quexuuos.javad-ghoreyshi11.workers.dev&type=ws#megav.app
-trojan://humanity@8.47.69.0:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://humanity@5.253.189.238:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080?security=none&type=raw#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVjRidmFKSVdveGwzSVlFQzFlNlc3@194.233.74.160:2342#megav.app
