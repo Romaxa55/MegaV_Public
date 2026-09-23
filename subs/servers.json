@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T04:03:04Z",
+  "updated_at": "2026-09-23T08:03:37Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -42,14 +42,14 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 922,
-      "bandwidth_kbs": 498,
-      "url": "trojan://humanity@8.47.69.0:443?alpn=http%2F1.1\u0026fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.pleadcourt.org\u0026type=ws#megav.app"
+      "response_ms": 555,
+      "bandwidth_kbs": 492,
+      "url": "trojan://humanity@5.253.189.238:443?host=www.calmlunch.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
