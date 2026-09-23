@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T16:02:15Z",
+  "updated_at": "2026-09-23T20:01:02Z",
   "total": 6,
   "by_protocol": {
     "shadowsocks": 2,
@@ -9,36 +9,25 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 600,
-      "bandwidth_kbs": 444,
-      "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4\u0026security=reality\u0026sid=835391010667297d\u0026sni=www.samsung.com\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "vless",
       "country_code": "DE",
       "flag": "🇩🇪",
       "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 732,
-      "bandwidth_kbs": 403,
-      "url": "vless://2f2ae482-5a3e-455e-aad6-4ac28a82f64f@de-1.ff-id.xyz:6215?encryption=none\u0026mode=gun\u0026security=tls\u0026serviceName=api.v1.ApiService\u0026sni=cdn.astranet.ignorelist.com\u0026type=grpc#megav.app"
+      "response_ms": 925,
+      "bandwidth_kbs": 490,
+      "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@89.169.53.176:4443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=YIyohkkCU5kw6J5iZYZkhILyDwlfftFPDTkbITlrAUw\u0026security=reality\u0026sid=df3aff719526dc5a\u0026sni=gateway.icloud.com\u0026type=tcp#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "protocol": "vless",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Helsinki",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 555,
-      "bandwidth_kbs": 492,
-      "url": "trojan://humanity@5.253.189.238:443?host=www.calmlunch.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+      "response_ms": 1487,
+      "bandwidth_kbs": 467,
+      "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A\u0026security=reality\u0026sid=7da2eae792187ab9\u0026sni=images.unsplash.com\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -52,6 +41,28 @@
       "url": "trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
     },
     {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1001,
+      "bandwidth_kbs": 453,
+      "url": "trojan://humanity@104.17.111.9:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1438,
+      "bandwidth_kbs": 469,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWE41Tmx6allKRVFHOG9mTUh3bHpF@77.221.155.75:12576#megav.app"
+    },
+    {
       "protocol": "shadowsocks",
       "country_code": "US",
       "flag": "🇺🇸",
@@ -61,17 +72,6 @@
       "response_ms": 1745,
       "bandwidth_kbs": 483,
       "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?security=none\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Dallas",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 3294,
-      "bandwidth_kbs": 484,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#megav.app"
     }
   ]
 }
