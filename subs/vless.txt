@@ -1,2 +1,2 @@
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@185.207.198.123:443?encryption=none&path=Telegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=notls.lukongtou.eu.org&type=ws#megav.app
-vless://2b8738de-1af5-4267-b101-c05707769ed4@172.67.130.187:2083?alpn=http%2F1.1&encryption=none&fp=chrome&host=fans.liverpool.qzz.io&path=%2FeyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&sni=FANs.LIVeRPOol.QZz.IO&type=ws#megav.app
+vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?encryption=none&flow=xtls-rprx-vision&pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4&security=reality&sid=835391010667297d&sni=www.samsung.com&type=raw#megav.app
+vless://2f2ae482-5a3e-455e-aad6-4ac28a82f64f@de-1.ff-id.xyz:6215?encryption=none&mode=gun&security=tls&serviceName=api.v1.ApiService&sni=cdn.astranet.ignorelist.com&type=grpc#megav.app
