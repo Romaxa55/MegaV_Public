@@ -1,2 +1,2 @@
-trojan://qILX2iK3__aseaW-T&Ab@104.25.216.207:2087?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FIMsBj36xMTEBRG56E3Rj2FlOC77438WW%3Fed%3D2560&security=tls&sni=w2R2HnwMlM-p33c1-vNWD.hamEDdshArAbi.WorkERs.Dev&type=ws#megav.app
-trojan://qILX2iK3__aseaW-T&Ab@104.25.216.207:443?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2F7n9f0zTLXT2VkOLk1wfiJE6fB0%3Fed%3D2560&security=tls&sni=w2R2hnwMLm-p33C1-vNWD.HamEddSHaRaBI.WoRKers.Dev&type=ws#megav.app
+trojan://50414e45-4c5f-5a45-5553-a10396c0eb0f@104.19.163.244:443?fp=unsafe&host=9dz4quexuuos.javad-ghoreyshi11.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fa10396c0eb0f&security=tls&sni=9dz4quexuuos.javad-ghoreyshi11.workers.dev&type=ws#megav.app
+trojan://humanity@8.47.69.0:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
