@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-09-23T12:03:35Z",
-  "total": 4,
+  "updated_at": "2026-09-23T16:02:15Z",
+  "total": 6,
   "by_protocol": {
+    "shadowsocks": 2,
     "trojan": 2,
     "vless": 2
   },
@@ -13,31 +14,20 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 352,
-      "bandwidth_kbs": 493,
-      "url": "vless://1d16c6e0-1bbe-435b-b661-90043fee999c@185.207.198.123:443?encryption=none\u0026path=Telegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3\u0026security=tls\u0026sni=notls.lukongtou.eu.org\u0026type=ws#megav.app"
+      "response_ms": 600,
+      "bandwidth_kbs": 444,
+      "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4\u0026security=reality\u0026sid=835391010667297d\u0026sni=www.samsung.com\u0026type=raw#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 368,
-      "bandwidth_kbs": 452,
-      "url": "vless://2b8738de-1af5-4267-b101-c05707769ed4@172.67.130.187:2083?alpn=http%2F1.1\u0026encryption=none\u0026fp=chrome\u0026host=fans.liverpool.qzz.io\u0026path=%2FeyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560\u0026security=tls\u0026sni=FANs.LIVeRPOol.QZz.IO\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Aulnay-sous-Bois",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 461,
-      "bandwidth_kbs": 408,
-      "url": "trojan://50414e45-4c5f-5a45-5553-a10396c0eb0f@104.19.163.244:443?fp=unsafe\u0026host=9dz4quexuuos.javad-ghoreyshi11.workers.dev\u0026path=%2Fstream%2FPANEL_ZEUS%2Fa10396c0eb0f\u0026security=tls\u0026sni=9dz4quexuuos.javad-ghoreyshi11.workers.dev\u0026type=ws#megav.app"
+      "response_ms": 732,
+      "bandwidth_kbs": 403,
+      "url": "vless://2f2ae482-5a3e-455e-aad6-4ac28a82f64f@de-1.ff-id.xyz:6215?encryption=none\u0026mode=gun\u0026security=tls\u0026serviceName=api.v1.ApiService\u0026sni=cdn.astranet.ignorelist.com\u0026type=grpc#megav.app"
     },
     {
       "protocol": "trojan",
@@ -49,6 +39,39 @@
       "response_ms": 555,
       "bandwidth_kbs": 492,
       "url": "trojan://humanity@5.253.189.238:443?host=www.calmlunch.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 947,
+      "bandwidth_kbs": 468,
+      "url": "trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Dallas",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1745,
+      "bandwidth_kbs": 483,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Dallas",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 3294,
+      "bandwidth_kbs": 484,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#megav.app"
     }
   ]
 }
