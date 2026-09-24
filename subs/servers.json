@@ -1,12 +1,23 @@
 {
-  "updated_at": "2026-09-24T00:01:15Z",
-  "total": 6,
+  "updated_at": "2026-09-24T04:01:23Z",
+  "total": 5,
   "by_protocol": {
-    "shadowsocks": 2,
+    "shadowsocks": 1,
     "trojan": 2,
     "vless": 2
   },
   "servers": [
+    {
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 321,
+      "bandwidth_kbs": 440,
+      "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4\u0026security=reality\u0026sid=835391010667297d\u0026sni=www.samsung.com\u0026type=tcp#megav.app"
+    },
     {
       "protocol": "vless",
       "country_code": "NL",
@@ -19,15 +30,15 @@
       "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4\u0026security=reality\u0026sid=835391010667297d\u0026sni=www.samsung.com\u0026type=raw#megav.app"
     },
     {
-      "protocol": "vless",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Helsinki",
+      "protocol": "trojan",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1384,
-      "bandwidth_kbs": 470,
-      "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A\u0026security=reality\u0026sid=7da2eae792187ab9\u0026sni=images.unsplash.com\u0026type=tcp#megav.app"
+      "response_ms": 379,
+      "bandwidth_kbs": 434,
+      "url": "trojan://Telegram_healer_config@104.21.17.125:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev\u0026insecure=1\u0026path=%2Ftr%2FhYgAqUlh5GyczDyXP%3Fed\u0026security=tls\u0026sni=30f67sBQ8jJwMt7GYtfc14.0M68-Qz3hqYfnLAR6n3Iq.wORkErs.dEv\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -36,20 +47,9 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 947,
-      "bandwidth_kbs": 468,
-      "url": "trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.ignitelimit.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1327,
-      "bandwidth_kbs": 431,
-      "url": "trojan://humanity@188.42.145.180:443?alpn=http%2F1.1\u0026fp=safari\u0026host=www.volumeroot.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.volumeroot.com\u0026type=ws#megav.app"
+      "response_ms": 918,
+      "bandwidth_kbs": 438,
+      "url": "trojan://humanity@185.114.72.31:2053?fp=qq\u0026host=www.calmlunch.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -61,17 +61,6 @@
       "response_ms": 1438,
       "bandwidth_kbs": 469,
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWE41Tmx6allKRVFHOG9mTUh3bHpF@77.221.155.75:12576#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Dallas",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1745,
-      "bandwidth_kbs": 483,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
