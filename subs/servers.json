@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-24T04:01:23Z",
-  "total": 5,
+  "updated_at": "2026-09-24T08:02:18Z",
+  "total": 6,
   "by_protocol": {
-    "shadowsocks": 1,
+    "shadowsocks": 2,
     "trojan": 2,
     "vless": 2
   },
@@ -42,25 +42,36 @@
     },
     {
       "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 918,
-      "bandwidth_kbs": 438,
-      "url": "trojan://humanity@185.114.72.31:2053?fp=qq\u0026host=www.calmlunch.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
       "country_code": "NL",
       "flag": "🇳🇱",
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1438,
-      "bandwidth_kbs": 469,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWE41Tmx6allKRVFHOG9mTUh3bHpF@77.221.155.75:12576#megav.app"
+      "response_ms": 467,
+      "bandwidth_kbs": 442,
+      "url": "trojan://MITIVpN@167.82.76.7:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net\u0026insecure=1\u0026path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 973,
+      "bandwidth_kbs": 447,
+      "url": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "KR",
+      "flag": "🇰🇷",
+      "city": "Seoul",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 3203,
+      "bandwidth_kbs": 494,
+      "url": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002#megav.app"
     }
   ]
 }
