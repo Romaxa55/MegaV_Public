@@ -1,1 +1,2 @@
 trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=wWw.Volumeroot.cOm.&type=ws#megav.app
+trojan://humanity@91.245.225.79:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
