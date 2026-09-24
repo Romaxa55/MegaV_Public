@@ -1,2 +1,2 @@
+vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4&security=reality&sid=835391010667297d&sni=www.samsung.com&type=tcp#megav.app
 vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?encryption=none&flow=xtls-rprx-vision&pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4&security=reality&sid=835391010667297d&sni=www.samsung.com&type=raw#megav.app
-vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&security=reality&sid=7da2eae792187ab9&sni=images.unsplash.com&type=tcp#megav.app
