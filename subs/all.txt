@@ -1,6 +1,7 @@
-vless://99e5e9a0-1c6b-4cb0-805d-a810fd47eb15@31.56.189.147:443?authority=%2F%3FTELEGRAM--NexVexo--NexVexo&encryption=none&fp=firefox&mode=multi&pbk=gyVm1AWjn649wcSvTmyS12lsmecJFjm51BjUSWOjkxM&security=reality&serviceName=grpc&sid=35debf0dc757d053&sni=max.ru&type=grpc#megav.app
-vless://68ad9a6d-2463-4c31-92a7-31547b9d4783@77.91.76.156:57160?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Tbu7sr_pvHngDWFIa0ApL5UL9vEGxlHESd9g53KQehw&security=reality&sid=77b5&sni=funpay.com&spx=%2F&type=raw#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@89.41.172.85:22324?encryption=auto&security=none&type=raw#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@89.41.172.85:22324?security=none&type=tcp#megav.app
-trojan://humanity@8.47.69.0:443?alpn=http%2F1.1+&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+vless://44a2e1af-a524-47a0-8d26-b160b20a5e37@194.87.55.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SzOhlaAgX-5m7RB6MTfx3MwjfYDi5G2JblGcpnLgam0&security=reality&sid=8ef32bea5018959f&sni=cdn.jsdelivr.net&spx=%2F&type=tcp#megav.app
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com%F0%9F%91%89%F0%9F%86%94freenettir%F0%9F%93%A1%F0%9F%87%B3%F0%9F%87%B1%C2%AE%EF%B8%8FThe&path=%2Fvless%2F&security=none&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?security=none&type=raw#megav.app
+trojan://humanity@104.18.37.228:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
 trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&fp=safari&host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
+ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA==@149.102.132.184:80?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#megav.app
