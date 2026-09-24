@@ -1,2 +1,2 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
-vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?encryption=none&flow=xtls-rprx-vision&pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4&security=reality&sid=835391010667297d&sni=www.samsung.com&type=raw#megav.app
+vless://99e5e9a0-1c6b-4cb0-805d-a810fd47eb15@31.56.189.147:443?authority=%2F%3FTELEGRAM--NexVexo--NexVexo&encryption=none&fp=firefox&mode=multi&pbk=gyVm1AWjn649wcSvTmyS12lsmecJFjm51BjUSWOjkxM&security=reality&serviceName=grpc&sid=35debf0dc757d053&sni=max.ru&type=grpc#megav.app
+vless://68ad9a6d-2463-4c31-92a7-31547b9d4783@77.91.76.156:57160?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Tbu7sr_pvHngDWFIa0ApL5UL9vEGxlHESd9g53KQehw&security=reality&sid=77b5&sni=funpay.com&spx=%2F&type=raw#megav.app
