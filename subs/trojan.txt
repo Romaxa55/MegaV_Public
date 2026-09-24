@@ -1,2 +1,1 @@
-trojan://MITIVpN@167.82.76.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&insecure=1&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://qILX2iK3__aseaW-T&Ab@104.18.39.25:2083?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FifuxcqPmJGo7CspjG6xKANwFTtdvpA%3Fed%3D2560&security=tls&sni=W2r2hNwMLm-P33c1-VNwD.hAMeDdsHaRaBi.wORkErS.dev&type=ws#megav.app
+trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=wWw.Volumeroot.cOm.&type=ws#megav.app
