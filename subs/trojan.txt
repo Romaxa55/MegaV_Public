@@ -1,2 +1,1 @@
-trojan://qILX2iK3__aseaW-T&Ab@104.17.90.216:8443?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FmUANpbYjCrbsXiuBa%3Fed%3D2560&security=tls&sni=w2r2HNwMlM-P33C1-vNWD.hAMEDdSHarABi.WORkERs.dev&type=ws#megav.app
-trojan://qILX2iK3__aseaW-T&Ab@104.16.250.79:2087?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FFVJIcgx19eT85MvOT%3Fed%3D2560&security=tls&sni=w2r2HnwmlM-p33C1-VNWD.hameDdsHArAbi.WORKeRS.DeV&type=ws#megav.app
+trojan://humanity@104.18.8.83:443?insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
