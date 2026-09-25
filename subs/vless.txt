@@ -1,2 +1,2 @@
-vless://44a2e1af-a524-47a0-8d26-b160b20a5e37@194.87.55.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SzOhlaAgX-5m7RB6MTfx3MwjfYDi5G2JblGcpnLgam0&security=reality&sid=8ef32bea5018959f&sni=cdn.jsdelivr.net&spx=%2F&type=tcp#megav.app
-vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com%F0%9F%91%89%F0%9F%86%94freenettir%F0%9F%93%A1%F0%9F%87%B3%F0%9F%87%B1%C2%AE%EF%B8%8FThe&path=%2Fvless%2F&security=none&type=ws#megav.app
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.163:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&sni=nl-dedic-new-mori.failspace.top&type=tcp#megav.app
+vless://28a2d39a-d3b2-49ca-ab6c-d4479d3fef08@188.114.97.6:2095?encryption=none&host=KAmRAN07-L4Xbrq-1.kAmRan-07.WORkers.dEv&path=%2F%3Fed%3D2560&security=none&type=ws#megav.app
