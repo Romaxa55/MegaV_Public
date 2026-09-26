@@ -1,6 +1,8 @@
-vless://845bd981-8725-4f9e-9ae8-6f500ec84001@172.66.202.147:443?alpn=http%2F1.1&encryption=none&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Fvl%2FydnizB3vFBcJieBmWhDLbV1A9sAvq%3Fed%3D2560&security=tls&sni=w2r2HNwMlm-P33C1-Vnwd.haMeddsHarABI.WORkers.DEv&type=ws#megav.app
-vless://4908acbe-485f-4e1c-bb11-5dd04b9f7e88@104.21.90.36:443?encryption=none&fp=chrome&host=restless-base-fe24.alirezahabibi20009.workers.dev&path=%2FeyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=restless-base-fe24.alirezahabibi20009.workers.dev&type=ws#megav.app
-trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&fp=chrome&host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
-trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&fp=safari&host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#megav.app
-ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMQ==@132.243.255.3:30210#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vless://0b41f339-5809-46ef-8351-b03fdc441539@172.67.160.14:443?encryption=none&host=fpoixf69hqt3e6d4urtb.mamadneizeh.workers.dev&path=%2Fvl%2FEO6oVRcY1Uc9ohurasfENusjULL248yt%3Fed%3D2560&security=tls&sni=fpoixf69hqt3e6d4urtb.mamadneizeh.workers.dev&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@142.202.48.108:22324?encryption=auto&security=none&type=tcp#megav.app
+vmess://af4be52a-aab3-4db1-a6bb-c23700dcb9c2@188.114.96.19:80?encryption=auto&host=https.http.www.net.com.ramseyv2.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=none&type=ws#megav.app
+trojan://Telegram_healer_config@172.67.182.52:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV&type=ws#megav.app
+trojan://0hbl%2A0RB4T,LSk;JK@104.21.72.201:2096?alpn=http%2F1.1&fp=chrome&host=14sw2krbeo0wv7gz32h3bnj.halabia061.workers.dev&path=%2Ftr%2FzFo6oeSf0f2sJnAeTa4laGGJA9izi%3Fed%3D2560&security=tls&sni=14sW2krbEO0wV7gZ32H3bnJ.hALaBIA061.WorkerS.deV&type=ws#megav.app
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc=@38.180.135.156:8388?security=none&type=tcp#megav.app
