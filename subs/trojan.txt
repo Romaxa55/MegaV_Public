@@ -1,2 +1,2 @@
-trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&fp=chrome&host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
-trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&fp=safari&host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
+trojan://Telegram_healer_config@172.67.182.52:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV&type=ws#megav.app
+trojan://0hbl%2A0RB4T,LSk;JK@104.21.72.201:2096?alpn=http%2F1.1&fp=chrome&host=14sw2krbeo0wv7gz32h3bnj.halabia061.workers.dev&path=%2Ftr%2FzFo6oeSf0f2sJnAeTa4laGGJA9izi%3Fed%3D2560&security=tls&sni=14sW2krbEO0wV7gZ32H3bnJ.hALaBIA061.WorkerS.deV&type=ws#megav.app
