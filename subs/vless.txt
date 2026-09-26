@@ -1,2 +1,2 @@
-vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#megav.app
-vless://a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18@78.129.208.44:421?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg&security=reality&sid=a1facbc8575701ae&sni=chistomat.dry.care&type=tcp#megav.app
+vless://f2381f29-c724-4491-95a3-a17bd6eea47f@46.28.69.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&security=reality&sid=abcd1234&sni=de2.willo.help&type=tcp#megav.app
+vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4&security=reality&sid=835391010667297d&sni=www.samsung.com&type=tcp#megav.app
