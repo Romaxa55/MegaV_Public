@@ -1,2 +1,2 @@
-vmess://04621bae-ab36-11ec-b909-0242ac120002@172.111.38.100:22324?security=none&type=raw#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@89.41.172.85:22324?security=none&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@142.202.48.108:22324?encryption=auto&security=none&type=tcp#megav.app
+vmess://af4be52a-aab3-4db1-a6bb-c23700dcb9c2@188.114.96.19:80?encryption=auto&host=https.http.www.net.com.ramseyv2.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=none&type=ws#megav.app
