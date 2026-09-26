@@ -1,2 +1,2 @@
-vmess://04621bae-ab36-11ec-b909-0242ac120002@172.105.169.70:22324?encryption=auto&security=none&type=tcp#megav.app
-vmess://35b89832-0a7c-48dd-8d1c-a2891b522195@45.32.57.118:4433?security=none&type=tcp#megav.app
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?host=google.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://9b76bc31-17a5-4454-934a-8d5fb602cd70@119.46.51.45:37515?encryption=auto&security=none&type=tcp#megav.app
