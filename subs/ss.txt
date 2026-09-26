@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388?security=none&type=raw#megav.app
