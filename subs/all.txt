@@ -1,7 +1,8 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.67:443?fp=chrome&host=pahobac.org&path=%2Flinkvws&security=tls&sni=pahobac.org&type=ws#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?security=none&type=tcp#megav.app
-trojan://humanity@191.96.94.226:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#megav.app
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#megav.app
+vless://a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18@78.129.208.44:421?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg&security=reality&sid=a1facbc8575701ae&sni=chistomat.dry.care&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@172.105.169.70:22324?encryption=auto&security=none&type=tcp#megav.app
+vmess://35b89832-0a7c-48dd-8d1c-a2891b522195@45.32.57.118:4433?security=none&type=tcp#megav.app
+trojan://MiTiVPN@151.101.56.255:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://humanity@8.47.69.0:443?alpn=http%2F1.1&fp=chrome&host=www.pleadcourt.org&insecure=1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#megav.app
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388?security=none&type=raw#megav.app
