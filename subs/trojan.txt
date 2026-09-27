@@ -1,2 +1,2 @@
-trojan://MiTiVPN@151.101.56.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---nl--s---mitivpn-1.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://humanity@78.47.146.151:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://Telegram_healer_config@104.21.4.124:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FW3Ei3SdcW9sRVMLIbEd8sB1lm%3Fed%3D2560&security=tls&sni=vRE6r9qrbQi0T25tg.SRtB0M3HDbWr2cjZ8fJuR.WoRKerS.DEv&type=ws#megav.app
+trojan://qILX2iK3__aseaW-T&Ab@104.17.48.218:2083?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2F8OdIu4tsaOhnxhxi7%3Fed%3D2560&security=tls&sni=W2r2hNwMlm-p33c1-vNWD.hAmedDShARabi.worKeRS.dEv&type=ws#megav.app
