@@ -1,1 +1,2 @@
-vmess://04621bae-ab36-11ec-b909-0242ac120002@158.51.123.42:22324?security=none&type=tcp#megav.app
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.67:443?encryption=auto&host=pahobac.org&path=%2Flinkvws&security=tls&sni=pahobac.org&type=ws#megav.app
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.67:443?path=%2Flinkvws&security=tls&sni=pahobac.org&type=ws#megav.app
