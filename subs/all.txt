@@ -1,4 +1,8 @@
-vless://dce8ca0a-ed26-45c9-9962-38888c19a0ad@104.27.110.232:2053?alpn=http%2F1.1&encryption=none&fp=chrome&host=still-scene-fda3.devtahair.workers.dev&path=%2FeyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0%3D&security=tls&sni=still-scene-fda3.devtahair.workers.dev&type=ws#megav.app
-vless://28a2d39a-d3b2-49ca-ab6c-d4479d3fef08@188.114.97.6:2095?encryption=none&host=KAmRAN07-L4Xbrq-1.kAmRan-07.WORkers.dEv&path=%2F%3Fed%3D2560&security=none&type=ws#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@158.51.123.42:22324?security=none&type=tcp#megav.app
-ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.67:443?encryption=auto&host=pahobac.org&path=%2Flinkvws&security=tls&sni=pahobac.org&type=ws#megav.app
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.67:443?path=%2Flinkvws&security=tls&sni=pahobac.org&type=ws#megav.app
+trojan://qILX2iK3__aseaW-T&Ab@104.21.228.38:2096?alpn=http%2F1.1&fp=random&host=w2r2hnwmlm-p33c1-vnwd.hameddsharabi.workers.dev&path=%2Ftr%2FNHAJosupmLZms2138Fih74D%3Fed%3D2560&security=tls&sni=w2R2hNwMlm-p33c1-vnWd.HaMEddSHaraBI.WORkErs.DEv&type=ws#megav.app
+trojan://Telegram_healer_config@188.114.96.3:443?alpn=http%2F1.1&fp=chrome&host=5exzc5h4dp8qxsj7bvnb4ftw71.f8orz6ag1a5ng9ih.workers.dev&path=%2Ftr%2Fmn7HiiHzSQM2Lf1txOmQV%3Fed%3D2560&security=tls&sni=5ExzC5h4Dp8qXSJ7bVNB4ftw71.f8OrZ6ag1a5nG9IH.worKErS.DEv&type=ws#megav.app
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882?security=none&type=raw#megav.app
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80?security=none&type=raw#megav.app
