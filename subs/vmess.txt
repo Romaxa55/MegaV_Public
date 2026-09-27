@@ -1,2 +1,1 @@
-vmess://04621bae-ab36-11ec-b909-0242ac120002@158.51.121.63:22324?encryption=auto&security=none&type=tcp#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?security=none&type=tcp#megav.app
+vmess://b3a11068-1a7e-4643-85de-7c82cce46943@151.243.173.119:33736?host=151.243.173.119&path=%2Fvmess-ws&security=none&type=ws#megav.app
