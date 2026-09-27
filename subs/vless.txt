@@ -1,2 +1,2 @@
-vless://f2381f29-c724-4491-95a3-a17bd6eea47f@46.28.69.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&security=reality&sid=abcd1234&sni=de2.willo.help&type=tcp#megav.app
-vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4&security=reality&sid=835391010667297d&sni=www.samsung.com&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
