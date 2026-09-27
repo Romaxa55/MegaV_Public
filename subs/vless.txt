@@ -1,2 +1,2 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
+vless://dce8ca0a-ed26-45c9-9962-38888c19a0ad@104.27.110.232:2053?alpn=http%2F1.1&encryption=none&fp=chrome&host=still-scene-fda3.devtahair.workers.dev&path=%2FeyJqdW5rIjoiSDNSSGYxT05LU2VEbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIxNy4yMzAiXX0%3D&security=tls&sni=still-scene-fda3.devtahair.workers.dev&type=ws#megav.app
+vless://28a2d39a-d3b2-49ca-ab6c-d4479d3fef08@188.114.97.6:2095?encryption=none&host=KAmRAN07-L4Xbrq-1.kAmRan-07.WORkers.dEv&path=%2F%3Fed%3D2560&security=none&type=ws#megav.app
