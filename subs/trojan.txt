@@ -1,1 +1,2 @@
-trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&fp=qq&insecure=1&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
+trojan://MiTiVPN@199.232.78.188:443?fp=chrome&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://humanity@188.114.97.6:443?alpn=http%2F1.1&fp=unsafe&host=www.volumerOot.coM.&path=%2Fassignment&security=tls&sni=www.volumerOot.coM.&type=ws#megav.app
