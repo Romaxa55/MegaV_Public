@@ -1,9 +1,8 @@
-vless://8afeb33c-b686-43e9-a629-0d98f991ec28@104.194.159.237:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=L5cKU_oSpJsGd3ffemej3Wy7V6KzqjIUC2T5jaCyPys&security=reality&sid=1aec480577a542ee&sni=github.com&type=tcp#megav.app
-vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?encryption=none&fp=chrome&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&security=reality&sid=bfe58beb41f1d09f&sni=www.apple.com&type=tcp#megav.app
-vmess://b3a11068-1a7e-4643-85de-7c82cce46943@151.243.173.119:33736?host=151.243.173.119&path=%2Fvmess-ws&security=none&type=ws#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@172.111.38.100:22324?encryption=auto&security=none&type=tcp#megav.app
-trojan://Telegram_healer_config@188.114.97.7:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FgtMkuJkm42JnKfAr%3Fed%3D2560&security=tls&sni=TH1R714O73d1P35f.mr2esNK29L620Xo76Kpuv-QUb4B7IDfR.WOrkeRS.DeV&type=ws#megav.app
-trojan://MiTiVPN@151.101.56.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---nl--s---mitivpn-1.global.ssl.fastly.net&path=%2F------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------%26&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA==@206.189.52.4:17000?security=none&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcnMyZTlh@54.36.174.134:443#megav.app
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6THV0c0Vxa0JnYUZPclhIbEM3d0NhdjdORFRjUGdNUEFqakFyNDNuY04xYz0=@141.144.193.219:45819#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@172.111.38.100:22324?security=none&type=tcp#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#megav.app
+trojan://MiTiVPN@151.101.56.255:443?alpn=http%2F1.1&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://humanity@104.19.64.105:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#megav.app
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#megav.app
