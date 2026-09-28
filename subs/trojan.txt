@@ -1,2 +1,1 @@
-trojan://MiTiVPN@151.101.56.255:443?alpn=http%2F1.1&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://humanity@104.19.64.105:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
