@@ -1,2 +1,2 @@
-trojan://Telegram_healer_config@188.114.97.7:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FgtMkuJkm42JnKfAr%3Fed%3D2560&security=tls&sni=TH1R714O73d1P35f.mr2esNK29L620Xo76Kpuv-QUb4B7IDfR.WOrkeRS.DeV&type=ws#megav.app
-trojan://MiTiVPN@151.101.56.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---nl--s---mitivpn-1.global.ssl.fastly.net&path=%2F------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------%26&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://MiTiVPN@151.101.56.255:443?alpn=http%2F1.1&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://humanity@104.19.64.105:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
