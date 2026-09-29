@@ -1,2 +1,2 @@
-trojan://pH%5B%5DS%5BBh%3A_%3AD6T4k@104.19.45.195:443?host=azadnet-692.pages.dev&path=%2FtrsVu9Ualb1DOfGjpw&security=tls&sni=AZaDneT-692.PagEs.DEv&type=ws#megav.app
-trojan://bpb-trojan@172.67.135.88:443?host=vless.herogoing.top&path=%2Ftr%3Fed%3D2560&security=tls&sni=vless.herogoing.top&type=ws#megav.app
+trojan://mitivpn@199.232.78.160:443?alpn=http%2F1.1&fp=firefox&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&insecure=1&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1i%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://XuMweB2PWs@2.27.109.179:45464?insecure=1&security=tls&sni=2.27.109.179.sslip.io&type=tcp#megav.app
