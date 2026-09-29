@@ -1,1 +1,2 @@
-ss://YWVzLTEyOC1nY206MjU5MWE0MmFmNDk4ODc4ZTQ3ZDg4MWNkMWVkMWZhOWQ=@66.23.204.219:10676#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?security=none&type=raw#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443?security=none&type=raw#megav.app
