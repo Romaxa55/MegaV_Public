@@ -1,7 +1,4 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@38.109.228.50:22324?encryption=auto&security=none&type=tcp#megav.app
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.118.73:443?path=%2Flinkvws&security=tls&sni=mygptagent.org&type=ws#megav.app
-trojan://mitivpn@151.101.56.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&path=%40mehrosaboran&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://mitivpn@199.232.78.160:443?alpn=http%2F1.1&fp=firefox&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1i%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#megav.app
+vless://55b237c9-02d3-44a8-a61c-033455da3fa8@95.85.242.182:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xweejWIAaEbPuyKn4UpPWe9eEaEx2y-DgGCS1Egtlk4&security=reality&sid=1b2a3f&sni=cache.web-assets.cfd&type=tcp#megav.app
+vless://d72f05b0-b182-4783-a6f2-21cecc7d841a@94.183.224.45:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=SibLV5WBGdljTiUCmKx77KhHQfErCwjDMD_ZLoha3js&security=reality&sid=a1b2c3d4e5f67890&sni=dzen.ru&spx=%2F&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@167.88.63.59:22324?encryption=auto&security=none&type=raw#megav.app
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@216.106.183.35:443?encryption=auto&host=aksai.org&path=%2Flinkvws&security=tls&sni=aksai.org&type=ws#megav.app
