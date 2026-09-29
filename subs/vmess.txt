@@ -1,2 +1,2 @@
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.67:443?encryption=auto&path=%2Flinkvws&security=tls&sni=pahobac.org&type=ws#megav.app
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@139.64.166.25:443?fp=chrome&host=pahobac.org&path=%2Flinkvws&security=tls&sni=pahobac.org&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@185.177.229.129:22324?encryption=auto&security=none&type=raw#megav.app
+vmess://479526cd-5011-43cf-a788-504da95e07c2@188.114.96.19:80?host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&security=none&type=ws#megav.app
