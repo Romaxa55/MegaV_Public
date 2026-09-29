@@ -1,2 +1,2 @@
-trojan://Telegram_healer_config@104.21.24.95:443?alpn=http%2F1.1&fp=chrome&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&insecure=1&path=%2Ftr%2FzJi4ccv7FeEo780U%3Fed%3D2560&security=tls&sni=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&type=ws#megav.app
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://pH%5B%5DS%5BBh%3A_%3AD6T4k@104.19.45.195:443?host=azadnet-692.pages.dev&path=%2FtrsVu9Ualb1DOfGjpw&security=tls&sni=AZaDneT-692.PagEs.DEv&type=ws#megav.app
+trojan://bpb-trojan@172.67.135.88:443?host=vless.herogoing.top&path=%2Ftr%3Fed%3D2560&security=tls&sni=vless.herogoing.top&type=ws#megav.app
