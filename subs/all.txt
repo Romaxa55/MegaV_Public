@@ -1,9 +1,8 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.117.58:443?encryption=auto&host=aksai.org&path=%2Flinkvws&security=tls&sni=aksai.org&type=ws#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@89.41.172.85:22324?encryption=auto&security=none&type=tcp#megav.app
-trojan://mitivpn@199.232.78.170:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://Telegram_healer_config@172.67.143.94:443?alpn=http%2F1.1&fp=chrome&host=z6y-daox0hyhdtdy.r720kpbyx2l3i406.workers.dev&path=%2Ftr%2FZizffFwMuYF9RUfnS3Ad2bGqcOrQk%3Fed%3D2560&security=tls&sni=Z6Y-Daox0HyHdTDy.R720KPBYx2L3I406.WorKERS.DEV&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388?security=none&type=raw#megav.app
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882?security=none&type=tcp#megav.app
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NjMzczFNTjBRemdtN2tIVk1rMk1RYjlNaU9UWi9sRVh5MzFwN1JZL0xhUT0=@129.151.88.107:61312#megav.app
+vless://67a171fb-a31d-49f3-a9d6-98de350763e8@107.189.18.145:443?encryption=none&fp=firefox&security=tls&sni=restnet.duckdns.org&type=tcp#megav.app
+vless://d042a74a-c305-4eec-a89f-39a348022c92@208.103.161.5:443?encryption=none&fp=chrome&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev&security=tls&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@186.190.211.147:22324?security=none&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324#megav.app
+trojan://Telegram_healer_config@104.21.16.123:443?alpn=http%2F1.1&fp=chrome&host=7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev&insecure=1&path=%2Ftr%2FqL8YIeH28wNcXfNTPgLCwOhNFEr%3Fed%3D2560&security=tls&sni=7x7o3vtq5z6ymu3hv1fh-op9blt.hya6losm6lznoxhm6w3mk.workers.dev&type=ws#megav.app
+trojan://mitivpn@199.232.78.160:443?alpn=http%2F1.1&fp=firefox&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&path=%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2FD-e1i%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+ss://YWVzLTEyOC1nY206YWQ1ZTJkZTg4MjgzZjViOTE1YzI1OTgyZTA2YmI0NWI=@195.154.81.205:15980#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#megav.app
