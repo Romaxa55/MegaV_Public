@@ -1,89 +1,43 @@
 {
-  "updated_at": "2026-10-01T16:00:58Z",
-  "total": 7,
+  "updated_at": "2026-10-01T20:00:23Z",
+  "total": 3,
   "by_protocol": {
-    "shadowsocks": 2,
-    "trojan": 2,
     "vless": 2,
     "vmess": 1
   },
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "AE",
-      "flag": "🇦🇪",
-      "city": "Amsterdam",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 533,
-      "bandwidth_kbs": 464,
-      "url": "vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@78.40.195.140:443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=Rp0WaupRP9LtJ-dd4vjKwuvSzqo_ZqIZPZWDEbSoIAo\u0026security=reality\u0026sid=98096455d963bdbb\u0026sni=www.booking.com\u0026type=raw#megav.app"
+      "response_ms": 348,
+      "bandwidth_kbs": 479,
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "City of London",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 549,
-      "bandwidth_kbs": 480,
-      "url": "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.173:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026insecure=1\u0026security=tls\u0026sni=viper-21.moriarty-web.com\u0026type=tcp#megav.app"
+      "response_ms": 421,
+      "bandwidth_kbs": 458,
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sni=fuck.rkn\u0026type=raw#megav.app"
     },
     {
       "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Phoenix",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 3513,
-      "bandwidth_kbs": 457,
-      "url": "vmess://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto\u0026path=%2Fcctv13.m3u8\u0026security=none\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
       "country_code": "GB",
       "flag": "🇬🇧",
-      "city": "Hounslow",
+      "city": "Brentford",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 506,
-      "bandwidth_kbs": 420,
-      "url": "trojan://mitivpn@199.232.78.170:443?alpn=http%2F1.1\u0026host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net\u0026path=%40VPNine1\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 798,
-      "bandwidth_kbs": 413,
-      "url": "trojan://mitivpn@199.232.78.188:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net\u0026path=%2F%3FTelegram---V2ray_confiig\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 680,
-      "bandwidth_kbs": 459,
-      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 823,
-      "bandwidth_kbs": 397,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388?security=none\u0026type=tcp#megav.app"
+      "response_ms": 4889,
+      "bandwidth_kbs": 436,
+      "url": "vmess://af4be52a-aab3-4db1-a6bb-c23700dcb9c2@188.114.96.19:80?encryption=auto\u0026host=https.http.www.net.com.ramseyv2.ir.\u0026path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D\u0026security=none\u0026type=ws#megav.app"
     }
   ]
 }
