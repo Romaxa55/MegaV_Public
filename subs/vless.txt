@@ -1,2 +1,2 @@
-vless://82fc8761-470b-4022-89da-ce5412e8bb0a@57.129.130.57:52014?encryption=none&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=%2F%40Marisa_kristifp%3Dchrome&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#megav.app
-vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&security=reality&sni=www.akamai.com&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
