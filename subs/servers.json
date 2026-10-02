@@ -1,67 +1,45 @@
 {
-  "updated_at": "2026-10-02T00:00:25Z",
-  "total": 8,
+  "updated_at": "2026-10-02T04:01:23Z",
+  "total": 6,
   "by_protocol": {
-    "shadowsocks": 2,
+    "shadowsocks": 1,
     "trojan": 2,
     "vless": 2,
-    "vmess": 2
+    "vmess": 1
   },
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 308,
-      "bandwidth_kbs": 423,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
+      "response_ms": 322,
+      "bandwidth_kbs": 487,
+      "url": "vless://23e34376-aa47-4c8d-97ea-02915e01fcca@172.67.216.233:443?alpn=http%2F1.1\u0026encryption=none\u0026fp=chrome\u0026host=j3bx1s9mk2sylw66yj-hsk.tjsjrkk8gbhts0q5-0os.workers.dev\u0026path=%2Fvl%2Fuwojyr8LT2gMeHnQJVf2HntOGHsvRH3+\u0026security=tls\u0026sni=J3Bx1S9MK2syLW66yJ-hSk.TJsJrKk8GbHTS0Q5-0Os.wOrKeRS.DEv\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 363,
-      "bandwidth_kbs": 410,
-      "url": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none\u0026host=SC-TheNetherlands1.09vpn.com\u0026path=%2Fvless%2F\u0026security=none\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1395,
-      "bandwidth_kbs": 417,
-      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@45.80.215.8:22324?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "vmess",
       "country_code": "GB",
       "flag": "🇬🇧",
-      "city": "Brentford",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1462,
-      "bandwidth_kbs": 471,
-      "url": "vmess://af4be52a-aab3-4db1-a6bb-c23700dcb9c2@188.114.96.19:80?encryption=auto\u0026host=https.http.www.net.com.ramseyv2.ir.\u0026path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 378,
+      "bandwidth_kbs": 416,
+      "url": "vless://2b8738de-1af5-4267-b101-c05707769ed4@188.114.99.0:2083?encryption=none\u0026fp=chrome\u0026host=fans.liverpool.qzz.io\u0026path=%2FeyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D\u0026security=tls\u0026sni=fans.liverpool.qzz.io\u0026type=ws#megav.app"
     },
     {
-      "protocol": "trojan",
-      "country_code": "FR",
-      "flag": "🇫🇷",
-      "city": "Paris",
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Miami",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 550,
-      "bandwidth_kbs": 458,
-      "url": "trojan://humanity@172.67.231.254:443?host=www.calmlunch.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+      "response_ms": 2327,
+      "bandwidth_kbs": 420,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
@@ -70,31 +48,31 @@
       "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 619,
-      "bandwidth_kbs": 490,
-      "url": "trojan://Jpe\u0026@patreon.com:2083?fp=chrome\u0026host=shInY-PoEtry-Ac23.KaMraN-15.WorkeRs.Dev\u0026path=%2FeyJqdW5rIjoiSG9HTkYwZzhWZHAiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560\u0026pcs=9632804CC9DDC9236CE2A79C6D15E7417281186FC5EFBE979DD7E55624DE7DD5\u0026security=tls\u0026sni=shInY-PoEtry-Ac23.KaMraN-15.WorkeRs.Dev\u0026type=ws#megav.app"
+      "response_ms": 394,
+      "bandwidth_kbs": 447,
+      "url": "trojan://Telegram_healer_config@104.21.70.21:443?path=%2Ftr%2FJ6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560\u0026security=tls\u0026sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev\u0026type=ws#megav.app"
     },
     {
-      "protocol": "shadowsocks",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Frankfurt am Main",
+      "protocol": "trojan",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 880,
-      "bandwidth_kbs": 456,
-      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#megav.app"
+      "response_ms": 415,
+      "bandwidth_kbs": 411,
+      "url": "trojan://c0c17d1da2c2c9299d5094c8@104.21.28.88:443?alpn=http%2F1.1\u0026fp=chrome\u0026path=%2FeyJqdW5rIjoiMDdteWJvazY4azJ3MiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D\u0026security=tls\u0026sni=ez-3e9698.ezaccess1ec1f0c.workers.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "New York",
+      "city": "Piscataway",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1130,
-      "bandwidth_kbs": 472,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#megav.app"
+      "response_ms": 1210,
+      "bandwidth_kbs": 429,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#megav.appss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#megav.appss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#megav.apphysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1\u0026sni=https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3#megav.appvless://17d29827-7cf1-4115-b40d-548e10ec355d@billing.netraidly.ru:40443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=qq\u0026pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM\u0026security=reality\u0026sid=aa3c\u0026sni=deepl.com\u0026type=tcp#megav.apphysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1\u0026sni=202.146.222.29#megav.appvless://17d29827-7cf1-4115-b40d-548e10ec355d@billing.netraidly.ru:40443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=qq\u0026pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM\u0026security=reality\u0026sid=aa3c\u0026sni=deepl.com\u0026type=raw#megav.apphysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1\u0026sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#megav.apphysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1\u0026sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#megav.apphysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=1\u0026obfs=salamander\u0026obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9\u0026sni=127.0.0.1#megav.apphysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=1\u0026obfs=salamander\u0026obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9\u0026sni=nas.aizhzo.com#megav.appvless://7b102311-43fd-4e8f-877e-8090623c101d@proxyip.hk.cmliussss.net:443?encryption=none\u0026fp=chrome\u0026host=vp10.pages.dev\u0026path=%2F\u0026security=tls\u0026sni=vp10.pages.dev\u0026type=ws#megav.appvless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?encryption=none\u0026fp=chrome\u0026pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo\u0026security=reality\u0026sid=ec2c7091fe76336c\u0026sni=www.cloudflare.com\u0026type=tcp#megav.apphysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1\u0026sni=202.146.222.174#megav.apphysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1\u0026sni=google.com#megav.apphysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1\u0026sni=https%3A%2F%2Ft.me%2Fwangcai2%D1%80%D2%B9%D2%AF%D1%91%D1%80%D2%B9%D2%AF%D1%96#megav.apphysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1\u0026sni=https%3A%2F%2Ft.me%2Fwangcai2#megav.apphysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1\u0026sni=speedtest.tinkoff.ru#megav.apphysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1\u0026sni=https%3A%2F%2Ft.me%2Fwangcai2%C3%B0%C2%9F%C2%87%C2%A8%C3%B0%C2%9F%C2%87%C2%B3#megav.appvless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?en"
     }
   ]
 }
