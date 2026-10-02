@@ -1,1 +1,2 @@
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@89.39.161.157:443?encryption=auto&host=aksai.org&path=%2Flinkvws&security=tls&sni=aksai.org&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@134.195.198.214:22324?encryption=auto&security=none&type=raw#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@169.197.141.115:22324?encryption=auto&security=none&type=tcp#megav.app
