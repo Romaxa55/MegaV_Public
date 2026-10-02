@@ -1,3 +1,8 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none&host=SC-TheNetherlands1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@45.80.215.8:22324?encryption=auto&security=none&type=tcp#megav.app
 vmess://af4be52a-aab3-4db1-a6bb-c23700dcb9c2@188.114.96.19:80?encryption=auto&host=https.http.www.net.com.ramseyv2.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D&security=none&type=ws#megav.app
+trojan://humanity@172.67.231.254:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://Jpe&@patreon.com:2083?fp=chrome&host=shInY-PoEtry-Ac23.KaMraN-15.WorkeRs.Dev&path=%2FeyJqdW5rIjoiSG9HTkYwZzhWZHAiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&pcs=9632804CC9DDC9236CE2A79C6D15E7417281186FC5EFBE979DD7E55624DE7DD5&security=tls&sni=shInY-PoEtry-Ac23.KaMraN-15.WorkeRs.Dev&type=ws#megav.app
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#megav.app
