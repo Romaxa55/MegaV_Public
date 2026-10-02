@@ -1,7 +1,7 @@
-vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?encryption=none&fp=firefox&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&security=reality&sid=d051f678212f9d54&sni=www.apple.com&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@89.39.161.157:443?encryption=auto&host=aksai.org&path=%2Flinkvws&security=tls&sni=aksai.org&type=ws#megav.app
-trojan://Telegram_healer_config@104.21.87.130:443?alpn=http%2F1.1&fp=chrome&host=z6y-daox0hyhdtdy.r720kpbyx2l3i406.workers.dev&path=%2Ftr%2FZizffFwMuYF9RUfnS3Ad2bGqcOrQk%3Fed%3D2560&security=tls&sni=Z6Y-Daox0HyHdTDy.R720KPBYx2L3I406.WorKERS.DEV&type=ws#megav.app
-trojan://Telegram_healer_config@188.114.97.3:443?alpn=http%2F1.1&fp=chrome&host=n19hybk46htal-mvntu149wcu-h.bkczgnqodlqtm6endlz3vs4f2kzq.workers.dev&path=%2Ftr%2FQjO9GZbQ41dJ7RJJykX%3Fed%3D2560&security=tls&sni=N19HYbk46HtAL-mvnTu149WCU-H.bKcZgnqOdLQtM6enDLZ3VS4f2KzQ.wOrkeRS.Dev&type=ws#megav.app
-ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA==@138.199.48.82:9443#megav.app
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?encryption=none&host=eu02.123450908.xyz&path=%2Frain1226&security=none&type=ws#megav.app
+vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=b7cd177731793b1e&sni=vkvd754.okcdn.ru&type=raw#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@134.195.198.214:22324?encryption=auto&security=none&type=raw#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@169.197.141.115:22324?encryption=auto&security=none&type=tcp#megav.app
+trojan://humanity@104.21.33.59:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#megav.app
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882?security=none&type=tcp#megav.app
