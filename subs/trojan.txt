@@ -1,2 +1,2 @@
-trojan://mitivpn@199.232.78.170:443?alpn=http%2F1.1&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&path=%40VPNine1&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://mitivpn@199.232.78.188:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&path=%2F%3FTelegram---V2ray_confiig&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://humanity@172.67.231.254:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://Jpe&@patreon.com:2083?fp=chrome&host=shInY-PoEtry-Ac23.KaMraN-15.WorkeRs.Dev&path=%2FeyJqdW5rIjoiSG9HTkYwZzhWZHAiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&pcs=9632804CC9DDC9236CE2A79C6D15E7417281186FC5EFBE979DD7E55624DE7DD5&security=tls&sni=shInY-PoEtry-Ac23.KaMraN-15.WorkeRs.Dev&type=ws#megav.app
