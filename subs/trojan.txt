@@ -1,1 +1,1 @@
-trojan://humanity@104.21.33.59:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://humanity@8.47.69.0:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
