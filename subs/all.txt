@@ -1,4 +1,8 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
-vless://b945051b-61fd-4769-bd4f-e6a46214bbdf@104.24.152.217:80?encryption=none&host=auto-b94505.mmonn5771.workers.dev&path=%2F&security=none&type=ws#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=none&security=none&type=tcp#megav.app
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#megav.app
+vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?encryption=none&fp=firefox&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&security=reality&sid=d051f678212f9d54&sni=www.apple.com&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@139.64.166.25:443?encryption=auto&host=pahobac.org&path=%2Flinkvws&security=tls&sni=pahobac.org&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@45.80.215.8:22324?security=none&type=tcp#megav.app
+trojan://humanity@8.47.69.0:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388?security=none&type=raw#megav.app
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206RUlJd0pQZzhZcWduakxMZDU4em9UZz09OmE3NGNvYklOc0QycnhyUzFzakpTQ2c9PQ==@85.209.157.184:8388#megav.app
