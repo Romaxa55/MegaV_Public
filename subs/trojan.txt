@@ -1,2 +1,1 @@
-trojan://humanity@91.245.225.79:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?fp=qq&insecure=1&security=tls&type=tcp#megav.app
+trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos&type=raw#megav.app
