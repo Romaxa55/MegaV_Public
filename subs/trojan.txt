@@ -1,1 +1,2 @@
-trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos&type=raw#megav.app
+trojan://humanity@8.6.112.0:443?alpn=http%2F1.1&fp=chrome&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://humanity@45.205.0.6:443?alpn=http%2F1.1&fp=chrome&host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
