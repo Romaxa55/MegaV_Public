@@ -1,4 +1,6 @@
-vless://8d0f652c-3caa-4570-a138-668364f3d25e@172.67.131.125:443?encryption=none&fp=chrome&host=sqqfq0vy-l4v0qa0zlxnjd79-ykvkw.mrmamali.workers.dev&path=%2Fvl%2FzInkY7qcXuM6P1AZTQ%3Fed%3D2560&security=tls&sni=SqqfQ0vy-l4v0qA0ZLxNJd79-ykvkw.mRmamaLi.WoRKerS.DEV&type=ws#megav.app
-vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?encryption=none&fp=chrome&security=tls&sni=bold-term-4edd.mbigspot.workers.dev&type=ws#megav.app
-trojan://mitivpn@167.82.76.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&path=%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2Fdes---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://Telegram_healer_config@104.21.56.172:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FiKNPzyUClLafWsNIz03UG9xb%3Fed%3D2560&security=tls&sni=bktF381B04NcHTXKN8TideZQGF.TcNtH9S31mG1j4TNxLAD62o1s2o.wOrKeRs.dEV&type=ws#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000?encryption=null&security=none&type=raw#megav.app
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?fp=edge&insecure=1&security=tls&sni=russiapower.accesscam.org&type=tcp#megav.app
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?fp=chrome&security=tls&sni=promoted-rattler.rooster465.autos&type=tcp#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#megav.app
