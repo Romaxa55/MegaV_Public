@@ -1,56 +1,32 @@
 {
-  "updated_at": "2026-10-04T08:00:36Z",
-  "total": 7,
+  "updated_at": "2026-10-04T12:00:30Z",
+  "total": 4,
   "by_protocol": {
-    "shadowsocks": 1,
     "trojan": 2,
-    "vless": 2,
-    "vmess": 2
+    "vless": 2
   },
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 366,
-      "bandwidth_kbs": 419,
-      "url": "vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none\u0026host=SC-TheNetherlands2.09vpn.com%F0%9F%91%89%F0%9F%86%94freenettir%F0%9F%93%A1%F0%9F%87%B3%F0%9F%87%B1%C2%AE%EF%B8%8FThe\u0026path=%2Fvless%2F\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 361,
+      "bandwidth_kbs": 462,
+      "url": "vless://8d0f652c-3caa-4570-a138-668364f3d25e@172.67.131.125:443?encryption=none\u0026fp=chrome\u0026host=sqqfq0vy-l4v0qa0zlxnjd79-ykvkw.mrmamali.workers.dev\u0026path=%2Fvl%2FzInkY7qcXuM6P1AZTQ%3Fed%3D2560\u0026security=tls\u0026sni=SqqfQ0vy-l4v0qA0ZLxNJd79-ykvkw.mRmamaLi.WoRKerS.DEV\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 394,
-      "bandwidth_kbs": 437,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "vmess",
       "country_code": "GB",
       "flag": "🇬🇧",
-      "city": "Bexley",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 563,
-      "bandwidth_kbs": 140,
-      "url": "vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?host=viber.com\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "New York",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1209,
-      "bandwidth_kbs": 404,
-      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?security=none\u0026type=raw#megav.app"
+      "response_ms": 448,
+      "bandwidth_kbs": 472,
+      "url": "vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?encryption=none\u0026fp=chrome\u0026security=tls\u0026sni=bold-term-4edd.mbigspot.workers.dev\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -59,31 +35,20 @@
       "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 345,
-      "bandwidth_kbs": 468,
-      "url": "trojan://mitivpn@199.232.78.160:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net\u0026path=%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2Fdes---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
+      "response_ms": 901,
+      "bandwidth_kbs": 451,
+      "url": "trojan://mitivpn@167.82.76.7:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net\u0026path=%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2Fdes---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1671,
+      "response_ms": 931,
       "bandwidth_kbs": 432,
-      "url": "trojan://humanity@188.114.97.6:443?alpn=http%2F1.1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.pleadcourt.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "New York",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1506,
-      "bandwidth_kbs": 492,
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443?security=none\u0026type=raw#megav.app"
+      "url": "trojan://Telegram_healer_config@104.21.56.172:443?alpn=http%2F1.1\u0026fp=chrome\u0026path=%2Ftr%2FiKNPzyUClLafWsNIz03UG9xb%3Fed%3D2560\u0026security=tls\u0026sni=bktF381B04NcHTXKN8TideZQGF.TcNtH9S31mG1j4TNxLAD62o1s2o.wOrKeRs.dEV\u0026type=ws#megav.app"
     }
   ]
 }
