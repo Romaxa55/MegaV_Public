@@ -1,2 +1,2 @@
-vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com%F0%9F%91%89%F0%9F%86%94freenettir%F0%9F%93%A1%F0%9F%87%B3%F0%9F%87%B1%C2%AE%EF%B8%8FThe&path=%2Fvless%2F&security=none&type=ws#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vless://8d0f652c-3caa-4570-a138-668364f3d25e@172.67.131.125:443?encryption=none&fp=chrome&host=sqqfq0vy-l4v0qa0zlxnjd79-ykvkw.mrmamali.workers.dev&path=%2Fvl%2FzInkY7qcXuM6P1AZTQ%3Fed%3D2560&security=tls&sni=SqqfQ0vy-l4v0qA0ZLxNJd79-ykvkw.mRmamaLi.WoRKerS.DEV&type=ws#megav.app
+vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?encryption=none&fp=chrome&security=tls&sni=bold-term-4edd.mbigspot.workers.dev&type=ws#megav.app
