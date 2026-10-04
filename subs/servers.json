@@ -1,54 +1,78 @@
 {
-  "updated_at": "2026-10-04T12:00:30Z",
-  "total": 4,
+  "updated_at": "2026-10-04T16:00:34Z",
+  "total": 6,
   "by_protocol": {
+    "shadowsocks": 1,
     "trojan": 2,
-    "vless": 2
+    "vless": 2,
+    "vmess": 1
   },
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 361,
-      "bandwidth_kbs": 462,
-      "url": "vless://8d0f652c-3caa-4570-a138-668364f3d25e@172.67.131.125:443?encryption=none\u0026fp=chrome\u0026host=sqqfq0vy-l4v0qa0zlxnjd79-ykvkw.mrmamali.workers.dev\u0026path=%2Fvl%2FzInkY7qcXuM6P1AZTQ%3Fed%3D2560\u0026security=tls\u0026sni=SqqfQ0vy-l4v0qA0ZLxNJd79-ykvkw.mRmamaLi.WoRKerS.DEV\u0026type=ws#megav.app"
+      "response_ms": 388,
+      "bandwidth_kbs": 396,
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=random\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sni=fuck.rkn\u0026type=raw#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 448,
-      "bandwidth_kbs": 472,
-      "url": "vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?encryption=none\u0026fp=chrome\u0026security=tls\u0026sni=bold-term-4edd.mbigspot.workers.dev\u0026type=ws#megav.app"
+      "response_ms": 410,
+      "bandwidth_kbs": 493,
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Seattle",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2412,
+      "bandwidth_kbs": 427,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000?encryption=null\u0026security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "EE",
+      "flag": "🇪🇪",
+      "city": "Tallinn",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 901,
-      "bandwidth_kbs": 451,
-      "url": "trojan://mitivpn@167.82.76.7:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net\u0026path=%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2Fdes---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
+      "response_ms": 964,
+      "bandwidth_kbs": 470,
+      "url": "trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?fp=edge\u0026insecure=1\u0026security=tls\u0026sni=russiapower.accesscam.org\u0026type=tcp#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "JP",
+      "flag": "🇯🇵",
+      "city": "Tokyo",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 931,
-      "bandwidth_kbs": 432,
-      "url": "trojan://Telegram_healer_config@104.21.56.172:443?alpn=http%2F1.1\u0026fp=chrome\u0026path=%2Ftr%2FiKNPzyUClLafWsNIz03UG9xb%3Fed%3D2560\u0026security=tls\u0026sni=bktF381B04NcHTXKN8TideZQGF.TcNtH9S31mG1j4TNxLAD62o1s2o.wOrKeRs.dEV\u0026type=ws#megav.app"
+      "response_ms": 8896,
+      "bandwidth_kbs": 476,
+      "url": "trojan://UX82473651@promoted-rattler.rooster465.autos:443?fp=chrome\u0026security=tls\u0026sni=promoted-rattler.rooster465.autos\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Piscataway",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1772,
+      "bandwidth_kbs": 439,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#megav.app"
     }
   ]
 }
