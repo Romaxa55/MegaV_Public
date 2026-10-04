@@ -1,2 +1,2 @@
-vmess://106760ec-33f3-47cc-8b50-0e6df48d6784@206.1.103.212:8080?encryption=auto&security=none&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@198.57.27.190:22324?encryption=auto&security=none&type=raw#megav.app
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?host=viber.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?security=none&type=raw#megav.app
