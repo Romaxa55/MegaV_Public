@@ -1,6 +1,6 @@
-vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&security=reality&sid=1d86d17709852910&sni=www.apple.com&type=raw#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@185.177.229.128:22324?encryption=auto&security=none&type=raw#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000#megav.app
-trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos&type=raw#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443?security=none&type=raw#megav.app
+vless://e3e9805a-6c8b-4edd-8ee8-621df79806eb@162.35.242.252:443?encryption=none&fp=firefox&pbk=ClG6fvriBTK8donGsTlKusJ0dwRCgVDDTAGzAtZzJDY&security=reality&sid=82c2b7d5e70ff000&sni=nl.aksay.pro&spx=%2F&type=tcp#megav.app
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#megav.app
+vmess://3dff544a-379e-41f9-95d9-4b95a8e4026e@31.76.11.83:23325?security=none&type=raw#megav.app
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?host=google.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+trojan://humanity@8.6.112.0:443?alpn=http%2F1.1&fp=chrome&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://humanity@45.205.0.6:443?alpn=http%2F1.1&fp=chrome&host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
