@@ -1,8 +1,7 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vmess://106760ec-33f3-47cc-8b50-0e6df48d6784@206.1.103.212:8080?encryption=auto&security=none&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@198.57.27.190:22324?encryption=auto&security=none&type=raw#megav.app
-trojan://mitivpn@167.82.76.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://humanity@104.18.9.83:443?host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#megav.app
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#megav.app
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com%F0%9F%91%89%F0%9F%86%94freenettir%F0%9F%93%A1%F0%9F%87%B3%F0%9F%87%B1%C2%AE%EF%B8%8FThe&path=%2Fvless%2F&security=none&type=ws#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?host=viber.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?security=none&type=raw#megav.app
+trojan://mitivpn@199.232.78.160:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&path=%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2Fdes---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://humanity@188.114.97.6:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443?security=none&type=raw#megav.app
