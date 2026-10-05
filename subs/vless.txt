@@ -1,2 +1,2 @@
-vless://5aae7d2d-c152-42cc-afb6-fe805fb94531@139.162.149.105:80?encryption=none&host=139.162.149.105&path=%2F&security=none&type=ws#megav.app
-vless://fba73f98-777a-42a6-83c0-7d1f6f070e8d@141.0.187.16:2083?alpn=http%2F1.1&encryption=none&fp=chrome&insecure=1&path=%2Fvless-ws&security=tls&sni=crt.dodopanel.biz&type=ws#megav.app
+vless://c07346da-5799-40c1-9d5a-5ea3ca3ac9e2@172.67.187.126:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=zhclj7kx6wq0le6w-onnwueonk1hftn4.imanbieng27.workers.dev&path=%2Fvl%2Ff3oG5yfx5KneVc2tFE8zA82ZnOZYy%3Fed%3D2560&security=tls&sni=zhclj7kx6wq0le6w-onnwueonk1hftn4.imanbieng27.workers.dev&type=ws#megav.app
+vless://eb24c3b4-7936-45e2-a253-e54fd1955a7f@188.114.97.8:443?encryption=none&fp=chrome&host=C0yR9j09Y2l9G0tD8wa5.2wHBRirhjGslM43zJCqEi.worKeRs.DEV&path=%2Fvl%2F6NGHNFKsvK41KeQo&security=tls&sni=C0yR9j09Y2l9G0tD8wa5.2wHBRirhjGslM43zJCqEi.worKeRs.DEV&type=ws#megav.app
