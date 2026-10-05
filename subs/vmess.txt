@@ -1,2 +1,1 @@
-vmess://04621bae-ab36-11ec-b909-0242ac120002@185.177.229.128:22324?encryption=auto&security=none&type=tcp#megav.app
-vmess://ac1b933d-afff-4487-93ef-f57130a55dff@217.142.138.61:80?encryption=auto&headerType=http&security=none&type=raw#megav.app
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.115.23:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=auto&fp=ios&host=aidrivercat.org&path=%2Flinkvws&security=tls&sni=aidrivercat.org&type=ws#megav.app
