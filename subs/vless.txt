@@ -1,2 +1,2 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
+vless://5aae7d2d-c152-42cc-afb6-fe805fb94531@139.162.149.105:80?encryption=none&host=139.162.149.105&path=%2F&security=none&type=ws#megav.app
+vless://fba73f98-777a-42a6-83c0-7d1f6f070e8d@141.0.187.16:2083?alpn=http%2F1.1&encryption=none&fp=chrome&insecure=1&path=%2Fvless-ws&security=tls&sni=crt.dodopanel.biz&type=ws#megav.app
