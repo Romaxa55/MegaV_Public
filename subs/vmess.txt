@@ -1,1 +1,2 @@
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.115.23:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=auto&fp=ios&host=aidrivercat.org&path=%2Flinkvws&security=tls&sni=aidrivercat.org&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@38.109.228.50:22324?encryption=auto&security=none&type=tcp#megav.app
+vmess://479526cd-5011-43cf-a788-504da95e07c2@google.whatsapp.snapp.torob.basalam.fortresshost.ir.:80?security=none&type=ws#megav.app
