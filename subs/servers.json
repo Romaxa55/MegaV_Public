@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-10-04T20:00:31Z",
-  "total": 8,
+  "updated_at": "2026-10-05T00:00:24Z",
+  "total": 6,
   "by_protocol": {
-    "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
     "vmess": 2
@@ -10,91 +9,69 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 400,
-      "bandwidth_kbs": 414,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 433,
-      "bandwidth_kbs": 477,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=chrome\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 689,
-      "bandwidth_kbs": 417,
-      "url": "vmess://b3a11068-1a7e-4643-85de-7c82cce46943@151.243.173.119:33736?encryption=auto\u0026path=%2Fvmess-ws\u0026security=none\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "City of London",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1603,
-      "bandwidth_kbs": 430,
-      "url": "vmess://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.117.58:443?host=aksai.org\u0026path=%2Flinkvws\u0026security=tls\u0026sni=aksai.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 519,
-      "bandwidth_kbs": 483,
-      "url": "trojan://mitivpn@167.82.76.7:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net\u0026path=%2F---%40npv_vpn11---%40npv_vpn11%2F---%40npv_vpn11---%40npv_vpn11%2F---%40npv_vpn11---%40npv_vpn11%2FNLSus---%40npv_vpn11---%40npv_vpn11%2F---%40npv_vpn11---%40npv_vpn11%2F---%40npv_vpn11---%40npv_vpn11\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 548,
-      "bandwidth_kbs": 494,
-      "url": "trojan://mitivpn@167.82.76.27:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net\u0026insecure=1\u0026path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
       "country_code": "DE",
       "flag": "🇩🇪",
       "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 429,
-      "bandwidth_kbs": 447,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388?security=none\u0026type=raw#megav.app"
+      "response_ms": 444,
+      "bandwidth_kbs": 396,
+      "url": "vless://5aae7d2d-c152-42cc-afb6-fe805fb94531@139.162.149.105:80?encryption=none\u0026host=139.162.149.105\u0026path=%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
-      "protocol": "shadowsocks",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Portsmouth",
+      "protocol": "vless",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Tallinn",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 890,
-      "bandwidth_kbs": 435,
-      "url": "ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#megav.app"
+      "response_ms": 540,
+      "bandwidth_kbs": 452,
+      "url": "vless://fba73f98-777a-42a6-83c0-7d1f6f070e8d@141.0.187.16:2083?alpn=http%2F1.1\u0026encryption=none\u0026fp=chrome\u0026insecure=1\u0026path=%2Fvless-ws\u0026security=tls\u0026sni=crt.dodopanel.biz\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1408,
+      "bandwidth_kbs": 452,
+      "url": "vmess://04621bae-ab36-11ec-b909-0242ac120002@185.177.229.128:22324?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "KR",
+      "flag": "🇰🇷",
+      "city": "Seoul",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 3975,
+      "bandwidth_kbs": 452,
+      "url": "vmess://ac1b933d-afff-4487-93ef-f57130a55dff@217.142.138.61:80?encryption=auto\u0026headerType=http\u0026security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 471,
+      "bandwidth_kbs": 462,
+      "url": "trojan://humanity@185.18.250.252:443?path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 628,
+      "bandwidth_kbs": 496,
+      "url": "trojan://mitivpn@167.82.76.27:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net\u0026path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2Fdes---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1\u0026security=tls\u0026sni=ssl.fastly.com\u0026type=ws#megav.app"
     }
   ]
 }
