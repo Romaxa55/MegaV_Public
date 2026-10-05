@@ -1,8 +1,6 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vmess://b3a11068-1a7e-4643-85de-7c82cce46943@151.243.173.119:33736?encryption=auto&path=%2Fvmess-ws&security=none&type=ws#megav.app
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.117.58:443?host=aksai.org&path=%2Flinkvws&security=tls&sni=aksai.org&type=ws#megav.app
-trojan://mitivpn@167.82.76.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&path=%2F---%40npv_vpn11---%40npv_vpn11%2F---%40npv_vpn11---%40npv_vpn11%2F---%40npv_vpn11---%40npv_vpn11%2FNLSus---%40npv_vpn11---%40npv_vpn11%2F---%40npv_vpn11---%40npv_vpn11%2F---%40npv_vpn11---%40npv_vpn11&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://mitivpn@167.82.76.27:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&insecure=1&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388?security=none&type=raw#megav.app
-ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#megav.app
+vless://5aae7d2d-c152-42cc-afb6-fe805fb94531@139.162.149.105:80?encryption=none&host=139.162.149.105&path=%2F&security=none&type=ws#megav.app
+vless://fba73f98-777a-42a6-83c0-7d1f6f070e8d@141.0.187.16:2083?alpn=http%2F1.1&encryption=none&fp=chrome&insecure=1&path=%2Fvless-ws&security=tls&sni=crt.dodopanel.biz&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@185.177.229.128:22324?encryption=auto&security=none&type=tcp#megav.app
+vmess://ac1b933d-afff-4487-93ef-f57130a55dff@217.142.138.61:80?encryption=auto&headerType=http&security=none&type=raw#megav.app
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://mitivpn@167.82.76.27:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2Fdes---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&sni=ssl.fastly.com&type=ws#megav.app
