@@ -1,7 +1,8 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.204:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&insecure=1&security=tls&sni=nilka-new-2.failspace.top&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vmess://c5965d47-45d6-45af-b619-3b2a6bf896a2@188.114.96.19:80?host=google.whatsapp.snapp.torob.basalam.dns-look.space.&path=%2F&security=none&type=httpupgrade#megav.app
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@193.108.117.54:443?encryption=none&path=%2Flinkvws&security=tls&sni=aidrivercat.org&type=ws#megav.app
-trojan://mitivpn@167.82.76.7:443?host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://mitivpn@167.82.76.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&insecure=1&path=%40V2ray_AM&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#megav.app
+vless://9f397d58-c976-4ef5-915c-7a5908e1a9ac@190.93.245.219:443?encryption=none&host=steep-disk-97e3.tmp3445678.workers.dev&security=tls&sni=steep-disk-97e3.tmp3445678.workers.dev&type=ws#megav.app
+vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?encryption=none&fp=chrome&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&security=reality&sid=bfe58beb41f1d09f&sni=www.apple.com&type=tcp#megav.app
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.67:443?fp=chrome&host=pahobac.org&path=%2Flinkvws&security=tls&sni=pahobac.org&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@185.177.229.129:22324?security=none&type=raw#megav.app
+trojan://mitivpn@199.232.78.101:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net&path=%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2FNLSus---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://humanity@104.16.72.50:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.170:443#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443?security=none&type=tcp#megav.app
