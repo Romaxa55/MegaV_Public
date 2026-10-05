@@ -1,2 +1,2 @@
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@193.108.117.54:443?path=%2Flinkvws&security=tls&sni=aidrivercat.org&type=ws#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@186.190.211.147:22324?security=none&type=raw#megav.app
+vmess://c5965d47-45d6-45af-b619-3b2a6bf896a2@188.114.96.19:80?host=google.whatsapp.snapp.torob.basalam.dns-look.space.&path=%2F&security=none&type=httpupgrade#megav.app
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@193.108.117.54:443?encryption=none&path=%2Flinkvws&security=tls&sni=aidrivercat.org&type=ws#megav.app
