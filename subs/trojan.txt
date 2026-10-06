@@ -1,2 +1,2 @@
-trojan://mitivpn@167.82.76.27:443?host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://UX82473651@13.212.81.3:443?security=tls&sni=holy-lamb.rooster465.autos&type=tcp#megav.app
+trojan://humanity@185.18.250.245:443?fp=random&host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://humanity@212.183.88.136:443?path=%252Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
