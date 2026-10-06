@@ -1,7 +1,6 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vmess://d49a2534-7ac4-429f-879d-de48296d19b4@45.39.255.99:2053?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@172.111.38.100:22324?security=none&type=raw#megav.app
-trojan://mitivpn@167.82.76.27:443?host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://UX82473651@13.212.81.3:443?security=tls&sni=holy-lamb.rooster465.autos&type=tcp#megav.app
-ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ=@185.103.110.66:18280#megav.app
+vless://b945051b-61fd-4769-bd4f-e6a46214bbdf@104.24.152.217:80?encryption=none&host=auto-b94505.mmonn5771.workers.dev&path=%2F&security=none&type=ws#megav.app
+vless://44730b65-24d5-45f2-8b45-8be24015d1b9@45.9.118.101:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@198.57.27.190:22324?encryption=none&security=none&type=tcp#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=raw#megav.app
+trojan://humanity@185.18.250.245:443?fp=random&host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://humanity@212.183.88.136:443?path=%252Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
