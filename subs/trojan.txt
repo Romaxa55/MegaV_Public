@@ -1,2 +1,2 @@
-trojan://mitivpn@167.82.76.27:443?host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#megav.app
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?fp=edge&mode=gun&security=tls&serviceName=ajv&sni=d3-de2.cloud-cdn.xyz&type=grpc#megav.app
+trojan://mitivpn@199.232.78.160:443?host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://mitivpn@167.82.76.7:443?fp=firefox&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#megav.app
