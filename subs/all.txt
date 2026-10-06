@@ -1,6 +1,7 @@
-vless://b945051b-61fd-4769-bd4f-e6a46214bbdf@104.24.152.217:80?encryption=none&host=auto-b94505.mmonn5771.workers.dev&path=%2F&security=none&type=ws#megav.app
-vless://44730b65-24d5-45f2-8b45-8be24015d1b9@45.9.118.101:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@198.57.27.190:22324?encryption=none&security=none&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=raw#megav.app
-trojan://humanity@185.18.250.245:443?fp=random&host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@212.183.88.136:443?path=%252Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@193.108.117.54:443?encryption=auto&fp=chrome&host=aidrivercat.org&path=%2Flinkvws&security=tls&sni=aidrivercat.org&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?security=none&type=raw#megav.app
+trojan://mitivpn@167.82.76.27:443?host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?fp=edge&mode=gun&security=tls&serviceName=ajv&sni=d3-de2.cloud-cdn.xyz&type=grpc#megav.app
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307?security=none&type=raw#megav.app
