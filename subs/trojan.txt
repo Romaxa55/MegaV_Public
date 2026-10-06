@@ -1,2 +1,2 @@
-trojan://humanity@104.21.33.59:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
-trojan://humanity@104.18.9.83:443?fp=unsafe&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://mitivpn@167.82.76.27:443?host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#megav.app
+trojan://UX82473651@13.212.81.3:443?security=tls&sni=holy-lamb.rooster465.autos&type=tcp#megav.app
