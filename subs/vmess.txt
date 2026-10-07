@@ -1,2 +1,2 @@
-vmess://04621bae-ab36-11ec-b909-0242ac120002@142.202.48.108:22324?encryption=auto&security=none&type=tcp#megav.app
-vmess://04621bae-ab36-11ec-b909-0242ac120002@38.107.226.227:22324?encryption=auto&security=none&type=raw#megav.app
+vmess://e5e563fb-cf72-4250-bfff-fa0385301061@145.239.55.210:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&path=%2F&security=none&type=ws#megav.app
+vmess://04621bae-ab36-11ec-b909-0242ac120002@185.177.229.129:22324?security=none&type=raw#megav.app
