@@ -1,7 +1,5 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?security=none&type=tcp#megav.app
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?alpn=h2&insecure=1&mode=gun&security=tls&serviceName=ajv&sni=d3-de2.cloud-cdn.xyz+&type=grpc#megav.app
-trojan://UX82473651@3.34.131.153:443?fp=chrome&security=tls&sni=pretty-rat.rooster465.autos&type=tcp#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443?security=none&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vmess://ec3c8b97-f308-4fee-aa16-95e2c7595acd@185.212.149.7:52080?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
+trojan://UX82473651@52.192.217.187:443?security=tls&sni=evolving-platypus.rooster465.autos&type=tcp#megav.app
+trojan://UX82473651@43.201.100.203:443?fp=chrome&security=tls&sni=optimum-snapper.rooster465.autos&type=tcp#megav.app
