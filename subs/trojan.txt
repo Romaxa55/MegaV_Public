@@ -1,2 +1,2 @@
-trojan://Telegram_healer_config@104.21.70.21:443?alpn=http%2F1.1&fp=unsafe&path=%2Ftr%2FJ6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560&security=tls&sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&type=ws#megav.app
-trojan://UX82473651@3.34.131.153:443?security=tls&sni=pretty-rat.rooster465.autos&type=raw#megav.app
+trojan://g44i2hzwivmm7r29@195.15.202.111:4455?pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&security=reality&sid=befb&sni=play-apps-features.googleusercontent.com&type=raw#megav.app
+trojan://UX82473651@actual-squid.rooster465.autos:443?security=tls&sni=actual-squid.rooster465.autos&type=raw#megav.app
