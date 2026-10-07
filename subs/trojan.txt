@@ -1,2 +1,2 @@
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?alpn=h2&insecure=1&mode=gun&security=tls&serviceName=ajv&sni=d3-de2.cloud-cdn.xyz+&type=grpc#megav.app
-trojan://UX82473651@3.34.131.153:443?fp=chrome&security=tls&sni=pretty-rat.rooster465.autos&type=tcp#megav.app
+trojan://UX82473651@52.192.217.187:443?security=tls&sni=evolving-platypus.rooster465.autos&type=tcp#megav.app
+trojan://UX82473651@43.201.100.203:443?fp=chrome&security=tls&sni=optimum-snapper.rooster465.autos&type=tcp#megav.app
