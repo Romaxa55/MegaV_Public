@@ -1,5 +1,6 @@
-vless://e3e9805a-6c8b-4edd-8ee8-621df79806eb@162.35.242.252:443?encryption=none&fp=chrome&pbk=ClG6fvriBTK8donGsTlKusJ0dwRCgVDDTAGzAtZzJDY&security=reality&sid=82c2b7d5e70ff000&sni=nl.aksay.pro&type=tcp#megav.app
-vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=ef1d3554c652a436&sni=vkvd754.okcdn.ru&type=tcp#megav.app
-trojan://humanity@188.42.145.180:443?fp=qq&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
-trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&fp=chrome&host=www.volumerOot.coM.&insecure=1&path=%2Fassignment&security=tls&sni=wWw.Volumeroot.cOm.&type=ws#megav.app
-ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#megav.app
+vless://2cfa3189-ff5b-4254-8da6-3dccd6a57377@104.17.30.148:443?encryption=none&host=jf7e77mwxkhchjdr5wkn4q-sv9gfcjd.t3syjz72ytkb7k7tpnqg3njyk.workers.dev&path=%2Fvl%2FKZ3BImK7a91sr6Ovu10QbnkHaY%3Fed%3D2560&security=tls&sni=jf7e77mwxkhchjdr5wkn4q-sv9gfcjd.t3syjz72ytkb7k7tpnqg3njyk.workers.dev&type=ws#megav.app
+vless://b945051b-61fd-4769-bd4f-e6a46214bbdf@104.26.13.140:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=auto-b94505.mmonn5771.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=auto-b94505.mmonn5771.workers.dev&type=ws#megav.app
+trojan://humanity@172.67.231.254:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://humanity@45.80.111.7:443?fp=qq&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ=@185.103.110.66:18280#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#megav.app
