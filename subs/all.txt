@@ -1,5 +1,7 @@
-vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?encryption=none&fp=firefox&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&security=reality&sid=bfe58beb41f1d09f&sni=www.apple.com&type=raw#megav.app
-vless://8afeb33c-b686-43e9-a629-0d98f991ec28@104.194.159.237:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L5cKU_oSpJsGd3ffemej3Wy7V6KzqjIUC2T5jaCyPys&security=reality&sid=1aec480577a542ee&sni=github.com&type=raw#megav.app
-vmess://5155860e-d07d-46c3-9128-3afbd84626c7@132.145.80.230:80?encryption=auto&host=null&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
-trojan://g44i2hzwivmm7r29@195.15.202.111:4455?pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&security=reality&sid=befb&sni=play-apps-features.googleusercontent.com&type=raw#megav.app
-trojan://UX82473651@actual-squid.rooster465.autos:443?security=tls&sni=actual-squid.rooster465.autos&type=raw#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?security=none&type=tcp#megav.app
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?alpn=h2&insecure=1&mode=gun&security=tls&serviceName=ajv&sni=d3-de2.cloud-cdn.xyz+&type=grpc#megav.app
+trojan://UX82473651@3.34.131.153:443?fp=chrome&security=tls&sni=pretty-rat.rooster465.autos&type=tcp#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#megav.app
