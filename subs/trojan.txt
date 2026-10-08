@@ -1,2 +1,2 @@
-trojan://UX82473651@52.192.217.187:443?security=tls&sni=evolving-platypus.rooster465.autos&type=tcp#megav.app
-trojan://UX82473651@43.201.100.203:443?fp=chrome&security=tls&sni=optimum-snapper.rooster465.autos&type=tcp#megav.app
+trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://humanity@81.22.132.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
