@@ -1,2 +1,2 @@
-trojan://humanity@165.215.250.14:443?path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://UX82473651@3.75.93.113:443?fp=chrome&security=tls&sni=meet-goshawk.rooster465.autos&type=raw#megav.app
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?fp=edge&insecure=1&security=tls&sni=russiapower.accesscam.org&type=tcp#megav.app
+trojan://UX82473651@3.75.93.113:443?security=tls&sni=meet-goshawk.rooster465.autos&type=raw#megav.app
