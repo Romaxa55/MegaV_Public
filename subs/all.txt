@@ -1,7 +1,5 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@185.170.211.188:443?encryption=none&fp=firefox&mode=gun&pbk=aRhhdxVu0EiUbVl1Wyq6DLjJMRRJ78YQY2rN5Ne98gg&security=reality&serviceName=api.v2.nl7c05e8a3&sid=5d3849c8fc1e63b0&sni=nl7.bbobr.win&type=grpc#megav.app
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=viber.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=vk.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
-trojan://Telegram_healer_config@172.67.187.87:443?alpn=http%2F1.1&fp=chrome&host=bktf381b04nchtxkn8tidezqgf.tcnth9s31mg1j4tnxlad62o1s2o.workers.dev&path=%2Ftr%2FJIPAVWGHbaGJWIcEUAFGZIxrVCPW%3Fed&security=tls&sni=bKtF381b04NcHTXkN8TidEzQgF.TCNTH9s31mg1j4TNxLAD62O1s2o.wOrKErS.DEV&type=ws#megav.app
-trojan://UX82473651@13.230.139.12:443?security=tls&sni=brief-glider.rooster465.autos&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388?security=none&type=raw#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
+vless://a889262f-5fe3-4c93-9aaa-3721318dd389@70.34.255.101:80?encryption=none&security=none&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=auto&security=none&type=tcp#megav.app
+trojan://humanity@165.215.250.14:443?path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://UX82473651@3.75.93.113:443?fp=chrome&security=tls&sni=meet-goshawk.rooster465.autos&type=raw#megav.app
