@@ -1,2 +1,2 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@185.170.211.188:443?encryption=none&fp=firefox&mode=gun&pbk=aRhhdxVu0EiUbVl1Wyq6DLjJMRRJ78YQY2rN5Ne98gg&security=reality&serviceName=api.v2.nl7c05e8a3&sid=5d3849c8fc1e63b0&sni=nl7.bbobr.win&type=grpc#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
+vless://a889262f-5fe3-4c93-9aaa-3721318dd389@70.34.255.101:80?encryption=none&security=none&type=ws#megav.app
