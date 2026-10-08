@@ -1,2 +1,2 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com%EF%A3%BF%C3%BC%C3%AB%C3%A2%EF%A3%BF%C3%BC%C3%9C%C3%AEfreenettir%EF%A3%BF%C3%BC%C3%AC%C2%B0%EF%A3%BF%C3%BC%C3%A1%E2%89%A5%EF%A3%BF%C3%BC%C3%A1%C2%B1%C2%AC%C3%86%C3%94%E2%88%8F%C3%A8The&path=%2Fvless%2F&security=none&type=ws#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
