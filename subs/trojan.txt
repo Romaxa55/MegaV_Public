@@ -1,2 +1,2 @@
-trojan://humanity@188.42.145.180:443?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=edge&host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
-trojan://mitivpn@151.101.38.7:443?alpn=http%2F1.1&fp=chrome&host=mitivpn--vip.global.ssl.fastly.net&insecure=1&path=%40VPNine1&security=tls&sni=jjl.fastly.com&type=ws#megav.app
+trojan://Telegram_healer_config@172.67.187.87:443?alpn=http%2F1.1&fp=chrome&host=bktf381b04nchtxkn8tidezqgf.tcnth9s31mg1j4tnxlad62o1s2o.workers.dev&path=%2Ftr%2FJIPAVWGHbaGJWIcEUAFGZIxrVCPW%3Fed&security=tls&sni=bKtF381b04NcHTXkN8TidEzQgF.TCNTH9s31mg1j4TNxLAD62O1s2o.wOrKErS.DEV&type=ws#megav.app
+trojan://UX82473651@13.230.139.12:443?security=tls&sni=brief-glider.rooster465.autos&type=raw#megav.app
