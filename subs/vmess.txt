@@ -1,2 +1,1 @@
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=viber.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=vk.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=auto&security=none&type=tcp#megav.app
