@@ -1,2 +1,1 @@
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?fp=edge&insecure=1&security=tls&sni=russiapower.accesscam.org&type=tcp#megav.app
-trojan://UX82473651@3.75.93.113:443?security=tls&sni=meet-goshawk.rooster465.autos&type=raw#megav.app
+trojan://UX82473651@13.125.69.162:443?security=tls&sni=engaging-toucan.rooster465.autos&type=tcp#megav.app
