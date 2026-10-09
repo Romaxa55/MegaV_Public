@@ -1,5 +1,7 @@
-vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.16.148.6:2052?encryption=none&host=eu02.123450908.xyz&path=%2Frain1226&security=none&type=ws#megav.app
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?alpn=h2%2Chttp%2F1.1&encryption=none&security=tls&sni=estproxy4.lockdwn.com&type=raw#megav.app
-trojan://humanity@185.36.141.81:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://UX82473651@3.112.245.255:443?insecure=1&security=tls&sni=dynamic-imp.rooster465.autos&type=tcp#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#megav.app
+vless://daf485ba-60fc-4166-a72c-8d2a5407cbc5@188.114.97.6:8080?encryption=none&host=kievh9yxcgg14-gy4wxqcav0pegkd.d-0ezpk5xp5wk8ltdgb6evlpgc-jin.workers.dev&path=%2Fvl%2FzM8ELyqEIYeZ3ijacV9kuK%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=none&type=ws#megav.app
+vless://7eee85ee-9973-47d5-8db5-293899412333@172.67.131.109:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=BPB.flOKi000.woRKERs.DeV&path=%2FeyJqdW5rIjoiMFAwMU1PNkNMZXV6ZG8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMzQuMjA5LjEzNi4xOTciXX0%3D%3Fed%3D2560+&security=tls&sni=BPB.flOKi000.woRKERs.DeV&type=ws#megav.app
+vmess://049a57b9-4913-4f9f-9cda-a861989ee59d@31.76.11.83:55969?security=none&type=tcp#megav.app
+trojan://Telegram_healer_config@188.114.96.3:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2Fmn7HiiHzSQM2Lf1txOmQV%3Fed%3D2560&security=tls&sni=5ExzC5h4Dp8qXSJ7bVNB4ftw71.f8OrZ6ag1a5nG9IH.worKErS.DEv&type=ws#megav.app
+trojan://Telegram_healer_config@188.114.96.3:443?alpn=http%2F1.1&fp=chrome&host=cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev&insecure=1&path=%2Ftr%2F3F3fUAGJks9doKvjt8AREH4QR%3Fed%3D2560&security=tls&sni=cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev&type=ws#megav.app
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@213.202.208.199:5000#megav.app
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307?security=none&type=raw#megav.app
