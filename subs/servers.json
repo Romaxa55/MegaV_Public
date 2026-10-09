@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-09T04:01:18Z",
-  "total": 7,
+  "updated_at": "2026-10-09T08:00:29Z",
+  "total": 6,
   "by_protocol": {
-    "shadowsocks": 2,
+    "shadowsocks": 1,
     "trojan": 2,
     "vless": 2,
     "vmess": 1
@@ -10,36 +10,36 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 338,
-      "bandwidth_kbs": 473,
-      "url": "vless://daf485ba-60fc-4166-a72c-8d2a5407cbc5@188.114.97.6:8080?encryption=none\u0026host=kievh9yxcgg14-gy4wxqcav0pegkd.d-0ezpk5xp5wk8ltdgb6evlpgc-jin.workers.dev\u0026path=%2Fvl%2FzM8ELyqEIYeZ3ijacV9kuK%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 432,
+      "bandwidth_kbs": 487,
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=random\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sni=fuck.rkn\u0026type=raw#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Roubaix",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 399,
-      "bandwidth_kbs": 453,
-      "url": "vless://7eee85ee-9973-47d5-8db5-293899412333@172.67.131.109:443?alpn=h3%2Ch2%2Chttp%2F1.1\u0026encryption=none\u0026fp=chrome\u0026host=BPB.flOKi000.woRKERs.DeV\u0026path=%2FeyJqdW5rIjoiMFAwMU1PNkNMZXV6ZG8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMzQuMjA5LjEzNi4xOTciXX0%3D%3Fed%3D2560+\u0026security=tls\u0026sni=BPB.flOKi000.woRKERs.DeV\u0026type=ws#megav.app"
+      "response_ms": 467,
+      "bandwidth_kbs": 493,
+      "url": "vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?encryption=none\u0026fp=random\u0026pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w\u0026security=reality\u0026sid=bfe58beb41f1d09f\u0026sni=www.apple.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vmess",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Frankfurt am Main",
+      "city": "Miami",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1198,
-      "bandwidth_kbs": 417,
-      "url": "vmess://049a57b9-4913-4f9f-9cda-a861989ee59d@31.76.11.83:55969?security=none\u0026type=tcp#megav.app"
+      "response_ms": 2757,
+      "bandwidth_kbs": 460,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000#megav.app"
     },
     {
       "protocol": "trojan",
@@ -48,9 +48,9 @@
       "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 348,
-      "bandwidth_kbs": 486,
-      "url": "trojan://Telegram_healer_config@188.114.96.3:443?alpn=http%2F1.1\u0026fp=chrome\u0026path=%2Ftr%2Fmn7HiiHzSQM2Lf1txOmQV%3Fed%3D2560\u0026security=tls\u0026sni=5ExzC5h4Dp8qXSJ7bVNB4ftw71.f8OrZ6ag1a5nG9IH.worKErS.DEv\u0026type=ws#megav.app"
+      "response_ms": 415,
+      "bandwidth_kbs": 440,
+      "url": "trojan://Telegram_healer_config@188.114.97.3:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=5exzc5h4dp8qxsj7bvnb4ftw71.f8orz6ag1a5ng9ih.workers.dev\u0026path=%2Ftr%2FOiWWPLVoZ1npZaU77N%3Fed%3D2560\u0026security=tls\u0026sni=5EXzC5h4dP8qXSj7bVnB4FTw71.f8ORZ6Ag1a5Ng9iH.wOrKErs.deV\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -59,31 +59,20 @@
       "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 657,
-      "bandwidth_kbs": 495,
-      "url": "trojan://Telegram_healer_config@188.114.96.3:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev\u0026insecure=1\u0026path=%2Ftr%2F3F3fUAGJks9doKvjt8AREH4QR%3Fed%3D2560\u0026security=tls\u0026sni=cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Nordhorn",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 751,
-      "bandwidth_kbs": 492,
-      "url": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@213.202.208.199:5000#megav.app"
+      "response_ms": 565,
+      "bandwidth_kbs": 414,
+      "url": "trojan://Telegram_healer_config@104.21.76.194:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=x8xus4x7utzmdozv2.bzuh25lzinnetwtocxyicx.workers.dev\u0026insecure=1\u0026path=%2Ftr%2FnDuppKYyUqsEcG0rcQEg5sghG0%3Fed\u0026security=tls\u0026sni=X8xus4X7UTZMDozv2.bZuH25LZINNeTwTOcXYIcx.WORkERs.deV\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
       "country_code": "US",
       "flag": "🇺🇸",
-      "city": "Reston",
+      "city": "Hillsboro",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2680,
-      "bandwidth_kbs": 446,
-      "url": "ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307?security=none\u0026type=raw#megav.app"
+      "response_ms": 2770,
+      "bandwidth_kbs": 483,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?security=none\u0026type=raw#megav.app"
     }
   ]
 }
