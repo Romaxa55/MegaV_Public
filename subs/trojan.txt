@@ -1,1 +1,2 @@
-trojan://UX82473651@13.125.69.162:443?security=tls&sni=engaging-toucan.rooster465.autos&type=tcp#megav.app
+trojan://humanity@185.36.141.81:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://UX82473651@3.112.245.255:443?insecure=1&security=tls&sni=dynamic-imp.rooster465.autos&type=tcp#megav.app
