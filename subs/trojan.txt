@@ -1,2 +1,2 @@
-trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&type=raw#megav.app
-trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&type=raw#megav.app
+trojan://humanity@104.17.44.17:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://humanity@185.36.141.81:443?path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
