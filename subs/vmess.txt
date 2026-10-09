@@ -1,1 +1,1 @@
-vmess://049a57b9-4913-4f9f-9cda-a861989ee59d@31.76.11.83:55969?security=none&type=tcp#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000#megav.app
