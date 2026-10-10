@@ -1,5 +1,7 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
-vless://9c60369d-e5f9-4cec-9e63-1560e88e119a@195.123.221.36:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dIv6pPS-x6IzbiPyHX8nNdRrwI2yZl4y3YCeRWy9UgE&security=reality&sid=3e67326f98ddb407&sni=gateway.icloud.com&type=tcp#megav.app
-vmess://aeb3c019-ae83-4677-af97-846baa787ad5@185.212.149.7:2053?headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
-trojan://humanity@104.19.229.21:443?path=%252Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@104.21.103.254:443?alpn=http%2F1.1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vmess://7e1eb307-c809-4e13-963e-d17b49806683@88.198.91.100:30561?encryption=auto&mode=gun&security=none&type=grpc#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?security=none&type=raw#megav.app
+trojan://Telegram_healer_config@188.114.96.3:443?alpn=http%2F1.1&fp=chrome&host=l8pqr63q3nuew5fe-z87pismbyv.a1-5fsjg-zqwz8i7twtvvmpkohzsfw.workers.dev&path=%2Ftr%2FZeYNEtYjK1pGpKGAfR4Bc%3Fed%3D2560&security=tls&sni=l8pqr63q3NUEw5fe-z87pIsMbYV.a1-5Fsjg-zQwz8I7TWtvvMpKOhzSfw.WorKERS.dEV&type=ws#megav.app
+trojan://Telegram_healer_config@188.114.97.3:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FQjO9GZbQ41dJ7RJJykX%3Fed%3D2560&security=tls&sni=N19HYbk46HtAL-mvnTu149WCU-H.bKcZgnqOdLQtM6enDLZ3VS4f2KzQ.wOrkeRS.Dev&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080?security=none&type=raw#megav.app
