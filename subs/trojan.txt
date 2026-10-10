@@ -1,2 +1,2 @@
-trojan://humanity@89.150.34.41:2053?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@45.130.125.160:443?host=www.calmlunch.com&path=%2F%252Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://oZft$iBcsjAPqdbE2CK@104.21.3.78:443?alpn=http%2F1.1&fp=chrome&host=cd0ftgj4r79qu6f7nl0ldwptxv.s2gzvugnc7arq-nzwdwavaz.workers.dev&path=%2Ftr%2FxU32fAXaH1RpXREXG%3Fed%3D2560&security=tls&sni=CD0fTGJ4r79qU6f7nL0ldWPtXv.s2GZVUGNc7ArQ-NzWDWavaZ.woRkers.dev&type=ws#megav.app
+trojan://humanity@188.114.97.6:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
