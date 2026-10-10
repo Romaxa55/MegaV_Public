@@ -1,2 +1,2 @@
-trojan://humanity@104.19.229.21:443?path=%252Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@104.21.103.254:443?alpn=http%2F1.1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://Telegram_healer_config@188.114.96.3:443?alpn=http%2F1.1&fp=chrome&host=l8pqr63q3nuew5fe-z87pismbyv.a1-5fsjg-zqwz8i7twtvvmpkohzsfw.workers.dev&path=%2Ftr%2FZeYNEtYjK1pGpKGAfR4Bc%3Fed%3D2560&security=tls&sni=l8pqr63q3NUEw5fe-z87pIsMbYV.a1-5Fsjg-zQwz8I7TWtvvMpKOhzSfw.WorKERS.dEV&type=ws#megav.app
+trojan://Telegram_healer_config@188.114.97.3:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FQjO9GZbQ41dJ7RJJykX%3Fed%3D2560&security=tls&sni=N19HYbk46HtAL-mvnTu149WCU-H.bKcZgnqOdLQtM6enDLZ3VS4f2KzQ.wOrkeRS.Dev&type=ws#megav.app
