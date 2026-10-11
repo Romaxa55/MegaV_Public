@@ -1,2 +1,2 @@
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@185.170.211.187:443?authority=%2F%40Net2ray&encryption=none&mode=gun&pbk=eztZ1H-OkkHao6d4FhX8Q728qN1UIeFcYH2jObRq1gc&security=reality&serviceName=api.v2.nl2e63a0c5&sid=fbe9c012125d90d2&sni=nl2.bbobr.win&type=grpc#megav.app
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F%3FTelegram---%40MTMVPN---%40MTMVPN---%40MTMVPN---%40MTMVPN&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.130.234:443?encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=de2.srv.vbuste.ru&type=tcp#megav.app
