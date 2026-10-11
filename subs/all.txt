@@ -1,6 +1,6 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.130.234:443?encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=de2.srv.vbuste.ru&type=tcp#megav.app
-vmess://ec3c8b97-f308-4fee-aa16-95e2c7595acd@185.212.149.7:52080?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
-vmess://d49a2534-7ac4-429f-879d-de48296d19b4@45.39.255.99:2053?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
-trojan://humanity@188.114.97.6:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://Telegram_healer_config@188.114.97.3:443?alpn=http%2F1.1&fp=chrome&host=n19hybk46htal-mvntu149wcu-h.bkczgnqodlqtm6endlz3vs4f2kzq.workers.dev&path=%2Ftr%2FQjO9GZbQ41dJ7RJJykX%3Fed%3D2560&security=tls&sni=N19HYbk46HtAL-mvnTu149WCU-H.bKcZgnqOdLQtM6enDLZ3VS4f2KzQ.wOrkeRS.Dev&type=ws#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=none&security=none&type=tcp#megav.app
+vmess://9b76bc31-17a5-4454-934a-8d5fb602cd70@119.46.51.45:37515?encryption=auto&security=none&type=tcp#megav.app
+trojan://UX82473651@3.253.106.233:443?insecure=1&security=tls&sni=loved-shark.rooster465.autos&type=tcp#megav.app
+trojan://UX82473651@63.178.198.94:443?fp=chrome&security=tls&sni=pleased-albacore.rooster465.autos&type=tcp#megav.app
