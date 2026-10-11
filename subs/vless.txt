@@ -1,2 +1,2 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2Ffdip%23&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&fp=chrome&insecure=1&security=tls&type=tcp#megav.app
+vless://e1018f67-8d3e-4a8d-b616-069885f1c376@104.16.113.176:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&encryption=none&fp=chrome&host=kpvn6dylkb51lao6reoe6pw1jprwc.softfirec60e.workers.dev&path=%2Fvl%2FzmcF7qLkjTFEz1QUAfXuXwZlxI0p5%3Fed%3D2560&security=tls&sni=KPvn6DYLkb51lAO6reOe6pW1jprwc.SofTfirEC60e.wOrkErs.dEV&type=ws#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.130.234:443?alpn=h3%2Ch2&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
