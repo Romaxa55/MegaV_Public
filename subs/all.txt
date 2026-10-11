@@ -1,8 +1,6 @@
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@185.170.211.187:443?authority=%2F%40Net2ray&encryption=none&mode=gun&pbk=eztZ1H-OkkHao6d4FhX8Q728qN1UIeFcYH2jObRq1gc&security=reality&serviceName=api.v2.nl2e63a0c5&sid=fbe9c012125d90d2&sni=nl2.bbobr.win&type=grpc#megav.app
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F%3FTelegram---%40MTMVPN---%40MTMVPN---%40MTMVPN---%40MTMVPN&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?security=none&type=tcp#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=aes-128-gcm&security=none&type=raw#megav.app
-trojan://Telegram_healer_config@188.114.96.3:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2Fmn7HiiHzSQM2Lf1txOmQV%3Fed%3D2560&security=tls&sni=5ExzC5h4Dp8qXSJ7bVNB4ftw71.f8OrZ6ag1a5nG9IH.worKErS.DEv&type=ws#megav.app
-trojan://pH%5B%5DS%5BBh%3A_%3AD6T4k@185.158.133.107:443?host=azadnet-692.pages.dev&path=%2FtrsVu9Ualb1DOfGjpw&security=tls&sni=AZaDneT-692.PagEs.DEv&type=ws#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443?security=none&type=raw#megav.app
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307?security=none&type=raw#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.130.234:443?encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=de2.srv.vbuste.ru&type=tcp#megav.app
+vmess://ec3c8b97-f308-4fee-aa16-95e2c7595acd@185.212.149.7:52080?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
+vmess://d49a2534-7ac4-429f-879d-de48296d19b4@45.39.255.99:2053?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
+trojan://humanity@188.114.97.6:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://Telegram_healer_config@188.114.97.3:443?alpn=http%2F1.1&fp=chrome&host=n19hybk46htal-mvntu149wcu-h.bkczgnqodlqtm6endlz3vs4f2kzq.workers.dev&path=%2Ftr%2FQjO9GZbQ41dJ7RJJykX%3Fed%3D2560&security=tls&sni=N19HYbk46HtAL-mvnTu149WCU-H.bKcZgnqOdLQtM6enDLZ3VS4f2KzQ.wOrkeRS.Dev&type=ws#megav.app
