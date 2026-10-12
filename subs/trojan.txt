@@ -1,2 +1,2 @@
-trojan://bpb-trojan@104.26.5.57:443?alpn=h3&fp=chrome&path=%2Ftr&security=tls&sni=6982410.xyz&type=ws#megav.app
-trojan://humanity@172.66.40.99:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#megav.app
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?fp=edge&insecure=1&security=tls&sni=russiapower.accesscam.org&type=tcp#megav.app
+trojan://humanity@45.130.125.75:443?fp=unsafe&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
