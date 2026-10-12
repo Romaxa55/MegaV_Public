@@ -1,2 +1,2 @@
-trojan://humanity@8.47.69.0:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
-trojan://humanity@45.80.111.7:443?fp=qq&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://humanity@188.42.145.180:443?fp=qq&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
+trojan://humanity@188.114.97.6:443?alpn=http%2F1.1&fp=chrome&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
