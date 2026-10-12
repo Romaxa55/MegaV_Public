@@ -1,7 +1,6 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=vk.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?host=google.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
-trojan://Telegram_healer_config@172.67.143.94:443?alpn=http%2F1.1&fp=chrome&host=z6y-daox0hyhdtdy.r720kpbyx2l3i406.workers.dev&path=%2Ftr%2FZizffFwMuYF9RUfnS3Ad2bGqcOrQk%3Fed%3D2560&security=tls&sni=Z6Y-Daox0HyHdTDy.R720KPBYx2L3I406.WorKERS.DEV&type=ws#megav.app
-trojan://humanity@89.150.34.41:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2Ffdip&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@188.253.26.216:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=noszGxmy754-TNyz9eM8EyHiaCRF2T4cu3El6GKb6n0&security=reality&sid=0da7e14db353e7d0&sni=nl3.nztvpn.com&type=tcp#megav.app
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?host=viber.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://47050e4e-965d-41ca-976d-73c1f11e6905@node8.liudonghoe.com:443?host=node8.liudonghoe.com&path=%2Fhoe8&security=tls&sni=node8.liudonghoe.com&type=ws#megav.app
+trojan://humanity@107.189.26.160:443?alpn=http%2F1.1&fp=unsafe&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?fp=chrome&insecure=1&security=tls&sni=139.180.146.200&type=tcp#megav.app
