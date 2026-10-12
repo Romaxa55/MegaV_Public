@@ -1,6 +1,8 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=none&security=none&type=tcp#megav.app
-vmess://9b76bc31-17a5-4454-934a-8d5fb602cd70@119.46.51.45:37515?encryption=auto&security=none&type=tcp#megav.app
-trojan://UX82473651@3.253.106.233:443?insecure=1&security=tls&sni=loved-shark.rooster465.autos&type=tcp#megav.app
-trojan://UX82473651@63.178.198.94:443?fp=chrome&security=tls&sni=pleased-albacore.rooster465.autos&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://10029c03-5d2f-4185-aab2-cbf91eef7361@57.128.164.21:80?host=https.http.www.net.com.ramseyv2.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=none&type=ws#megav.app
+trojan://humanity@8.47.69.0:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://humanity@45.80.111.7:443?fp=qq&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#megav.app
+ss://YWVzLTEyOC1nY206N2YwMmI3MTc0MDZmMmM1ZDRhN2UyODdhYTFkODdhM2RiYTlmZWFjYjU3NzZjMzNm@45.76.9.57:8392#megav.app
