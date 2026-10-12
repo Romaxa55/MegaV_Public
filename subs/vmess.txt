@@ -1,2 +1,2 @@
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?host=viber.com&path=%2Fvmess%2F&security=none&type=ws#megav.app
-vmess://47050e4e-965d-41ca-976d-73c1f11e6905@node8.liudonghoe.com:443?host=node8.liudonghoe.com&path=%2Fhoe8&security=tls&sni=node8.liudonghoe.com&type=ws#megav.app
+vmess://06d4d001-4168-4876-9416-7caecf578f40@178.105.168.171:2110?encryption=auto&security=none&type=raw#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=auto&security=none&type=tcp#megav.app
