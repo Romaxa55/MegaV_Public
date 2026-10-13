@@ -1,2 +1,2 @@
-trojan://humanity@172.66.40.99:443?path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#megav.app
-trojan://humanity@46.62.164.121:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://TsX0XJKMa2h$CbKr0k@188.114.97.9:443?insecure=1&path=%2Ftr%2FmPwnfIHtx0vldKy0A5AGJTZBhttp%2F1.1&security=tls&sni=IDB8onmVBntUyt5T7T6cEjFW8VLRB.PAGES.DeV&type=ws#megav.app
+trojan://123456@104.19.150.163:443?alpn=h3&fp=random&host=now-pages-sub-em4.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=now-pages-sub-em4.pages.dev&type=ws#megav.app
