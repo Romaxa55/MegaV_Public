@@ -1,7 +1,8 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vless://579b72a5-785a-4fb6-ac64-1de2f8c49601@185.112.59.107:443?encryption=none&fp=chrome&mode=gun&pbk=LAIeXhB_Q_APveaVNJDD4svH4esgDVx3qeo-MSfu1Wg&security=reality&serviceName=vless-grpc&sni=samsung.com.com&type=grpc#megav.app
-vmess://06d4d001-4168-4876-9416-7caecf578f40@178.105.168.171:2110?encryption=auto&security=none&type=raw#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=auto&security=none&type=tcp#megav.app
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?fp=edge&insecure=1&security=tls&sni=russiapower.accesscam.org&type=tcp#megav.app
-trojan://humanity@45.130.125.75:443?fp=unsafe&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388?security=none&type=raw#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?encryption=none&fp=chrome&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vmess://aeb3c019-ae83-4677-af97-846baa787ad5@185.212.149.7:2053?headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
+vmess://7e1eb307-c809-4e13-963e-d17b49806683@88.198.91.100:30561?encryption=auto&mode=gun&security=none&type=grpc#megav.app
+trojan://humanity@172.66.40.99:443?path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#megav.app
+trojan://humanity@46.62.164.121:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008?security=none&type=raw#megav.app
+ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk=@185.212.171.202:18670#megav.app
