@@ -1,2 +1,2 @@
-trojan://Telegram_healer_config@172.67.194.6:443?alpn=http%2F1.1&path=%2Ftr%2FiXLpDGAew6fKEQeQY84txlnklnRciaQ%3Fed%3D2560&security=tls&sni=uH-E03OjZGQ4EV7yy7b.6V46fk4wd2Y8l5p2XTD.WORkErS.Dev&type=ws#megav.app
-trojan://123456@162.159.152.31:443?alpn=h3&fp=chrome&host=now-pages-sub-em4.pages.dev&path=%2F%3Fed%3D2560+&security=tls&sni=now-pages-sub-em4.pages.dev&type=ws#megav.app
+trojan://Telegram_healer_config@172.67.132.19:443?alpn=http%2F1.1&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&path=%2Ftr%2FbDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d%3Fed%3D2560&security=tls&sni=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&type=ws#megav.app
+trojan://Telegram_healer_config@104.21.70.21:443?alpn=http%2F1.1&host=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&path=%2Ftr%2FJ6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%253Fed%253D2560&security=tls&sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&type=ws#megav.app
