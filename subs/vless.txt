@@ -1,2 +1,2 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=raw#megav.app
-vless://579b72a5-785a-4fb6-ac64-1de2f8c49601@185.112.59.107:443?encryption=none&fp=chrome&mode=gun&pbk=LAIeXhB_Q_APveaVNJDD4svH4esgDVx3qeo-MSfu1Wg&security=reality&serviceName=vless-grpc&sni=samsung.com.com&type=grpc#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F%3FTelegram---%40VPNine1---%40VPNine1---%40VPNine1---%40VPNine1&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=de2.srv.vbuste.ru&type=tcp#megav.app
