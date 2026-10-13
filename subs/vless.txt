@@ -1,2 +1,2 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?encryption=none&fp=chrome&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.24.196.20:443?alpn=h3%2Ch2&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://d4d2d3f3-9dec-4e8f-8daf-145ecac96e66@188.114.97.6:2053?encryption=none&fp=chrome&host=cRIMSON-LeAf-7E45.hzhdUuEBFjDCB.workERs.DEv&path=%2FeyJqdW5rIjoiODgwQ1AwWDV0MnFTRWE1cCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=cRIMSON-LeAf-7E45.hzhdUuEBFjDCB.workERs.DEv&type=ws#megav.app
