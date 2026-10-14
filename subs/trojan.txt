@@ -1,2 +1,2 @@
-trojan://humanity@148.253.212.42:443?alpn=http%2F1.1&fp=unsafe&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
-trojan://humanity@46.62.164.121:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://humanity@162.159.228.224:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://123456@162.159.152.31:443?alpn=h3&fp=chrome&host=now-pages-sub-em4.pages.dev&path=%2F%3Fed%3D2560+&security=tls&sni=now-pages-sub-em4.pages.dev&type=ws#megav.app
