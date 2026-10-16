@@ -1,2 +1,2 @@
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#megav.app
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=api.vk.me&type=tcp#megav.app
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.70.186.190:8444?encryption=none&fp=chrome&mode=gun&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#megav.app
+vless://9c60369d-e5f9-4cec-9e63-1560e88e119a@195.123.221.36:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dIv6pPS-x6IzbiPyHX8nNdRrwI2yZl4y3YCeRWy9UgE&security=reality&sid=3e67326f98ddb407&sni=gateway.icloud.com&type=raw#megav.app
