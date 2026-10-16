@@ -1,2 +1,2 @@
-vmess://632cfa69-ae00-49d1-81e0-554979d1e9fa@31.76.11.83:22366?encryption=auto&security=none&type=tcp#megav.app
-vmess://ac1b933d-afff-4487-93ef-f57130a55dff@217.142.138.61:80?encryption=auto&headerType=http&security=none&type=raw#megav.app
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?host=57.129.132.223&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://aeb3c019-ae83-4677-af97-846baa787ad5@185.212.149.7:2053?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
