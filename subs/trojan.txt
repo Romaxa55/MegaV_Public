@@ -1,2 +1,2 @@
-trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2F%252Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@146.185.141.92:443?host=www.volumerOot.coM.&path=%2Fassignment&security=tls&sni=wWw.Volumeroot.cOm.&type=ws#megav.app
+trojan://mitivpn@146.75.57.238:443?alpn=http%2F1.1&fp=chrome&host=mitivpn--s3.global.ssl.fastly.net&path=%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2Fdes---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40%40MetiVIP%2F---%40%40MetiVIP---%40MetiVIP&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&sni=www.google.com&type=ws#megav.app
+trojan://mitivpn@167.82.64.46:443?alpn=http%2F1.1&fp=chrome&host=mitivpn--s2.global.ssl.fastly.net&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&sni=firefox.com+&type=ws#megav.app
