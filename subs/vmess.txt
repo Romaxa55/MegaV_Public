@@ -1,1 +1,2 @@
-vmess://d4b69108-f756-48af-a331-e8356bc95eb4@91.107.169.224:80?host=google.whatsapp.snapp.torob.basalam.dns-look.space.&security=none&type=httpupgrade#megav.app
+vmess://632cfa69-ae00-49d1-81e0-554979d1e9fa@31.76.11.83:22366?encryption=auto&security=none&type=tcp#megav.app
+vmess://ac1b933d-afff-4487-93ef-f57130a55dff@217.142.138.61:80?encryption=auto&headerType=http&security=none&type=raw#megav.app
