@@ -1,2 +1,1 @@
-trojan://bpb-trojan@104.26.4.57:443?alpn=h3&fp=chrome&path=%2Ftr&security=tls&sni=6982410.xyz&type=ws#megav.app
-trojan://bpb-trojan@104.26.5.57:443?alpn=h3&fp=chrome&path=%2Ftr&security=tls&sni=6982410.xyz&type=ws#megav.app
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@104.18.35.15:443?host=server41.9966338.xyz&path=%2Fangles&security=tls&sni=server41.9966338.xyz&type=ws#megav.app
