@@ -1,7 +1,5 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto&security=none&type=raw#megav.app
-trojan://bpb-trojan@104.26.4.57:443?alpn=h3&fp=chrome&path=%2Ftr&security=tls&sni=6982410.xyz&type=ws#megav.app
-trojan://bpb-trojan@104.26.5.57:443?alpn=h3&fp=chrome&path=%2Ftr&security=tls&sni=6982410.xyz&type=ws#megav.app
-ss://Y2hhY2hhMjAtcG9seTEzMDU6ckhtVWhuanY3YitWOG8zWVdBTWFJREJTQmxnU05qdjN6SFlNdTZBTEZVOD0=@31.77.148.89:56752?security=none&type=tcp#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:8080#megav.app
+vless://a441c530-8c8b-4ef9-8d98-0571ad49c433@85.9.209.229:8880?encryption=none&fp=firefox&pbk=7ftU0SggASCqf9TsUminHpucXB1LEQ1dPrcYFV7Dny4&security=reality&sni=www.forvo.com&type=tcp#megav.app
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com%E2%89%A1%C6%92%C3%A6%C3%AB%E2%89%A1%C6%92%C3%A5%C3%B6freenettir%E2%89%A1%C6%92%C3%B4%C3%AD%E2%89%A1%C6%92%C3%A7%E2%94%82%E2%89%A1%C6%92%C3%A7%E2%96%92%E2%94%AC%C2%AB%E2%88%A9%E2%95%95%C3%85The&path=%2Fvless%2F&security=none&type=ws#megav.app
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=57.129.132.223&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://f5f0babe-aea2-4f07-a1fc-3c9820253f49@172.67.205.213:443?encryption=auto&host=my.lovehk.xyz&path=%2FKualaLumpur1&security=tls&sni=my.lovehk.xyz&type=ws#megav.app
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@104.18.35.15:443?host=server41.9966338.xyz&path=%2Fangles&security=tls&sni=server41.9966338.xyz&type=ws#megav.app
