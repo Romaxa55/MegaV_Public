@@ -1,2 +1,2 @@
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=57.129.132.223&path=%2Fvmess%2F&security=none&type=ws#megav.app
-vmess://f5f0babe-aea2-4f07-a1fc-3c9820253f49@172.67.205.213:443?encryption=auto&host=my.lovehk.xyz&path=%2FKualaLumpur1&security=tls&sni=my.lovehk.xyz&type=ws#megav.app
+vmess://2387bfbc-10a6-4bd7-dc55-7cba954ce6e8@54.229.151.97:59236?encryption=auto&headerType=http&host=tms.dingtalk.com&path=%2F&security=none&type=raw#megav.app
+vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@104.17.136.198:443?encryption=auto&fp=chrome&host=vmess.lbw666.dpdns.org&path=%2Fws%3Fed%3D2048&security=tls&sni=vmess.lbw666.dpdns.org&type=ws#megav.app
