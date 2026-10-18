@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-18T04:00:37Z",
-  "total": 8,
+  "updated_at": "2026-10-18T08:00:45Z",
+  "total": 7,
   "by_protocol": {
-    "shadowsocks": 2,
+    "shadowsocks": 1,
     "trojan": 2,
     "vless": 2,
     "vmess": 2
@@ -12,89 +12,78 @@
       "protocol": "vless",
       "country_code": "NL",
       "flag": "🇳🇱",
-      "city": "Haarlem",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 277,
-      "bandwidth_kbs": 465,
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=edge\u0026pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s\u0026security=reality\u0026sid=01\u0026sni=fuck.rkn\u0026type=tcp#megav.app"
+      "response_ms": 345,
+      "bandwidth_kbs": 399,
+      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1\u0026ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1\u0026encryption=none\u0026fp=chrome\u0026host=snip.edgeoneai.cc.cd\u0026path=%2Ffdip\u0026security=tls\u0026sni=snip.edgeoneai.cc.cd\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "AE",
-      "flag": "🇦🇪",
-      "city": "City of London",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 361,
-      "bandwidth_kbs": 493,
-      "url": "vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@94.183.179.110:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=X2d2whxbjH1nzAssBdWdYn70B-cNwGiFamG-bH_TYnw\u0026security=reality\u0026sid=c71f4a92e8b3065d\u0026sni=dev-services.shardshop.cc\u0026type=tcp#megav.app"
+      "response_ms": 352,
+      "bandwidth_kbs": 433,
+      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?alpn=http%2F1.1\u0026encryption=none\u0026host=snip.edgeoneai.cc.cd\u0026path=%2Ffdip%23TELEGRAM--MARAMBASHI--MARAMBASHI\u0026security=tls\u0026sni=snip.edgeoneai.cc.cd\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
-      "country_code": "IE",
-      "flag": "🇮🇪",
-      "city": "Dublin",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1140,
-      "bandwidth_kbs": 467,
-      "url": "vmess://2387bfbc-10a6-4bd7-dc55-7cba954ce6e8@54.229.151.97:59236?encryption=auto\u0026headerType=http\u0026host=tms.dingtalk.com\u0026path=%2F\u0026security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "vmess",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Chicago",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1316,
-      "bandwidth_kbs": 464,
-      "url": "vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@104.17.136.198:443?encryption=auto\u0026fp=chrome\u0026host=vmess.lbw666.dpdns.org\u0026path=%2Fws%3Fed%3D2048\u0026security=tls\u0026sni=vmess.lbw666.dpdns.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 752,
-      "bandwidth_kbs": 436,
-      "url": "trojan://humanity@157.173.97.132:443?alpn=http%2F1.1\u0026fp=unsafe\u0026host=www.pleadcourt.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.pleadcourt.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 781,
-      "bandwidth_kbs": 444,
-      "url": "trojan://humanity@95.85.32.57:443?fp=unsafe\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.pleadcourt.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
       "country_code": "GB",
       "flag": "🇬🇧",
-      "city": "Manchester",
+      "city": "London",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1056,
-      "bandwidth_kbs": 443,
-      "url": "ss://YWVzLTEyOC1nY206MTc2MTllODZkY2ZiZjY5NmE2Mjc0YjFmNGE3MTQ0MTk=@89.238.165.94:12023#megav.app"
+      "response_ms": 548,
+      "bandwidth_kbs": 497,
+      "url": "vmess://f5f0babe-aea2-4f07-a1fc-3c9820253f49@172.67.142.142:443?fp=firefox\u0026host=ukl.lovehk.xyz\u0026path=%2FLondon31\u0026security=tls\u0026sni=ukl.lovehk.xyz\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Toronto",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2090,
+      "bandwidth_kbs": 457,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 536,
+      "bandwidth_kbs": 478,
+      "url": "trojan://mitivpn@167.82.64.46:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net\u0026path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN\u0026pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e\u0026security=tls\u0026sni=firefox.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 540,
+      "bandwidth_kbs": 498,
+      "url": "trojan://humanity@57.128.183.108:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=www.pleadcourt.org\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.pleadcourt.org\u0026type=ws#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Reston",
+      "country_code": "CA",
+      "flag": "🇨🇦",
+      "city": "Montreal",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1573,
-      "bandwidth_kbs": 431,
-      "url": "ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307?security=none\u0026type=raw#megav.app"
+      "response_ms": 2256,
+      "bandwidth_kbs": 415,
+      "url": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882?security=none\u0026type=tcp#megav.app"
     }
   ]
 }
