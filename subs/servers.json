@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T08:00:45Z",
+  "updated_at": "2026-10-18T12:00:28Z",
   "total": 7,
   "by_protocol": {
     "shadowsocks": 1,
@@ -10,36 +10,25 @@
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 345,
-      "bandwidth_kbs": 399,
-      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1\u0026ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1\u0026encryption=none\u0026fp=chrome\u0026host=snip.edgeoneai.cc.cd\u0026path=%2Ffdip\u0026security=tls\u0026sni=snip.edgeoneai.cc.cd\u0026type=ws#megav.app"
+      "response_ms": 340,
+      "bandwidth_kbs": 491,
+      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1\u0026ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1\u0026encryption=none\u0026fp=chrome\u0026host=snip.edgeoneai.cc.cd\u0026path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed\u0026security=tls\u0026sni=snip.edgeoneai.cc.cd\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 352,
-      "bandwidth_kbs": 433,
-      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?alpn=http%2F1.1\u0026encryption=none\u0026host=snip.edgeoneai.cc.cd\u0026path=%2Ffdip%23TELEGRAM--MARAMBASHI--MARAMBASHI\u0026security=tls\u0026sni=snip.edgeoneai.cc.cd\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "vmess",
       "country_code": "GB",
       "flag": "🇬🇧",
-      "city": "London",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 548,
-      "bandwidth_kbs": 497,
-      "url": "vmess://f5f0babe-aea2-4f07-a1fc-3c9820253f49@172.67.142.142:443?fp=firefox\u0026host=ukl.lovehk.xyz\u0026path=%2FLondon31\u0026security=tls\u0026sni=ukl.lovehk.xyz\u0026type=ws#megav.app"
+      "response_ms": 347,
+      "bandwidth_kbs": 473,
+      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1\u0026encryption=none\u0026fp=safari\u0026host=snip.edgeoneai.cc.cd\u0026path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NETfp%3Dchrome\u0026security=tls\u0026sni=snip.edgeoneai.cc.cd\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -48,42 +37,53 @@
       "city": "Toronto",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 2090,
-      "bandwidth_kbs": 457,
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?security=none\u0026type=raw#megav.app"
+      "response_ms": 2217,
+      "bandwidth_kbs": 416,
+      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Phoenix",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2660,
+      "bandwidth_kbs": 483,
+      "url": "vmess://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto\u0026host=129.146.77.248\u0026path=%2Fcctv13.m3u8\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 731,
+      "bandwidth_kbs": 442,
+      "url": "trojan://humanity@166.1.36.83:443?fp=chrome\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "FR",
+      "flag": "🇫🇷",
+      "city": "Paris",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 839,
+      "bandwidth_kbs": 437,
+      "url": "trojan://humanity@141.193.213.172:443?path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
       "country_code": "NL",
       "flag": "🇳🇱",
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 536,
-      "bandwidth_kbs": 478,
-      "url": "trojan://mitivpn@167.82.64.46:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net\u0026path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN\u0026pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e\u0026security=tls\u0026sni=firefox.com\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 540,
-      "bandwidth_kbs": 498,
-      "url": "trojan://humanity@57.128.183.108:443?alpn=http%2F1.1\u0026fp=chrome\u0026host=www.pleadcourt.org\u0026insecure=1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.pleadcourt.org\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "CA",
-      "flag": "🇨🇦",
-      "city": "Montreal",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 2256,
-      "bandwidth_kbs": 415,
-      "url": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882?security=none\u0026type=tcp#megav.app"
+      "response_ms": 994,
+      "bandwidth_kbs": 474,
+      "url": "ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.54:8080#megav.app"
     }
   ]
 }
