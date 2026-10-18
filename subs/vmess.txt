@@ -1,2 +1,2 @@
-vmess://f5f0babe-aea2-4f07-a1fc-3c9820253f49@172.67.142.142:443?fp=firefox&host=ukl.lovehk.xyz&path=%2FLondon31&security=tls&sni=ukl.lovehk.xyz&type=ws#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?security=none&type=raw#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#megav.app
+vmess://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&host=129.146.77.248&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
