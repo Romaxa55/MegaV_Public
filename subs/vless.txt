@@ -1,2 +1,2 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
-vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@94.183.179.110:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=X2d2whxbjH1nzAssBdWdYn70B-cNwGiFamG-bH_TYnw&security=reality&sid=c71f4a92e8b3065d&sni=dev-services.shardshop.cc&type=tcp#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2Ffdip&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?alpn=http%2F1.1&encryption=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%23TELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
