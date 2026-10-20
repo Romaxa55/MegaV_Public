@@ -1,2 +1,2 @@
-trojan://humanity@104.18.32.47:443?insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@57.128.179.254:443?host=www.volumerOot.coM.&path=%2Fassignment&security=tls&sni=wWw.Volumeroot.cOm.&type=ws#megav.app
+trojan://humanity@188.114.98.0:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&fp=chrome&host=www.volumeroot.com&path=%2Fassignment%3Fed&security=tls&sni=www.volumeroot.com&type=ws#megav.app
+trojan://humanity@45.80.111.7:443?fp=safari&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
