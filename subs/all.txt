@@ -1,4 +1,7 @@
-vless://9c60369d-e5f9-4cec-9e63-1560e88e119a@195.123.221.36:443?encryption=none&flow=xtls-rprx-vision&pbk=dIv6pPS-x6IzbiPyHX8nNdRrwI2yZl4y3YCeRWy9UgE&security=reality&sid=3e67326f98ddb407&sni=gateway.icloud.com&type=raw#megav.app
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F%3FTelegram---mehrosaboran&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-trojan://humanity@188.114.98.0:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&fp=chrome&host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@188.42.145.180:443?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=safari&host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?encryption=none&fp=unsafe&path=%2F%3FTelegram---%40MTMVPN---%40MTMVPN---%40MTMVPN---%40MTMVPN&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=none&security=none&type=tcp#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=raw#megav.app
+trojan://humanity@209.38.109.222:443?fp=unsafe&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
+trojan://humanity@188.114.97.6:443?host=www.calmlunch.com&path=%2Fassignment%3Fed&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#megav.app
