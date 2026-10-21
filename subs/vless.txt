@@ -1,2 +1,2 @@
-vless://9c60369d-e5f9-4cec-9e63-1560e88e119a@195.123.221.36:443?encryption=none&flow=xtls-rprx-vision&pbk=dIv6pPS-x6IzbiPyHX8nNdRrwI2yZl4y3YCeRWy9UgE&security=reality&sid=3e67326f98ddb407&sni=gateway.icloud.com&type=raw#megav.app
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F%3FTelegram---mehrosaboran&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?encryption=none&fp=unsafe&path=%2F%3FTelegram---%40MTMVPN---%40MTMVPN---%40MTMVPN---%40MTMVPN&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
