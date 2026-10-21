@@ -1,2 +1,2 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F%3FTelegram---%40MTMVPN---%40MTMVPN---%40MTMVPN---%40MTMVPN&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.150.43:443?encryption=none&fp=unsafe&path=%2F&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.153.61:443?alpn=http%2F1.1&encryption=none&fp=unsafe&host=snip.edgeoneai.cc.cd&path=%2Ffdip&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2Ffdip&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
