@@ -1,7 +1,6 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.153.61:443?alpn=http%2F1.1&encryption=none&fp=unsafe&host=snip.edgeoneai.cc.cd&path=%2Ffdip&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2Ffdip&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-vmess://5504eaa8-1395-402f-8e0e-75ecd762e627@mix2.998998.best:443?encryption=auto&path=%2Frthiugoyretdsuigg%3Fed%3D2560&security=tls&sni=server10.9966338.xyz&type=ws#megav.app
-trojan://humanity@209.38.99.120:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
-trojan://humanity@164.92.223.252:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
-ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.167:8080#megav.app
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.230.230.18:19999?security=none&type=raw#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?encryption=none&fp=chrome&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.17.3.81:443?encryption=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
+trojan://humanity@188.114.97.6:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&fp=chrome&host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://mitivpn@188.114.97.6:443?alpn=http%2F1.1&ech=Nazar.ac.ir%2Budp%3A%2F%2F78.157.42.100&fp=chrome&host=d-e.mitivpn.in.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F--%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=d-e.mitivpn.in.net&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtcG9seTEzMDU6ckhtVWhuanY3YitWOG8zWVdBTWFJREJTQmxnU05qdjN6SFlNdTZBTEZVOD0=@31.77.148.89:56752?security=none&type=tcp#megav.app
