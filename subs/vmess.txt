@@ -1,1 +1,2 @@
-vmess://5504eaa8-1395-402f-8e0e-75ecd762e627@mix2.998998.best:443?encryption=auto&path=%2Frthiugoyretdsuigg%3Fed%3D2560&security=tls&sni=server10.9966338.xyz&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=none&security=none&type=tcp#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=raw#megav.app
