@@ -1,33 +1,32 @@
 {
-  "updated_at": "2026-10-21T08:00:14Z",
-  "total": 6,
+  "updated_at": "2026-10-21T12:00:11Z",
+  "total": 4,
   "by_protocol": {
-    "shadowsocks": 2,
     "trojan": 2,
     "vless": 2
   },
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 309,
-      "bandwidth_kbs": 455,
-      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?encryption=none\u0026fp=chrome\u0026path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048\u0026security=tls\u0026sni=snip.edgeoneai.cc.cd\u0026type=ws#megav.app"
+      "response_ms": 356,
+      "bandwidth_kbs": 436,
+      "url": "vless://9c60369d-e5f9-4cec-9e63-1560e88e119a@195.123.221.36:443?encryption=none\u0026flow=xtls-rprx-vision\u0026pbk=dIv6pPS-x6IzbiPyHX8nNdRrwI2yZl4y3YCeRWy9UgE\u0026security=reality\u0026sid=3e67326f98ddb407\u0026sni=gateway.icloud.com\u0026type=raw#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 315,
-      "bandwidth_kbs": 421,
-      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.17.3.81:443?encryption=none\u0026host=snip.edgeoneai.cc.cd\u0026path=%2Ffdip\u0026security=tls\u0026sni=snip.edgeoneai.cc.cd\u0026type=ws#megav.app"
+      "response_ms": 356,
+      "bandwidth_kbs": 400,
+      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1\u0026encryption=none\u0026fp=chrome\u0026host=snip.edgeoneai.cc.cd\u0026path=%2F%3FTelegram---mehrosaboran\u0026security=tls\u0026sni=snip.edgeoneai.cc.cd\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
@@ -36,42 +35,20 @@
       "city": "Paris",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 556,
-      "bandwidth_kbs": 440,
-      "url": "trojan://humanity@188.114.97.6:443?alpn=http%2F1.1\u0026ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1\u0026fp=chrome\u0026host=www.calmlunch.com\u0026path=%2F%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+      "response_ms": 602,
+      "bandwidth_kbs": 495,
+      "url": "trojan://humanity@188.114.98.0:443?alpn=http%2F1.1\u0026ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1\u0026fp=chrome\u0026host=www.calmlunch.com\u0026path=%2F%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "GB",
-      "flag": "🇬🇧",
-      "city": "Hounslow",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 557,
-      "bandwidth_kbs": 492,
-      "url": "trojan://mitivpn@188.114.97.6:443?alpn=http%2F1.1\u0026ech=Nazar.ac.ir%2Budp%3A%2F%2F78.157.42.100\u0026fp=chrome\u0026host=d-e.mitivpn.in.net\u0026path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F--%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN\u0026security=tls\u0026sni=d-e.mitivpn.in.net\u0026type=ws#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
       "country_code": "NL",
       "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 395,
-      "bandwidth_kbs": 429,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080?security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Frankfurt am Main",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 403,
-      "bandwidth_kbs": 419,
-      "url": "ss://Y2hhY2hhMjAtcG9seTEzMDU6ckhtVWhuanY3YitWOG8zWVdBTWFJREJTQmxnU05qdjN6SFlNdTZBTEZVOD0=@31.77.148.89:56752?security=none\u0026type=tcp#megav.app"
+      "response_ms": 784,
+      "bandwidth_kbs": 468,
+      "url": "trojan://humanity@188.42.145.180:443?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus\u0026fp=safari\u0026host=www.volumeroot.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.volumeroot.com\u0026type=ws#megav.app"
     }
   ]
 }
