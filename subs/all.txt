@@ -1,7 +1,8 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?encryption=none&fp=unsafe&path=%2F%3FTelegram---%40MTMVPN---%40MTMVPN---%40MTMVPN---%40MTMVPN&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=snip.edgeoneai.cc.cd&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=none&security=none&type=tcp#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=raw#megav.app
-trojan://humanity@209.38.109.222:443?fp=unsafe&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
-trojan://humanity@188.114.97.6:443?host=www.calmlunch.com&path=%2Fassignment%3Fed&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#megav.app
+vless://3b1fa839-2cb9-4511-9711-08800450aea3@195.189.98.123:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=7dxSNJKvSZNySuiKjuv6wwddd3hYJeJy6X55OcwOPDk&security=reality&sid=16fbc56c&sni=api14.betust.net&type=tcp#megav.app
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none&host=163.172.214.188&path=%2Fvless%2F&security=none&type=ws#megav.app
+vmess://5504eaa8-1395-402f-8e0e-75ecd762e627@uk2-2.998998.best:443?path=%2Fwaetasiuofguiwer%3Fed%3D2560&security=tls&sni=server3.9966338.xyz&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000#megav.app
+trojan://mitivpn@188.114.98.0:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&fp=chrome&host=de.mitivpn.in.net&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=de.mitivpn.in.net&type=ws#megav.app
+trojan://humanity@104.21.33.59:443?alpn=http%2F1.1&path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@50.7.41.118:17001#megav.app
+ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ==@82.38.31.178:8080#megav.app
