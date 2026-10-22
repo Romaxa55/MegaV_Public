@@ -1,2 +1,2 @@
-trojan://humanity@209.38.109.222:443?fp=unsafe&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#megav.app
-trojan://humanity@188.114.97.6:443?host=www.calmlunch.com&path=%2Fassignment%3Fed&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://mitivpn@188.114.98.0:443?alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&fp=chrome&host=de.mitivpn.in.net&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=de.mitivpn.in.net&type=ws#megav.app
+trojan://humanity@104.21.33.59:443?alpn=http%2F1.1&path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
