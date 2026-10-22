@@ -1,2 +1,2 @@
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=none&security=none&type=tcp#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=raw#megav.app
+vmess://5504eaa8-1395-402f-8e0e-75ecd762e627@uk2-2.998998.best:443?path=%2Fwaetasiuofguiwer%3Fed%3D2560&security=tls&sni=server3.9966338.xyz&type=ws#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000#megav.app
