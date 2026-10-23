@@ -1,6 +1,8 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?alpn=http%2F1.1&encryption=none&host=snip.edgeoneai.cc.cd&path=%252F%253FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?alpn=http%2F1.1&encryption=none&fp=safari&host=snip.edgeoneai.cc.cd&path=%2F%3FTELEGRAM-TOOTFFARANGI&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#megav.app
-vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=38.107.234.57&path=%2Fvmess%2F&security=none&type=ws#megav.app
-trojan://TsX0XJKMa2h$CbKr0k@188.114.97.9:443?alpn=ht&fp=chrome&path=%2Ftr%2FmPwnfIHtx0vldKy0A5AGJTZB&security=tls&sni=IDB8onmVBntUyt5T7T6cEjFW8VLRB.PAGES.DeV&type=ws#megav.app
-trojan://mitivpn@188.114.97.6:443?alpn=http%2F1.1&fp=chrome&host=de.mitivpn.in.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F--%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=de.mitivpn.in.net&type=ws#megav.app
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#megav.app
+vless://dac47070-c136-49f3-8ed2-32b68e710ea3@94.237.46.104:443?encryption=none&security=none&type=tcp#megav.app
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#megav.app
+vmess://6deef9ad-1357-443d-f95c-cb18952c20b3@54.37.131.126:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.hesanid8.ir.&security=none&type=ws#megav.app
+vmess://067fcd63-b215-4abd-8529-ae929a9971a9@145.239.55.210:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&security=none&type=ws#megav.app
+trojan://humanity@193.239.160.134:443?host=www.calmlunch.com&path=%252Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@92.42.100.132:443?alpn=http%2F1.1&fp=firefox&insecure=1&security=tls&sni=it1.dedushka.top&type=tcp#megav.app
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@141.227.172.132:17001#megav.app
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.18:19999?security=none&type=raw#megav.app
