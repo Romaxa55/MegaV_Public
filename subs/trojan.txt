@@ -1,2 +1,2 @@
-trojan://humanity@89.150.34.41:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://humanity@164.92.200.68:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://TsX0XJKMa2h$CbKr0k@188.114.97.9:443?alpn=ht&fp=chrome&path=%2Ftr%2FmPwnfIHtx0vldKy0A5AGJTZB&security=tls&sni=IDB8onmVBntUyt5T7T6cEjFW8VLRB.PAGES.DeV&type=ws#megav.app
+trojan://mitivpn@188.114.97.6:443?alpn=http%2F1.1&fp=chrome&host=de.mitivpn.in.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F--%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=de.mitivpn.in.net&type=ws#megav.app
