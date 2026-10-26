@@ -1,8 +1,7 @@
-vless://a441c530-8c8b-4ef9-8d98-0571ad49c433@85.9.209.229:8880?encryption=none&fp=firefox&pbk=7ftU0SggASCqf9TsUminHpucXB1LEQ1dPrcYFV7Dny4&security=reality&sni=www.forvo.com&type=tcp#megav.app
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none&host=163.172.214.188&path=%2Fvless%2F&security=none&type=ws#megav.app
-vmess://d4b69108-f756-48af-a331-e8356bc95eb4@91.107.169.224:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.dns-look.space.&path=%2F&security=none&type=httpupgrade#megav.app
-vmess://ec3c8b97-f308-4fee-aa16-95e2c7595acd@185.212.149.7:52080?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
-trojan://humanity@188.226.181.61:443?alpn=http%2F1.1&fp=chrome&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
-trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&insecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.7:8080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080?security=none&type=tcp#megav.app
+vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@104.21.1.150:2087?encryption=none&fp=chrome&host=fu.baiproxy.us.ci&path=%2F%3Fed%3D2560&security=tls&sni=fu.baiproxy.us.ci&type=ws#megav.app
+vless://e56059f1-5a1a-4d0a-a2d0-58ecb4eb2f3f@172.66.47.45:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=ezaccess-project-f62c30.pages.dev&path=%2FeyJqdW5rIjoiZWlPODVjTnhnaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=EZAcCESS-pROjECt-F62c30.PAGES.dEv&type=ws#megav.app
+vmess://80be2deb-3b27-4775-9bd1-7f2a2b9c261b@www.windowsmsidownloads.com:443?encryption=auto&fp=firefox&host=www.windowsmsidownloads.com&path=%2Ftruth&security=tls&sni=www.windowsmsidownloads.com&type=ws#megav.app
+trojan://humanity@188.114.97.6:443?fp=chrome&host=www.trusteeforward.com&path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#megav.app
+trojan://humanity@164.92.223.252:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.179:8080#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#megav.app
