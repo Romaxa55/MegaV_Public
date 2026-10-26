@@ -1,2 +1,1 @@
-vmess://d4b69108-f756-48af-a331-e8356bc95eb4@91.107.169.224:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.dns-look.space.&path=%2F&security=none&type=httpupgrade#megav.app
-vmess://ec3c8b97-f308-4fee-aa16-95e2c7595acd@185.212.149.7:52080?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
+vmess://80be2deb-3b27-4775-9bd1-7f2a2b9c261b@www.windowsmsidownloads.com:443?encryption=auto&fp=firefox&host=www.windowsmsidownloads.com&path=%2Ftruth&security=tls&sni=www.windowsmsidownloads.com&type=ws#megav.app
