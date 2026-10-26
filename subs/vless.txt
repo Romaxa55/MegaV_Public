@@ -1,2 +1,2 @@
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.138:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&security=reality&sid=c8621ebb1e56abb3&sni=zsde.eu-cdn294.com&type=tcp#megav.app
-vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.236.182:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&security=reality&sid=7a76f3c4b9dd&sni=www.cloudflare.com&type=tcp#megav.app
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=sc-thenetherlands2.09vpn.comfreenettirthe&path=%2Fvless%2F&security=none&type=ws#megav.app
+vless://35da102e-536b-4103-9632-58c7c4c6303b@45.150.32.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=d9am3tITYGguGDY3AOvlQXsekhLEf2VPwExpGoAadTI&security=reality&sid=eecfe76af97a6132&sni=gr4.originmesh.online&type=raw#megav.app
