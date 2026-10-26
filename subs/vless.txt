@@ -1,2 +1,2 @@
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@104.21.1.150:2087?encryption=none&fp=chrome&host=fu.baiproxy.us.ci&path=%2F%3Fed%3D2560&security=tls&sni=fu.baiproxy.us.ci&type=ws#megav.app
-vless://e56059f1-5a1a-4d0a-a2d0-58ecb4eb2f3f@172.66.47.45:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=ezaccess-project-f62c30.pages.dev&path=%2FeyJqdW5rIjoiZWlPODVjTnhnaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=EZAcCESS-pROjECt-F62c30.PAGES.dEv&type=ws#megav.app
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.138:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&security=reality&sid=c8621ebb1e56abb3&sni=zsde.eu-cdn294.com&type=tcp#megav.app
+vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.236.182:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&security=reality&sid=7a76f3c4b9dd&sni=www.cloudflare.com&type=tcp#megav.app
