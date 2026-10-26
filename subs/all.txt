@@ -1,7 +1,8 @@
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@104.21.1.150:2087?encryption=none&fp=chrome&host=fu.baiproxy.us.ci&path=%2F%3Fed%3D2560&security=tls&sni=fu.baiproxy.us.ci&type=ws#megav.app
-vless://e56059f1-5a1a-4d0a-a2d0-58ecb4eb2f3f@172.66.47.45:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=ezaccess-project-f62c30.pages.dev&path=%2FeyJqdW5rIjoiZWlPODVjTnhnaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=EZAcCESS-pROjECt-F62c30.PAGES.dEv&type=ws#megav.app
-vmess://80be2deb-3b27-4775-9bd1-7f2a2b9c261b@www.windowsmsidownloads.com:443?encryption=auto&fp=firefox&host=www.windowsmsidownloads.com&path=%2Ftruth&security=tls&sni=www.windowsmsidownloads.com&type=ws#megav.app
-trojan://humanity@188.114.97.6:443?fp=chrome&host=www.trusteeforward.com&path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#megav.app
-trojan://humanity@164.92.223.252:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.179:8080#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#megav.app
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.138:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&security=reality&sid=c8621ebb1e56abb3&sni=zsde.eu-cdn294.com&type=tcp#megav.app
+vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.236.182:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&security=reality&sid=7a76f3c4b9dd&sni=www.cloudflare.com&type=tcp#megav.app
+vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=38.107.234.57&path=%2Fvmess%2F&security=none&type=ws#megav.app
+vmess://e70a5b70-f63c-4450-af8b-94990cdf80c0@www.gptcloudai.com:443?encryption=auto&fp=firefox&host=www.gptcloudai.com&path=%2Ftruth&security=tls&sni=www.gptcloudai.com&type=ws#megav.app
+trojan://humanity@164.92.223.252:443?alpn=http%2F1.1&fp=unsafe&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://humanity@188.114.97.5:443?path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388?security=none&type=raw#megav.app
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999?security=none&type=tcp#megav.app
