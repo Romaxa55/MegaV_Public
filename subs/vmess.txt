@@ -1,2 +1,2 @@
-vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=38.107.234.57&path=%2Fvmess%2F&security=none&type=ws#megav.app
-vmess://e70a5b70-f63c-4450-af8b-94990cdf80c0@www.gptcloudai.com:443?encryption=auto&fp=firefox&host=www.gptcloudai.com&path=%2Ftruth&security=tls&sni=www.gptcloudai.com&type=ws#megav.app
+vmess://d4b69108-f756-48af-a331-e8356bc95eb4@91.107.169.224:80?host=google.whatsapp.snapp.torob.basalam.dns-look.space.&path=%2F&security=none&type=httpupgrade#megav.app
+vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@172.67.187.145:80?host=vmess.lbw666.dpdns.org&path=%2Fws%3Fed%3D2048&security=none&type=ws#megav.app
