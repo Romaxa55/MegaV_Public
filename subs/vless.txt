@@ -1,2 +1,2 @@
 vless://a441c530-8c8b-4ef9-8d98-0571ad49c433@85.9.209.229:8880?encryption=none&fp=chrome&pbk=7ftU0SggASCqf9TsUminHpucXB1LEQ1dPrcYFV7Dny4&security=reality&sni=www.forvo.com&spx=%2FHesarWeb&type=raw#megav.app
-vless://7d0fd363-16d2-43ce-9d6d-ed2c15d2cb7c@51.15.16.68:2053?encryption=none&fp=chrome&pbk=Zotx4F9CI6_q9yeKCKIHDjwzCv_Aq7WSo7N0Zc1A6Sc&security=reality&sid=3c99c85cbb6b3b44&sni=www.apple.com&type=raw#megav.app
+vless://7d0fd363-16d2-43ce-9d6d-ed2c15d2cb7c@51.15.16.68:2053?encryption=none&fp=firefox&pbk=Zotx4F9CI6_q9yeKCKIHDjwzCv_Aq7WSo7N0Zc1A6Sc&security=reality&sid=3c99c85cbb6b3b44&sni=www.apple.com&type=tcp#megav.app
