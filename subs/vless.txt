@@ -1,2 +1,2 @@
-vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=sc-thenetherlands2.09vpn.comfreenettirthe&path=%2Fvless%2F&security=none&type=ws#megav.app
-vless://35da102e-536b-4103-9632-58c7c4c6303b@45.150.32.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=d9am3tITYGguGDY3AOvlQXsekhLEf2VPwExpGoAadTI&security=reality&sid=eecfe76af97a6132&sni=gr4.originmesh.online&type=raw#megav.app
+vless://a441c530-8c8b-4ef9-8d98-0571ad49c433@85.9.209.229:8880?encryption=none&fp=chrome&pbk=7ftU0SggASCqf9TsUminHpucXB1LEQ1dPrcYFV7Dny4&security=reality&sni=www.forvo.com&spx=%2FHesarWeb&type=raw#megav.app
+vless://7d0fd363-16d2-43ce-9d6d-ed2c15d2cb7c@51.15.16.68:2053?encryption=none&fp=chrome&pbk=Zotx4F9CI6_q9yeKCKIHDjwzCv_Aq7WSo7N0Zc1A6Sc&security=reality&sid=3c99c85cbb6b3b44&sni=www.apple.com&type=raw#megav.app
