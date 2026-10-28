@@ -1,1 +1,1 @@
-vmess://067fcd63-b215-4abd-8529-ae929a9971a9@145.239.55.210:80?host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&path=%2F&security=none&type=ws#megav.app
+vmess://aeb3c019-ae83-4677-af97-846baa787ad5@185.212.149.7:2053?headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
