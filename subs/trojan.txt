@@ -1,2 +1,2 @@
-trojan://humanity@172.67.203.46:443?alpn=http%2F1.1&fp=chrome&host=www.cordweave.com&path=%2Fassignment&security=tls&sni=www.cordweave.com&type=ws#megav.app
-trojan://humanity@chat.openai.com:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
+trojan://humanity@77.239.121.232:443?alpn=http%2F1.1&fp=unsafe&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://humanity@64.227.115.28:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
