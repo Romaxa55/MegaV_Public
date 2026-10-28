@@ -1,2 +1,1 @@
-vmess://ec3c8b97-f308-4fee-aa16-95e2c7595acd@185.212.149.7:52080?headerType=http&host=down-cdn.dingtalk.com&path=%2F3x&security=none&type=raw#megav.app
-vmess://161c6846-7fee-40a8-abf9-b3d48c5d8b8f@91.107.168.142:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.zula.uplaod.picsgram.ir.&path=%2F&security=none&type=httpupgrade#megav.app
+vmess://067fcd63-b215-4abd-8529-ae929a9971a9@145.239.55.210:80?host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&path=%2F&security=none&type=ws#megav.app
