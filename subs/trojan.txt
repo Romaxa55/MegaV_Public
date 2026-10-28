@@ -1,2 +1,2 @@
-trojan://bpb-trojan@172.64.80.1:443?fp=chrome&path=%2Ftr%3Fed%3D2560&security=tls&sni=vless.herogoing.top&type=ws#megav.app
-trojan://humanity@104.18.37.127:443?host=www.trusteeforward.com&path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#megav.app
+trojan://humanity@188.114.97.6:443?alpn=http%2F1.1&fp=chrome&host=www.trusteeforward.com&path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#megav.app
+trojan://humanity@188.114.98.0:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#megav.app
