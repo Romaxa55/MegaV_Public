@@ -1,45 +1,56 @@
 {
-  "updated_at": "2026-10-28T20:00:16Z",
-  "total": 7,
+  "updated_at": "2026-10-29T04:00:13Z",
+  "total": 8,
   "by_protocol": {
     "shadowsocks": 2,
     "trojan": 2,
     "vless": 2,
-    "vmess": 1
+    "vmess": 2
   },
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Nuremberg",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Hounslow",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 480,
-      "bandwidth_kbs": 171,
-      "url": "vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?encryption=none\u0026security=tls\u0026sni=sino.bestsellers1.site\u0026type=ws#megav.app"
+      "response_ms": 345,
+      "bandwidth_kbs": 462,
+      "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.211:2083?encryption=none\u0026fp=chrome\u0026security=tls\u0026sni=wk1.f1w.de5.net\u0026type=ws#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Nuremberg",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 492,
-      "bandwidth_kbs": 181,
-      "url": "vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?encryption=none\u0026path=%2F\u0026security=tls\u0026sni=sino.bestsellers1.site\u0026type=ws#megav.app"
+      "response_ms": 395,
+      "bandwidth_kbs": 421,
+      "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.145.202:2083?encryption=none\u0026host=newwk1.f1w.de5.net\u0026path=%2F\u0026security=tls\u0026sni=newwk1.f1w.de5.net\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
-      "country_code": "FI",
-      "flag": "🇫🇮",
-      "city": "Helsinki",
+      "country_code": "MX",
+      "flag": "🇲🇽",
+      "city": "Mexico City",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 988,
-      "bandwidth_kbs": 458,
-      "url": "vmess://aeb3c019-ae83-4677-af97-846baa787ad5@185.212.149.7:2053?encryption=auto\u0026headerType=http\u0026host=down-cdn.dingtalk.com\u0026path=%2F3x\u0026security=none\u0026type=raw#megav.app"
+      "response_ms": 2130,
+      "bandwidth_kbs": 474,
+      "url": "vmess://5cf1f470-3f70-4589-a2a4-4657ea3a1edf@38.60.224.173:32153?encryption=auto\u0026security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "MX",
+      "flag": "🇲🇽",
+      "city": "Mexico City",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2411,
+      "bandwidth_kbs": 444,
+      "url": "vmess://5cf1f470-3f70-4589-a2a4-4657ea3a1edf@38.60.224.173:32153?encryption=auto\u0026security=none\u0026type=raw#megav.app"
     },
     {
       "protocol": "trojan",
@@ -48,20 +59,20 @@
       "city": "Haarlem",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 810,
-      "bandwidth_kbs": 429,
-      "url": "trojan://humanity@77.239.121.232:443?alpn=http%2F1.1\u0026fp=unsafe\u0026host=www.pleadcourt.org\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.pleadcourt.org\u0026type=ws#megav.app"
+      "response_ms": 353,
+      "bandwidth_kbs": 400,
+      "url": "trojan://humanity@172.64.231.133:443?host=www.trusteeforward.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.trusteeforward.com\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Haarlem",
+      "country_code": "ES",
+      "flag": "🇪🇸",
+      "city": "Madrid",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1782,
-      "bandwidth_kbs": 435,
-      "url": "trojan://humanity@64.227.115.28:443?alpn=http%2F1.1\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.pleadcourt.org\u0026type=ws#megav.app"
+      "response_ms": 556,
+      "bandwidth_kbs": 461,
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?insecure=1\u0026security=tls\u0026sni=api.discovergreatjobsandadvanceyourcareer.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "shadowsocks",
@@ -70,20 +81,20 @@
       "city": "Amsterdam",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 321,
-      "bandwidth_kbs": 440,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080?security=none\u0026type=raw#megav.app"
+      "response_ms": 655,
+      "bandwidth_kbs": 394,
+      "url": "ss://YWVzLTI1Ni1nY206WmpFM1ltSXlZVEpoTlRnNE0yTmxZek5oTkRoaU9HRXlNalExWWpSaw==@146.70.140.50:995#megav.app"
     },
     {
       "protocol": "shadowsocks",
-      "country_code": "NL",
-      "flag": "🇳🇱",
-      "city": "Amsterdam",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Atlanta",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 820,
-      "bandwidth_kbs": 481,
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#megav.app"
+      "response_ms": 1788,
+      "bandwidth_kbs": 459,
+      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.9:19999#megav.app"
     }
   ]
 }
