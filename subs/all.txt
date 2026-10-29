@@ -1,9 +1,8 @@
-vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&security=reality&sid=1d86d17709852910&sni=www.apple.com&type=tcp#megav.app
-vless://65d3f9b3-d289-4a8e-9c87-90bba156de30@172.67.128.201:443?encryption=none&host=ld.235231.xyz&path=%2F&security=tls&sni=ld.235231.xyz&type=ws#megav.app
-vmess://8a9aaa70-ced9-11f1-b934-205c6d5f5d78@23.158.72.131:80?encryption=auto&security=none&type=ws#megav.app
-vmess://53005ac8-eed1-4e32-8183-7152e099877a@170.239.86.176:40708?path=%2Farki%3Fed%3D2048&security=none&type=ws#megav.app
-trojan://humanity@172.67.203.46:443?alpn=http%2F1.1&fp=chrome&host=www.cordweave.com&insecure=1&path=%2Fassignment&security=tls&sni=www.cordweave.com&type=ws#megav.app
-trojan://humanity@89.150.34.41:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#megav.app
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#megav.app
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@8.211.196.252:443#megav.app
+vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#megav.app
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@151.242.144.212:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9p1Pr_KAsgtg31YUPPZ_LlsNmNd48FjHdML8x9SDeA8&security=reality&sid=296ba5bd68d56a8d&sni=khv.nullo.pro&type=tcp#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000?encryption=null&security=none&type=raw#megav.app
+vmess://ac1b933d-afff-4487-93ef-f57130a55dff@217.142.138.61:80?encryption=auto&headerType=http&security=none&type=raw#megav.app
+trojan://MiTiVPN@199.232.78.120:443?alpn=http%2F1.1&fp=chrome&host=mitivpn--mitivpn.ac.ir&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&sni=firefox.com&type=ws#megav.app
+trojan://MiTiVPN@146.75.57.120:443?alpn=http%2F1.1&fp=chrome&host=mitivpn--mitivpn.ac.ir&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&sni=firefox.com&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?security=none&type=raw#megav.app
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.163.18:19999?security=none&type=raw#megav.app
