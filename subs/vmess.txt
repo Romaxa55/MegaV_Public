@@ -1,2 +1,2 @@
-vmess://5cf1f470-3f70-4589-a2a4-4657ea3a1edf@38.60.224.173:32153?encryption=auto&security=none&type=tcp#megav.app
-vmess://5cf1f470-3f70-4589-a2a4-4657ea3a1edf@38.60.224.173:32153?encryption=auto&security=none&type=raw#megav.app
+vmess://8a9aaa70-ced9-11f1-b934-205c6d5f5d78@23.158.72.131:80?encryption=auto&security=none&type=ws#megav.app
+vmess://53005ac8-eed1-4e32-8183-7152e099877a@170.239.86.176:40708?path=%2Farki%3Fed%3D2048&security=none&type=ws#megav.app
