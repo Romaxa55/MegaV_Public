@@ -1,2 +1,2 @@
-trojan://humanity@77.239.121.232:443?alpn=http%2F1.1&fp=unsafe&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
-trojan://humanity@64.227.115.28:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://humanity@172.64.231.133:443?host=www.trusteeforward.com&path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#megav.app
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?insecure=1&security=tls&sni=api.discovergreatjobsandadvanceyourcareer.com&type=tcp#megav.app
