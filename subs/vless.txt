@@ -1,2 +1,2 @@
-vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?encryption=none&security=tls&sni=sino.bestsellers1.site&type=ws#megav.app
-vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?encryption=none&path=%2F&security=tls&sni=sino.bestsellers1.site&type=ws#megav.app
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.211:2083?encryption=none&fp=chrome&security=tls&sni=wk1.f1w.de5.net&type=ws#megav.app
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.145.202:2083?encryption=none&host=newwk1.f1w.de5.net&path=%2F&security=tls&sni=newwk1.f1w.de5.net&type=ws#megav.app
