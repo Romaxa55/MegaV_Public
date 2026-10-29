@@ -1,2 +1,2 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.211:2083?encryption=none&fp=chrome&security=tls&sni=wk1.f1w.de5.net&type=ws#megav.app
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.145.202:2083?encryption=none&host=newwk1.f1w.de5.net&path=%2F&security=tls&sni=newwk1.f1w.de5.net&type=ws#megav.app
+vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&security=reality&sid=1d86d17709852910&sni=www.apple.com&type=tcp#megav.app
+vless://65d3f9b3-d289-4a8e-9c87-90bba156de30@172.67.128.201:443?encryption=none&host=ld.235231.xyz&path=%2F&security=tls&sni=ld.235231.xyz&type=ws#megav.app
