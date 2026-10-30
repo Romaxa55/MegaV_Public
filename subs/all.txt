@@ -1,9 +1,8 @@
-vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?encryption=none&fp=random&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&security=reality&sid=d051f678212f9d54&sni=www.apple.com&type=tcp#megav.app
-vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@148.253.210.191:443?encryption=none&host=148-253-210-191.sslip.io&path=%2Ftest-ws&security=tls&sni=148-253-210-191.sslip.io&type=ws#megav.app
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?host=57.129.132.223&path=%2Fvmess%2F&security=none&type=ws#megav.app
-vmess://067fcd63-b215-4abd-8529-ae929a9971a9@145.239.55.210:80?host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&security=none&type=ws#megav.app
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com&type=tcp#megav.app
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&sni=resources.discovergreatjobsandadvanceyourcareer.com&type=raw#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443?security=none&type=raw#megav.app
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#megav.app
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UTJZc0l6YzVZa2NoU0Zqc3FVWldyUUFGdHNTcHFmN1h4WXhrRzQrSmJzaz06elQxU2VjUHR0UFkvWFBXNk53aks1V3FsKy82emJjR1NESksyMUprOHVMbz0=@216.9.225.189:443#megav.app
+vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?encryption=none&fp=chrome&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&security=reality&sid=d051f678212f9d54&sni=www.apple.com&type=tcp#megav.app
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&security=reality&sid=16036bbef04d0509&sni=twitch.tv&type=tcp#megav.app
+vmess://ba1116e2-8c2f-4e3d-8e50-c954360cf970@104.21.15.251:443?fp=chrome&host=www.windowssearchtools.com&path=%2Ftruth&security=tls&sni=www.windowssearchtools.com&type=ws#megav.app
+vmess://9b31490d-190e-4ef1-af0a-7ccab3e7c3b5@rib9jxayoqjgn2kw.v.3dns.vip:443?fp=chrome&host=rib9jxayoqjgn2kw.v.3dns.vip&path=%2Fws-vmess&security=tls&sni=rib9jxayoqjgn2kw.v.3dns.vip&type=ws#megav.app
+trojan://humanity@57.128.183.108:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#megav.app
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882?security=none&type=tcp#megav.app
