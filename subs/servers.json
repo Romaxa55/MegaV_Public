@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-30T08:00:22Z",
-  "total": 7,
+  "updated_at": "2026-10-30T16:00:16Z",
+  "total": 9,
   "by_protocol": {
-    "shadowsocks": 1,
+    "shadowsocks": 2,
     "shadowsocks2022": 1,
     "trojan": 2,
     "vless": 2,
-    "vmess": 1
+    "vmess": 2
   },
   "servers": [
     {
       "protocol": "vless",
-      "country_code": "DE",
-      "flag": "🇩🇪",
-      "city": "Oslo",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "London",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 508,
-      "bandwidth_kbs": 435,
-      "url": "vless://3ec60ed4-df40-483d-bbf9-33f65ce9c3e7@94.249.186.139:43000?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=QUXt6kRkacRqiqckfCYCoEqzFHBlM69HRypO6asSTGI\u0026security=reality\u0026sid=36cbbcaf\u0026type=tcp#megav.app"
+      "response_ms": 370,
+      "bandwidth_kbs": 428,
+      "url": "vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?encryption=none\u0026fp=random\u0026pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0\u0026security=reality\u0026sid=d051f678212f9d54\u0026sni=www.apple.com\u0026type=tcp#megav.app"
     },
     {
       "protocol": "vless",
-      "country_code": "BG",
-      "flag": "🇧🇬",
+      "country_code": "DE",
+      "flag": "🇩🇪",
       "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 562,
-      "bandwidth_kbs": 443,
-      "url": "vless://706bce83-91db-4260-b175-cba29145cd56@93.152.223.244:443?encryption=none\u0026flow=xtls-rprx-vision\u0026fp=firefox\u0026pbk=yKwDGqOdkC_nEPOQHMvAQLPcPK8YHskv_opYoY66Yk8\u0026security=reality\u0026sni=ddk5-ger.newagetechnologies.live\u0026type=tcp#megav.app"
+      "response_ms": 526,
+      "bandwidth_kbs": 414,
+      "url": "vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@148.253.210.191:443?encryption=none\u0026host=148-253-210-191.sslip.io\u0026path=%2Ftest-ws\u0026security=tls\u0026sni=148-253-210-191.sslip.io\u0026type=ws#megav.app"
     },
     {
       "protocol": "vmess",
@@ -38,53 +38,75 @@
       "city": "Bexley",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1747,
-      "bandwidth_kbs": 272,
-      "url": "vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto\u0026host=57.129.132.223\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
+      "response_ms": 2405,
+      "bandwidth_kbs": 444,
+      "url": "vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?host=57.129.132.223\u0026path=%2Fvmess%2F\u0026security=none\u0026type=ws#megav.app"
     },
     {
-      "protocol": "trojan",
+      "protocol": "vmess",
       "country_code": "FR",
       "flag": "🇫🇷",
-      "city": "Paris",
+      "city": "Gravelines",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1084,
-      "bandwidth_kbs": 482,
-      "url": "trojan://humanity@195.181.244.216:443?fp=chrome\u0026host=www.calmlunch.com\u0026path=%2Fassignment\u0026security=tls\u0026sni=www.calmlunch.com\u0026type=ws#megav.app"
+      "response_ms": 2847,
+      "bandwidth_kbs": 486,
+      "url": "vmess://067fcd63-b215-4abd-8529-ae929a9971a9@145.239.55.210:80?host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.\u0026security=none\u0026type=ws#megav.app"
     },
     {
       "protocol": "trojan",
-      "country_code": "CH",
-      "flag": "🇨🇭",
-      "city": "Zurich",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1319,
-      "bandwidth_kbs": 497,
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls\u0026sni=www.yourultimateprofessionalcareerhub.com\u0026type=tcp#megav.app"
-    },
-    {
-      "protocol": "shadowsocks",
-      "country_code": "US",
-      "flag": "🇺🇸",
-      "city": "Atlanta",
-      "tier": "silver",
-      "speed_label": "hd",
-      "response_ms": 1825,
-      "bandwidth_kbs": 442,
-      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.18:19999?security=none\u0026type=raw#megav.app"
-    },
-    {
-      "protocol": "shadowsocks2022",
       "country_code": "DE",
       "flag": "🇩🇪",
       "city": "Frankfurt am Main",
       "tier": "silver",
       "speed_label": "hd",
-      "response_ms": 1021,
-      "bandwidth_kbs": 402,
-      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@8.211.196.252:443#megav.app"
+      "response_ms": 383,
+      "bandwidth_kbs": 498,
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls\u0026sni=courses.iloverussia2026.com\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "ES",
+      "flag": "🇪🇸",
+      "city": "Madrid",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1710,
+      "bandwidth_kbs": 492,
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls\u0026sni=resources.discovergreatjobsandadvanceyourcareer.com\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Dallas",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1593,
+      "bandwidth_kbs": 497,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443?security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Dallas",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1660,
+      "bandwidth_kbs": 478,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#megav.app"
+    },
+    {
+      "protocol": "shadowsocks2022",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "New York",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 1807,
+      "bandwidth_kbs": 430,
+      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UTJZc0l6YzVZa2NoU0Zqc3FVWldyUUFGdHNTcHFmN1h4WXhrRzQrSmJzaz06elQxU2VjUHR0UFkvWFBXNk53aks1V3FsKy82emJjR1NESksyMUprOHVMbz0=@216.9.225.189:443#megav.app"
     }
   ]
 }
