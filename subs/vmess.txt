@@ -1,1 +1,2 @@
-vmess://ba1116e2-8c2f-4e3d-8e50-c954360cf970@104.21.15.251:443?encryption=auto&host=www.windowssearchtools.com&path=%2Ftruth&security=tls&sni=www.windowssearchtools.com&type=ws#megav.app
+vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-hkv2.kunlun01dns.com:16112?encryption=auto&security=none&type=tcp#megav.app
+vmess://de883d6d-4099-41bc-ba86-82ffed64a380@51.83.6.5:20250?encryption=none&security=none&type=raw#megav.app
