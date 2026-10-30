@@ -1,2 +1,2 @@
-vless://3f044365-9592-4301-8291-f2d93fcc2570@87.121.221.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&sid=afee962d&sni=nl004.launch.tel&type=tcp#megav.app
-vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&security=reality&sid=1d86d17709852910&sni=www.apple.com&type=raw#megav.app
+vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@77.220.213.244:8444?encryption=none&fp=firefox&host=nl11.meshbeat.online&path=%2Fapi%2Fv1%2Fdevices%2Fd63ac7ea89%2Ftelemetry&security=tls&sni=nl11.meshbeat.online&type=ws#megav.app
+vless://ed77c1dc-3df2-412b-b855-49286f979c21@5.149.249.94:443?encryption=none&fp=firefox&mode=gun&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=nlb.kosmosapp.net&type=grpc#megav.app
