@@ -1,2 +1,1 @@
-vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-hkv2.kunlun01dns.com:16112?encryption=auto&security=none&type=tcp#megav.app
-vmess://de883d6d-4099-41bc-ba86-82ffed64a380@51.83.6.5:20250?encryption=none&security=none&type=raw#megav.app
+vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=57.129.132.223&path=%2Fvmess%2F&security=none&type=ws#megav.app
