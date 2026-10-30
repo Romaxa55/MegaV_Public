@@ -1,2 +1,2 @@
-vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@77.220.213.244:8444?encryption=none&fp=firefox&host=nl11.meshbeat.online&path=%2Fapi%2Fv1%2Fdevices%2Fd63ac7ea89%2Ftelemetry&security=tls&sni=nl11.meshbeat.online&type=ws#megav.app
-vless://ed77c1dc-3df2-412b-b855-49286f979c21@5.149.249.94:443?encryption=none&fp=firefox&mode=gun&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=nlb.kosmosapp.net&type=grpc#megav.app
+vless://3ec60ed4-df40-483d-bbf9-33f65ce9c3e7@94.249.186.139:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QUXt6kRkacRqiqckfCYCoEqzFHBlM69HRypO6asSTGI&security=reality&sid=36cbbcaf&type=tcp#megav.app
+vless://706bce83-91db-4260-b175-cba29145cd56@93.152.223.244:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yKwDGqOdkC_nEPOQHMvAQLPcPK8YHskv_opYoY66Yk8&security=reality&sni=ddk5-ger.newagetechnologies.live&type=tcp#megav.app
