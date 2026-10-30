@@ -1,2 +1,2 @@
-vmess://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?host=57.129.132.223&path=%2Fvmess%2F&security=none&type=ws#megav.app
-vmess://067fcd63-b215-4abd-8529-ae929a9971a9@145.239.55.210:80?host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&security=none&type=ws#megav.app
+vmess://ba1116e2-8c2f-4e3d-8e50-c954360cf970@104.21.15.251:443?fp=chrome&host=www.windowssearchtools.com&path=%2Ftruth&security=tls&sni=www.windowssearchtools.com&type=ws#megav.app
+vmess://9b31490d-190e-4ef1-af0a-7ccab3e7c3b5@rib9jxayoqjgn2kw.v.3dns.vip:443?fp=chrome&host=rib9jxayoqjgn2kw.v.3dns.vip&path=%2Fws-vmess&security=tls&sni=rib9jxayoqjgn2kw.v.3dns.vip&type=ws#megav.app
