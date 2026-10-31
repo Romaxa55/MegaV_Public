@@ -1,2 +1,2 @@
-vmess://ba1116e2-8c2f-4e3d-8e50-c954360cf970@104.21.15.251:443?fp=chrome&host=www.windowssearchtools.com&path=%2Ftruth&security=tls&sni=www.windowssearchtools.com&type=ws#megav.app
-vmess://9b31490d-190e-4ef1-af0a-7ccab3e7c3b5@rib9jxayoqjgn2kw.v.3dns.vip:443?fp=chrome&host=rib9jxayoqjgn2kw.v.3dns.vip&path=%2Fws-vmess&security=tls&sni=rib9jxayoqjgn2kw.v.3dns.vip&type=ws#megav.app
+vmess://161c6846-7fee-40a8-abf9-b3d48c5d8b8f@91.107.168.142:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.zula.uplaod.picsgram.ir.&path=%2F&security=none&type=httpupgrade#megav.app
+vmess://ba1116e2-8c2f-4e3d-8e50-c954360cf970@www.windowssearchtools.com:443?host=www.windowssearchtools.com&path=%2Ftruth&security=tls&sni=www.windowssearchtools.com&type=ws#megav.app
