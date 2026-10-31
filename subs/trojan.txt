@@ -1,2 +1,2 @@
-trojan://humanity@191.96.94.226:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#megav.app
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?fp=chrome&security=tls&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp#megav.app
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?insecure=1&security=tls&sni=courses.iloverussia2026.com+&type=tcp#megav.app
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?fp=chrome&security=tls&sni=resources.iloverussia2026.com&type=raw#megav.app
