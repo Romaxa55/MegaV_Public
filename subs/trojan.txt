@@ -1,2 +1,2 @@
-trojan://humanity@57.128.183.108:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com&type=raw#megav.app
+trojan://humanity@172.67.203.46:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.cordweave.com&type=ws#megav.app
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?insecure=1&security=tls&sni=learn.iloverussia2026.com&type=tcp#megav.app
