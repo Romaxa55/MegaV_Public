@@ -1,8 +1,7 @@
-vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.236.22:443?encryption=none&flow=xtls-rprx-vision&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&security=reality&sid=7a76f3c4b9dd&sni=www.cloudflare.com&type=raw#megav.app
-vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?encryption=none&fp=chrome&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&security=reality&sid=bfe58beb41f1d09f&sni=www.apple.com&type=raw#megav.app
-vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@149.88.23.207:18000?security=none&type=raw#megav.app
-vmess://067fcd63-b215-4abd-8529-ae929a9971a9@145.239.55.210:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&security=none&type=ws#megav.app
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?insecure=1&security=tls&sni=courses.iloverussia2026.com+&type=tcp#megav.app
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?fp=chrome&security=tls&sni=resources.iloverussia2026.com&type=raw#megav.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#megav.app
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999?security=none&type=raw#megav.app
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=172.217.20.225&path=%2Fvless%2F&security=none&type=ws#megav.app
+vless://4970c1cd-13e1-498a-920a-61d07be2fa65@107.189.7.176:32752?encryption=none&fp=firefox&pbk=pfFcQxKv4EPhCDUoZMCmTjj4FK7HHQg_me-In3bOejA&security=reality&sid=d758a643034ad90e&sni=www.apple.com&type=tcp#megav.app
+vmess://2387bfbc-10a6-4bd7-dc55-7cba954ce6e8@54.229.151.97:59236?headerType=http&host=tms.dingtalk.com&path=%2F&security=none&type=raw#megav.app
+vmess://60441548-b68e-43b2-8191-e3b884be4b3c@172.64.155.209:8443?encryption=auto&host=v2ray1.dozapp.xyz&path=%2FlMnsZUN4%2F&security=tls&sni=v2ray1.dozapp.xyz&type=ws#megav.app
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?fp=chrome&security=tls&sni=courses.iloverussia2026.com&type=tcp#megav.app
+trojan://humanity@104.18.192.53:443?path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#megav.app
