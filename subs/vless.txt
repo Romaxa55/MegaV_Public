@@ -1,0 +1,2 @@
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#megav.app
+vless://d342d11e-d224-4463-b982-532309285094@104.18.41.188:443?encryption=none&fp=chrome&host=ccc.010304.xyz&security=tls&sni=ccc.010304.xyz&type=ws#megav.app
