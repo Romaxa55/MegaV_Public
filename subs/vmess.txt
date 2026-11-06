@@ -1,0 +1,2 @@
+vmess://d782aa4c-9284-4a60-a9d9-f61412f8a2a4@77.90.2.130:2052?encryption=auto&host=www.bing.com&path=d782aa4c-9284-4a60-a9d9-f61412f8a2a4-vm&security=none&type=ws#megav.app
+vmess://2387bfbc-10a6-4bd7-dc55-7cba954ce6e8@54.229.151.97:59236?headerType=http&host=tms.dingtalk.com&path=%2F&security=none&type=raw#megav.app

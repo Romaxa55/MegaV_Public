@@ -1,0 +1,2 @@
+vless://e7678bcb-be0c-4275-aa1d-6298324a003e@www.hcaptcha.com:443?alpn=http%2F1.1&encryption=none&fp=unsafe&host=worker3.cidayo573832.workers.dev&path=%2FZSwEHuFy9lC7zgDp%3Fed%3D2560&security=tls&sni=worker3.cidayo573832.workers.dev&type=ws#megav.app
+vless://e818a20d-9bcd-4744-9061-ca51b9c8aeea@pcmag.com:443?encryption=none&security=tls&sni=wallweb-4ez.pages.dev&type=ws#megav.app

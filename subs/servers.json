@@ -1,0 +1,112 @@
+{
+  "updated_at": "2026-11-06T06:00:38Z",
+  "total": 9,
+  "by_protocol": {
+    "shadowsocks": 2,
+    "shadowsocks2022": 1,
+    "trojan": 2,
+    "vless": 2,
+    "vmess": 2
+  },
+  "servers": [
+    {
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 4,
+      "bandwidth_kbs": 360,
+      "url": "vless://e7678bcb-be0c-4275-aa1d-6298324a003e@www.hcaptcha.com:443?alpn=http%2F1.1\u0026encryption=none\u0026fp=unsafe\u0026host=worker3.cidayo573832.workers.dev\u0026path=%2FZSwEHuFy9lC7zgDp%3Fed%3D2560\u0026security=tls\u0026sni=worker3.cidayo573832.workers.dev\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 4,
+      "bandwidth_kbs": 221,
+      "url": "vless://e818a20d-9bcd-4744-9061-ca51b9c8aeea@pcmag.com:443?encryption=none\u0026security=tls\u0026sni=wallweb-4ez.pages.dev\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 15,
+      "bandwidth_kbs": 436,
+      "url": "vmess://d782aa4c-9284-4a60-a9d9-f61412f8a2a4@77.90.2.130:2052?encryption=auto\u0026host=www.bing.com\u0026path=d782aa4c-9284-4a60-a9d9-f61412f8a2a4-vm\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "IE",
+      "flag": "🇮🇪",
+      "city": "Dublin",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 34,
+      "bandwidth_kbs": 498,
+      "url": "vmess://2387bfbc-10a6-4bd7-dc55-7cba954ce6e8@54.229.151.97:59236?headerType=http\u0026host=tms.dingtalk.com\u0026path=%2F\u0026security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 6,
+      "bandwidth_kbs": 358,
+      "url": "trojan://558e3e91-0ffa-4180-9386-5813fa7c3cb1@172.64.152.234:443?fp=chrome\u0026host=pz333.pzmike.dpdns.org\u0026path=%2F%3Fed%3D2048\u0026security=tls\u0026sni=pz333.pzmike.dpdns.org\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 13,
+      "bandwidth_kbs": 176,
+      "url": "trojan://Tg3RnK7Xp8B1@45.32.157.84:443?insecure=1\u0026security=tls\u0026sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com%2523%25F0%259F%258D%25AA2%2540oneclickvpnkeys\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 10,
+      "bandwidth_kbs": 490,
+      "url": "ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.155:8080#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 10,
+      "bandwidth_kbs": 251,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ2diVW5NYW9BZlNndkU4SUtkbkd1@77.221.132.206:24759#megav.app"
+    },
+    {
+      "protocol": "shadowsocks2022",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Council Bluffs",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 146,
+      "bandwidth_kbs": 307,
+      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WmhSR05TSWMzU2tXQUd3aXg5WnBRdz09@gcp-us-central1.qqo.pp.ua:63691#megav.app"
+    }
+  ]
+}
