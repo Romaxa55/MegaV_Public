@@ -1,0 +1,1073 @@
+{
+ "v": 1,
+ "updated": "2026-11-07T11:29:28.38510776Z",
+ "attribution": "Weather: MET Norway (CC BY 4.0). Places: GeoNames (CC BY 4.0). Images: AI-generated.",
+ "weather": {
+  "AE": {
+   "t": 33,
+   "kind": "clear",
+   "day": true
+  },
+  "AL": {
+   "t": 18,
+   "kind": "clear",
+   "day": true
+  },
+  "AM": {
+   "t": 9,
+   "kind": "rain",
+   "day": true
+  },
+  "AT": {
+   "t": 6,
+   "kind": "clear",
+   "day": true
+  },
+  "AU": {
+   "t": 8,
+   "kind": "cloudy",
+   "day": false
+  },
+  "AZ": {
+   "t": 18,
+   "kind": "cloudy",
+   "day": true
+  },
+  "BD": {
+   "t": 28,
+   "kind": "clear",
+   "day": false
+  },
+  "BG": {
+   "t": 9,
+   "kind": "clear",
+   "day": true
+  },
+  "BR": {
+   "t": 25,
+   "kind": "cloudy",
+   "day": true
+  },
+  "BY": {
+   "t": 4,
+   "kind": "cloudy",
+   "day": true
+  },
+  "CA": {
+   "t": 7,
+   "kind": "cloudy",
+   "day": true
+  },
+  "CH": {
+   "t": 7,
+   "kind": "cloudy",
+   "day": true
+  },
+  "CL": {
+   "t": 11,
+   "kind": "clear",
+   "day": true
+  },
+  "CN": {
+   "t": 4,
+   "kind": "rain",
+   "day": false
+  },
+  "CO": {
+   "t": 9,
+   "kind": "fog",
+   "day": true
+  },
+  "CU": {
+   "t": 24,
+   "kind": "clear",
+   "day": false
+  },
+  "CY": {
+   "t": 20,
+   "kind": "clear",
+   "day": true
+  },
+  "CZ": {
+   "t": 6,
+   "kind": "cloudy",
+   "day": true
+  },
+  "DE": {
+   "t": 5,
+   "kind": "clear",
+   "day": true
+  },
+  "EE": {
+   "t": 7,
+   "kind": "cloudy",
+   "day": true
+  },
+  "EG": {
+   "t": 23,
+   "kind": "rain",
+   "day": true
+  },
+  "ES": {
+   "t": 14,
+   "kind": "cloudy",
+   "day": true
+  },
+  "FI": {
+   "t": 6,
+   "kind": "cloudy",
+   "day": true
+  },
+  "FR": {
+   "t": 7,
+   "kind": "cloudy",
+   "day": true
+  },
+  "GB": {
+   "t": 6,
+   "kind": "fog",
+   "day": true
+  },
+  "GE": {
+   "t": 12,
+   "kind": "cloudy",
+   "day": true
+  },
+  "GH": {
+   "t": 31,
+   "kind": "rain",
+   "day": true
+  },
+  "GR": {
+   "t": 16,
+   "kind": "clear",
+   "day": true
+  },
+  "HK": {
+   "t": 25,
+   "kind": "clear",
+   "day": false
+  },
+  "ID": {
+   "t": 30,
+   "kind": "rain",
+   "day": false
+  },
+  "IE": {
+   "t": 9,
+   "kind": "clear",
+   "day": true
+  },
+  "IL": {
+   "t": 15,
+   "kind": "rain",
+   "day": true
+  },
+  "IN": {
+   "t": 27,
+   "kind": "clear",
+   "day": true
+  },
+  "IR": {
+   "t": 14,
+   "kind": "rain",
+   "day": true
+  },
+  "IS": {
+   "t": 8,
+   "kind": "rain",
+   "day": true
+  },
+  "IT": {
+   "t": 17,
+   "kind": "clear",
+   "day": true
+  },
+  "JP": {
+   "t": 11,
+   "kind": "clear",
+   "day": false
+  },
+  "KG": {
+   "t": 20,
+   "kind": "cloudy",
+   "day": true
+  },
+  "KR": {
+   "t": 4,
+   "kind": "clear",
+   "day": false
+  },
+  "KZ": {
+   "t": 5,
+   "kind": "clear",
+   "day": true
+  },
+  "LK": {
+   "t": 27,
+   "kind": "rain",
+   "day": true
+  },
+  "LT": {
+   "t": 4,
+   "kind": "cloudy",
+   "day": true
+  },
+  "LV": {
+   "t": 8,
+   "kind": "cloudy",
+   "day": true
+  },
+  "MD": {
+   "t": 5,
+   "kind": "cloudy",
+   "day": true
+  },
+  "MK": {
+   "t": 11,
+   "kind": "cloudy",
+   "day": true
+  },
+  "MX": {
+   "t": 13,
+   "kind": "clear",
+   "day": false
+  },
+  "MY": {
+   "t": 27,
+   "kind": "rain",
+   "day": false
+  },
+  "NG": {
+   "t": 30,
+   "kind": "clear",
+   "day": true
+  },
+  "NL": {
+   "t": 5,
+   "kind": "cloudy",
+   "day": true
+  },
+  "NO": {
+   "t": 1,
+   "kind": "clear",
+   "day": true
+  },
+  "PK": {
+   "t": 24,
+   "kind": "clear",
+   "day": true
+  },
+  "PL": {
+   "t": 5,
+   "kind": "cloudy",
+   "day": true
+  },
+  "RO": {
+   "t": 9,
+   "kind": "clear",
+   "day": true
+  },
+  "RS": {
+   "t": 8,
+   "kind": "clear",
+   "day": true
+  },
+  "RU": {
+   "t": 0,
+   "kind": "cloudy",
+   "day": true
+  },
+  "SA": {
+   "t": 32,
+   "kind": "cloudy",
+   "day": true
+  },
+  "SC": {
+   "t": 28,
+   "kind": "cloudy",
+   "day": true
+  },
+  "SE": {
+   "t": 4,
+   "kind": "clear",
+   "day": true
+  },
+  "SG": {
+   "t": 28,
+   "kind": "cloudy",
+   "day": false
+  },
+  "SI": {
+   "t": 8,
+   "kind": "rain",
+   "day": true
+  },
+  "TH": {
+   "t": 27,
+   "kind": "cloudy",
+   "day": false
+  },
+  "TJ": {
+   "t": 21,
+   "kind": "clear",
+   "day": true
+  },
+  "TM": {
+   "t": 25,
+   "kind": "cloudy",
+   "day": true
+  },
+  "TR": {
+   "t": 7,
+   "kind": "cloudy",
+   "day": true
+  },
+  "TW": {
+   "t": 23,
+   "kind": "cloudy",
+   "day": false
+  },
+  "UA": {
+   "t": 3,
+   "kind": "cloudy",
+   "day": true
+  },
+  "US": {
+   "t": 9,
+   "kind": "clear",
+   "day": false
+  },
+  "UZ": {
+   "t": 22,
+   "kind": "clear",
+   "day": true
+  },
+  "VN": {
+   "t": 26,
+   "kind": "clear",
+   "day": false
+  },
+  "ZA": {
+   "t": 28,
+   "kind": "rain",
+   "day": true
+  }
+ },
+ "images": [
+  {
+   "cc": "AE",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/AE/a822c976cb5b.webp",
+   "scene": "city",
+   "season": "none",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 24052
+  },
+  {
+   "cc": "AE",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/AE/28e4d2fd1fb9.webp",
+   "scene": "city",
+   "season": "none",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 31618
+  },
+  {
+   "cc": "AT",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/AT/34ef0df4cee5.webp",
+   "scene": "capital",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794050980,
+   "bytes": 53118
+  },
+  {
+   "cc": "AU",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/AU/620df11573d7.webp",
+   "scene": "capital",
+   "season": "spring",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794047878,
+   "bytes": 69864
+  },
+  {
+   "cc": "AU",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/AU/9974e5214bd8.webp",
+   "scene": "capital",
+   "season": "spring",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794047861,
+   "bytes": 49822
+  },
+  {
+   "cc": "AZ",
+   "city": "",
+   "kind": "cloudy",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/AZ/9206e7f62913.webp",
+   "scene": "capital",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794050457,
+   "bytes": 50188
+  },
+  {
+   "cc": "BY",
+   "city": "",
+   "kind": "cloudy",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/BY/e1cdaa09d53a.webp",
+   "scene": "capital",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794047871,
+   "bytes": 38064
+  },
+  {
+   "cc": "CA",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/CA/413aafb75763.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 38310
+  },
+  {
+   "cc": "CA",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/CA/e6237cc47cf9.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 48054
+  },
+  {
+   "cc": "CH",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/CH/1b58b03fd2f5.webp",
+   "scene": "mountain",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 58548
+  },
+  {
+   "cc": "CH",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/CH/15a4d72bc66f.webp",
+   "scene": "mountain",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 51652
+  },
+  {
+   "cc": "CN",
+   "city": "",
+   "kind": "rain",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/CN/490166464e47.webp",
+   "scene": "capital",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794046835,
+   "bytes": 98498
+  },
+  {
+   "cc": "CY",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/CY/3c9852c5961a.webp",
+   "scene": "coast",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 77580
+  },
+  {
+   "cc": "CY",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/CY/c873c896ee7a.webp",
+   "scene": "coast",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 58044
+  },
+  {
+   "cc": "DE",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/DE/c3f8df071de0.webp",
+   "scene": "landmark",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 38418
+  },
+  {
+   "cc": "DE",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/DE/19025e34a967.webp",
+   "scene": "landmark",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 75048
+  },
+  {
+   "cc": "ES",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/ES/dc5c7b19be65.webp",
+   "scene": "landmark",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 41816
+  },
+  {
+   "cc": "ES",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/ES/39ac49bcfbc0.webp",
+   "scene": "landmark",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 67230
+  },
+  {
+   "cc": "FI",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/FI/960b5702f732.webp",
+   "scene": "coast",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 26300
+  },
+  {
+   "cc": "FI",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/FI/cb721ded8246.webp",
+   "scene": "coast",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 67652
+  },
+  {
+   "cc": "FR",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/FR/9de7741788e7.webp",
+   "scene": "landmark",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 29258
+  },
+  {
+   "cc": "FR",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/FR/5e328c06c628.webp",
+   "scene": "landmark",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 49696
+  },
+  {
+   "cc": "GB",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/GB/35ff84d5c830.webp",
+   "scene": "landmark",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 45444
+  },
+  {
+   "cc": "GB",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/GB/0a9ea726f22f.webp",
+   "scene": "landmark",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 31024
+  },
+  {
+   "cc": "GE",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/GE/1c291e2d8ac9.webp",
+   "scene": "capital",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794050601,
+   "bytes": 45928
+  },
+  {
+   "cc": "HK",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/HK/b5e315562eaa.webp",
+   "scene": "city",
+   "season": "none",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 44978
+  },
+  {
+   "cc": "HK",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/HK/a969c24b4541.webp",
+   "scene": "city",
+   "season": "none",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 44064
+  },
+  {
+   "cc": "IN",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/IN/6fb892e963fd.webp",
+   "scene": "coast",
+   "season": "none",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 92300
+  },
+  {
+   "cc": "IN",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/IN/407f45d41025.webp",
+   "scene": "coast",
+   "season": "none",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 69360
+  },
+  {
+   "cc": "IR",
+   "city": "",
+   "kind": "rain",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/IR/411f929bc410.webp",
+   "scene": "capital",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794046827,
+   "bytes": 108564
+  },
+  {
+   "cc": "IT",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/IT/6dc38ca0c748.webp",
+   "scene": "landmark",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 74690
+  },
+  {
+   "cc": "IT",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/IT/1bb814ce3b15.webp",
+   "scene": "landmark",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 70142
+  },
+  {
+   "cc": "JP",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/JP/8a238f699ecf.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 24810
+  },
+  {
+   "cc": "JP",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/JP/85df095f613e.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 45726
+  },
+  {
+   "cc": "KZ",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/KZ/66617423359a.webp",
+   "scene": "capital",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794050438,
+   "bytes": 64100
+  },
+  {
+   "cc": "NL",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/NL/3c4c12c182aa.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 83418
+  },
+  {
+   "cc": "NL",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/NL/83d37e6cb1e8.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 78004
+  },
+  {
+   "cc": "PL",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/PL/097dcab9be42.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 54600
+  },
+  {
+   "cc": "PL",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/PL/4701fc71dbc8.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 34292
+  },
+  {
+   "cc": "RU",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/RU/a689dbf4e0be.webp",
+   "scene": "landmark",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 44092
+  },
+  {
+   "cc": "RU",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/RU/a7a85e6c95f3.webp",
+   "scene": "landmark",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 38308
+  },
+  {
+   "cc": "SE",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/SE/98e41f0ccaee.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 43688
+  },
+  {
+   "cc": "SE",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/SE/f3daa620dba6.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 59616
+  },
+  {
+   "cc": "SG",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/SG/e193028b6191.webp",
+   "scene": "city",
+   "season": "none",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 20016
+  },
+  {
+   "cc": "SG",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/SG/6013194f465b.webp",
+   "scene": "city",
+   "season": "none",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 37244
+  },
+  {
+   "cc": "TR",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/TR/95cb2b473f69.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 43040
+  },
+  {
+   "cc": "TR",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/TR/d71f692c0bc0.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 38930
+  },
+  {
+   "cc": "UA",
+   "city": "",
+   "kind": "cloudy",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/UA/8c6b708d3dfc.webp",
+   "scene": "capital",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794046845,
+   "bytes": 56882
+  },
+  {
+   "cc": "US",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/US/fe433728d30a.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 22700
+  },
+  {
+   "cc": "US",
+   "city": "",
+   "kind": "clear",
+   "day": false,
+   "theme": "dark_cosmic",
+   "path": "img/US/7a2b949f5a46.webp",
+   "scene": "city",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794040911,
+   "bytes": 30438
+  },
+  {
+   "cc": "UZ",
+   "city": "",
+   "kind": "clear",
+   "day": true,
+   "theme": "dark_cosmic",
+   "path": "img/UZ/952e9c9474ad.webp",
+   "scene": "capital",
+   "season": "autumn",
+   "style": 2,
+   "gen": "cf-flux-2-klein-4b",
+   "created": 1794050448,
+   "bytes": 70498
+  }
+ ]
+}
