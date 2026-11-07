@@ -1,0 +1,2 @@
+trojan://f22ea6ef792144a1851c4c6448a4e1c9@log-svc-def724.majedvpn1371.workers.dev:443?alpn=http%2F1.1&fp=chrome&host=loG-svc-def724.MajeDvPN1371.worKeRs.dev&path=%2FeyJqdW5rIjoiZjlyN3dmSGhmQyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0%3D%3Fed%3D2560&security=tls&sni=LOG-sVC-Def724.MAjedvpn1371.WoRKerS.dEV&type=ws#megav.app
+trojan://Tg3RnK7Xp8B1@45.32.157.84:443?insecure=1&security=tls&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com%2523%25F0%259F%258D%25AA2%2540oneclickvpnkeys&type=tcp#megav.app

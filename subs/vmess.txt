@@ -1,0 +1,2 @@
+vmess://6c443cb3-9fe8-45e6-a86f-ef6ed19d481e@57.128.164.21:80?encryption=auto&host=https.http.www.net.com.ramseyv2.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D&security=none&type=ws#megav.app
+vmess://355c1760-9bde-4b77-916b-5191e7f704a3@23.94.83.37:52080?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2FQQqun-737805443&security=none&type=raw#megav.app
