@@ -1,0 +1,2 @@
+vmess://f38e591d-d13a-4c30-9763-6be3ad65f3ec@de.zhou-yufan.com:443?alpn=%5B%22h2%22&encryption=auto&fp=firefox&security=tls&type=tcp#megav.app
+vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@cf.090227.xyz:443?encryption=auto&fp=chrome&path=%2Fws%3Fed%3D2048&security=tls&sni=vmess.lbw666.dpdns.org&type=ws#megav.app
