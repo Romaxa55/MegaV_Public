@@ -1,0 +1,8 @@
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gembeforeshoping.space:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&security=reality&sni=gembeforeshoping.space&type=raw#megav.app
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.202.74.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&security=reality&sni=gembeforeshoping.space&type=tcp#megav.app
+vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=auto&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delays%22%3A%5B%220%22%5D%2C%22lengths%22%3A%5B0%2C80%2C1%5D%2C%22maxSplit%22%3A%220%22%2C%22packets%22%3A%22tlshello%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delays%22%3A%5B%223%22%5D%2C%22lengths%22%3A%5B50%2C1%5D%2C%22maxSplit%22%3A%2240%22%2C%22packets%22%3A%221-1%22%7D%7D%5D%2C%22udp%22%3Anull%2C%22quicParams%22%3Anull%7D&security=none&type=tcp#megav.app
+vmess://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=none&host=129.146.77.248&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.19.90.225:443?host=ltf8.jueson.de5.net&path=%2Ftorrent%2Fepisode%2Ffaq%2F&security=tls&sni=ltf8.jueson.de5.net&type=ws#megav.app
+trojan://Tg3RnK7Xp8B1@45.32.157.84:443?fp=chrome&insecure=1&security=tls&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com%23%F0%9F%8D%AA2%40oneclickvpnkeys&type=tcp#megav.app
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?security=none&type=raw#megav.app

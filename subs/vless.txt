@@ -1,0 +1,2 @@
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gembeforeshoping.space:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&security=reality&sni=gembeforeshoping.space&type=raw#megav.app
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.202.74.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&security=reality&sni=gembeforeshoping.space&type=tcp#megav.app
