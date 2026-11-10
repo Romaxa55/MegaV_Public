@@ -1,0 +1,2 @@
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&host=172.217.20.225&path=%2Fvless%2F&security=none&type=ws#megav.app
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:8443?encryption=none&host=sc-thenetherlands1.09vpn.com&insecure=1&path=%2Fvless%2F&security=tls&sni=sc-thenetherlands1.09vpn.com&type=ws#megav.app

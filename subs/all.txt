@@ -1,0 +1,8 @@
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&host=172.217.20.225&path=%2Fvless%2F&security=none&type=ws#megav.app
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:8443?encryption=none&host=sc-thenetherlands1.09vpn.com&insecure=1&path=%2Fvless%2F&security=tls&sni=sc-thenetherlands1.09vpn.com&type=ws#megav.app
+vmess://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&host=None&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
+vmess://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=none&host=129.146.77.248&path=%2Fcctv13.m3u8&security=none&type=ws#megav.app
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.159:443?security=tls&sni=resources.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#megav.app
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?insecure=1&security=tls&sni=167.88.61.52&type=tcp#megav.app
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@213.202.208.199:5000?security=none&type=raw#megav.app
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@185.4.115.146:8044?security=none&type=raw#megav.app
