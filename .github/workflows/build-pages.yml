@@ -28,7 +28,9 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    # Our runner: a pod in the MegaV cluster (MegaV_checker charts/github-runners), CI only on
+    # our own runners since 2026-11-11 (the owner's decision).
+    runs-on: megav-public
     steps:
       - name: Let the export finish
         if: github.event_name == 'push'
