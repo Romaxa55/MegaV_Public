@@ -1,0 +1,100 @@
+{
+  "updated_at": "2026-11-11T10:00:56Z",
+  "total": 8,
+  "by_protocol": {
+    "shadowsocks": 2,
+    "trojan": 2,
+    "vless": 2,
+    "vmess": 2
+  },
+  "servers": [
+    {
+      "protocol": "vless",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 9,
+      "bandwidth_kbs": 386,
+      "url": "vless://8c00ea88-31f7-445a-8f74-f6e7f03a1553@172.67.74.2:443?encryption=none\u0026fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delays%22%3A%5B%220%22%5D%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22maxSplit%22%3A%220%22%2C%22packets%22%3A%22tlshello%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delays%22%3A%5B%221%22%5D%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22maxSplit%22%3A%2211%22%2C%22packets%22%3A%221-1%22%7D%7D%5D%2C%22udp%22%3Anull%2C%22quicParams%22%3Anull%7D\u0026fp=unsafe\u0026host=kuraakavaa-5l7.pages.dev\u0026path=%2F\u0026security=tls\u0026sni=kuraakavaa-5l7.pages.dev\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 12,
+      "bandwidth_kbs": 451,
+      "url": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:8443?encryption=none\u0026host=SC-TheNetherlands1.09vpn.com\u0026insecure=1\u0026path=%2Fvless%2F\u0026security=tls\u0026sni=SC-TheNetherlands1.09vpn.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Chicago",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 124,
+      "bandwidth_kbs": 381,
+      "url": "vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@104.27.0.1:443?encryption=auto\u0026insecure=1\u0026path=%2Fws\u0026security=tls\u0026sni=vmess.lbw666.dpdns.org\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Chicago",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 125,
+      "bandwidth_kbs": 139,
+      "url": "vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@cf.0sm.com:443?fp=chrome\u0026path=%2Fws%3Fed%3D2048\u0026security=tls\u0026sni=vmess.lbw666.dpdns.org\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 37,
+      "bandwidth_kbs": 378,
+      "url": "trojan://Tg3RnK7Xp8B1@45.32.157.84:443?insecure=1\u0026security=tls\u0026sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com%2523%25F0%259F%258D%25AA2%2540oneclickvpnkeys\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Phoenix",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 146,
+      "bandwidth_kbs": 319,
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.147:443?insecure=1\u0026security=tls\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 27,
+      "bandwidth_kbs": 256,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWVZxRkRuWW9NcXVSUXVuWEMxeGQyRnl1RGhkN0pXczVqdGYyZWI3VmtLTHpYZ1p2OHB0OGdZMWU5MVRUNzFWNzYyelJYN01XVzRIbWphdmFuWWRVRjliaWo4Z0c4QVA=@104.222.183.180:47195#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Dallas",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 132,
+      "bandwidth_kbs": 290,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?security=none\u0026type=raw#megav.app"
+    }
+  ]
+}

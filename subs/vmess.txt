@@ -1,0 +1,2 @@
+vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@104.27.0.1:443?encryption=auto&insecure=1&path=%2Fws&security=tls&sni=vmess.lbw666.dpdns.org&type=ws#megav.app
+vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@cf.0sm.com:443?fp=chrome&path=%2Fws%3Fed%3D2048&security=tls&sni=vmess.lbw666.dpdns.org&type=ws#megav.app
