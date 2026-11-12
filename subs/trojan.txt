@@ -1,0 +1,2 @@
+trojan://Tg3RnK7Xp8B1@45.32.157.84:443?fp=chrome&insecure=1&security=tls&sni=ash.d50f6225-23b4-3a7b-&type=raw#megav.app
+trojan://547ba48c-8003-3d32-b77c-04a758d73f25@try.ditto.refocus.aliyungslb.com:31999?insecure=1&security=tls&sni=edge.steam-dns.top.comcast.net&type=tcp#megav.app

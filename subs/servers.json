@@ -1,0 +1,112 @@
+{
+  "updated_at": "2026-11-12T16:04:17Z",
+  "total": 9,
+  "by_protocol": {
+    "shadowsocks": 2,
+    "shadowsocks2022": 1,
+    "trojan": 2,
+    "vless": 2,
+    "vmess": 2
+  },
+  "servers": [
+    {
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 11,
+      "bandwidth_kbs": 241,
+      "url": "vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:8443?encryption=none\u0026host=163.172.213.174\u0026insecure=1\u0026path=%2Fvless%2F\u0026security=tls\u0026sni=SC-TheNetherlands2.09vpn.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Haarlem",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 12,
+      "bandwidth_kbs": 444,
+      "url": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none\u0026host=163.172.214.188\u0026path=%2Fvless%2F\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Piscataway",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 115,
+      "bandwidth_kbs": 361,
+      "url": "vmess://c8b455ad-fff1-43e9-9af9-d97585c4534a@162.159.128.17:443?path=%2Fryinsocksv2board\u0026security=tls\u0026sni=ny-v2ray.ryin.vip\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Miami",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 121,
+      "bandwidth_kbs": 490,
+      "url": "vmess://5c040f1d-45db-43bd-8d46-e4950e433735@162.251.62.44:1270?encryption=auto\u0026insecure=1\u0026security=tls\u0026sni=162.251.62.44\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 27,
+      "bandwidth_kbs": 440,
+      "url": "trojan://Tg3RnK7Xp8B1@45.32.157.84:443?fp=chrome\u0026insecure=1\u0026security=tls\u0026sni=ash.d50f6225-23b4-3a7b-\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Hong Kong",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 2685,
+      "bandwidth_kbs": 485,
+      "url": "trojan://547ba48c-8003-3d32-b77c-04a758d73f25@try.ditto.refocus.aliyungslb.com:31999?insecure=1\u0026security=tls\u0026sni=edge.steam-dns.top.comcast.net\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "City of London",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 13,
+      "bandwidth_kbs": 322,
+      "url": "ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001?security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 97,
+      "bandwidth_kbs": 171,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWVZxRkRuWW9NcXVSUXVuWEMxeGQyRnl1RGhkN0pXczVqdGYyZWI3VmtLTHpYZ1p2OHB0OGdZMWU5MVRUNzFWNzYyelJYN01XVzRIbWphdmFuWWRVRjliaWo4Z0c4QVA=@104.222.183.180:47195?fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%225-40%22%2C%22maxSplit%22%3A%225%22%2C%22packets%22%3A%221-3%22%7D%7D%5D%2C%22udp%22%3Anull%2C%22quicParams%22%3Anull%7D\u0026security=none\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "shadowsocks2022",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Redondo Beach",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 149,
+      "bandwidth_kbs": 467,
+      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206alViRE5zRmFtY3lEZnBtK3JJM1p5dz09@38.145.220.193:8443#megav.app"
+    }
+  ]
+}
