@@ -1,0 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYcUZCSzRwSExLbWVzNFd0aUxmMWt0cmZRNnNjVzZoZlBSdkZVRWZhQmNQV3BEZ1NHMVh4YWJCeGZRZGhEaU5VQ3ZYNHFjbTh6MXFpVkZEMTV0NDhFcHkxS3NIUTVuZWI=@news.bushyjenz.cyou:42878#megav.app
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375?fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%225-40%22%2C%22maxSplit%22%3A%225%22%2C%22packets%22%3A%221-3%22%7D%7D%5D%2C%22udp%22%3Anull%2C%22quicParams%22%3Anull%7D&security=none&type=raw#megav.app

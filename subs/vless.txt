@@ -1,0 +1,2 @@
+vless://408c814e-f70a-4d16-b3b3-8182bb70211d@34.39.80.57:50818?encryption=none&fp=chrome&insecure=1&path=%2FGunService&security=tls&type=ws#megav.app
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=172.217.20.225&path=%2Fvless%2F&security=none&type=ws#megav.app

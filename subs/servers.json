@@ -1,0 +1,100 @@
+{
+  "updated_at": "2026-11-14T21:00:42Z",
+  "total": 8,
+  "by_protocol": {
+    "shadowsocks": 2,
+    "trojan": 2,
+    "vless": 2,
+    "vmess": 2
+  },
+  "servers": [
+    {
+      "protocol": "vless",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "London",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 17,
+      "bandwidth_kbs": 443,
+      "url": "vless://408c814e-f70a-4d16-b3b3-8182bb70211d@34.39.80.57:50818?encryption=none\u0026fp=chrome\u0026insecure=1\u0026path=%2FGunService\u0026security=tls\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Limburg an der Lahn",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 24,
+      "bandwidth_kbs": 300,
+      "url": "vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none\u0026host=172.217.20.225\u0026path=%2Fvless%2F\u0026security=none\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Piscataway",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 104,
+      "bandwidth_kbs": 266,
+      "url": "vmess://c8b455ad-fff1-43e9-9af9-d97585c4534a@162.159.128.17:443?encryption=auto\u0026host=ny-v2ray.ryin.vip\u0026path=%2Fryinsocksv2board\u0026security=tls\u0026sni=ny-v2ray.ryin.vip\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Los Angeles",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 188,
+      "bandwidth_kbs": 141,
+      "url": "vmess://c08d2444-cc3c-43ad-9a41-f5ea60f99293@104.18.63.16:443?encryption=auto\u0026host=wonbill.1565995.xyz\u0026path=%2Fwonbill\u0026security=tls\u0026sni=wonbill.1565995.xyz\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "St Louis",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 198,
+      "bandwidth_kbs": 431,
+      "url": "trojan://jcTG9WSWMJAmR4rv10xpww@199.232.78.159:443?host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.\u0026insecure=1\u0026path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER\u0026security=tls\u0026sni=cdn.akamai.steamstatic.com\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "trojan",
+      "country_code": "DE",
+      "flag": "🇩🇪",
+      "city": "Frankfurt am Main",
+      "tier": "bronze",
+      "speed_label": "browse",
+      "response_ms": 69,
+      "bandwidth_kbs": 97,
+      "url": "trojan://Tg3RnK7Xp8B1@45.32.157.84:443?fp=chrome\u0026insecure=1\u0026security=tls\u0026sni=ash.d50f6225-23b4-3a7b-\u0026type=raw#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Santa Clara",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 13,
+      "bandwidth_kbs": 489,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYcUZCSzRwSExLbWVzNFd0aUxmMWt0cmZRNnNjVzZoZlBSdkZVRWZhQmNQV3BEZ1NHMVh4YWJCeGZRZGhEaU5VQ3ZYNHFjbTh6MXFpVkZEMTV0NDhFcHkxS3NIUTVuZWI=@news.bushyjenz.cyou:42878#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Reston",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 104,
+      "bandwidth_kbs": 183,
+      "url": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375?fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%225-40%22%2C%22maxSplit%22%3A%225%22%2C%22packets%22%3A%221-3%22%7D%7D%5D%2C%22udp%22%3Anull%2C%22quicParams%22%3Anull%7D\u0026security=none\u0026type=raw#megav.app"
+    }
+  ]
+}

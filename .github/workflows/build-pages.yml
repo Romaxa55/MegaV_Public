@@ -1,0 +1,59 @@
+name: Build Pages
+
+# Regenerates the docs/ SEO/GEO hub from subs/servers.json so per-country /
+# per-protocol landing pages stay fresh as the server list updates.
+# Uses the default GITHUB_TOKEN (only commits docs/, no Traffic API needed).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'subs/servers.json'
+      - 'scripts/build_pages.py'
+  schedule:
+    - cron: '37 4 * * *'   # daily safety rebuild
+  workflow_dispatch: {}
+
+# Every 4 hours the export commits subs/* through the API and, seconds later,
+# force-pushes main as one parentless commit with the binaries
+# (Romaxa55/MegaV_checker#43). A push run used to check out the intermediate
+# subs commit and lose the push race, so docs/ only refreshed by the daily cron.
+# Now a newer run supersedes an older one, and each run builds from the tip.
+concurrency:
+  group: build-pages
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    # Our runner: a pod in the MegaV cluster (MegaV_checker charts/github-runners), CI only on
+    # our own runners since 2026-11-11 (the owner's decision).
+    runs-on: megav-public
+    steps:
+      - name: Let the export finish
+        if: github.event_name == 'push'
+        run: sleep 45
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - name: Generate pages
+        run: python3 scripts/build_pages.py
+      - name: Commit docs
+        run: |
+          git config user.name  "megav-pages-bot"
+          git config user.email "bot@megav.app"
+          for attempt in 1 2 3; do
+            git add docs
+            git commit -m "chore(pages): rebuild $(date -u +%F)" || { echo "no changes"; exit 0; }
+            git push && exit 0
+            echo "push attempt $attempt rejected: main moved, rebuilding on the new tip"
+            sleep 15
+            git fetch --depth=1 origin main
+            git reset --hard FETCH_HEAD
+            python3 scripts/build_pages.py
+          done
+          exit 1
+      - name: Ping IndexNow
+        run: python3 scripts/indexnow_submit.py || true
