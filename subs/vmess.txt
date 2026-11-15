@@ -1,0 +1,2 @@
+vmess://c8b455ad-fff1-43e9-9af9-d97585c4534a@162.159.128.17:443?encryption=auto&host=ny-v2ray.ryin.vip&insecure=1&path=%2Fryinsocksv2board&security=tls&sni=ny-v2ray.ryin.vip&type=ws#megav.app
+vmess://c8b455ad-fff1-43e9-9af9-d97585c4534a@162.159.128.17:443?path=%2Fryinsocksv2board&security=tls&sni=ny-v2ray.ryin.vip&type=ws#megav.app

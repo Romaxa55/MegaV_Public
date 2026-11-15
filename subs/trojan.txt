@@ -1,0 +1,2 @@
+trojan://123456@34.94.152.229:443?fp=firefox&security=tls&sni=us.ctt25.uk&type=tcp#megav.app
+trojan://123456@us.ctt25.uk:443?fp=chrome&insecure=1&security=tls&sni=us.ctt25.uk&type=tcp#megav.app
