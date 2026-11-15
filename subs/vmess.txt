@@ -1,0 +1,2 @@
+vmess://5c040f1d-45db-43bd-8d46-e4950e433735@188.166.81.135:1270?encryption=auto&insecure=1&security=tls&sni=ekb.eg&type=tcp#megav.app
+vmess://5c040f1d-45db-43bd-8d46-e4950e433735@38.91.100.69:1270?encryption=auto&insecure=1&security=tls&type=tcp#megav.app

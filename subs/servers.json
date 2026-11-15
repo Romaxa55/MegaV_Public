@@ -1,0 +1,77 @@
+{
+  "updated_at": "2026-11-15T01:00:32Z",
+  "total": 6,
+  "by_protocol": {
+    "shadowsocks": 2,
+    "vless": 2,
+    "vmess": 2
+  },
+  "servers": [
+    {
+      "protocol": "vless",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Robinson",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 5,
+      "bandwidth_kbs": 288,
+      "url": "vless://00c82fcb-2c67-465d-8432-6743a1593efa@141.101.114.245:443?alpn=http%2F1.1\u0026encryption=none\u0026fp=firefox\u0026host=dd-xx.pages.dev\u0026path=%2FApiCallDiana%2FResponse%3Fed%3D2560\u0026security=tls\u0026sni=DD-xx.PAGES.DEV\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vless",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Reston",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 6,
+      "bandwidth_kbs": 347,
+      "url": "vless://00c82fcb-2c67-465d-8432-6743a1593efa@141.101.121.249:443?alpn=http%2F1.1\u0026encryption=none\u0026fp=firefox\u0026host=dd-xx.pages.dev\u0026path=%2FApiCallDiana%2FResponse%3Fed%3D2560\u0026security=tls\u0026sni=DD-xx.PAGES.DEV\u0026type=ws#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "NL",
+      "flag": "🇳🇱",
+      "city": "Amsterdam",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 9,
+      "bandwidth_kbs": 390,
+      "url": "vmess://5c040f1d-45db-43bd-8d46-e4950e433735@188.166.81.135:1270?encryption=auto\u0026insecure=1\u0026security=tls\u0026sni=ekb.eg\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "vmess",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "New York",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 91,
+      "bandwidth_kbs": 160,
+      "url": "vmess://5c040f1d-45db-43bd-8d46-e4950e433735@38.91.100.69:1270?encryption=auto\u0026insecure=1\u0026security=tls\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "US",
+      "flag": "🇺🇸",
+      "city": "Santa Clara",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 38,
+      "bandwidth_kbs": 273,
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppam9Vd2Zkbmt6N21YNHBXZGtTcG1FaXhUWkN0MlRSbTFKRHI0QlNhQkFXa0x4WUdvWEJIWGFkRktZNUQ1WmZvVlR3cXN4NDZqQ21FVURuUVVpekpEWXJNN0I1YW5obnU=@23.230.52.119:42878?security=none\u0026type=tcp#megav.app"
+    },
+    {
+      "protocol": "shadowsocks",
+      "country_code": "GB",
+      "flag": "🇬🇧",
+      "city": "Stretford",
+      "tier": "silver",
+      "speed_label": "hd",
+      "response_ms": 68,
+      "bandwidth_kbs": 132,
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443?fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%225-40%22%2C%22maxSplit%22%3A%225%22%2C%22packets%22%3A%221-3%22%7D%7D%5D%2C%22udp%22%3Anull%2C%22quicParams%22%3Anull%7D\u0026security=none\u0026type=raw#megav.app"
+    }
+  ]
+}

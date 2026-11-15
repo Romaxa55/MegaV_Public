@@ -1,0 +1,2 @@
+vless://00c82fcb-2c67-465d-8432-6743a1593efa@141.101.114.245:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=dd-xx.pages.dev&path=%2FApiCallDiana%2FResponse%3Fed%3D2560&security=tls&sni=DD-xx.PAGES.DEV&type=ws#megav.app
+vless://00c82fcb-2c67-465d-8432-6743a1593efa@141.101.121.249:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=dd-xx.pages.dev&path=%2FApiCallDiana%2FResponse%3Fed%3D2560&security=tls&sni=DD-xx.PAGES.DEV&type=ws#megav.app

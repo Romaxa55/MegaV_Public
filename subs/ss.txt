@@ -1,0 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppam9Vd2Zkbmt6N21YNHBXZGtTcG1FaXhUWkN0MlRSbTFKRHI0QlNhQkFXa0x4WUdvWEJIWGFkRktZNUQ1WmZvVlR3cXN4NDZqQ21FVURuUVVpekpEWXJNN0I1YW5obnU=@23.230.52.119:42878?security=none&type=tcp#megav.app
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443?fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%225-40%22%2C%22maxSplit%22%3A%225%22%2C%22packets%22%3A%221-3%22%7D%7D%5D%2C%22udp%22%3Anull%2C%22quicParams%22%3Anull%7D&security=none&type=raw#megav.app

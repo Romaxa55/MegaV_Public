@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://romaxa55.github.io/MegaV_Public/sitemap.xml
