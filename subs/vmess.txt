@@ -1,0 +1,2 @@
+vmess://78c0fd3d-860c-4b63-ab12-27846c30174c@172.64.82.114:443?encryption=auto&fp=firefox&host=de.ywsqbw.uk&path=%2Fvmess-argo&security=tls&sni=de.ywsqbw.uk&type=ws#megav.app
+vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@104.21.0.1:80?host=vmess.lbw666.dpdns.org&path=%2Fws&security=none&type=ws#megav.app
