@@ -1,6 +1,6 @@
 <!-- banner image -->
 <p align="center">
-  <img src="screenshots/banner.jpg" alt="MegaV — Free VPN with VLESS Reality, V2Ray, Xray, VMess, Trojan, Shadowsocks & WireGuard configs" width="900" />
+  <img src="screenshots/banner.jpg" alt="MegaV — Free VPN with VLESS Reality, V2Ray, Xray, VMess, Trojan, Shadowsocks & WireGuard" width="900" />
 </p>
 
 <h1 align="center">MegaV VPN — Free VPN with VLESS Reality, V2Ray &amp; Xray</h1>
@@ -72,7 +72,7 @@
 Unlike raw config tools, MegaV is a **managed, polished VPN client with its own servers**. You don't import anything, edit anything, or hunt for working links — **the app configures itself automatically**. Install it, open it, tap **Connect**, and you're protected.
 
 - 🆓 **Free community V2Ray / Xray servers** — built into the app, refreshed regularly, no signup
-- ⏱️ **3-day free trial** of premium features — no commitment
+- ⏱️ **Free sessions** — time-limited, no payment, card or sign-up
 - 🚀 **Paid stable servers** — fast, reliable exits when you want them
 
 On top of the tunnel you get a **strict no-logs policy**, a **built-in ad blocker**, **split tunneling**, a **kill switch**, plus extras like built-in news, internet radio and free IPTV playlists. It's an **open-source client**, community-driven project for people who care about **online privacy**.
@@ -99,26 +99,11 @@ No account. No config import. No subscription link to track down. The app does t
 
 ---
 
-## 🆓 Free V2Ray / VLESS / VMess / Trojan / Shadowsocks Configs
-
-Grab fresh, working **free V2Ray / VLESS Reality / VMess / Trojan / Shadowsocks** configs — community-contributed and refreshed continuously:
-
-- 📦 [**All protocols (subscription)**](subs/all.txt) · [VLESS](subs/vless.txt) · [VMess](subs/vmess.txt) · [Trojan](subs/trojan.txt) · [Shadowsocks](subs/ss.txt) · [SS-2022](subs/ss2022.txt)
-- 📋 [**Full list — live server count, country & speed →**](subs/)
-- 🌍 [**Browse free configs by country & protocol →**](https://romaxa55.github.io/MegaV_Public/)
-
-> ⚠️ **Heads up:** public free configs rotate and **die within hours**. Tired of re-importing dead links every day?
-> **[⬇️ Install MegaV](https://megav.app/download?utm_source=github&utm_medium=repo_readme&utm_campaign=megav_public_en)** — the app bundles these servers and **auto-configures itself**, so you always have a working connection. **3-day free trial**, no account, no manual setup.
-
-<sub>Configs are community-contributed and provided for privacy &amp; educational use; third-party configs are not owned or hosted by MegaV. Use at your own risk and in line with your local laws.</sub>
-
----
-
 ## Features
 
 | Feature | Details |
 |---|---|
-| 🔐 **VLESS Reality** | Modern privacy protocol — traffic blends in with ordinary HTTPS |
+| 🔐 **VLESS Reality** | Modern privacy protocol on the Xray core with TLS 1.3 encryption |
 | 🧩 **Multi-Protocol** | VLESS Reality, VMess, Trojan, Shadowsocks, WireGuard (Xray / V2Ray core) |
 | 🆓 **Free V2Ray / Xray Servers** | Community-contributed free servers built into the app — no signup, no import |
 | ⚙️ **Auto-Configured** | The app sets everything up for you — install and connect in one tap |
@@ -130,7 +115,7 @@ Grab fresh, working **free V2Ray / VLESS Reality / VMess / Trojan / Shadowsocks*
 | 📰 **Built-in News** | Read global news without leaving the app |
 | 📻 **Built-in Radio** | Stream 10,000+ internet radio stations |
 | 📺 **Free IPTV Playlists** | Free live-TV channels via M3U playlists |
-| ⏱️ **3-Day Free Trial** | Full premium features, no commitment |
+| ⏱️ **Free Sessions** | Time-limited, no payment, card or sign-up |
 | 🌍 **13+ Languages** | EN, RU, ZH, ES, DE, FR, JA, KO, VI, AR, FA, IT, TR |
 | 🎨 **6 Themes** | Light, dark and four accent colour schemes |
 
@@ -188,7 +173,7 @@ Grab fresh, working **free V2Ray / VLESS Reality / VMess / Trojan / Shadowsocks*
 <summary>📱 iPad</summary>
 <p align="center">
 <img src="screenshots/ipad_1.jpg" width="200" alt="MegaV free VPN on iPad — home screen" />
-<img src="screenshots/ipad_2.jpg" width="200" alt="MegaV VPN on iPad — connect to free V2Ray config" />
+<img src="screenshots/ipad_2.jpg" width="200" alt="MegaV VPN on iPad — connect" />
 <img src="screenshots/ipad_3.jpg" width="200" alt="MegaV VPN on iPad — server list" />
 <img src="screenshots/ipad_4.jpg" width="200" alt="MegaV VPN on iPad — settings" />
 <img src="screenshots/ipad_5.jpg" width="200" alt="MegaV VPN on iPad — features" />
@@ -212,49 +197,35 @@ Grab fresh, working **free V2Ray / VLESS Reality / VMess / Trojan / Shadowsocks*
 
 ## Why MegaV? The Competition Can't Keep Up
 
-Most mainstream VPNs rely on **OpenVPN** or plain **WireGuard** — protocols that are easily fingerprinted by modern **Deep Packet Inspection (DPI)** systems, so their performance degrades on congested or heavily filtered networks. MegaV is built on **VLESS Reality** and the **Xray / V2Ray** core, so connections present an ordinary HTTPS profile and stay stable where generic VPN protocols do not. And unlike raw config tools, MegaV manages it all for you — **no manual setup, ever**.
+Most mainstream VPNs rely on **OpenVPN** or plain **WireGuard**. MegaV is built on **VLESS Reality** and the **Xray / V2Ray** core. And unlike raw config tools, MegaV manages it all for you — **no manual setup, ever**.
 
 | | MegaV VPN | NordVPN | Surfshark | ProtonVPN |
 |---|:---:|:---:|:---:|:---:|
-| VLESS Reality (anti-DPI) | ✅ | ❌ | ❌ | ❌ |
+| VLESS Reality | ✅ | ❌ | ❌ | ❌ |
 | Xray / V2Ray core | ✅ | ❌ | ❌ | ❌ |
 | Free servers built in (auto-configured) | ✅ | ❌ | ❌ | ❌ |
-| Works on difficult networks | ✅ | ⚠️ | ⚠️ | ⚠️ |
 | Built-in Ad Blocker | ✅ | ✅ | ✅ | ✅ |
 | Built-in News & Radio | ✅ | ❌ | ❌ | ❌ |
-| Free tier / free trial | ✅ | ❌ | ❌ | ✅ Limited |
+| Free tier | ✅ | ❌ | ❌ | ✅ Limited |
 | Open-source client | ✅ | ❌ | ❌ | ✅ |
 | Strict no-logs | ✅ | ✅ | ✅ | ✅ |
 
-> ⚠️ Comparison reflects publicly reported behaviour of these protocols. Availability varies by network and over time.
+> ⚠️ Comparison reflects publicly available information about these services.
 
 ---
 
-## Designed for Difficult Network Conditions
+## Built on VLESS Reality
 
-MegaV is built on **VLESS Reality** and the **Xray / V2Ray** core. The protocol
-presents traffic with a TLS profile that is hard to distinguish from ordinary
-HTTPS, which keeps connections stable on congested, filtered or otherwise
-unreliable networks where generic VPN protocols degrade.
-
-### TLS camouflage
-Unlike OpenVPN or plain WireGuard, VLESS Reality does not expose a distinctive
-protocol signature. To an observer the session looks like a normal HTTPS
-connection to a real website.
-
-### Resistance to active probing
-Reality responds legitimately to direct HTTPS requests, so the endpoint behaves
-like the genuine site it fronts rather than like a proxy server.
+MegaV is built on **VLESS Reality** and the **Xray / V2Ray** core, with TLS 1.3
+encryption on every connection.
 
 ### Automatic configuration
 The app ships with community servers and configures itself. There is nothing to
 import, edit or renew manually.
 
-> 🛡️ **Compliance.** MegaV is a privacy and data-protection tool. It does not
-> officially provide a circumvention service to any sanctioned region, and no
-> servers located in sanctioned jurisdictions are distributed through this
-> project. Community-contributed configs referenced here are third-party and are
-> not owned, operated or hosted by MegaV. Use in line with your local laws.
+> 🛡️ **Compliance.** MegaV is a privacy and data-protection tool. No servers
+> located in sanctioned jurisdictions are distributed through this
+> project. Use in line with your local laws.
 
 ---
 
@@ -262,13 +233,13 @@ import, edit or renew manually.
 
 MegaV runs on the **Xray / V2Ray** core and supports all major modern proxy protocols out of the box. The app picks and configures the right protocol for you automatically — just connect.
 
-| Protocol | DPI-Resistance | Speed | Best For |
-|---|:---:|:---:|---|
-| **VLESS Reality** | ✅ Best | 🚀 Fastest | Difficult networks (recommended) |
-| **VMess** | ✅ Good | 🚀 Fast | General-purpose privacy |
-| **Trojan** | ✅ Good | 🚀 Fast | HTTPS-style camouflage |
-| **Shadowsocks** | ⚠️ Basic | ⚡ Fast | Lightweight proxy |
-| **WireGuard** | ❌ None | 🚀 Fastest | Open / unrestricted networks |
+| Protocol | Speed | Best For |
+|---|:---:|---|
+| **VLESS Reality** | 🚀 Fastest | Recommended |
+| **VMess** | 🚀 Fast | General-purpose privacy |
+| **Trojan** | 🚀 Fast | Works over TLS |
+| **Shadowsocks** | ⚡ Fast | Lightweight proxy |
+| **WireGuard** | 🚀 Fastest | Maximum speed |
 
 ---
 
@@ -311,7 +282,7 @@ MegaV also includes curated **free IPTV M3U playlists** covering 50+ countries �
 ## ❓ FAQ
 
 **Is MegaV free?**
-Yes. The app is free to download and includes free community V2Ray / Xray / VLESS servers. There's also a 3-day free trial of premium features and an optional subscription via the App Store / Google Play.
+Yes. The app is free to download and includes free community V2Ray / Xray / VLESS servers. There are also free time-limited sessions — no payment, card or sign-up — and an optional subscription via the App Store / Google Play.
 
 **Do I need to set anything up?**
 No. The app auto-configures on first launch — there's no config to import and nothing to edit. Just install, open and tap Connect.
@@ -381,7 +352,7 @@ If MegaV helped you stay private online without the hassle of manual configs —
 
 ## Keywords
 
-`free vpn` · `free v2ray config` · `free vless config` · `free v2ray servers` · `free vpn config` · `v2ray` · `vless` · `vless reality` · `reality` · `xray` · `xray-core` · `vmess` · `trojan` · `shadowsocks` · `wireguard` · `v2ray subscription` · `sub link` · `no-logs vpn` · `ad blocker vpn` · `kill switch` · `free iptv` · `internet radio` · `open source vpn` · `android vpn` · `ios vpn` · `macos vpn` · `windows vpn` · `split tunneling` · `tls camouflage`
+`free vpn` · `v2ray` · `vless` · `vless reality` · `reality` · `xray` · `xray-core` · `vmess` · `trojan` · `shadowsocks` · `wireguard` · `no-logs vpn` · `ad blocker vpn` · `kill switch` · `free iptv` · `internet radio` · `open source vpn` · `android vpn` · `ios vpn` · `macos vpn` · `windows vpn` · `split tunneling`
 
 ---
 
