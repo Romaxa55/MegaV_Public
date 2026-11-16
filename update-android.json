@@ -1,0 +1,14 @@
+{
+  "version": "5.0.9",
+  "build": 50009400,
+  "url_armv7": "https://github.com/Romaxa55/MegaV_Public/releases/download/v5.0.9/MegaV-Stripe-5.0.9-armv7.apk",
+  "url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v5.0.9/MegaV-Stripe-5.0.9.apk",
+  "min": "4.0.0",
+  "signed": "eyJ2IjoxLCJwYWNrYWdlIjoiY29tLm1lZ2F2LnNlY3VyZSIsInZlcnNpb24iOiI1LjAuOSIsImJ1aWxkIjo1MDAwOTQwMCwibWluIjoiNC4wLjAiLCJpc3N1ZWQiOjE3OTQyNDg2NDksImFwayI6eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vUm9tYXhhNTUvTWVnYVZfUHVibGljL3JlbGVhc2VzL2Rvd25sb2FkL3Y1LjAuOS9NZWdhVi1TdHJpcGUtNS4wLjkuYXBrIiwic2hhMjU2IjoiYzk5ZjI5YzllZTdjYzUwMGUwNDk3MjMwMTM3NTVlODJiMjcwNTgwNzIxMTY1MTM4NzE2MDQwM2I3ZjBmNmI4ZiIsInNpemUiOjEwODYwMjA5M30sImFwa19hcm12NyI6eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vUm9tYXhhNTUvTWVnYVZfUHVibGljL3JlbGVhc2VzL2Rvd25sb2FkL3Y1LjAuOS9NZWdhVi1TdHJpcGUtNS4wLjktYXJtdjcuYXBrIiwic2hhMjU2IjoiMjMyYzBkY2Q3NThmM2Y1ZTkyZDQ1MGE0NzRhZGIzNGFhYzVkMjE4ZTRjMTIzNWZmNjIxZDlhMzg4ZDQyMjdhNCIsInNpemUiOjc5OTg4OTk0fX0=",
+  "sigs": [
+    {
+      "key": "168976f5674f9957",
+      "sig": "G/9RXflBBowZnIq3cXFVciIhuV0RCOx2GzJMQMjF59/AAmwuVM0RQIJB9pw3QEA9ilo5DcirlZNE+Hba/pjGAQ=="
+    }
+  ]
+}

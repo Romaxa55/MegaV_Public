@@ -1,0 +1,13 @@
+{
+  "version": "5.0.12",
+  "build": 40000035,
+  "url": "https://github.com/Romaxa55/MegaV_Public/releases/tag/v5.0.12",
+  "min": "4.0.0",
+  "signed": "eyJ2IjoxLCJwYWNrYWdlIjoibWVnYXYtdnBuIiwidmVyc2lvbiI6IjUuMC4xMiIsImJ1aWxkIjo0MDAwMDAzNSwibWluIjoiNC4wLjAiLCJpc3N1ZWQiOjE3OTQ3MDczMjgsInBhZ2UiOiJodHRwczovL2dpdGh1Yi5jb20vUm9tYXhhNTUvTWVnYVZfUHVibGljL3JlbGVhc2VzL3RhZy92NS4wLjEyIiwiZGViIjp7InVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9Sb21heGE1NS9NZWdhVl9QdWJsaWMvcmVsZWFzZXMvZG93bmxvYWQvdjUuMC4xMi9tZWdhdi12cG5fNS4wLjEyX2FtZDY0LmRlYiIsInNoYTI1NiI6ImQ4ZDVkODhhYWIzNTNlODc2MDFhODkxYWVkYzcxZmVkY2JkYzA2NGRiMjY1YjQ2YmMzNDQ2ZmZjY2FhNjkyODMiLCJzaXplIjo0MjkwODUzNn0sInJwbSI6eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vUm9tYXhhNTUvTWVnYVZfUHVibGljL3JlbGVhc2VzL2Rvd25sb2FkL3Y1LjAuMTIvbWVnYXYtdnBuLTUuMC4xMi0xLng4Nl82NC5ycG0iLCJzaGEyNTYiOiIwMTAwY2YyMWY1NTc0ZmQ5Zjg0NjUyZmUxZjE4YzQ3MTA5MWI4ZjJiZTNlNTY4OWNhOGYwMDMwMmE1YzdjYTI2Iiwic2l6ZSI6NTgwNTc0NjR9fQ==",
+  "sigs": [
+    {
+      "key": "168976f5674f9957",
+      "sig": "+x2DGzwng9E7yDVVamCHYRvJXwsfIjGzgZK1XbfisHbFOK/wjsYzMmRXtZ0cSO5RpqKNp7r3CY86GeFcZT8LAA=="
+    }
+  ]
+}
