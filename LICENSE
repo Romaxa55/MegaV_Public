@@ -1,0 +1,60 @@
+MIT License
+
+Copyright (c) 2025 MegaV VPN
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Third-Party Licenses
+
+This application uses content from third-party sources under the following licenses:
+
+### IPTV Content
+- **Source**: iptv-org/iptv project
+- **License**: Unlicense (Public Domain)
+- **URL**: https://github.com/iptv-org/iptv
+- **Description**: Publicly available IPTV streams aggregated from various sources
+
+### Radio Content
+- **Source**: Various public broadcasting services
+- **License**: Public broadcasting (freely available for streaming)
+- **Description**: Official radio stations providing public broadcasting services
+
+### Open Source Dependencies
+This project may include various open source libraries and dependencies. 
+Each dependency retains its original license terms. For a complete list of 
+dependencies and their licenses, please refer to the application's 
+"Open Source Licenses" section.
+
+---
+
+## Content Disclaimer
+
+- We do not host, store, or distribute copyrighted content
+- All content is aggregated from legitimate public domain sources
+- Users are responsible for compliance with local laws
+- Content providers are responsible for their streams and any copyright claims
+- We comply with DMCA takedown requests for our aggregation service
+
+## Contact
+
+For license inquiries or legal questions:
+- Email: info@megav.store
+- Subject: License Inquiry - MegaV VPN
