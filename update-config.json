@@ -1,0 +1,112 @@
+{
+    "config_version": "1.6",
+    "last_updated": "2025-02-05T12:00:00Z",
+    "updates": [
+        {
+            "version": "3.3.4",
+            "build_number": "11250905",
+            "release_date": "2025-02-05T12:00:00Z",
+            "is_prerelease": false,
+            "is_critical": true,
+            "is_mandatory": true,
+            "force_update": true,
+            "rollout_percentage": 100,
+            "min_app_version": "3.0.0",
+            "max_app_version": "3.3.3",
+            "target_regions": [
+                "all"
+            ],
+            "exclude_regions": [],
+            "release_notes": {
+                "en": "## 🚀 MegaV 3.3.4 - Critical Update with New Algorithms\n\n### ⚠️ **CRITICAL UPDATE**\n• New connection algorithms implemented\n• Significantly improved performance and stability\n• Enhanced security protocols\n\n### 🔧 **IMPORTANT**\n• This is a mandatory update\n• Critical improvements require immediate installation\n\n*Required update for all users.*",
+                "ru": "## 🚀 MegaV 3.3.4 - Критическое обновление с новыми алгоритмами\n\n### ⚠️ **КРИТИЧЕСКОЕ ОБНОВЛЕНИЕ**\n• Внедрены новые алгоритмы подключения\n• Значительно улучшена производительность и стабильность\n• Усилены протоколы безопасности\n\n### 🔧 **ВАЖНО**\n• Это обязательное обновление\n• Критические улучшения требуют немедленной установки\n\n*Обязательное обновление для всех пользователей.*"
+            },
+            "platforms": {
+                "android": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": true,
+                            "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.3.4/MegaV-Stripe-3.3.4.apk",
+                            "install_instructions": {
+                                "en": "Download and install the critical update with new algorithms and important improvements.",
+                                "ru": "Скачайте и установите критическое обновление с новыми алгоритмами и важными улучшениями."
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "download_url": "https://play.google.com/store/apps/details?id=com.megav.secure",
+                            "store_url": "https://play.google.com/store/apps/details?id=com.megav.secure",
+                            "install_instructions": {
+                                "en": "Update available in Google Play Store.",
+                                "ru": "Обновление доступно в Google Play Store."
+                            }
+                        }
+                    }
+                },
+                "ios": {
+                    "update_types": {
+                        "store": {
+                            "enabled": false,
+                            "store_url": "https://apps.apple.com/app/id6754278334",
+                            "install_instructions": {
+                                "en": "Update available in the App Store.",
+                                "ru": "Обновление доступно в App Store."
+                            }
+                        }
+                    }
+                },
+                "macos": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": false,
+                            "download_url": "",
+                            "install_instructions": {
+                                "en": "Update available in the Mac App Store.",
+                                "ru": "Обновление доступно в Mac App Store."
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "https://apps.apple.com/app/id6754278334",
+                            "install_instructions": {
+                                "en": "Update available in the Mac App Store.",
+                                "ru": "Обновление доступно в Mac App Store."
+                            }
+                        }
+                    }
+                },
+                "windows": {
+                    "update_types": {
+                        "direct": {
+                            "enabled": false,
+                            "architectures": {
+                                "x64": {
+                                    "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.1.2/MegaV_VPN_3.1.2_Windows_x64_Setup.exe",
+                                    "install_instructions": {
+                                        "en": "Download and run the installer. Administrator privileges required for VPN driver installation.",
+                                        "ru": "Скачайте и запустите установщик. Требуются права администратора для установки VPN драйвера."
+                                    }
+                                },
+                                "arm64": {
+                                    "download_url": "https://github.com/Romaxa55/MegaV_Public/releases/download/v3.1.2/MegaV_VPN_3.1.2_Windows_ARM64_Setup.exe",
+                                    "install_instructions": {
+                                        "en": "Download and run the ARM64 installer. Administrator privileges required for VPN driver installation.",
+                                        "ru": "Скачайте и запустите установщик для ARM64. Требуются права администратора для установки VPN драйвера."
+                                    }
+                                }
+                            }
+                        },
+                        "store": {
+                            "enabled": false,
+                            "store_url": "ms-windows-store://pdp/?productid=",
+                            "install_instructions": {
+                                "en": "Microsoft Store version coming soon.",
+                                "ru": "Версия для Microsoft Store скоро."
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
