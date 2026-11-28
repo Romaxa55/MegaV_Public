@@ -1,0 +1,6 @@
+# Локальные backup-файлы редакторов
+*.bak
+*.bak_*
+
+# macOS
+.DS_Store
